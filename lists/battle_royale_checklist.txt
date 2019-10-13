@@ -1,0 +1,139 @@
+"Spirit Gale"
+Number         Cards                  Mana Cost Original Ver.  Version Used
+Lands (17)
+6              Plains                                 1E          5E, PK
+9              Island                                 1E          PK, UZ
+1              Remote Isle                            UZ            UZ
+1              Thalakos Lowlands                      TE            TE
+
+Creatures(11)
+1              Infantry Veteran           W           VI            VI
+1              Songstitcher               W           UZ            UZ
+1              Soul Warden                W           EX            EX
+1              Blinking Spirit            3W          IA            5E
+1              Manta Riders               U           TE            TE
+1              Disruptive Student         2U          UZ            UZ
+1              Man-o'-War                 2U          VI            VI
+1              Prodigal Sorcerer          2U          1E            6E
+1              Wind Drake                 2U          TE            6E
+1              Azure Drake                2U          LE            5E
+1              Air Elemental             3UU          1E            5E
+
+Other (12)
+1              Healing Salve              W           1E            5E
+1              Swords to Plowshares       W           1E            1E
+1              Disenchant                 1W          1E            IA
+1              Wrath of God              2WW          1E            6E
+1              Curfew                     U           UZ            UZ
+1              Flood                      U           DK            DK
+1              Mana Leak                  1U          ST            ST
+1              Counterspell               UU          1E            6E
+1              Windfall                   2U          UZ            UZ
+1              Ray of Command             3U          IA            MI
+1              Control Magic             2UU          1E            1E
+1              Opportunity               4UU          UL            UL
+
+"The Deluge"
+Number         Cards                  Mana Cost Original Ver.  Version Used
+Lands (17)
+6              Forest                                 1E         5E,6E,PO
+9              Plains                                 1E       5E,6E,PK,PO
+1              Drifting Meadow                        UZ            UZ
+1              Vec Townships                          TE            TE
+
+Creatures(14)
+1              Elvish Lyrist              G           UZ            UZ
+1              Spike Worker               2G          ST            ST
+1              Argothian Elder            3G          UZ            UZ
+1              Dirtcowl Wurm              4G          TE            TE
+1              Spike Colony               4G          ST            ST
+1              Scaled Wurm                7G          IA            IA
+1              Soltari Foot Soldier       W           TE            TE
+1              Advance Scout              1W          TE            TE
+1              Angelic Page               1W          UZ            UZ
+1              Armored Pegasus            1W          TE            TE
+1              Master Decoy               1W          TE            TE
+1              Sanctum Custodian          2W          UZ            UZ
+1              Sanctum Guardian          1WW          UZ            UZ
+1              Seasoned Marshal          2WW          UZ            UZ
+
+Other (9)
+1              Giant Growth               G           1E            6E
+1              Sandstorm                  G           AN            AN
+1              Fertile Ground             1G          UZ            UZ
+1              Fecundity                  2G          UZ            UZ
+1              Hurricane                  XG          1E            P2
+1              Land Tax                   W           LE            4E
+1              Pacifism                   1W          MI            MI
+1              Sun Clasp                  1W          VI            VI
+1              Catastrophe               4WW          UZ            UZ
+
+"Cinder Heart"
+Number         Card                   Mana Cost Original Ver.  Version Used
+Lands (17)
+8              Swamp                                  1E            UZ
+7              Mountain                               1E        6E, MI, TE
+1              Polluted Mire                          UZ            UZ
+1              Cinder Marsh                           TE            TE
+
+Creatures (10)
+1              Sewer Rats                 B           MI            MI
+1              Phyrexian Ghoul            2B          UZ            UZ
+1              Crazed Skirge              3B          UZ            UZ
+1              Abyssal Specter           2BB          IA            6E
+1              Cackling Fiend            2BB          UZ            UZ
+1              Nekrataal                 2BB          VI            VI
+1              Sengir Vampire            3BB          1E            1E
+1              Fire Ants                  2R          UZ            UZ
+1              Wall of Heat               2R          LE            LE
+1              Lightning Elemental        2R          TE            TE
+
+Other (13)
+1              Dark Ritual                B           1E            5E
+1              Reanimate                  B           TE            TE
+1              Sadistic Glee              B           TE            TE
+1              Weakness                   B           1E            5E
+1              Terror                     1B          1E            6E
+1              Exhume                     2B          UZ            UZ
+1              Unnerve                   2BB          UZ            UZ
+1              Pestilence                2BB          1E            UZ
+1              Living Death              3BB          TE            TE
+1              Subversion                2BB          UL            UL
+1              Syphon Soul                2B          LE            LE
+1              Heat Ray                   XR          UZ            UZ
+1              Rolling Thunder           XRR          TE            TE
+
+"Chargoyf"
+Number         Card                   Mana Cost Original Ver.  Version Used
+Lands (17)
+6              Mountain                               1E        P2, TE, UZ
+9              Forest                                 1E       5E,6E,PK,PO
+1              Mogg Hollows                           TE            TE
+1              Slippery Karst                         UZ            UZ
+
+Creatures (16)
+1              Raging Goblin              R           EX            6E
+1              Uthden Troll               2R          1E            1E
+1              Wildfire Emissary          3R          MI            MI
+1              Llanowar Elves             G           1E            6E
+1              Scryb Sprites              G           1E            1E
+1              Skyshroud Elite            G           EX            EX
+1              Village Elder              G           MI            MI
+1              River Boa                  1G          VI            6E
+1              Seeker of Skybreak         1G          TE            TE
+1              Gorilla Warrior            2G          UZ            PO
+1              Pincher Beetles            2G          TE            TE
+1              Spike Feeder              1GG          ST            ST
+1              Trumpeting Armodon         3G          TE            TE
+1              Lhurgoyf                  2GG          IA            IA
+1              Spike Weaver              2GG          EX            EX
+1              Plated Rootwalla           4G          EX            EX
+
+Other (7)
+1              Shower of Sparks           R           UZ            UZ
+1              Maniacal Rage              1R          EX            EX
+1              Arc Lightning              2R          UZ            UZ
+1              Steam Blast                2R          UZ            UZ
+1              Symbiosis                  1G          UZ            UZ
+1              Broken Fall                2G          TE            TE
+1              Tranquility                2G          TE            6E

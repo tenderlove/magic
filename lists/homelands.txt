@@ -1,0 +1,1260 @@
+Wizards of the Coast, Inc.
+Homelands Card List
+(Released November 1995)
+
+140 Cards Total (5 Lands, 10 Artifacts, 25 White, 25 Red, 25 Green, 25
+Black, 25 Blue)
+
+The following Card Lists are also available for Magic: The Gathering: 
+Alpha/Beta/Unlimited, Arabian Nights, Antiquities, Legends,
+The Dark, Fallen Empires, Revised, 4th Edition, Ice Age, Chronicles,
+Alliances, Mirage, Visions, and 5th Edition.
+
+Mana Key: 
+U - Blue, W - White, G - Green, B - Black, R - Red; Numbers - Colorless
+(Generic) Mana
+
+Note: n/a means "not applicable"
+
+Card Title:	Abbey Gargoyles
+Color:		White
+Type:		Summon Gargoyles
+Cost:		2WWW
+Pow/Tgh:	3/4
+Card Text:	Flying, protection from red
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Abbey Matron (2 versions)
+Color:		White
+Type:		Summon Cleric
+Cost:		2W
+Pow/Tgh:	1/3
+Card Text:	W, TAP: +0/+3 until end of turn
+Artist:		Mike Kimble
+Rarity:		Common 2
+
+Card Title:	AEther Storm
+Color:		Blue
+Type:		Enchantment
+Cost:		3U
+Pow/Tgh:	n/a
+Card Text:	No summon spells may be cast.
+		Any player may pay 4 life to bury AEther Storm. Effects
+		that prevent or redirect damage cannot be used to counter
+		this loss of life.
+Artist:		Mark Tedin
+Rarity:		Uncommon 3
+
+Card Title:	Aliban's Tower (2 versions)
+Color:		Red
+Type:		Instant
+Cost:		1R
+Pow/Tgh:	n/a
+Card Text:	Target blocking creature gets +3/+1 until end of turn.
+Artist:		Jeff A. Menges
+Rarity:		Common 2
+
+Card Title:	Ambush
+Color:		Red
+Type:		Instant
+Cost:		3R
+Pow/Tgh:	n/a
+Card Text:	All blocking creatures gain first strike until end of turn.
+Artist:		Alan Rabinowitz
+Rarity:		Common 1
+
+Card Title:	Ambush Party (2 versions)
+Color:		Red
+Type:		Summon Ambush Party
+Cost:		4R
+Pow/Tgh:	3/1
+Card Text:	First strike
+		Ambush Party can attack the turn it comes into play on
+		your side.
+Artist:		Mark Poole
+Rarity:		Common 2
+
+Card Title:	An-Havva Constable
+Color:		Green
+Type:		Summon Constable
+Cost:		1GG
+Pow/Tgh:	2/1+*
+Card Text:	An-Havva Constable has toughness equal to 1 plus the
+		total number of green creatures in play.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+
+Card Title:	An-Havva Inn
+Color:		Green
+Type:		Sorcery
+Cost:		1GG
+Pow/Tgh:	n/a
+Card Text:	Gain 1+* life, where * is equal to the total number of green
+		creatures in play.
+Artist:		Brian Snoddy
+Rarity:		Uncommon 3
+
+Card Title:	An-Havva Township
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool.
+		1, TAP: Add G to your mana pool.
+		2, TAP: Add W to your mana pool.
+		2, TAP: Add R to your mana pool.
+Artist:		Liz Danforth
+Rarity:		Uncommon 3
+
+Card Title:	An-Zerrin Ruins
+Color:		Red
+Type:		Enchantment
+Cost:		2RR
+Pow/Tgh:	n/a
+Card Text:	Choose a creature type. Creatures of that type do not untap
+		during their controller's untap phase.
+Artist:		Dennis Detwiller
+Rarity:		Uncommon 1
+
+Card Title:	Anaba Ancestor
+Color:		Red
+Type:		Summon Ghost
+Cost:		1R
+Pow/Tgh:	1/1
+Pow/Tgh:	n/a
+Card Text:	TAP: Target Minotaur gets +1/+1 until end of turn.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 1
+
+Card Title:	Anaba Bodyguard (2 versions)
+Color:		Red
+Type:		Summon Bodyguard
+Cost:		3R
+Pow/Tgh:	2/3
+Card Text:	First strike
+Artist:		Anson Maddocks
+Rarity:		Common 2
+
+Card Title:	Anaba Shaman (2 versions)
+Color:		Red
+Type:		Summon Minotaur
+Cost:		3R
+Pow/Tgh:	2/2
+Card Text:	R, TAP: Anaba Shaman deals 1 damage to target creature
+		or player.
+Artist:		Anson Maddocks
+Rarity:		Common 2
+
+Card Title:	Anaba Spirit Crafter
+Color:		Red
+Type:		Summon Minotaur
+Cost:		2RR
+Pow/Tgh:	1/3
+Card Text:	All Minotaurs get +1/+0.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 1
+
+Card Title:	Apocalypse Chime
+Color:		Artifact
+Type:		Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	2, TAP: Sacrifice Apocalypse Chime to bury all cards from
+		the Homelands expansion.
+Artist:		Mark Poole
+Rarity:		Uncommon 1
+
+Card Title:	Autumn Willow
+Color:		Green
+Type:		Summon Legend
+Cost:		4GG
+Pow/Tgh:	4/4
+Card Text:	Cannot be the target of spells or effects.
+		G: Target player may target Autumn Willow with spells or
+		effects until end of turn.
+Artist:		Margaret Organ-Kean
+Rarity:		Uncommon 1
+
+Card Title:	Aysen Abbey
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool.
+		1, TAP: Add W to your mana pool.
+		2, TAP: Add U to your mana pool.
+		2, TAP: Add G to your mana pool.
+Artist:		Liz Danforth
+Rarity:		Uncommon 3
+
+Card Title:	Aysen Bureaucrats (2 versions)
+Color:		White
+Type:		Summon Bureaucrats
+Cost:		1W
+Pow/Tgh:	1/1
+Card Text:	TAP: Tap target creature with power no greater than 2.
+Artist:		Alan Rabinowitz
+Rarity:		Common 2
+
+Card Title:	Aysen Crusader
+Color:		White
+Type:		Summon Crusader
+Cost:		2WW
+Pow/Tgh:	2+*/2+*
+Card Text:	Aysen Crusader has power and toughness each equal to 2
+		plus the number of Heroes you control.
+Artist:		Ne Ne Thomas
+Rarity:		Uncommon 1
+
+Card Title:	Aysen Highway
+Color:		White
+Type:		Enchantment
+Cost:		3WWW
+Pow/Tgh:	n/a
+Card Text:	All white creatures gain plainswalk.
+Artist:		Ne Ne Thomas
+Rarity:		Uncommon 1
+
+Card Title:	Baki's Curse
+Color:		Blue
+Type:		Sorcery
+Cost:		2UU
+Pow/Tgh:	n/a
+Card Text:	Baki's Curse deals 2 damage to each creature for each
+		creature enchantment on that creature.
+Artist:		Nicola Leonard
+Rarity:		Uncommon 1
+
+Card Title:	Baron Sengir
+Color:		Black
+Type:		Summon Legend
+Cost:		5BBB
+Pow/Tgh:	5/5
+Card Text:	Flying
+		Whenever a creature is put into the graveyard the same
+		turn Baron Sengir damaged it, put a +2/+2 counter on
+		Baron Sengir.
+		TAP: Regenerate target Vampire.
+Artist:		Pete Venters
+Rarity:		Uncommon 1
+
+Card Title:	Beast Walkers
+Color:		White
+Type:		Summon Heroes
+Cost:		1WW
+Pow/Tgh:	2/2
+Card Text:	G: Banding until end of turn
+Artist:		Heather Hudson
+Rarity:		Uncommon 1
+
+Card Title:	Black Carriage
+Color:		Black
+Type:		Summon Carriage
+Cost:		3BB
+Pow/Tgh:	4/4
+Card Text:	Trample
+		Does not untap during your untap phase.
+		0: Sacrifice a creature to untap Black Carriage. Use this
+		ability only during your upkeep.
+Artist:		David A. Cherry
+Rarity:		Uncommon 1
+
+Card Title:	Broken Visage
+Color:		Black
+Type:		Instant
+Cost:		4B
+Pow/Tgh:	n/a
+Card Text:	Bury target non-artifact attacking creature and put a
+		Shadow token into play. Treat this token as a black creature
+		with power and toughness equal to the power and
+		toughness of that attacking creature. Bury Shadow token at
+		end of turn.
+Artist:		Mike Kimble
+Rarity:		Uncommon 1
+
+Card Title:	Carapace (2 versions)
+Color:		Green
+Type:		Enchant Creature
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Target creature gets +0/+2.
+		0: Sacrifice Carapace to regenerate creature Carapace
+		enchants.
+Artist:		Anson Maddocks
+Rarity:		Common 2
+
+Card Title:	Castle Sengir
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool.
+		1, TAP: Add B to your mana pool.
+		2, TAP: Add U to your mana pool.
+		2, TAP: Add R to your mana pool.
+Artist:		Pete Venters
+Rarity:		Uncommon 3
+
+Card Title:	Cemetery Gate (2 versions)
+Color:		Black
+Type:		Summon Wall
+Cost:		2B
+Pow/Tgh:	0/5
+Card Text:	Protection from black
+Artist:		Melissa Benson
+Rarity:		Common 2
+
+Card Title:	Chain Stasis
+Color:		Blue
+Type:		Instant
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Tap or untap target creature. Whenever any player uses
+		Chain Stasis to tap or untap a creature, that creature's
+		controller may pay 2U to use Chain Stasis to tap or untap
+		any target creature.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 1
+
+Card Title:	Chandler
+Color:		Red
+Type:		Summon Legend
+Cost:		4R
+Pow/Tgh:	3/3
+Card Text:	RRR, TAP: Destroy target artifact creature.
+Artist:		Douglas Shuler
+Rarity:		Common 1
+
+Card Title:	Clockwork Gnomes
+Cost:		Artifact
+Type:		Artifact Creature
+Cost:		4
+Pow/Tgh:	2/2
+Card Text:	3, TAP: Regenerate target artifact creature.
+Artist:		Douglas Shuler
+Rarity:		Common 1
+
+Card Title:	Clockwork Steed
+Cost:		Artifact
+Type:		Artifact Creature
+Cost:		4
+Pow/Tgh:	0/3
+Card Text:	Cannot be blocked by artifact creatures.
+		When Clockwork Steed comes into play, put four +1/+0
+		counters on it. At the end of any combat in which
+		Clockwork Steed attacked or blocked, remove one of these 
+		counters.
+		X, TAP: Put X +1/+0 counters on Clockwork Steed. You may
+		have no more than four of these counters on Clockwork
+		Steed. Use this ability only during your upkeep.
+Artist:		Amy Weber
+Rarity:		Common 1
+
+Card Title:	Clockwork Swarm
+Cost:		Artifact
+Type:		Artifact Creature
+Cost:		4
+Pow/Tgh:	0/3
+Card Text:	Cannot be blocked by walls.
+		When Clockwork Swarm comes into play, put four +1/+0
+		counters on it.
+		At the end of any combat in which Clockwork Swarm
+		attacked or blocked, remove one of these counters.
+		X, TAP: Put X +1/+0 counters on Clockwork Swarm. You
+		may have no more than four of these counters on
+		Clockwork Swarm. Use this ability only during your upkeep.
+Artist:		Amy Weber
+Rarity:		Common 1
+
+Card Title:	Coral Reef
+Color:		Blue
+Type:		Enchantment
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	When Coral Reef comes into play, put four polyp counters
+		on it.
+		0: Sacrifice an island to put two polyp counters on Coral
+		Reef.
+		U: Tap target blue creature you control and remove a polyp
+		counter from Coral Reef to put a +0/+1 counter on any
+		target creature.
+Artist:		Amy Weber
+Rarity:		Common 1
+
+Card Title:	Dark Maze (2 versions)
+Color:		Blue
+Type:		Summon Wall
+Cost:		4U
+Pow/Tgh:	n/a4/5
+Card Text:	0: Dark Maze can attack this turn. At end of turn, remove
+		Dark Maze from the game. Dark Maze cannot attack the
+		turn it comes under your control.
+Artist:		Rob Alexander
+Rarity:		Common 2
+
+Card Title:	Daughter of Autumn
+Color:		Green
+Type:		Summon Legend
+Cost:		2GG
+Pow/Tgh:	2/4
+Card Text:	W: Redirect to Daughter of Autumn 1 damage dealt to a
+		white creature.
+Artist:		Margaret Organ-Kean
+Rarity:		Uncommon 1
+
+Card Title:	Death Speakers
+Color:		White
+Type:		Summon Speakers
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	Protection from black
+Artist:		Douglas Shuler
+Rarity:		Uncommon 3
+
+Card Title:	Didgeridoo
+Cost:		Artifact
+Type:		Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	3: Take a Minotaur from your hand and put it directly into
+		play as though it were just summoned.
+Artist:		Melissa Benson
+Rarity:		Uncommon 1
+
+Card Title:	Drudge Spell
+Color:		Black
+Type:		Enchantment
+Cost:		BB
+Pow/Tgh:	n/a
+Card Text:	B: Remove from the game two target creatures in your
+		graveyard to put a Skeleton token into play. Treat this 
+		oken as a 1/1 black creature with "B: Regenerate".  If
+		Drudge Spell leaves play, bury all Skeleton tokens.
+Artist:		Ne Ne Thomas
+Rarity:		Uncommon 3
+
+Card Title:	Dry Spell (2 versions)
+Color:		Black
+Type:		Sorcery
+Cost:		1B
+Pow/Tgh:	n/a
+Dry Spell deals 1 damage to each creature and player.
+Artist:		Brian Snoddy
+Rarity:		Common 2
+
+Card Title:	Dwarven Pony
+Color:		Red
+Type:		Summon Pony
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	1R, TAP: Target Dwarf gains mountainwalk until end of
+		turn.
+Artist:		Margaret Organ-Kean
+Rarity:		Uncommon 1
+
+Card Title:	Dwarven Sea Clan
+Color:		Red
+Type:		Summon Dwarves
+Cost:		2R
+Pow/Tgh:	1/1
+Card Text:	TAP: At end of combat, Dwarven Sea Clan deals 2 damage
+		to target attacking or blocking creature.  Use this ability
+		only if that creature's controller controls any islands.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+
+Card Title:	Dwarven Trader (2 versions)
+Color:		Red
+Type:		Summon Dwarf
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	n/a
+Artist:		Margaret Organ-Kean
+Rarity:		Common 2
+
+Card Title:	Ebony Rhino
+Cost:		Artifact
+Type:		Artifact Creature
+Cost:		7
+Pow/Tgh:	4/5
+Card Text:	Trample
+Artist:		Amy Weber
+Rarity:		Common 1
+
+Card Title:	Eron the Relentless
+Color:		Red
+Type:		Summon Legend
+Cost:		3RR
+Pow/Tgh:	5/2
+Card Text:	Eron the Relentless can attack the turn it comes into play
+		on your side.
+		RRR: Regenerate
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Evaporate
+Color:		Red
+Type:		Sorcery
+Cost:		2R
+Pow/Tgh:	n/a
+Card Text:	Evaporate deals 1 damage to each blue creature and white
+		creature.
+Artist:		Alan Rabinowitz
+Rarity:		Uncommon 3
+
+Card Title:	Faerie Noble
+Color:		Green
+Type:		Summon Noble
+Cost:		2G
+Pow/Tgh:	1/2
+Card Text:	Flying
+		All Faeries you control get +0/+1.
+		TAP: All Faeries you control get +1/+0 until end of turn.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 1
+
+Card Title:	Feast of the Unicorn (2 versions)
+Color:		Black
+Type:		Enchant Creature
+Cost:		3B
+Pow/Tgh:	n/a
+Card Text:	Target creature gets +4/+0.
+Artist:		Dennis Detwiller
+Rarity:		Common 2
+
+Card Title:	Feroz's Ban
+Cost:		Artifact
+Type:		Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	Summon spells each cost an additional 2 to cast.
+Artist:		Heather Hudson
+Rarity:		Uncommon 1
+
+Card Title:	Folk of An-Havva (2 versions)
+Color:		Green
+Type:		Summon Folk of An-Havva
+Cost:		G
+Pow/Tgh:	1/1
+Card Text:	If assigned as a blocker, Folk of An-Havva gets +2/+0 until
+		end of turn.
+Artist:		Julie Baroh
+Rarity:		Common 2
+
+Card Title:	Forget
+Color:		Blue
+Type:		Sorcery
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	Target player chooses and discards 2 cards from his or her
+		hand.  If that player does not have enough cards in hand,
+		his or her entire hand is discarded.  The player then draws
+		as many cards as he or she discarded in this way.
+Artist:		Mike Kimble
+Rarity:		Uncommon 1
+
+Card Title:	Funeral March
+Color:		Black
+Type:		Enchant Creature
+Cost:		1BB
+Pow/Tgh:	n/a
+Card Text:	When target creature leaves play, that creature's controller
+		sacrifices a creature he or she controls. Ignore this effect if
+		that player controls no creatures.
+Artist:		Melissa Benson
+Rarity:		Common 1
+
+Card Title:	Ghost Hounds
+Color:		Black
+Type:		Summon Hounds
+Cost:		1B
+Pow/Tgh:	1/1
+Card Text:	Attacking does not cause Ghost Hounds to tap.
+Artist:		Jeff A. Menges
+Rarity:		Uncommon 3
+
+Card Title:	Giant Albatross (2 versions)
+Color:		Blue
+Type:		Summon Albatross
+Cost:		1U
+Pow/Tgh:	1/1
+Card Text:	Flying
+		1U: Bury all creatures that damaged Giant Albatross this
+		turn.  The controller of any of those creatures may pay 2 life
+		to prevent that creature from being buried.  Effects that
+		prevent or redirect damage cannot be used to counter this
+		loss of life. Use this ability only when Giant Albatross is put
+		into the graveyard from play.
+Artist:		David A. Cherry
+Rarity:		Common 2
+
+Card Title:	Giant Oyster
+Color:		Blue
+Type:		Summon Oyster
+Cost:		2UU
+Pow/Tgh:	0/3
+Card Text:	You may choose not to untap Giant Oyster during your
+		untap phase.
+		TAP: Target tapped creature does not untap during its
+		controller's untap phase as long as Giant Oyster remains
+		tapped. During your upkeep, put a -1/-1 counter on that
+		creature. If Giant Oyster becomes untapped or leaves play,
+		remove all these counters from the creature.
+Artist:		Nicola Leonard
+Rarity:		Uncommon 3
+
+Card Title:	Grandmother Sengir
+Color:		Black
+Type:		Summon Legend
+Cost:		4B
+Pow/Tgh:	3/3
+Card Text:	1B, TAP: Target creature gets -1/-1 until end of turn.
+Artist:		Pete Venters
+Rarity:		Uncommon 1
+
+Card Title:	Greater Werewolf
+Color:		Black
+Type:		Summon Lycanthrope
+Cost:		4B
+Pow/Tgh:	2/4
+Card Text:	At end of combat, put a -0/-2 counter on all creatures
+		blocking or blocked by Greater Werewolf.
+Artist:		Dennis Detwiller
+Rarity:		Common 1
+
+Card Title:	Hazduhr the Abbot
+Color:		White
+Type:		Summon Legend
+Cost:		3WW
+Pow/Tgh:	2/5
+Card Text:	X, TAP: Redirect to Hazduhr the Abbot X damage dealt to
+		any white creature you control.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+
+Card Title:	Headstone
+Color:		Black
+Type:		Instant
+Cost:		1B
+Pow/Tgh:	n/a
+Card Text:	Remove from the game target card in any graveyard.
+		Draw a card at the beginning of the next turn's upkeep.
+Artist:		David A. Cherry
+Rarity:		Common 1
+
+Card Title:	Heart Wolf
+Color:		Red
+Type:		Summon Wolf
+Cost:		3R
+Pow/Tgh:	2/2
+Card Text:	First strike
+		TAP: Target Dwarf gains first strike and gets +2/+0 until
+		end of turn.  If that Dwarf leaves play this turn, bury Heart
+		Wolf.  Use this ability only when attack or defense is
+		announced.
+Artist:		Margaret Organ-Kean
+Rarity:		Uncommon 1
+
+Card Title:	Hungry Mist (2 versions)
+Color:		Green
+Type:		Summon Mist
+Cost:		2GG
+Pow/Tgh:	6/2
+Card Text:	During your upkeep, pay GG or bury Hungry Mist.
+Artist:		Heather Hudson
+Rarity:		Common 2
+
+Card Title:	Ihsan's Shade
+Color:		Black
+Type:		Summon Legend
+Cost:		3BBB
+Pow/Tgh:	5/5
+Card Text:	Protection from white
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Irini Sengir
+Color:		Black
+Type:		Summon Legend
+Cost:		2BB
+Pow/Tgh:	2/2
+Card Text:	White enchantments and green enchantments each cost
+		an additional 2 to cast.
+Artist:		Pete Venters
+Rarity:		Uncommon 3
+
+Card Title:	Ironclaw Curse
+Color:		Red
+Type:		Enchant Creature
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Target creature gets -0/-1. That creature cannot be assigned
+		to block any creature with power greater than or equal to
+		the toughness of the creature Ironclaw Curse enchants.
+Artist:		Dennis Detwiller
+Rarity:		Uncommon 1
+
+Card Title:	Jinx
+Color:		Blue
+Type:		Instant
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Target land becomes a basic land type of your choice until
+		end of turn.
+		Draw a card at the beginning of the next turn's upkeep.
+Artist:		Mike Kimble
+Rarity:		Common 1
+
+Card Title:	Joven
+Color:		Red
+Type:		Summon Legend
+Cost:		3RR
+Pow/Tgh:	3/3
+Card Text:	RRR, TAP: Destroy target non-creature artifact.
+Artist:		Douglas Shuler
+Rarity:		Common 1
+
+Card Title:	Joven's Ferrets
+Color:		Green
+Type:		Summon Ferrets
+Cost:		G
+Pow/Tgh:	1/1
+Card Text:	If declared as an attacker, Joven's Ferrets gets +0/+2 until
+		end of turn.  At end of combat, tap any creatures that
+		blocked Joven's Ferrets. Those creatures do not untap
+		during their controller's next untap phase.
+Artist:		Amy Weber
+Rarity:		Common 1
+
+Card Title:	Joven's Tools
+Cost:		Artifact
+Type:		Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	4, TAP: Target creature cannot be blocked except by
+		walls until end of turn.
+Artist:		Nicola Leonard
+Rarity:		Uncommon 3
+
+Card Title:	Koskun Falls
+Color:		Black
+Type:		Enchant World
+Cost:		2BB
+Pow/Tgh:	n/a
+Card Text:	During your upkeep, tap target untapped creature you
+		control or bury Koskun Falls.
+		No creature can attack you unless its controller pays an
+		additional 2 whenever that creature attacks.
+Artist:		Rob Alexander
+Rarity:		Uncommon 1
+
+Card Title:	Koskun Keep
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool.
+		1, TAP: Add R to your mana pool.
+		2, TAP: Add B to your mana pool.
+		2, TAP: Add G to your mana pool.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 3
+
+Card Title:	Labyrinth Minotaur (2 versions)
+Color:		Blue
+Type:		Summon Minotaur
+Cost:		3U
+Pow/Tgh:	1/4
+Card Text:	Creatures Labyrinth Minotaur is assigned to block do not
+		untap during their controller's next untap phase.
+Artist:		Anson Maddocks
+Rarity:		Common 2
+
+Card Title:	Leaping Lizard
+Color:		Green
+Type:		Summon Lizard
+Cost:		1GG
+Pow/Tgh:	2/3
+Card Text:	1G: Flying and -0/-1 until end of turn
+Artist:		Amy Weber
+Rarity:		Common 1
+
+Card Title:	Leeches
+Color:		White
+Type:		Sorcery
+Cost:		1WW
+Pow/Tgh:	n/a
+Card Text:	Target player loses all poison counters. Leeches deals 1
+		damage to that player for each poison counter removed in this way.
+Artist:		Alan Rabinowitz
+Rarity:		Uncommon 1
+
+Card Title:	Mammoth Harness
+Color:		Green
+Type:		Enchant Creature
+Cost:		3G
+Pow/Tgh:	n/a
+Card Text:	Target creature loses flying.  If any creature is assigned to
+		block the creature Mammoth Harness enchants or has the 
+		creature Mammoth Harness enchants assigned to block it,
+		that creature gains first strike until end of turn.
+Artist:		Melissa Benson
+Rarity:		Uncommon 1
+
+Card Title:	Marjhan
+Color:		Blue
+Type:		Summon Serpent
+Cost:		5UU
+Pow/Tgh:	8/8
+Card Text:	Does not untap during your untap phase.
+		Marjhan cannot attack if defending player controls no
+		islands. If at any time you control no islands, bury Marjhan.
+		UU: Sacrifice a creature to untap Marjhan. Use this ability
+		only during your upkeep.
+		UU: -1/-0 until end of turn.  Marjhan deals 1 damage to
+		target attacking creature without flying.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 1
+
+Card Title:	Memory Lapse (2 versions)
+Color:		Blue
+Type:		Interrupt
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Counter target spell. Put that spell on top of its owner's
+		library.
+Artist:		Mark Tedin
+Rarity:		Common 2
+
+Card Title:	Merchant Scroll
+Color:		Blue
+Type:		Sorcery
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Search your library for a blue instant or interrupt. Reveal
+		that card to all players and put it into your hand. Reshuffle
+		your library afterwards.
+Artist:		Liz Danforth
+Rarity:		Common 1
+
+Card Title:	Mesa Falcon (2 versions)
+Color:		White
+Type:		Summon Falcon
+Cost:		1W
+Pow/Tgh:	1/1
+Card Text:	Flying
+		1W: +0/+1 until end of turn
+Artist:		Mark Poole
+Rarity:		Common 2
+
+Card Title:	Mystic Decree
+Color:		Blue
+Type:		Enchant World
+Cost:		2UU
+Pow/Tgh:	n/a
+Card Text:	All creatures lose flying and islandwalk.
+Artist:		Liz Danforth
+Rarity:		Uncommon 1
+
+Card Title:	Narwhal
+Color:		Blue
+Type:		Summon Narwhal
+Cost:		2UU
+Pow/Tgh:	2/2
+Card Text:	First strike, protection from red
+Artist:		David A. Cherry
+Rarity:		Uncommon 1
+
+Card Title:	Orcish Mine
+Color:		Red
+Type:		Enchant Land
+Cost:		1RR
+Pow/Tgh:	n/a
+Card Text:	When Orcish Mine comes into play, put three ore counters
+		on it. During your upkeep and whenever target land
+		becomes tapped, remove an ore counter from Orcish Mine.
+		When the last ore counter is removed from Orcish Mine,
+		destroy the 		land Orcish Mine enchants; Orcish
+		Mine deals 2 damage to that land's controller.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 3
+
+Card Title:	Primal Order
+Color:		Green
+Type:		Enchantment
+Cost:		2GG
+Pow/Tgh:	n/a
+Card Text:	During each player's upkeep, Primal Order deals 1 damage
+		to that player for each non-basic land he or she controls.
+Artist:		Rob Alexander
+Rarity:		Uncommon 1
+
+Card Title:	Prophecy
+Color:		White
+Type:		Sorcery
+Cost:		W
+Pow/Tgh:	n/a
+Card Text:	Reveal the top card of target opponent's library to all
+		players. If it is a land, gain 1 life. That opponent then
+		shuffles his or her library. Draw a card at the beginning of 
+		the next turn's upkeep.
+Artist:		Christopher Rush
+Rarity:		Common 1
+
+Card Title:	Rashka the Slayer
+Color:		White
+Type:		Summon Legend
+Cost:		3WW
+Pow/Tgh:	3/3
+Card Text:	Can block creatures with flying.
+		If assigned to block any black creatures, Rashka the Slayer
+		gets +1/+2 until end of turn.
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Reef Pirates (2 versions)
+Color:		Blue
+Type:		Summon Ships
+Cost:		1UU
+Pow/Tgh:	2/2
+Card Text:	Whenever Reef Pirates damages any opponent, take the
+		top card of his or her library and put it into his or her
+		graveyard.
+Artist:		Tom Wanerstrand
+Rarity:		Common 2
+
+Card Title:	Renewal
+Color:		Green
+Type:		Sorcery
+Cost:		2G
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a land to search your library for a basic land and
+		put it directly into play. This does not count towards your
+		one land per turn limit. Reshuffle your library afterwards.
+		Draw a card at the beginning of the next turn's upkeep.
+Artist:		Kaja Foglio
+Rarity:		Common 1
+
+Card Title:	Retribution
+Color:		Red
+Type:		Sorcery
+Cost:		2RR
+Pow/Tgh:	n/a
+Card Text:	Choose two target creatures controlled by an opponent.
+		Bury one of those creatures, and put a -1/-1 counter on the
+		other. That opponent chooses which creature is buried.
+Artist:		Mark Tedin
+Rarity:		Uncommon 3
+
+Card Title:	Reveka, Wizard Savant
+Color:		Blue
+Type:		Summon Legend
+Cost:		2UU
+Pow/Tgh:	0/1
+Card Text:	TAP: Reveka deals 2 damage to target creature or player and
+		does not untap during your next untap phase.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 1
+
+Card Title:	Root Spider
+Color:		Green
+Type:		Summon Spider
+Cost:		3G
+Pow/Tgh:	2/2
+Card Text:	If assigned as a blocker, Root Spider gains first strike and
+		gets +1/+0 until end of turn.
+Artist:		Mike Kimble
+Rarity:		Uncommon 3
+
+Card Title:	Roots
+Color:		Green
+Type:		Enchant Creature
+Cost:		3G
+Pow/Tgh:	n/a
+Card Text:	Tap target creature without flying.  That creature does not
+		untap during its controller's untap phase.
+Artist:		Nicola Leonard
+Rarity:		Uncommon 3
+
+Card Title:	Roterothopter
+Cost:		Artifact
+Type:		Artifact Creature
+Cost:		1
+Pow/Tgh:	0/2
+Card Text:	Flying
+		2: +1/+0 until end of turn. You cannot spend more than 4
+		in this way each turn.
+Artist:		Amy Weber
+Rarity:		Common 1
+
+Card Title:	Rysorian Badger
+Color:		Green
+Type:		Summon Badger
+Cost:		2G
+Pow/Tgh:	2/2
+Card Text:	If Rysorian Badger attacks and is not blocked, you may
+		choose to have it deal no damage to defending player this
+		turn. If you do so, remove from the game up to two target
+		creatures from that player's graveyard. Gain 1 life for each
+		creature removed in this way.
+Artist:		Heather Hudson
+Rarity:		Uncommon 1
+
+Card Title:	Samite Alchemist (2 versions)
+Color:		White
+Type:		Summon Alchemist
+Cost:		3W
+Pow/Tgh:	0/2
+Card Text:	WW, TAP: Prevent up to 4 damage to a creature you
+		control. Tap that creature. The creature does not untap
+		during your next untap phase.
+Artist:		Tom Wanerstrand
+Rarity:		Common 2
+
+Card Title:	Sea Sprite
+Color:		Blue
+Type:		Summon Faerie
+Cost:		1U
+Pow/Tgh:	1/1
+Card Text:	Flying, protection from red
+Artist:		Susan Van Camp
+Rarity:		Uncommon 3
+
+Card Title:	Sea Troll
+Color:		Blue
+Type:		Summon Troll
+Cost:		2U
+Pow/Tgh:	2/1
+Card Text:	U: Regenerate.  Use this ability only during a turn in which
+		Sea Troll blocked a blue creature or a blue creature blocked
+		Sea Troll.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 3
+
+Card Title:	Sengir Autocrat
+Color:		Black
+Type:		Summon Autocrat
+Cost:		3B
+Pow/Tgh:	2/2
+Card Text:	When Sengir Autocrat comes into play, put three Serf
+		tokens into play. Treat these tokens as 0/1 black creatures.
+		If Sengir Autocrat leaves play, bury all Serf tokens.
+Artist:		David A. Cherry
+Rarity:		Uncommon 1
+
+Card Title:	Sengir Bats (2 versions)
+Color:		Black
+Type:		Summon Bats
+Cost:		1BB
+Pow/Tgh:	1/2
+Card Text:	Flying
+		Whenever a creature is put into the graveyard the
+		same turn Sengir Bats damaged it, put a +1/+1 counter on
+		Sengir Bats.
+Artist:		Dan Frazier
+Rarity:		Common 2
+
+Card Title:	Serra Aviary
+Color:		White
+Type:		Enchant World
+Cost:		3W
+Pow/Tgh:	n/a
+Card Text:	All creatures with flying get +1/+1.
+Artist:		Nicola Leonard
+Rarity:		Uncommon 1
+
+Card Title:	Serra Bestiary
+Color:		White
+Type:		Enchant Creature
+Cost:		WW
+Pow/Tgh:	n/a
+Card Text:	During your upkeep, pay WW or bury Serra Bestiary.
+		Target creature cannot attack, block, or use any ability that
+		includes TAP in the activation cost.
+Artist:		Anson Maddocks
+Rarity:		Common 1
+
+Card Title:	Serra Inquisitors
+Color:		White
+Type:		Summon Inquisitors
+Cost:		4W
+Pow/Tgh:	3/3
+Card Text:	If assigned to block any black creatures or any black
+		creatures are assigned to block it, Serra Inquisitors gets
+		+2/+0 until end of turn.
+Artist:		Dennis Detwiller
+Rarity:		Uncommon 3
+
+Card Title:	Serra Paladin
+Color:		White
+Type:		Summon Paladin
+Cost:		2WW
+Pow/Tgh:	2/2
+Card Text:	TAP: Prevent 1 damage to any creature or player.
+		1WW, TAP: Attacking does not cause target creature to tap
+		this turn.
+Artist:		Pete Venters
+Rarity:		Common 1
+
+Card Title:	Serrated Arrows
+Cost:		Artifact
+Type:		Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	When Serrated Arrows comes into play, put three
+		arrowhead counters on it.
+		During your upkeep, bury Serrated Arrows if there are no
+		arrowhead counters on it.
+		TAP: Remove an arrowhead counter from Serrated Arrows
+		to put a -1/-1 counter on target creature.
+Artist:		David A. Cherry
+Rarity:		Common 1
+
+Card Title:	Shrink (2 versions)
+Color:		Green
+Type:		Instant
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Target creature gets -5/-0 until end of turn.
+Artist:		Liz Danforth
+Rarity:		Common 2
+
+Card Title:	Soraya the Falconer
+Color:		White
+Type:		Summon Legend
+Cost:		1WW
+Pow/Tgh:	2/2
+Card Text:	All Falcons get +1/+1.
+		1W: Target Falcon gains banding until end of turn.
+Artist:		Dennis Detwiller
+Rarity:		Uncommon 1
+
+Card Title:	Spectral Bears
+Color:		Green
+Type:		Summon Bears
+Cost:		1G
+Pow/Tgh:	3/3
+Card Text:	If Spectral Bears is declared as an attacker and defending
+		player controls no black cards, it does not untap during
+		your next untap phase.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 3
+
+Card Title:	Timmerian Fiends
+Color:		Black
+Type:		Summon Fiends
+Cost:		1BB
+Pow/Tgh:	1/1
+Card Text:	Remove Timmerian Fiends from your deck before playing
+		if not playing for ante.
+		BBB: Sacrifice Timmerian Fiends to bury target artifact that
+		any opponent owns in your graveyard. Put Timmerian
+		Fiends into that opponent's graveyard.  This change in
+		ownership is permanent. The opponent may ante an
+		additional card to counter this effect.
+Artist:		Mike Kimble
+Rarity:		Uncommon 1
+
+Card Title:	Torture (2 versions)
+Color:		Black
+Type:		Enchant Creature
+Cost:		B
+Pow/Tgh:	n/a
+Card Text:	Choose target creature.
+		1B: Put a -1/-1 counter on creature Torture enchants.
+Artist:		Mark Tedin
+Rarity:		Common 2
+
+Card Title:	Trade Caravan (2 versions)
+Color:		White
+Type:		Summon Caravan
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	During your upkeep, put a currency counter on Trade
+		Caravan.
+		0: Remove two currency counters from Trade Caravan to
+		untap target basic land. 
+		Use this ability only during any opponent's upkeep.
+Artist:		Kaja Foglio
+Rarity:		Common 2
+
+Card Title:	Truce
+Color:		White
+Type:		Instant
+Cost:		2W
+Pow/Tgh:	n/a
+Card Text:	Each player may draw up to two cards. For each card less
+		than two any player draws, that player gains 2 life.
+Artist:		Melissa Benson
+Rarity:		Uncommon 1
+
+Card Title:	Veldrane of Sengir
+Color:		Black
+Type:		Summon Legend
+Cost:		5BB
+Pow/Tgh:	5/5
+Card Text:	1BB: Forestwalk and -3/-0 until end of turn
+Artist:		Susan Van Camp
+Rarity:		Uncommon 1
+
+Card Title:	Wall of Kelp
+Color:		Blue
+Type:		Summon Wall
+Cost:		UU
+Pow/Tgh:	0/3
+Card Text:	UU, TAP: Put a Kelp token into play. Treat this token as a
+		0/1 blue wall.
+Artist:		Alan Rabinowitz
+Rarity:		Uncommon 1
+
+Card Title:	Willow Faerie (2 versions)
+Color:		Green
+Type:		Summon Faerie
+Cost:		1G
+Pow/Tgh:	1/2
+Card Text:	Flying
+Artist:		Susan Van Camp
+Rarity:		Common 2
+
+Card Title:	Willow Priestess
+Color:		Green
+Type:		Summon Faerie
+Cost:		2GG
+Pow/Tgh:	2/2
+Card Text:	TAP: Take a Faerie from your hand and put it directly into
+		play as though it were just summoned.
+		2G: Target green creature gains protection from black until
+		end of turn.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 1
+
+Card Title:	Winter Sky
+Color:		Red
+Type:		Sorcery
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Flip a coin; target opponent calls heads or tails while coin
+		is in the air. If the flip ends up in your favor, Winter Sky
+		deals 1 damage to each creature and player. Otherwise, each
+		player draws a card.
+Artist:		Mike Kimble
+Rarity:		Uncommon 1
+
+Card Title:	Wizards' School
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool.
+		1, TAP: Add U to your mana pool.
+		2, TAP: Add W to your mana pool.
+		2, TAP: Add B to your mana pool.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 3
+
+Copyright 1995 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+Arabian Nights, Antiquities, Legends, The Dark, Fallen Empires,
+Ice Age, Homelands, Chronicles, and Alliances, Mirage, and Visions
+are trademarks of Wizards of the Coast, Inc.

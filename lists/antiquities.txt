@@ -1,0 +1,1047 @@
+Antiquities Edition Card List
+Wizards of the Coast, Inc.
+(Released March 1994)
+
+100 Cards Total (7 White, 7 Green, 7 Blue, 7 Red, 7 Black, 
+21 Land, 44 Artifacts; 41 Commons, 59 Uncommons)
+
+Explanation of Rarity: the number after the rarity (e.g.:
+common 1), means that that card appears that many times 
+on the print sheet. 
+
+The following Card Lists are also available for Magic: The 
+Gathering: Alpha/Beta/Unlimited, Promo Cards, Arabian 
+Nights, Legends, The Dark, Fallen Empires, Revised, 4th 
+Edition, Ice Age, Chronicles, Homelands, Alliances, 
+Mirage, Visions, 5th Edition.
+
+Mana Key: 
+U - Blue, W - White, G - Green, B - Black, R - Red; Numbers - Colorless 
+(Generic) Mana
+
+Note: n/a means "not applicable"
+
+Card Title:	Amulet of Kroog
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	2: Prevent 1 damage to any target.
+Artist:		Margaret Organ-Keen
+Rarity:		Common 4
+
+Card Title:	Argivian Archeologist
+Color:		White
+Card Type:	Summon Archaeologist
+Cost:		1WW
+Pow/Tgh:	1/1
+Card Text:	WW: Tap to bring one artifact from your 
+		graveyard to your hand.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+
+Card Title:	Argivian Blacksmith
+Color:		White
+Card Type:	Summon Smith
+Cost:		1WW
+Pow/Tgh:	2/2
+Card Text:	Tap to prevent up to 2 damage to target 
+		artifact creature.
+Artist:		Kerstin Kaman
+Rarity:		Common 4
+
+Card Title:	Argothian Pixies
+Color:		Green
+Card Type:	Summon Faeries
+Cost:		1G
+Pow/Tgh:	2/1
+Card Text:	Cannot be blocked by artifact creatures. Any 
+		damage Argothian Pixies take from artifact 
+		creatures is reduced to 0.
+Artist:		Amy Weber
+Rarity:		Common 4
+
+Card Title:	Argothian Treefolk
+Color:		Green
+Card Type:	Summon Treefolk
+Cost:		3GG
+Pow/Tgh:	3/5
+Card Text:	Any damage Argothian Treefolk take from an 
+		artifact source is reduced to 0.
+Artist:		Amy Weber
+Rarity:		Common 4
+
+Card Title:	Armageddon Clock
+Color:		Artifact
+Card Type:	Continuous Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	Put one counter on Armageddon Clock during 
+		each of your upkeeps. At the end of your 
+		upkeep, each player takes damage equal to the 
+		number of counters on the Clock. Any player 
+		may spend 4 during any upkeep to remove a 
+		counter.
+Artist:		Amy Weber
+Rarity:		Uncommon 2
+
+Card Title:	Artifact Blast
+Color:		Red
+Card Type:	Interrupt
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Counters any artifact as it is being cast.
+Artist:		Mark Poole
+Rarity:		Common 4
+
+Card Title:	Artifact Possession
+Color:		Black
+Card Type:	Enchant Artifact
+Cost:		2B
+Pow/Tgh:	n/a
+Card Text:	Artifact Possession does 2 damage to target 
+		artifact's controller each time target artifact is 
+		tapped or its activation cost is paid. Has no 
+		effect if cast on a continuous artifact.
+Artist:		Christopher Rush
+Rarity:		Common 4
+
+Card Title:	Artifact Ward
+Color:		White
+Card Type:	Enchant Creature
+Cost:		W
+Pow/Tgh:	n/a
+Card Text:	Target creature cannot be blocked by artifact 
+		creatures, and any damage taken from an artifact 
+		source is reduced to 0.Target creature is unaffected 
+		by any artifact effects that target it.
+Artist:		Douglas Shuler
+Rarity:		Common 4
+
+Card Title:	Ashnod's Altar
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	0: Sacrifice one of your creatures to add 2 
+		colorless mana to your mana pool. This effect 
+		is played as an interrupt. You may not sacrifice 
+		a creature that is already on its way to the 
+		graveyard.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 2
+
+Card Title:	Ashnod's Battle Gear
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	2: Give a creature of yours +2/-2 as long as 
+		Ashnod's Battle Gear is tapped. You may 
+		choose not to untap Ashnod's Battle Gear 
+		during untap phase.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Ashnod's Transmogrant
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	Target non-artifact creature gains +1/+1 and 
+		is now considered an artifact creature, though 
+		it retains its original color. Discard Ashnod's 
+		Transmogrant after it is used.
+Artist:		Mark Tedin
+Rarity:		Uncommon 3
+
+Card Title:	Atog
+Color:		Red
+Card Type:	Summon Atog
+Cost:		1R
+Pow/Tgh:	1/2
+Card Text:	0: +2/+2 until end of turn. Each time you use 
+		this ability, you must choose one of your 
+		artifacts in play and place it in the graveyard. 
+		This artifact cannot be one that is already on its 
+		way to the graveyard, and artifact creatures 
+		killed this way may not be regenerated.
+Artist:		Jesper Myrfors
+Rarity:		Common 4
+
+Card Title:	Battering Ram
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		2
+Pow/Tgh:	1/1
+Card Text:	Bands, but only when attacking.
+		Any wall blocking Battering Ram is destroyed. 
+		Walls destroyed this way deal their damage 
+		before dying.
+Artist:		Jeff A. Menges
+Rarity:		Common 4
+
+Card Title:	Bronze Tablet
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	4: Target any card opponent has in play; 
+		remove it and Bronze Tablet from game. You 
+		become owner of that card, and your opponent 
+		becomes owner of Bronze Tablet. Exchange is 
+		permanent; play as interrupt. Opponent can 
+		prevent exchange by spending 10 life; this 
+		discards Bronze Tablet. Damage-preventing 
+		effects cannot counter such loss of life. Bronze 
+		Tablet comes into play tapped. Remove this 
+		card from deck if not playing for ante.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+
+Card Title:	Candelabra of Tawnos
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	X: Untap X separate lands.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 1
+
+Card Title:	Circle of Protection: Artifacts
+Color:		White
+Card Type:	Enchantment
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	2: Prevents all damage against you from any 
+		one artifact source. If a source does damage to 
+		you more than once in a turn, you must pay 2 
+		each time you want to prevent the damage. 
+Artist:		Pete Venters
+Rarity:		Uncommon 3
+
+Card Title:	Citanul Druid
+Color:		Green
+Card Type:	Summon Druid
+Cost:		1G
+Pow/Tgh:	1/1
+Card Text:	Druid gains a +1/+1 counter each time 
+		opponent casts an artifact.
+Artist:		Jeff A. Menges
+Rarity:		Uncommon 3
+
+Card Title:	Clay Statue
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		4
+Pow/Tgh:	3/1
+Card Text:	2: Regenerates
+Artist:		Jesper Myrfors
+Rarity:		Common 4
+
+Card Title:	Clockwork Avian
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		5
+Pow/Tgh:	0/4
+Card Text:	Flying
+Put four +1/+0 counters on Avian. After Avian attacks or 
+		blocks a creature, discard a counter. During 
+		his or her upkeep, controller may buy back lost 
+		counters for 1 per counter; this taps Avian.
+Artist:		Randy Asplund-Faith
+Rarity:		Uncommon 1
+
+Card Title:	Colossus of Sardia
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		9
+Pow/Tgh:	9/9
+Card Text:	Trample
+		Colossus does not untap normally during untap 
+		phase; you may spend 9 during your upkeep 
+		phase to untap Colossus.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 1
+
+Card Title:	Coral Helm
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	3: Give target creature +2/+2 until end of turn. 
+		Each time you use this ability, you must discard 
+		one card at random from your hand. Coral 
+		Helm cannot be used if you have no cards in 
+		your hand.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+
+Card Title:	Crumble
+Color:		Green
+Card Type:	Instant
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Destroy target artifact; artifact creatures may
+		not regenerate. Artifact's controller gains life 
+		points equal to target artifact's casting cost.
+Artist:		Jesper Myrfors
+Rarity:		Common 4
+
+Card Title:	Cursed Rack
+Color:		Artifact
+Card Type:	Continuous Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	Opponent must discard down to four cards 
+		during his or her discard phase.
+Artist:		Richard Thomas
+Rarity:		Common 1
+
+Card Title:	Damping Field
+Color:		White
+Card Type:	Enchantment
+Cost:		2W
+Pow/Tgh:	n/a
+Card Text:	Players may not untap more than one artifact 
+		during each of their own untap phases.
+Artist:		Justin Hampton
+Rarity:		Uncommon 3
+
+Card Title:	Detonate
+Color:		Red
+Card Type:	Sorcery
+Cost:		XR
+Pow/Tgh:	n/a
+Card Text:	Targets any artifact; X is the casting cost of target 
+		artifact. Target artifact is destroyed, and Detonate 
+		does X points of damage to artifact's controller. 
+		Artifact creatures destroyed in this manner may 
+		not be regenerated.
+Artist:		Randy Asplund-Faith
+Rarity:		Uncommon 3
+
+Card Title:	Drafna's Restoration
+Color:		Blue
+Card Type:	Sorcery
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Take any number of artifacts of your choice 
+		from target player's graveyard and place them 
+		on top of that player's library, in any order.
+Artist:		Amy Weber
+Rarity:		Common 4
+
+Card Title:	Dragon Engine
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		3
+Pow/Tgh:	1/3
+Card Text:	2: +1/+0 until end of turn.
+Artist:		Anson Maddocks
+Rarity:		Common 4
+
+Card Title:	Dwarven Weaponsmith
+Color:		Red
+Card Type:	Summon Dwarves
+Cost:		1R
+Pow/Tgh:	1/1
+Card Text:	Tap during your upkeep to add a permanent 
+		+1/+1 counter to any creature. Each time you 
+		use this ability, you must choose one of your 
+		artifacts in play and place it in the graveyard. 
+		This artifact cannot be one that is already on its 
+		way to the graveyard, and artifact creatures 
+		killed this way may not be regenerated.
+Artist:		Mark Poole
+Rarity:		Uncommon 3
+
+Card Title:	Energy Flux
+Color:		Blue
+Card Type:	Enchantment
+Cost:		2U
+Pow/Tgh:	n/a
+Card Text:	All artifacts in play now require an upkeep 
+		cost of 2 in addition to any other upkeep costs 
+		they may have. If the upkeep cost for an 
+		artifact is not paid, the artifact must be 
+		discarded.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 3
+
+Card Title:	Feldon's Cane
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	0: Reshuffle your graveyard into your library. 
+		If Feldon's Cane is used, remove it from the 
+		game, returning it to its owner's deck only 
+		when the game is over.
+Artist:		Mark Tedin
+Rarity:		Common 1
+
+Card Title:	Gaea's Avenger
+Color:		Green
+Card Type:	Summon Gaea's Avenger
+Cost:		1GG
+Pow/Tgh:	*+1/*+1
+Card Text:	The *s below are the number of artifacts 
+		opponent has in play.
+Artist:		Pete Venters
+Rarity:		Uncommon 1
+
+Card Title:	Gate to Phyrexia
+Color:		Black
+Card Type:	Enchantment
+Cost:		BB
+Pow/Tgh:	n/a
+Card Text:	Sacrifice one of your creatures during your 
+		upkeep to destroy any one artifact. You may 
+		not sacrifice a creature that is already on its 
+		way to the graveyard.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 3
+
+Card Title:	Goblin Artisans
+Color:		Red
+Card Type:	Summon Goblins
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	You may tap Goblin Artisans as you cast an 
+		artifact. Then flip a coin; opponent calls heads 
+		or tails while coin is in the air. If the flip ends 
+		up in opponent's favor, your artifact is 
+		countered. Otherwise, draw another card from 
+		your library. You can only use this ability once 
+		for each time you cast an artifact.
+Artist:		Julie Baroh
+Rarity:		Uncommon 3
+
+Card Title:	Golgothian Sylex
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	1: All cards from the Antiquities expansion, 
+		including Golgothian Sylex, must be discarded 
+		from play.
+Artist:		Kerstin Kaman
+Rarity:		Uncommon 1
+
+Card Title:	Grapeshot Catapult
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		4
+Pow/Tgh:	2/3
+Card Text:	Tap to deal 1 damage to target flying creature.
+Artist:		Dan Frazier
+Rarity:		Common 4
+
+Card Title:	Haunting Wind
+Color:		Black
+Card Type:	Enchantment
+Cost:		3B
+Pow/Tgh:	n/a
+Card Text:	Each time an artifact in play is tapped or its 
+		activation cost is paid, Haunting Wind does 
+		1 damage to that artifact's controller. Is not 
+		triggered by continuous artifacts.
+Artist:		Jeff A. Menges
+Rarity:		Uncommon 3
+
+Card Title:	Hurkyl's Recall
+Color:		Blue
+Card Type:	Instant
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	All artifacts in play owned by target player are 
+		returned to target player's hand. Any 
+		enchantments on those artifacts are discarded. 
+		Cannot be played during the damage-dealing 
+		phase of an attack.
+Artist:		Nene Thomas
+Rarity:		Uncommon 1
+
+Card Title:	Ivory Tower
+Color:		Artifact
+Card Type:	Continuous Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	During your upkeep phase, gain 1 life for each 
+		card in your hand above four.
+Artist:		Margaret Organ-Keen
+Rarity:		Uncommon 3
+
+Card Title:	Jalum Tome
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	2: Draw a card from your library, then 
+		immediately discard a card of your choice 
+		to your graveyard.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 2
+
+Card Title:	Martyrs of Korlis
+Color:		White
+Card Type:	Summon Bodyguard
+Cost:		3WW
+Pow/Tgh:	1/6
+Card Text:	Unless Martyrs of Korlis is tapped, any 
+		damage done to you by artifacts is instead 
+		applied to Martyrs of Korlis. You may not take 
+		this damage yourself, though you may 
+		prevent it if possible. No more than one 
+		Bodyguard of your choice can take damage 
+		for you in this manner each turn.
+Artist:		Margaret Organ-Keen
+Rarity:		Uncommon 3
+
+Card Title:	Mightstone
+Color:		Artifact
+Card Type:	Continuous Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	All attacking creatures gain +1/+0.
+Artist:		Pete Venters
+Rarity:		Uncommon 3
+
+Card Title:	Millstone
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	2: Take the top two cards from target player's 
+		library and put them in target player's 
+		graveyard.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 3
+
+Card Title:	Mishra's Factory (4 versions)
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana pool 
+		or give any Assembly Worker +1/+1 until 
+		end of turn.
+		1: Mishra's Factory becomes an Assembly 
+		Worker, a 2/2 artifact creature, until end of turn. 
+		Assembly Worker is still considered a land as well.
+Artist:		Kaja & Phil Foglio
+Rarity:		Uncommon 1
+
+Card Title:	Mishra's War Machine
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		7
+Pow/Tgh:	5/5
+Card Text:	Bands
+		During your upkeep, discard one card of your 
+		choice from your hand, or Mishra's War 
+		Machine becomes tapped and does 3 points 
+		of damage to you.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+
+Card Title:	Mishra's Workshop
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 3 colorless mana to your mana pool. 
+		This mana may only be used to cast artifacts.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 1
+
+Card Title:	Obelisk of Undoing
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	6: Return any of your permanents in play to 
+		your hand; enchantments on that permanent 
+		are discarded. Can be used only on 
+		permanents you cast.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+
+Card Title:	Onulet
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		3
+Pow/Tgh:	2/2
+Card Text:	If Onulet goes to the graveyard, its controller gains 2 life.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 3
+
+Card Title:	Orcish Mechanics
+Color:		Red
+Card Type:	Summon Orcs
+Cost:		2R
+Pow/Tgh:	1/1
+Card Text:	Tap to do 2 points of damage to any target. 
+		Each time you use this ability, you must 
+		choose one of your artifacts in play and place 
+		it in the graveyard. This artifact cannot be one
+		already on its way to the graveyard, and 
+		artifact creatures killed this way may not be 
+		regenerated.
+Artist:		Pete Venters
+Rarity:		Common 4
+
+Card Title:	Ornithopter
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		0
+Pow/Tgh:	0/2
+Card Text:	Flying
+Artist:		Amy Weber
+Rarity:		Common 4
+
+Card Title:	Phyrexian Gremlins
+Color:		Black
+Card Type:	Summon Gremlins
+Cost:		2B
+Pow/Tgh:	1/1
+Card Text:	Tap Gremlins to tap an artifact. As long as 
+		Gremlins remain tapped and in play, that 
+		artifact does not untap as normal during its 
+		controller's untap phase. You may choose not 
+		to untap Gremlins during your untap phase.
+Artist:		Amy Weber
+Rarity:		Common 4
+
+Card Title:	Power Artifact
+Color:		Blue
+Card Type:	Enchant Artifact
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	The activation cost of target artifact is reduced 
+		by 2.
+		If this would reduce target artifact's activation 
+		cost below 1, target artifact's activation cost 
+		becomes 1.
+		Power Artifact has no effect on artifacts that 
+		have no activation cost or whose activation 
+		cost is 0.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 3
+
+Card Title:	Powerleech
+Color:		Green
+Card Type:	Enchantment
+Cost:		GG
+Pow/Tgh:	n/a
+Card Text:	Gain 1 life whenever one of opponent's 
+		artifacts becomes tapped, or whenever the 
+		activation cost of one of opponent's artifacts is 
+		paid. Is not triggered by continuous artifacts.
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Priest of Yawgmoth
+Color:		Black
+Card Type:	Summon Cleric
+Cost:		1B
+Pow/Tgh:	1/2
+Card Text:	Tap to add an amount of black mana equal to 
+		target artifact's casting cost to your mana pool. 
+		This effect is played as an interrupt. Target 
+		artifact, which must belong to you, is 
+		discarded. This artifact cannot be one that is 
+		already on its way to the graveyard, and artifact 
+		creatures killed this way may not be 
+		regenerated.
+Artist:		Mark Tedin
+Rarity:		Common 4
+
+Card Title:	Primal Clay
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		4
+Pow/Tgh:	*/*
+Card Text:	When you cast Primal Clay, you must choose 
+		whether to make it a 1/6 wall, a 3/3 creature, 
+		or a 2/2 flying creature. Primal Clay then 
+		remains in this form until altered by another 
+		card or removed from play.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 3
+
+Card Title:	Rack, The
+Color:		Artifact
+Card Type:	Continuous Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	If opponent has fewer than three cards in hand 
+		during his or her upkeep, the Rack does 1 
+		damage to opponent for each card fewer than 
+		three.
+Artist:		Richard Thomas
+Rarity:		Uncommon 3
+
+Card Title:	Rakalite
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	2: Prevent 1 damage to any target. If Rakalite 
+		is used, it returns to its owner's hand at end of 
+		turn; all enchantments on Rakalite are then 
+		discarded.
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Reconstruction
+Color:		Blue
+Card Type:	Sorcery
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Bring one artifact from your graveyard to your 
+		hand.
+Artist:		Anson Maddocks
+Rarity:		Common 4
+
+Card Title:	Reverse Polarity
+Color:		White
+Card Type:	Instant
+Cost:		WW
+Pow/Tgh:	n/a
+Card Text:	All damage done to you so far this turn by 
+		artifacts is retroactively added to your life total 
+		instead of subtracted. Further damage this 
+		turn is treated normally.
+Artist:		Justin Hampton
+Rarity:		Common 4 
+
+Card Title:	Rocket Launcher
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	2: Do 1 damage to any target. Rocket Launcher 
+		may not be used until it begins a turn in play 
+		on your side. If it is used, Rocket Launcher is 
+		destroyed at end of turn.
+Artist:		Pete Venters
+Rarity:		Uncommon 3
+
+Card Title:	Sage of Lat-Nam
+Color:		Blue
+Card Type:	Summon Sage
+Cost:		1U
+Pow/Tgh:	1/2
+Card Text:	Tap to draw a card from your library. Each 
+		time you use this ability, you must choose one 
+		of your artifacts in play and place it in the 
+		graveyard. This artifact cannot be one that is 
+		already on its way to the graveyard, and artifact 
+		creatures killed this way may not be 
+		regenerated.
+Artist:		Pete Venters
+Rarity:		Common 4
+
+Card Title:	Shapeshifter
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		6
+Pow/Tgh:	*/(7-*)
+Card Text:	The *s below represent any number from 0 
+		to 6. You set * when Shapeshifter is cast, and 
+		you may change it during your upkeep.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+
+Card Title:	Shatterstorm
+Color:		Red
+Card Type:	Sorcery
+Cost:		2RR
+Pow/Tgh:	n/a
+Card Text:	All artifacts in play are discarded. Artifact 
+		creatures cannot be regenerated.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+
+Card Title:	Staff of Zegon
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	3: Target creature loses -2/-0 until end of 
+		turn.
+		Creatures with power less than 1 deal no 
+		damage.
+Artist:		Mark Poole
+Rarity:		Common 4
+
+Card Title:	Strip Mine (3 versions) 
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana
+		pool or place Strip Mine in your graveyard 
+		and destroy one land of your choice.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 1
+
+Card Title:	Su-Chi
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		4
+Pow/Tgh:	4/4
+Card Text:	If Su-Chi goes to the graveyard, its controller 
+		gains 4 colorless mana.
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Tablet of Epityr
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	1: You gain 1 life every time one of your 
+		artifacts goes to the graveyard. Can only give 1 
+		life each time an artifact reaches the graveyard.
+Artist:		Christopher Rush
+Rarity:		Common 4
+
+Card Title:	Tawnos's Coffin
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	3: Select a creature in play; that creature is 
+		considered out of play as long as Coffin 
+		remains tapped. Hence the creature cannot be 
+		the target of spells and cannot receive damage, 
+		use special powers, attack, or defend. All
+		counters and enchantments on the creature 
+		remain but are also out of play. If Coffin is 
+		untapped or removed, creature returns to play 
+		tapped. You may choose not to untap Coffin 
+		during the untap phase.
+Artist:		Christopher Rush
+Rarity:		Uncommon 1
+
+Card Title:	Tawnos's Wand
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	2: Make a creature of power no greater than 2 
+		unblockable by all creatures except artifact 
+		creatures until end of turn. Other cards may 
+		be used to increase target creature's power 
+		beyond 2 after defense is chosen.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 3
+
+Card Title:	Tawnos's Weaponry
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	2: Target creature gains +1/+1 as long as 
+		Tawnos's Weaponry remains tapped. You may 
+		choose not to untap Tawnos's Weaponry 
+		during untap phase.
+Artist:		Dan Frazier
+Rarity:		Uncommon 3
+
+Card Title:	Tetravus
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		6
+Pow/Tgh:	1/1
+Card Text:	Flying
+		Tetravus gets three +1/+1 coutners when cast. During your upkeep,
+		you may move each of these counters on or off of Tetravus.
+		Counters moved off of Tetravus become independent 1/1 flying
+		artifact creatures. If such a creature dies, the counter is removed
+		from play. Such creatures may not have enchantments cast on
+		them, and they do not share any enchantments on Tetravus.
+Artist:		Mark Tedin
+Rarity:		Uncommon 1
+
+Card Title:	Titania's Song
+Color:		Green
+Card Type:	Enchantment
+Cost:		3G
+Pow/Tgh:	n/a
+Card Text:	All non-creature artifacts in play lose all their 
+		usual abilities and become artifact creatures 
+		with toughness and power both equal to their 
+		casting costs. If Titania's Song leaves play, 
+		artifacts return to normal just before the untap 
+		phase of the next turn.
+Artist:		Kerstin Kaman
+Rarity:		Uncommon 3
+
+Card Title:	Transmute Artifact
+Color:		Blue
+Card Type:	Sorcery
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	Search through your library for one artifact 
+		and immediately place it into play; also, 
+		choose any artifact in play that you control 
+		and place it in its owner's graveyard. If the 
+		new artifact has a casting cost greater than 
+		that of the discarded one, you must pay the 
+		difference or Transmute Artifact fails and both 
+		artifacts are discarded. Shuffle your library after 
+		playing this card.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 3
+
+Card Title:	Triskelion
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		6
+Pow/Tgh:	1/1
+Card Text:	Triskelion gets three +1/+1 counters when 
+		cast. Controller may discard a +1/+1 counter 
+		at any time to do 1 damage to any target.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 1
+
+Card Title:	Urza's Avenger
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		6
+Pow/Tgh:	4/4
+Card Text:	0: Avenger loses -1/-1 and gains one of your 
+		choice of flying, banding, first strike, or trample 
+		until end of turn. Attribute losses and ability 
+		gains are cumulative.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+
+Card Title:	Urza's Chalice
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	1: Any artifact cast by any player gives you 1 
+		life. Can only give 1 life each time an artifact
+		is cast.
+Artist:		Jeff A. Menges
+Rarity:		Common 4
+
+Card Title:	Urza's Mine (4 versions)
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana pool. 
+		If you have Urza's Mine, Urza's Tower, and 
+		Urza's Power Plant in play at the same time, 
+		tap to add 2 colorless mana to your mana pool.
+Artist:		Anson Maddocks
+Rarity:		Common 2
+
+Card Title:	Urza's Miter
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	3: Draw one card from your library every time 
+		an artifact of yours goes to the graveyard. Can 
+		only let you draw one card per artifact 
+		destruction. May not be used when you destroy 
+		an artifact to gain benefits from another card.
+Artist:		Randy Asplund-Faith
+Rarity:		Uncommon 1
+
+Card Title:	Urza's Power Plant (4 versions)
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana pool.
+		If you have Urza's Mine, Urza's Tower, and 
+		Urza's Power Plant in play at the same time, tap 
+		to add 2 colorless mana to your mana pool.
+Artist:		Mark Tedin
+Rarity:		Common 2
+
+Card Title:	Urza's Tower (4 versions)
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana 
+		pool. If you have Urza's Mine, Urza's Tower, 
+		and Urza's Power Plant in play at the same 
+		time, tap to add 3 colorless mana to your 
+		mana pool.
+Artist:		Mark Poole
+Rarity:		Common 2
+
+Card Title:	Wall of Spears
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		3
+Pow/Tgh:	2/3
+Card Text:	First strike, counts as a wall.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 3
+
+Card Title:	Weakstone
+Color:		Artifact
+Card Type:	Continuous Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	All attacking creatures lose -1/-0. Creatures 
+		with power less than 1 deal no damage.
+Artist:		Justin Hampton
+Rarity:		Uncommon 3
+
+Card Title:	Xenic Poltergeist
+Color:		Black
+Card Type:	Summon Poltergeist
+Cost:		1BB
+Pow/Tgh:	1/1
+Card Text:	Tap to turn target non-creature artifact into an 
+		artifact creature with both power and
+		toughness equal to its casting cost. This 
+		transformation lasts until your next upkeep; 
+		target retains all its original abilities as well.
+Artist:		Dan Frazier
+Rarity:		Uncommon 3
+
+Card Title:	Yawgmoth Demon
+Color:		Black
+Card Type:	Summon Demon
+Cost:		4BB
+Pow/Tgh:	6/6
+Flying, first strike
+Card Text:	During your upkeep, choose one of your 
+		artifacts in play and place it in the graveyard, 
+		or Yawgmoth Demon becomes tapped and 
+		deals 2 points of damage to you. Artifact 
+		creatures destroyed this way may not be 
+		regenerated.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+
+Card Title:	Yotian Soldier
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		3
+Pow/Tgh:	1/4
+Card Text:	Attacking does not cause Yotian Soldier to 
+		tap.
+Artist:		Christopher Rush
+Rarity:		Common 4
+
+Copyright 1994 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+Arabian Nights, Antiquities, Legends, The Dark, Fallen Empires,
+Ice Age, Homelands, Chronicles, Alliances, Mirage, and Visions
+are trademarks of Wizards of the Coast, Inc.
+

@@ -1,0 +1,1436 @@
+Urza's Legacy Card Spoiler List
+Wizards of the Coast, Inc.
+(Released February 15, 1999)
+Listed by ascending card number
+
+List Format
+Card Name
+Casting Cost (if any)
+Card Type
+Card Rarity (C=Common, U=Uncommon, R=Rare)
+Card Text
+Card Flavor Text (if any)
+Illustrator
+Card Number
+
+Angelic Curator 
+1W
+Summon Spirit   
+C
+1/1
+Flying, protection from artifacts
+"Do not treat your people as you treat your artifacts. Let them go, and they will live; seal them here, and they will die."
+Urza, to Radiant
+Illus. Greg Staples     
+1/143
+
+Blessed Reversal        
+1W
+Instant 
+R
+Gain 3 life for each creature attacking you.
+Even an enemy is a valuable resource.
+Illus. Pete Venters     
+2/143
+
+Burst of Energy 
+W
+Instant 
+C
+Untap target permanent.
+"I stand ready to die for our world. Who will stand with me?
+Radiant, archangel
+Illus. Mark Brill       
+3/143
+
+Cessation       
+2W
+Enchant Creature        
+C
+Enchanted creature cannot attack.
+When Cessation is put into a graveyard from play, return Cessation to owner's hand.
+"The face of Light will shine upon them, and they will know war no more."
+Song of All, canto 918
+Illus. Mark Zug 
+4/143
+
+Defender of Law 
+2W
+Summon Knight   
+C
+2/1
+Protection from red
+You may play Defender of Law any time you could play an instant.
+"It is not my place to question Radiant's rule. I exist to enforce her will."
+Illus. Carl Critchlow   
+5/143
+
+Devout Harpist  
+W
+Summon Townsfolk        
+C
+1/1
+T: Destroy target creature enchantment.
+The notes themselves are irrelevant. The music's effect, however, is worth ten armies.
+Illus. Rebecca Guay     
+6/143
+
+Erase   
+W
+Instant 
+C
+Remove target enchantment from the game.
+Perception is more pleasing than truth.
+Illus. Ron Spears       
+7/143
+
+Expendable Troops       
+1W
+Summon Soldiers 
+C
+2/1
+T, Sacrifice Expendable Troops: Expendable Troops deals 2 damage to target attacking or blocking creature.
+No doubt in their minds, no fear in their hearts.
+Illus. Carl Critchlow   
+8/143
+
+Hope and Glory  
+1W
+Instant 
+U
+Untap two target creatures. Each of them gets +1/+1 until end of turn.
+"Serra ruled by faith. I cannot afford that luxury."
+Radiant, archangel
+Illus. Heather Hudson   
+9/143
+
+Iron Will       
+W
+Instant 
+C
+Target creature gets +0/+4 until end of turn.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Val Mayerik      
+10/143
+
+Karmic Guide    
+3WW
+Summon Spirit   
+R
+2/2
+Flying, protection from black; echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Karmic Guide comes into play, choose target creature card in your graveyard and put that creature into play.
+Illus. Heather Hudson   
+11/143
+
+Knighthood      
+2W
+Enchantment     
+U
+All creatures you control gain first strike.
+"He has returned. He who brought the dark ones. He who poisoned our paradise. How shall we greet him? With swift and certain death!
+Radiant, archangel
+Illus. Kev Walker       
+12/143
+
+Martyr's Cause  
+2W
+Enchantment     U
+Sacrifice a creature: Prevent all damage to a creature or player from one source. (Treat further damage from that source normally.)
+Dying is a soldier's talent.
+Illus. Jeff Laubenstein 
+13/143
+
+Mother of Runes 
+W
+Summon Cleric   
+U
+1/1
+T: Target creature you control gains protection from a color of your choice until end of turn.
+"My family protects all families."
+Illus. Scott M. Fischer 
+14/143
+
+Opal Avenger    
+2W
+Enchantment     
+R
+When you have 10 life or less, if Opal Avenger is an enchantment, Opal Avenger becomes a 3/5 creature that counts as a Guardian.
+As the sun grew cold in the realm, the statue grew warm.
+Illus. Edward P. Beard, Jr.     
+15/143
+
+Opal Champion   
+2W
+Enchantment     
+C
+When one of your opponents successfully casts a creature spell, if Opal Champion is an enchantment, Opal Champion becomes a 3/3 creature with first strike that counts as a Knight.
+Illus. Edward P. Beard, Jr.     
+16/143
+
+Peace and Quiet 
+1W
+Instant 
+U
+Destroy two target enchantments.
+"In time our realm will shine again. But it will gleam only when we scour away the taint of doubt."
+Radiant, archangel
+Illus. Hazeltine        
+17/143
+
+Planar Collapse 
+1W
+Enchantment     
+R
+During your upkeep, if there are four or more creatures in play, sacrifice Planar Collapse and destroy all creatures. Those creatures cannot be regenerated this turn.
+With heavy heart, Urza doused one world's light to rekindle another's.
+Illus. Mark Zug 
+18/143
+
+Purify  
+3WW
+Sorcery 
+R
+Destroy all artifacts and enchantments.
+"Our Mother! The sky was Her hair; the sun, Her face. She danced on the grass and in the hills."
+Song of All, canto 23
+Illus. John Avon        
+19/143
+
+Radiant, Archangel      
+3WW
+Summon Legend   
+R
+3/3
+Flying
+Radiant, Archangel counts as an Angel.
+Attacking does not cause Radiant to tap.
+Radiant gets +1/+1 for each other creature with flying in play.
+Illus. Michael Sutfin   
+20/143
+
+Radiant's Dragoons      
+3W
+Summon Soldiers 
+U
+2/5
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Radiant's Dragoons comes into play, gain 5 life.
+Illus. Pete Venters     
+21/143
+
+Radiant's Judgment      
+2W
+Instant 
+C
+Destroy target creature with power 4 or greater.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Greg Staples     
+22/143
+
+Sustainer of the Realm  
+2WW
+Summon Angel    
+U
+2/3
+Flying
+Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.
+"The harder you push, the stronger we become."
+Radiant, to Urza
+Illus. Greg Staples     
+23/143
+
+Tragic Poet     
+W
+Summon Townsfolk        
+C
+1/1
+T, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.
+"I would weep, but my tears have been stolen; I would shout, but my voice has been taken. Thus, I write."
+Illus. Quinton Hoover   
+24/143
+
+Anthroplasm     
+2UU
+Summon Shapeshifter     
+R
+0/0
+Anthroplasm comes into play with two +1/+1 counters on it.
+X, T: Remove all +1/+1 counters from Anthroplasm and put X +1/+1 counters on it.
+I never metamorphosis I didn't like.
+Illus. Ron Spencer      
+25/143
+
+Archivist       
+2UU
+Summon Wizard   
+R
+1/1
+T: Draw a card.
+Some do. Some teach. The rest look it up.
+Illus. Pete Venters     
+26/143
+
+Aura Flux       
+2U
+Enchantment     
+C
+Each other enchantment gains "During your upkeep, pay o2 or sacrifice this enchantment.
+To some, the Tolarian sunrise was a blinding flash; to others, a lingering glow.
+Illus. John Avon        
+27/143
+
+Bouncing Beebles        
+2U
+Summon Beebles  
+C
+2/2
+Bouncing Beebles is unblockable if defending player controls an artifact.
+Beebles are frequently hurled against stone surfaces at high speed but always zing back into the air with a giggle.
+Illus. Jeff Miracola    
+28/143
+
+Cloud of Faeries        
+1U
+Summon Faeries  
+C
+1/1
+Flying
+When Cloud of Faeries comes into play, untap up to two lands.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Melissa A. Benson        
+29/143
+
+Delusions of Mediocrity 
+3U
+Enchantment     
+R
+When Delusions of Mediocrity comes into play, gain 10 life.
+When Delusions of Mediocrity leaves play, lose 10 life.
+When nothing but second best will do.
+Illus. Jeff Laubenstein 
+30/143
+
+Fleeting Image  
+2U
+Summon Illusion 
+R
+2/1
+Flying
+1U: Return Fleeting Image to owner's hand.
+Horas swore off drinking, but after meeting the creature a second time he decided he'd better start again.
+Illus. Scott M. Fischer 
+31/143
+
+Frantic Search  
+2U
+Instant 
+C
+Draw two cards, then choose and discard two cards. Untap up to three lands.
+Motivation was high in the academy once students realized flunking their exams could kill them.
+Illus. Jeff Miracola    
+32/143
+
+Intervene       
+U
+Interrupt       
+C
+Counter target spell that targets a creature.
+"At first I simply observed. But I found that without investment in others, life serves no purpose."
+Karn, silver golem
+Illus. Heather Hudson   
+33/143
+
+King Crab       
+4UU
+Summon Crab     
+U
+4/5
+1U, T: Put target green creature on top of owner's library.
+"I'm allergic to shellfish-not only did it kill my entire village, it also gave me this nasty rash."
+Olivia, fisher
+Illus. Daniel Gelon     
+34/143
+
+Levitation      
+2UU
+Enchantment     
+U
+All creatures you control gain flying.
+Barrin's pride in his apprentice was diminished somewhat when he had to get the others back down.
+Illus. Heather Hudson   
+35/143
+
+Miscalculation  
+1U
+Interrupt       
+C
+Counter target spell unless its caster pays an additional o2.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Jeff Laubenstein 
+36/143
+
+Opportunity     
+4UU
+Instant 
+U
+Target player draws four cards.
+"He cocooned himself alone in his workshop for months. When he finally emerged, all broad grins and excited chatter, I knew he'd found his answer."
+Barrin, master wizard
+Illus. Ron Spears       
+37/143
+
+Palinchron      
+5UU
+Summon Illusion 
+R
+4/5
+Flying
+When Palinchron comes into play, untap up to seven lands.
+2UU: Return Palinchron to owner's hand.
+Illus. Matthew Wilson   
+38/143
+
+Raven Familiar  
+2U
+Summon Bird     
+U
+1/2
+Flying; echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Raven Familiar comes into play, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Illus. Edward P. Beard, Jr.     
+39/143
+
+Rebuild 
+2U
+Instant 
+U
+Return all artifacts to owners' hands.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. L. A. Williams   
+40/143
+
+Second Chance   
+2U
+Enchantment     
+R
+During your upkeep, if you have 5 life or less, sacrifice Second Chance and take an extra turn after this one.
+The greatest gift is the opportunity to right one's wrongs.
+Illus. Mark Tedin       
+41/143
+
+Slow Motion     
+2U
+Enchant Creature        
+C
+During the upkeep of enchanted creature's controller, that player pays 2 or sacrifices that creature.
+When Slow Motion is put into a graveyard from play, return Slow Motion to owner's hand.
+Illus. Todd Lockwood    
+42/143
+
+Snap    
+1U
+Instant 
+C
+Return target creature to owner's hand. Untap up to two lands.
+Good riddance.
+Illus. Mike Raabe       
+43/143
+
+Thornwind Faeries       
+1UU
+Summon Faeries  
+C
+1/1
+Flying
+T: Thornwind Faeries deals 1 damage to target creature or player.
+Guarding the ship is the Thornwinds' first concern. Getting along with the locals ranks fourth or fifth at best.
+Illus. Rebecca Guay     
+44/143
+
+Tinker  
+2U
+Sorcery 
+U
+At the time you play Tinker, sacrifice an artifact.
+Search your library for an artifact card and put that artifact into play. Shuffle your library afterward.
+"I wonder how it feels to be bored."
+Jhoira, artificer
+Illus. Mike Raabe       
+45/143
+
+Vigilant Drake  
+4U
+Summon Drake    
+C
+3/3
+Flying
+2U: Untap Vigilant Drake.
+Awake and awing in the blink of an eye.
+Illus. Greg Staples     
+46/143
+
+Walking Sponge  
+1U
+Summon Sponge   
+U
+1/1
+T: Target creature loses flying, first strike, or trample until end of turn.
+Not only does it catch fish, it cleans them too.
+Illus. Ron Spencer      
+47/143
+
+Weatherseed Faeries     
+2U
+Summon Faeries  
+C
+2/1
+Flying, protection from red
+Two days after the forge was completed, the faeries were immune to its flames.
+Illus. Hazeltine        
+48/143
+
+Bone Shredder   
+2B
+Summon Minion   
+U
+1/1
+Flying; echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Bone Shredder comes into play, destroy target nonartifact, nonblack creature.
+Illus. Ron Spencer      
+49/143
+
+Brink of Madness        
+2BB
+Enchantment     
+R
+During your upkeep, if you have no cards in hand, sacrifice Brink of Madness and target opponent discards his or her hand.
+"The fools thought me dead. But I built an empire inside my tomb."
+Kerrick, sleeper agent
+Illus. Donato Giancola  
+50/143
+
+Engineered Plague       
+2B
+Enchantment     
+U
+When Engineered Plague comes into play, choose a creature type.
+All creatures of the chosen type get -1/-1.
+"The admixture of bitterwort in the viral brew has produced most favorable results."
+Phyrexian progress notes
+Illus. Michael Sutfin   
+51/143
+
+Eviscerator     
+3BB
+Summon Horror   
+R
+5/5
+Protection from white
+When Eviscerator comes into play, lose 5 life.
+It roamed the time bubble like a captured animal. Kerrick knew he must soon find a way to unleash it on Tolaria or destroy it.
+Illus. Michael Sutfin   
+52/143
+
+Fog of Gnats    
+BB
+Summon Insects  
+C
+1/1
+Flying
+B: Regenerate Fog of Gnats.
+You can swat a thousand gnats, but a thousand more will assail you.
+Illus. Jeff Miracola    
+53/143
+
+Giant Cockroach 
+3B
+Summon Insect   
+C
+4/2
+If the sun ever hit the swamp, where would these scurry to?
+Illus. Heather Hudson   
+54/143
+
+Lurking Skirge  
+1B
+Enchantment     
+R
+When a creature is put into one of your opponents' graveyards, if Lurking Skirge is an enchantment, Lurking Skirge becomes a 3/2 creature with flying that counts as an Imp.
+They never miss a funeral.
+Illus. Daren Bader      
+55/143
+
+No Mercy        
+2BB
+Enchantment     
+R
+Whenever a creature successfully deals damage to you, destroy it.
+"We had years to prepare, while they had mere minutes."
+Kerrick, sleeper agent
+Illus. Mark Tedin       
+56/143
+
+Ostracize       
+B
+Sorcery 
+C
+Look at target opponent's hand and choose a creature card there. That player discards that card.
+Kerrick was to find that some borders can never be crossed.
+Illus. Chippy   
+57/143
+
+Phyrexian Broodlings    
+1BB
+Summon Minions  
+C
+2/2
+1, Sacrifice a creature: Put a +1/+1 counter on Phyrexian Broodlings.
+With limited resources and near unlimited time, Kerrick used parts from one beast to build another.
+Illus. Daren Bader      
+58/143
+
+Phyrexian Debaser       
+3B
+Summon Carrier  
+C
+2/2
+Flying
+T, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of turn.
+"The second stage of the illness: high fever and severe infectiousness."
+Phyrexian progress notes
+Illus. Mark Tedin       
+59/143
+
+Phyrexian Defiler       
+2BB
+Summon Carrier  
+U
+3/3
+T, Sacrifice Phyrexian Defiler: Target creature gets -3/-3 until end of turn.
+"The third stage of the illness: muscle aches and persistent cough."
+Phyrexian progress notes
+Illus. DiTerlizzi       
+60/143
+
+Phyrexian Denouncer     
+1B
+Summon Carrier  
+C
+1/1
+T, Sacrifice Phyrexian Denouncer: Target creature gets -1/-1 until end of turn.
+"The first stage of the illness: rash and nausea."
+Phyrexian progress notes
+Illus. Brian Snoddy     
+61/143
+
+Phyrexian Plaguelord    
+3BB
+Summon Carrier  
+R
+4/4
+T, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.
+Sacrifice a creature: Target creature gets -1/-1 until end of turn.
+"The final stage of the illness: delirium, convulsions, and death."
+Phyrexian progress notes
+Illus. Kev Walker       
+62/143
+
+Phyrexian Reclamation   
+B
+Enchantment     
+U
+1B, Pay 2 life: Return target creature card from your graveyard to your hand.
+Death is no excuse to stop working.
+Illus. rk post  
+63/143
+
+Plague Beetle   
+B
+Summon Insect   
+C
+1/1
+Swampwalk (If defending player controls a swamp, this creature is unblockable.)
+It is the harbinger of disease, not the carrier.
+Illus. Tom Fleming      
+64/143
+
+Rank and File   
+2BB
+Summon Zombies  
+U
+3/3
+When Rank and File comes into play, all green creatures get -1/-1 until end of turn.
+"Left, right, left, right . . . hmm. Okay-left, left, left, left, . . ."
+Illus. Donato Giancola  
+65/143
+
+Sick and Tired  
+2B
+Instant 
+C
+Two target creatures each get -1/-1 until end of turn.
+The Phyrexians' only interest in organic life is discerning its weakness.
+Illus. Val Mayerik      
+66/143
+
+Sleeper's Guile 
+2B
+Enchant Creature        
+C
+Enchanted creature cannot be blocked except by artifact creatures and black creatures.
+When Sleeper's Guile is put into a graveyard from play, return Sleeper's Guile to owner's hand.
+Illus. Daren Bader      
+67/143
+
+Subversion      
+3BB
+Enchantment     
+R
+During your upkeep, each of your opponents loses 1 life. Gain 1 life for each 1 life lost this way.
+Kerrick's corrupt domain swelled like a blister on Tolaria's skin.
+Illus. Rob Alexander    
+68/143
+
+Swat    
+1BB
+Instant 
+C
+Destroy target creature with power 2 or less.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Daren Bader      
+69/143
+
+Tethered Skirge 
+2B
+Summon Imp      
+U
+2/2
+Flying
+Whenever Tethered Skirge becomes the target of a spell or ability, lose 1 life.
+It bites the hand that leads it.
+Illus. Brian Snoddy     
+70/143
+
+Treacherous Link        
+1B
+Enchant Creature        
+U
+Redirect to its controller all damage dealt to enchanted creature.
+"You cannot possibly know the toll your alliances will exact from you."
+Barrin, to Urza
+Illus. Carl Critchlow   
+71/143
+
+Unearth 
+B
+Sorcery 
+C
+Choose target creature card in your graveyard with total casting cost 3 or less and put that creature into play.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Hazeltine        
+72/143
+
+About Face      
+R
+Instant 
+C
+Switch target creature's power and toughness until end of turn. Effects that alter the creature's power alter its toughness instead, and vice versa, this turn.
+The overconfident are the most vulnerable.
+Illus. Melissa A. Benson        
+73/143
+
+Avalanche Riders        
+3R
+Summon Nomads   
+U
+2/2
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+Avalanche Riders is unaffected by summoning sickness.
+When Avalanche Riders comes into play, destroy target land.
+Illus. Edward P. Beard, Jr.     
+74/143
+
+Defender of Chaos       
+2R
+Summon Knight   
+C
+2/1
+Protection from white
+You may play Defender of Chaos any time you could play an instant.
+Some knights will not follow orders-only disorder.
+Illus. Carl Critchlow   
+75/143
+
+Ghitu Fire-Eater        
+2R
+Summon Nomad    
+U
+2/2
+T, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage equal to its power to target creature or player.
+"They are called 'Mi'uto,' which means 'one use.'
+Jhoira, artificer
+Illus. Melissa A. Benson        
+76/143
+
+Ghitu Slinger   
+2R
+Summon Nomad    
+C
+2/2
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Ghitu Slinger comes into play, it deals 2 damage to target creature or player.
+If you survive a slinger attack, the slinger wished you to live.
+Illus. Melissa A. Benson        
+77/143
+
+Ghitu War Cry   
+2R
+Enchantment     
+U
+R: Target creature gets +1/+0 until end of turn.
+The war cry is not simply a shout but a sacrament.
+Illus. Douglas Shuler   
+78/143
+
+Goblin Medics   
+2R
+Summon Goblins  
+C
+1/1
+Whenever Goblin Medics becomes tapped, it deals 1 damage to target creature or player.
+"First, do some harm."
+Oath of Goblins
+Illus. Jeff Laubenstein 
+79/143
+
+Goblin Welder   
+R
+Summon Goblin   
+R
+1/1
+T: Exchange target artifact a player controls for target artifact card in that player's graveyard.
+"I wrecked your metal guy, boss. But look! I made you an ashtray."
+Illus. Scott M. Fischer 
+80/143
+
+Granite Grip    
+2R
+Enchant Creature        
+C
+Enchanted creature gets +1/+0 for each mountain you control.
+There's beauty in the desert-but it's best to view it from afar.
+Illus. Mike Raabe       
+81/143
+
+Impending Disaster      
+1R
+Enchantment     
+R
+During your upkeep, if there are seven or more lands in play, sacrifice Impending Disaster and destroy all lands.
+"The goblins are in charge of maintenance? Why not just set it on fire now and call it a day?"
+Whip Tongue, viashino technician
+Illus. Pete Venters     
+82/143
+
+Last-Ditch Effort       
+R
+Instant 
+U
+Sacrifice X creatures. Last-Ditch Effort deals X damage to target creature or player.
+"If you're gonna lose, at least make sure they don't win as much."
+Jula, goblin raider
+Illus. Dan Frazier      
+83/143
+
+Lava Axe        
+4R
+Sorcery 
+C
+Lava Axe deals 5 damage to target player.
+"Catch!"
+Illus. Brian Snoddy     
+84/143
+
+Molten Hydra    
+1R
+Summon Hydra    
+R
+1/1
+1RR: Put a +1/+1 counter on Molten Hydra.
+T, Remove all +1/+1 counters from Molten Hydra: Molten Hydra deals 1 damage to target creature or player for each +1/+1 counter removed this way.
+Keep off the glass. -Hydra warning sign
+Illus. Greg Staples     
+85/143
+
+Parch   
+1R
+Instant 
+C
+Choose one-Parch deals 2 damage to target creature or player; or Parch deals 4 damage to target blue creature.
+"Your porous flesh betrays you."
+Fire Eye, viashino bey
+Illus. Ron Spencer      
+86/143
+
+Pygmy Pyrosaur  
+1R
+Summon Lizard   
+C
+1/1
+Pygmy Pyrosaur cannot block.
+R: Pygmy Pyrosaur gets +1/+0 until end of turn.
+Do not judge a lizard by its size."
+Ghitu proverb
+Illus. Dan Frazier      
+87/143
+
+Pyromancy       
+2RR
+Enchantment     
+R
+3, Discard a card at random: Pyromancy deals to target creature or player damage equal to the total casting cost of the discarded card.
+Who harnesses fire controls the world."
+Ghitu proverb
+Illus. Quinton Hoover   
+88/143
+
+Rack and Ruin   
+2R
+Instant 
+U
+Destroy two target artifacts.
+"My people are bound by masters centuries dead. Each artifact we destroy is another link broken in that chain."
+Barb Tail, viashino heretic
+Illus. Donato Giancola  
+89/143
+
+Rivalry 
+2R
+Enchantment     
+R
+During each player's upkeep, if that player controls more lands than any other, Rivalry deals 2 damage to him or her.
+The goblins revered it; the viashino defended it. Only Urza understood it.
+Illus. Brian Snoddy     
+90/143
+
+Shivan Phoenix  
+4RR
+Summon Phoenix  
+R
+3/4
+Flying
+When Shivan Phoenix is put into a graveyard from play, return Shivan Phoenix to owner's hand.
+To strike down the phoenix is to slash at the flame.
+Illus. Daren Bader      
+91/143
+
+Sluggishness    
+1R
+Enchant Creature        
+C
+Enchanted creature cannot block.
+When Sluggishness is put into a graveyard from play, return Sluggishness to owner's hand.
+Vark decided to lie down and think of a good excuse to quit working.
+Illus. Pete Venters     
+92/143
+
+Viashino Bey    
+2RR
+Summon Viashino 
+C
+4/3
+When Viashino Bey attacks, all creatures you control attack if able.
+When the bey runs, match his stride."
+Viashino saying
+Illus. Bradley Williams 
+93/143
+
+Viashino Cutthroat      
+2RR
+Summon Viashino 
+U
+5/3
+Viashino Cutthroat is unaffected by summoning sickness.
+At end of turn, return Viashino Cutthroat to owner's hand.
+"You guys go on ahead. I'll catch up with ya."
+Vark, goblin scout, last words
+Illus. Edward P. Beard, Jr.     
+94/143
+
+Viashino Heretic        
+2R
+Summon Viashino 
+U
+1/3
+1R, T: Destroy target artifact. Viashino Heretic deals to that artifact's controller damage equal to the artifact's total casting cost.
+"The past is buried for good reason."
+Illus. Douglas Shuler   
+95/143
+
+Viashino Sandscout      
+1R
+Summon Viashino 
+C
+2/1
+Viashino Sandscout is unaffected by summoning sickness.
+At end of turn, return Viashino Sandscout to owner's hand.
+Illus. Scott M. Fischer 
+96/143
+
+Bloated Toad    
+2G
+Summon Toad     
+U
+2/2
+Protection from blue
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Una Fricker      
+97/143
+
+Crop Rotation   
+G
+Instant 
+C
+At the time you play Crop Rotation, sacrifice a land.
+Search your library for a land card and put that land into play. Shuffle your library afterward.
+"Hmm . . . maybe lotuses this year."
+Illus. DiTerlizzi       
+98/143
+
+Darkwatch Elves 
+2G
+Summon Elves    
+U
+2/2
+Protection from black
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Hazeltine        
+99/143
+
+Defense of the Heart    
+3G
+Enchantment     
+R
+During your upkeep, if one of your opponents controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those creatures into play. Shuffle your library afterward.
+Illus. Rebecca Guay     
+100/143
+
+Deranged Hermit 
+3GG
+Summon Elf      
+R
+1/1
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Deranged Hermit comes into play, put four Squirrel tokens into play. Treat these tokens as 1/1 green creatures.
+All Squirrels get +1/+1.
+Illus. Kev Walker       
+
+101/143
+
+Gang of Elk     
+5G
+Summon Beasts   
+U
+5/4
+Whenever a creature blocks it, Gang of Elk gets +2/+2 until end of turn.
+The elk is Gaea's favorite, who wears the forest on its brow.
+Illus. Una Fricker      
+102/143
+
+Harmonic Convergence    
+2G
+Instant 
+U
+Return all enchantments to top of owners' libraries.
+When the eternal stars align, can mere mortals resist?
+Illus. John Avon        
+103/143
+
+Hidden Gibbons  
+G
+Enchantment     
+R
+When one of your opponents successfully casts an instant or interrupt spell, if Hidden Gibbons is an enchantment, Hidden Gibbons becomes a 4/4 creature that counts as an Ape.
+When these apes want something, it's a matter of gibbon take.
+Illus. Una Fricker      
+104/143
+
+Lone Wolf       
+2G
+Summon Wolf     
+U
+2/2
+You may have Lone Wolf deal combat damage to defending player instead of to creatures blocking it.
+A wolf without a pack is either a survivor or a brute.
+Illus. Una Fricker      
+105/143
+
+Might of Oaks   
+3G
+Instant 
+R
+Target creature gets +7/+7 until end of turn.
+Suddenly, she couldn't see the acorns for the trees.
+Illus. Ron Spencer      
+106/143
+
+Multani, Maro-Sorcerer  
+4GG
+Summon Legend   
+R
+*/*
+Multani, Maro-Sorcerer has power and toughness each equal to the total number of cards in all players' hands.
+Multani cannot be the target of spells or abilities.
+"To make peace with the forest, make peace with me." -Multani, to Urza
+Illus. Daren Bader      
+107/143
+
+Multani's Acolyte       
+GG
+Summon Elf      
+C
+2/1
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Multani's Acolyte comes into play, draw a card.
+Illus. Edward P. Beard, Jr.     
+108/143
+
+Multani's Presence      
+G
+Enchantment     
+U
+Whenever a spell you play is countered, draw a card.
+When a tree falls in the forest, Multani hears it.
+Illus. Scott M. Fischer 
+109/143
+
+Rancor  
+G
+Enchant Creature        
+C
+Enchanted creature gains +2/+0 and trample.
+When Rancor is put into a graveyard from play, return Rancor to owner's hand.
+Hatred outlives the hateful.
+Illus. Kev Walker       
+110/143
+
+Repopulate      
+1G
+Instant 
+C
+Shuffle all creature cards from target player's graveyard into that player's library.
+Cycling 2 (You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)
+Illus. Una Fricker      
+111/143
+
+Silk Net        
+G
+Instant 
+C
+Target creature gets +1/+1 and can block creatures with flying until end of turn.
+Sometimes it's possible to pull a meal out of thin air.
+Illus. Rob Alexander    
+112/143
+
+Simian Grunts   
+2G
+Summon Apes     
+C
+3/4
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+You may play Simian Grunts any time you could play an instant.
+These monkeys mean business.
+Illus. Pete Venters     
+113/143
+
+Treefolk Mystic 
+3G
+Summon Treefolk 
+C
+2/4
+Whenever a creature blocks or is blocked by Treefolk Mystic, destroy all enchantments on that creature.
+Urza's wards fell from him like autumn leaves as he entered the dreaming grove. He awoke imprisoned in living wood.
+Illus. DiTerlizzi       
+114/143
+
+Weatherseed Elf 
+G
+Summon Elf      
+C
+1/1
+T: Target creature gains forestwalk until end of turn. (If defending player controls a forest, this creature is unblockable.)
+"My grandmother once told me the future of our world was inside the Weatherseed. When I touched it, I knew she was right."
+Illus. Heather Hudson   
+115/143
+
+Weatherseed Treefolk    
+2GGG
+Summon Treefolk 
+R
+5/3
+Trample
+When Weatherseed Treefolk is put into a graveyard from play, return Weatherseed Treefolk to owner's hand.
+Illus. Heather Hudson   
+116/143
+
+Wing Snare      
+2G
+Sorcery 
+U
+Destroy target creature with flying.
+"Argoth's doom rained from a clear sky. Yavimaya will not share that fate."
+Multani, maro-sorcerer
+Illus. Henry Van Der Linde      
+117/143
+
+Yavimaya Granger        
+2G
+Summon Elf      
+C
+2/2
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+When Yavimaya Granger comes into play, you may search your library for a basic land card and put that land into play tapped. Shuffle your library afterward.
+Illus. Henry Van Der Linde      
+118/143
+
+Yavimaya Scion  
+4G
+Summon Treefolk 
+C
+4/4
+Protection from artifacts
+Each time the saw blade bit, the tree spat it out.
+Illus. DiTerlizzi       
+119/143
+
+Yavimaya Wurm   
+4GG
+Summon Wurm     
+C
+6/4
+Trample
+When the gorilla playfully grabbed the wurm's tail, the wurm doubled back and playfully ate the gorilla's head.
+Illus. Melissa A. Benson        
+120/143
+
+Angel's Trumpet 
+3
+Artifact        
+U
+Attacking does not cause creatures to tap.
+At the end of each player's turn, tap all untapped creatures he or she controls that did not attack this turn. Angel's Trumpet deals 1 damage to that player for each creature tapped this way.
+Illus. Kev Walker       
+121/143
+
+Beast of Burden 
+6
+Artifact Creature       
+R
+*/*
+Beast of Burden has power and toughness each equal to the total number of creatures in play.
+"If it is meant to be nothing but a machine," Karn finally asked Jhoira, "why did Urza build it to be like me?"
+Illus. Ron Spears       
+122/143
+
+Crawlspace      
+3
+Artifact        
+R
+No more than two creatures can attack you each combat.
+The goblins did not understand their attraction to the mana rig. They simply knew it was where they belonged.
+Illus. Douglas Shuler   
+123/143
+
+Damping Engine  
+4
+Artifact        
+R
+A player who controls more permanents than any other cannot play lands or artifact, creature, or enchantment spells. That player may sacrifice a permanent to ignore this effect until end of turn.
+Illus. rk post  
+124/143
+
+
+Defense Grid    
+2
+Artifact        
+R
+During each player's turn, spells played by another player cost an additional o3.
+"We've managed to keep the goblins in their assigned areas, but there's little we can do about the smell."
+        Whip Tongue, viashino technician
+Illus. Mark Tedin       
+125/143
+
+Grim Monolith   
+2
+Artifact        
+R
+Grim Monolith does not untap during your untap phase.
+T: Add three colorless mana to your mana pool. Play this ability as a mana source.
+4: Untap Grim Monolith.
+Part prison, part home.
+Illus. Chippy   
+126/143
+
+Iron Maiden     
+3
+Artifact        
+R
+During each of your opponents' upkeeps, Iron Maiden deals 1 damage to that player for each card more than four in his or her hand.
+The maiden is a jealous lover.
+Illus. Tom Wänerstrand 
+127/143
+
+Jhoira's Toolbox        
+2
+Artifact Creature       
+U
+1/1
+2: Regenerate target artifact creature.
+It entertained Jhoira to craft a kit that could bring her the tools.
+Illus. Mike Raabe       
+128/143
+
+Memory Jar      
+5
+Artifact        
+R
+T, Sacrifice Memory Jar: Each player sets aside his or her hand, face down, and draws seven cards. At end of turn, each player discards his or her hand and returns to his or her hand each card he or she set aside this way.
+Illus. Donato Giancola  
+129/143
+
+Quicksilver Amulet      
+4
+Artifact        
+R
+4, T: Choose a creature card in your hand and put that creature into play.
+"Wonderful! You got a lion on your first try. Now put it back."
+Illus. Douglas Shuler   
+130/143
+
+Ring of Gix     
+3
+Artifact        
+R
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+1, T: Tap target artifact, creature, or land.
+Not every cage is made of bars.
+Illus. Mark Tedin       
+131/143
+
+Scrapheap       
+3
+Artifact        
+R
+Whenever an artifact or enchantment is put into your graveyard from play, gain 1 life.
+Junk heaps have rats, but scrapheaps have goblins.
+Illus. Bradley Williams 
+132/143
+
+Thran Lens      
+2
+Artifact        
+R
+All permanents are colorless.
+"Every device in the rig is evidence of Thran enlightenment. All mana was the same to them, whether from rock or water, growth or decay. Can you imagine such unity of vision?
+Urza, journal
+Illus. L. A. Williams   
+133/143
+
+Thran War Machine       
+4
+Artifact Creature       
+U
+4/5
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+Thran War Machine attacks each turn if able.
+Illus. Pete Venters     
+134/143
+
+Thran Weaponry  
+4
+Artifact        
+R
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+You may choose not to untap Thran Weaponry during your untap phase.
+2, T: All creatures get +2/+2 as long as Thran Weaponry remains tapped.
+Illus. Anthony S. Waters        
+135/143
+
+Ticking Gnomes  
+3
+Artifact Creature       
+U
+3/3
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+Sacrifice Ticking Gnomes: Ticking Gnomes deals 1 damage to target creature or player.
+Illus. Henry Van Der Linde      
+136/143
+
+Urza's Blueprints       
+6
+Artifact        
+R
+Echo (During your next upkeep after this permanent comes under your control, pay its casting cost or sacrifice it.)
+T: Draw a card.
+From concept to paper to reality.
+Illus. Tom Wänerstrand 
+137/143
+
+Wheel of Torture        
+3
+Artifact        
+R
+During each of your opponents' upkeeps, Wheel of Torture deals 1 damage to that player for each card fewer than three in his or her hand.
+"I'd like to buy a bowel."
+Illus. Henry Van Der Linde      
+138/143
+
+Faerie Conclave 
+Land    
+U
+Faerie Conclave comes into play tapped.
+T: Add one blue mana to your mana pool.
+1U: Faerie Conclave becomes a 2/1 blue creature with flying until end of turn. This creature still counts as a land.
+Illus. Val Mayerik      
+139/143
+
+Forbidding Watchtower   
+Land    
+U
+Forbidding Watchtower comes into play tapped.
+T: Add one white mana to your mana pool.
+1W: Forbidding Watchtower becomes a 1/5 white creature until end of turn. This creature still counts as a land.
+Illus. Mark Brill       
+140/143
+
+Ghitu Encampment        
+Land    
+U
+Ghitu Encampment comes into play tapped.
+T: Add one red mana to your mana pool.
+1R: Ghitu Encampment becomes a 2/1 red creature with first strike until end of turn. This creature still counts as a land.
+Illus. Hazeltine        
+141/143
+
+Spawning Pool   
+Land    
+U
+Spawning Pool comes into play tapped.
+T: Add one black mana to your mana pool.
+1B: Spawning Pool becomes a 1/1 black creature with "B: Regenerate this creature" until end of turn. This creature still counts as a land."
+Illus. Rob Alexander    
+142/143
+
+Treetop Village 
+Land    
+U
+Treetop Village comes into play tapped.
+T: Add one green mana to your mana pool.
+1G: Treetop Village becomes a 3/3 green creature with trample until end of turn. This creature still counts as a land.
+Illus. Anthony S. Waters        
+143/143
+
+Copyright 1999 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+and Urza's Legacy are trademarks of Wizards of the Coast, Inc.

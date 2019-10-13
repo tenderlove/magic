@@ -1,0 +1,4472 @@
+  Card Name: Altar's Light
+      Color: W
+       Cost: 2WW
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Remove target artifact or enchantment from the game. 
+Flavor Text: "The altar does nothing; the device is crushed under 
+             the weight of its own impurity." 
+             -Ushanti, leonin seer 
+     Rarity: U 
+     Number: 1/306
+     Artist: Daren Bader 
+
+
+  Card Name: Arrest
+      Color: W
+       Cost: 2W
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature can't attack or block, and its 
+activated 
+             abilities can't be played. 
+Flavor Text: "Unfortunately, it doesn't restrain the beast's smell." 
+             -Glissa Sunseeker 
+     Rarity: C 
+     Number: 2/306
+     Artist: Tim Hildebrandt 
+
+
+  Card Name: Auriok Bladewarden
+      Color: W
+       Cost: 1W
+       Type: Creature - Human Soldier
+    Pow/Tgh: 1/1
+ Rules Text: T: Target creature gets +X/+X until end of turn, where 
+             X is Auriok Bladewarden's power. 
+Flavor Text: The Auriok have learned through constant struggle that 
+             allies are more precious than water. 
+     Rarity: U 
+     Number: 3/306
+     Artist: Dave Dorman 
+
+
+  Card Name: Auriok Steelshaper
+      Color: W
+       Cost: 1W
+       Type: Creature - Human Soldier
+    Pow/Tgh: 1/1
+ Rules Text: Equip costs you pay cost 1 less. 
+             As long as Auriok Steelshaper is equipped, Soldiers 
+             and Knights you control get +1/+1. 
+Flavor Text: They put their safety in his hands. He puts sharpened 
+             steel in theirs. 
+     Rarity: R 
+     Number: 4/306
+     Artist: Dany Orizio 
+
+
+  Card Name: Auriok Transfixer
+      Color: W
+       Cost: W
+       Type: Creature - Human Scout
+    Pow/Tgh: 1/1
+ Rules Text: W, T: Tap target artifact. 
+Flavor Text: "My grandfather knew enough spells to fill a hundred 
+             scrolls. Nowadays, if a spell cannot fight the levelers, 
+             it is not even taught to our young." 
+     Rarity: C 
+     Number: 5/306
+     Artist: Stephen Tappin 
+
+
+  Card Name: Awe Strike
+      Color: W
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: The next time target creature would deal damage this 
+             turn, prevent that damage. You gain life equal to the 
+             damage prevented this way. 
+Flavor Text: Stunned by the mere presence of the leonin kha, the 
+             nim raider quickly fell to its knees. 
+     Rarity: C 
+     Number: 6/306
+     Artist: Scott M. Fischer 
+
+
+  Card Name: Blinding Beam
+      Color: W
+       Cost: 2W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one - Tap two target creatures; or creatures 
+             don't untap during target player's next untap step. 
+             Entwine 1 (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 7/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Leonin Abunas
+      Color: W
+       Cost: 3W
+       Type: Creature - Cat Cleric
+    Pow/Tgh: 2/5
+ Rules Text: Artifacts you control can't be the targets of spells 
+             or abilities your opponents control. 
+Flavor Text: Only leonin clerics who can survive the Razor Fields 
+             for one turning of the suns can stand in the Cave of 
+             Light. 
+     Rarity: R 
+     Number: 8/306
+     Artist: Darrell Riche 
+
+
+  Card Name: Leonin Den-Guard
+      Color: W
+       Cost: 1W
+       Type: Creature - Cat Soldier
+    Pow/Tgh: 1/3
+ Rules Text: As long as Leonin Den-Guard is equipped, it gets +1/+1 
+             and attacking doesn't cause it to tap. 
+Flavor Text: No one under the four suns can elude the watchful eye 
+             of the den-guard. 
+     Rarity: C 
+     Number: 9/306
+     Artist: Todd Lockwood 
+
+
+  Card Name: Leonin Elder
+      Color: W
+       Cost: W
+       Type: Creature - Cat Cleric
+    Pow/Tgh: 1/1
+ Rules Text: Whenever an artifact comes into play, you may gain 
+             1 life. 
+Flavor Text: "The wisdom of the elders is just as much a weapon 
+             as a sword or spear. We must learn to wield it." 
+             -Ushanti, leonin seer 
+     Rarity: C 
+     Number: 10/306
+     Artist: Todd Lockwood 
+
+
+  Card Name: Leonin Skyhunter
+      Color: W
+       Cost: WW
+       Type: Creature - Cat Knight
+    Pow/Tgh: 2/2
+ Rules Text: Flying 
+Flavor Text: The skyhunters were born when the first leonin gazed 
+             at the heavens and wished to hunt the birds overhead. 
+     Rarity: U 
+     Number: 11/306
+     Artist: Kev Walker 
+
+
+  Card Name: Loxodon Mender
+      Color: W
+       Cost: 5W
+       Type: Creature - Elephant Cleric
+    Pow/Tgh: 3/3
+ Rules Text: W, T: Regenerate target artifact. 
+Flavor Text: The Auriok believe that in the hands of a loxodon, 
+             no weapon can be broken. 
+     Rarity: C 
+     Number: 12/306
+     Artist: Heather Hudson 
+
+
+  Card Name: Loxodon Peacekeeper
+      Color: W
+       Cost: 1W
+       Type: Creature - Elephant Soldier
+    Pow/Tgh: 4/4
+ Rules Text: At the beginning of your upkeep, the player with the 
+             lowest life total gains control of Loxodon Peacekeeper. 
+             If two or more players are tied for lowest life total, 
+             you choose one of them, and that player gains control 
+             of Loxodon Peacekeeper. 
+Flavor Text: 
+     Rarity: R 
+     Number: 13/306
+     Artist: Michael Sutfin 
+
+
+  Card Name: Loxodon Punisher
+      Color: W
+       Cost: 3W
+       Type: Creature - Elephant Soldier
+    Pow/Tgh: 2/2
+ Rules Text: Loxodon Punisher gets +2/+2 for each Equipment attached 
+             to it. 
+Flavor Text: The loxodons believe punishment comes in two steps: 
+             pain and atonement. They carry a weapon for each. 
+     Rarity: R 
+     Number: 14/306
+     Artist: Terese Nielsen 
+
+
+  Card Name: Luminous Angel
+      Color: W
+       Cost: 4WWW
+       Type: Creature - Angel
+    Pow/Tgh: 4/4
+ Rules Text: Flying 
+             At the beginning of your upkeep, you may put a 1/1 
+             white Spirit creature token with flying into play. 
+Flavor Text: 
+     Rarity: R 
+     Number: 15/306
+     Artist: Matthew D. Wilson 
+
+
+  Card Name: Raise the Alarm
+      Color: W
+       Cost: 1W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put two 1/1 white Soldier creature tokens into play. 
+Flavor Text: "The nim raid our homes without warning. We must defend 
+             our homes without hesitation." 
+     Rarity: C 
+     Number: 16/306
+     Artist: John Matson 
+
+
+  Card Name: Razor Barrier
+      Color: W
+       Cost: 1W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target permanent you control gains protection from 
+             artifacts or from the color of your choice until end 
+             of turn. 
+Flavor Text: "We protect our homelands. Why should they not protect 
+             us?" 
+     Rarity: C 
+     Number: 17/306
+     Artist: Ron Spencer 
+
+
+  Card Name: Roar of the Kha
+      Color: W
+       Cost: 1W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one - Creatures you control get +1/+1 until 
+             end of turn; or untap all creatures you control. 
+             Entwine 1W (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 18/306
+     Artist: Matt Cavotta 
+
+
+  Card Name: Rule of Law
+      Color: W
+       Cost: 2W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Each player can't play more than one spell each turn. 
+Flavor Text: Appointed by the kha himself, members of the tribunal 
+             ensure all disputes are settled with the utmost fairness. 
+     Rarity: R 
+     Number: 19/306
+     Artist: Scott M. Fischer 
+
+
+  Card Name: Second Sunrise
+      Color: W
+       Cost: 1WW
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Each player returns to play all artifact, creature, 
+             enchantment, and land cards that were put into his 
+             or her graveyard from play this turn. 
+Flavor Text: The bright tunnel sometimes leads back to life. 
+     Rarity: R 
+     Number: 20/306
+     Artist: Greg Staples 
+
+
+  Card Name: Skyhunter Cub
+      Color: W
+       Cost: 2W
+       Type: Creature - Cat Knight
+    Pow/Tgh: 2/2
+ Rules Text: As long as Skyhunter Cub is equipped, it gets +1/+1 
+             and has flying. 
+Flavor Text: Every young leonin wishes to become a skyhunter, for 
+             they soar closest to the suns. 
+     Rarity: C 
+     Number: 21/306
+     Artist: Pete Venters 
+
+
+  Card Name: Skyhunter Patrol
+      Color: W
+       Cost: 2WW
+       Type: Creature - Cat Knight
+    Pow/Tgh: 2/3
+ Rules Text: Flying, first strike 
+Flavor Text: "They are the first to raise the alarm when the levelers 
+             attack, and the first to risk their lives to defend 
+             the pride." 
+             -Raksha Golden Cub, leonin kha 
+     Rarity: C 
+     Number: 22/306
+     Artist: Matt Cavotta 
+
+
+  Card Name: Slith Ascendant
+      Color: W
+       Cost: 1WW
+       Type: Creature - Slith
+    Pow/Tgh: 1/1
+ Rules Text: Flying 
+             Whenever Slith Ascendant deals combat damage to a player, 
+             put a +1/+1 counter on it. 
+Flavor Text: Instinctively drawn to the light of its "mother-sun," 
+             each slith follows that sun's path around Mirrodin. 
+     Rarity: U 
+     Number: 23/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Solar Tide
+      Color: W
+       Cost: 4WW
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose one - Destroy all creatures with power 2 or 
+             less; or destroy all creatures with power 3 or greater. 
+             Entwine-Sacrifice two lands. (Choose both if you pay 
+             the entwine cost.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 24/306
+     Artist: Dave Dorman 
+
+
+  Card Name: Soul Nova
+      Color: W
+       Cost: 3WW
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Remove target attacking creature and all Equipment 
+             attached to it from the game. 
+Flavor Text: Within seconds, the nim was consumed in blinding sunfire. 
+             Afterwards, only a puddle of molten iron remained. 
+     Rarity: U 
+     Number: 25/306
+     Artist: Keith Garletts 
+
+
+  Card Name: Sphere of Purity
+      Color: W
+       Cost: 3W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: If an artifact would deal damage to you, prevent 1 
+             of that damage. 
+Flavor Text: Purity rejects artifice. 
+     Rarity: C 
+     Number: 26/306
+     Artist: Thomas Gianni 
+
+
+  Card Name: Taj-Nar Swordsmith
+      Color: W
+       Cost: 3W
+       Type: Creature - Cat Soldier
+    Pow/Tgh: 2/3
+ Rules Text: When Taj-Nar Swordsmith comes into play, you may pay 
+             X. If you do, search your library for an Equipment 
+             card with converted mana cost X or less and put that 
+             card into play. Then shuffle your library. 
+Flavor Text: 
+     Rarity: U 
+     Number: 27/306
+     Artist: Todd Lockwood 
+
+
+  Card Name: Tempest of Light
+      Color: W
+       Cost: 2W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy all enchantments. 
+Flavor Text: "This world reeks of another's hand. Someone or something 
+             is defying the power of the gods and shaping this planet. 
+             I intend for it to stop." 
+             -Glissa Sunseeker 
+     Rarity: U 
+     Number: 28/306
+     Artist: Wayne England 
+
+
+  Card Name: Annul
+      Color: U
+       Cost: U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target artifact or enchantment spell. 
+Flavor Text: "Murder of the living is tragic, but murder of the 
+             idea is unforgivable." 
+             -Janus, speaker of the synod 
+     Rarity: C 
+     Number: 29/306
+     Artist: Brian Snoddy 
+
+
+  Card Name: Assert Authority
+      Color: U
+       Cost: 5UU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+             Counter target spell. If it's countered this way, remove 
+             it from the game instead of putting it into its owner's 
+             graveyard. 
+Flavor Text: 
+     Rarity: U 
+     Number: 30/306
+     Artist: Greg Hildebrandt 
+
+
+  Card Name: Broodstar
+      Color: U
+       Cost: 8UU
+       Type: Creature - Beast
+    Pow/Tgh: */*
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+             Flying 
+             Broodstar's power and toughness are each equal to the 
+             number of artifacts you control. 
+Flavor Text: 
+     Rarity: R 
+     Number: 31/306
+     Artist: Glen Angus 
+
+
+  Card Name: Disarm
+      Color: U
+       Cost: U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Unattach all Equipment from target creature. 
+Flavor Text: "Be thankful I left you your clothes." 
+     Rarity: C 
+     Number: 32/306
+     Artist: Alex Horley-Orlandelli 
+
+
+  Card Name: Domineer
+      Color: U
+       Cost: 1UU
+       Type: Enchant Artifact Creature 
+    Pow/Tgh: 
+ Rules Text: You control enchanted artifact creature. 
+Flavor Text: Since they haven't seen their original master for 
+millennia, 
+             golems are eager to take orders from anyone. 
+     Rarity: U 
+     Number: 33/306
+     Artist: Jon Foster 
+
+
+  Card Name: Dream's Grip
+      Color: U
+       Cost: U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one - Tap target permanent; or untap target 
+             permanent. 
+             Entwine 1 (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 34/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Fabricate
+      Color: U
+       Cost: 2U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Search your library for an artifact card, reveal it, 
+             and put it into your hand. Then shuffle your library. 
+Flavor Text: "The secret to invention is to see something in your 
+             mind, then find where it hides in the world." 
+     Rarity: U 
+     Number: 35/306
+     Artist: Glen Angus 
+
+
+  Card Name: Fatespinner
+      Color: U
+       Cost: 1UU
+       Type: Creature - Human Wizard
+    Pow/Tgh: 1/2
+ Rules Text: At the beginning of each opponent's upkeep, that player 
+             chooses draw step, main phase, or combat phase. The 
+             player skips each instance of the chosen step or phase 
+             this turn. 
+Flavor Text: No one knows what she is watching, but she never takes 
+             her eyes off it. 
+     Rarity: R 
+     Number: 36/306
+     Artist: rk post 
+
+
+  Card Name: Inertia Bubble
+      Color: U
+       Cost: 1U
+       Type: Enchant Artifact 
+    Pow/Tgh: 
+ Rules Text: Enchanted artifact doesn't untap during its controller's 
+             untap step. 
+Flavor Text: "I wouldn't want you to hurt yourself." 
+             -Bruenna, Neurok leader 
+     Rarity: C 
+     Number: 37/306
+     Artist: Hugh Jamieson 
+
+
+  Card Name: Looming Hoverguard
+      Color: U
+       Cost: 4UU
+       Type: Creature - Drone
+    Pow/Tgh: 3/3
+ Rules Text: Flying 
+             When Looming Hoverguard comes into play, put target 
+             artifact on top of its owner's library. 
+Flavor Text: Although mute, hoverguards get their message across 
+             loud and clear. 
+     Rarity: U 
+     Number: 38/306
+     Artist: Scott M. Fischer 
+
+
+  Card Name: Lumengrid Augur
+      Color: U
+       Cost: 3U
+       Type: Creature - Vedalken Wizard
+    Pow/Tgh: 2/2
+ Rules Text: 1, T: Target player draws a card, then discards a card 
+             from his or her hand. If that player discards an artifact 
+             card this way, untap Lumengrid Augur. 
+Flavor Text: Information pumps like blood through vedalken society. 
+     Rarity: R 
+     Number: 39/306
+     Artist: rk post 
+
+
+  Card Name: Lumengrid Sentinel
+      Color: U
+       Cost: 2U
+       Type: Creature - Human Wizard
+    Pow/Tgh: 1/2
+ Rules Text: Flying 
+             Whenever an artifact comes into play under your control, 
+             you may tap target permanent. 
+Flavor Text: The vedalken order their Neurok sentinels to watch 
+             over the shores of the Quicksilver Sea, as if they 
+             know of intruders yet to come. 
+     Rarity: U 
+     Number: 40/306
+     Artist: Scott M. Fischer 
+
+
+  Card Name: Lumengrid Warden
+      Color: U
+       Cost: 1U
+       Type: Creature - Human Wizard
+    Pow/Tgh: 1/3
+ Rules Text: 
+Flavor Text: The Neurok, like the vedalken, are on a constant quest 
+             for knowledge. It is their currency, their trade, their 
+             life. 
+     Rarity: C 
+     Number: 41/306
+     Artist: Matt Thompson 
+
+
+  Card Name: March of the Machines
+      Color: U
+       Cost: 3U
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Each noncreature artifact is an artifact creature with 
+             power and toughness each equal to its converted mana 
+             cost. (Equipment that's a creature can't equip a 
+creature.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 42/306
+     Artist: Ben Thompson 
+
+
+  Card Name: Neurok Familiar
+      Color: U
+       Cost: 1U
+       Type: Creature - Bird
+    Pow/Tgh: 1/1
+ Rules Text: Flying 
+             When Neurok Familiar comes into play, reveal the top 
+             card of your library. If it's an artifact card, put 
+             it into your hand. Otherwise, put it into your graveyard. 
+Flavor Text: 
+     Rarity: C 
+     Number: 43/306
+     Artist: Edward P. Beard, Jr. 
+
+
+  Card Name: Neurok Spy
+      Color: U
+       Cost: 2U
+       Type: Creature - Human Rogue
+    Pow/Tgh: 2/2
+ Rules Text: Neurok Spy is unblockable as long as defending player 
+             controls an artifact. 
+Flavor Text: From the murk of Mephidross to the heart of Kuldotha, 
+             the vedalken send their servants forth to gather knowledge 
+             from every inch of Mirrodin. 
+     Rarity: C 
+     Number: 44/306
+     Artist: Daren Bader 
+
+
+  Card Name: Override
+      Color: U
+       Cost: 2U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell unless its controller pays 1 for 
+             each artifact you control. 
+Flavor Text: "The Knowledge Pool has all the answers-especially 
+             'No.'" 
+     Rarity: C 
+     Number: 45/306
+     Artist: Hugh Jamieson 
+
+
+  Card Name: Psychic Membrane
+      Color: U
+       Cost: 2U
+       Type: Creature - Wall
+    Pow/Tgh: 0/3
+ Rules Text: (Walls can't attack.) 
+             Whenever Psychic Membrane blocks, you may draw a card. 
+Flavor Text: The vedalken always put their best thought forward. 
+     Rarity: U 
+     Number: 46/306
+     Artist: Tony Szczudlo 
+
+
+  Card Name: Quicksilver Elemental
+      Color: U
+       Cost: 3UU
+       Type: Creature - Elemental
+    Pow/Tgh: 3/4
+ Rules Text: U: Quicksilver Elemental gains all activated abilities 
+             of target creature until end of turn. (If any of the 
+             abilities use that creature's name, use this creature's 
+             name instead.) 
+             You may spend blue mana as though it were mana of any 
+             color to pay the activation costs of Quicksilver 
+Elemental's 
+             abilities. 
+Flavor Text: 
+     Rarity: R 
+     Number: 47/306
+     Artist: Tony Szczudlo 
+
+
+  Card Name: Regress
+      Color: U
+       Cost: 2U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Return target permanent to its owner's hand. 
+Flavor Text: "Once cast, a spell can be undone. But once revealed, 
+             a secret can never again be kept." 
+             -Pontifex, elder researcher 
+     Rarity: C 
+     Number: 48/306
+     Artist: Randy Gallegos 
+
+
+  Card Name: Shared Fate
+      Color: U
+       Cost: 4U
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: If a player would draw a card, that player removes 
+             the top card of an opponent's library from the game 
+             face down instead. 
+             Each player may look at and play cards he or she removed 
+             from the game with Shared Fate as though they were 
+             in his or her hand. 
+Flavor Text: 
+     Rarity: R 
+     Number: 49/306
+     Artist: Matt Cavotta 
+
+
+  Card Name: Slith Strider
+      Color: U
+       Cost: 1UU
+       Type: Creature - Slith
+    Pow/Tgh: 1/1
+ Rules Text: Whenever Slith Strider becomes blocked, draw a card. 
+             Whenever Slith Strider deals combat damage to a player, 
+             put a +1/+1 counter on it. 
+Flavor Text: A slith's form and function are determined by the color 
+             of the sun under which it's born. 
+     Rarity: U 
+     Number: 50/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Somber Hoverguard
+      Color: U
+       Cost: 5U
+       Type: Creature - Drone
+    Pow/Tgh: 3/2
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+             Flying 
+Flavor Text: The vedalken interrogate all intruders-once the 
+hoverguards 
+             are done with them. 
+     Rarity: C 
+     Number: 51/306
+     Artist: Adam Rex 
+
+
+  Card Name: Temporal Cascade
+      Color: U
+       Cost: 5UU
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose one - Each player shuffles his or her hand and 
+             graveyard into his or her library; or each player draws 
+             seven cards. 
+             Entwine 2 (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 52/306
+     Artist: Puddnhead 
+
+
+  Card Name: Thirst for Knowledge
+      Color: U
+       Cost: 2U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Draw three cards. Then discard two cards from your 
+             hand unless you discard an artifact card from your 
+             hand. 
+Flavor Text: Lymph, the fluid essence of blinkmoths, is prized by 
+             wizards for the rush of intellect it provides. 
+     Rarity: U 
+     Number: 53/306
+     Artist: Ben Thompson 
+
+
+  Card Name: Thoughtcast
+      Color: U
+       Cost: 4U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+             Draw two cards. 
+Flavor Text: Vedalken eyes don't see the beauty in things. They 
+             see only what those things can teach. 
+     Rarity: C 
+     Number: 54/306
+     Artist: Greg Hildebrandt 
+
+
+  Card Name: Vedalken Archmage
+      Color: U
+       Cost: 2UU
+       Type: Creature - Vedalken Wizard
+    Pow/Tgh: 0/2
+ Rules Text: Whenever you play an artifact spell, draw a card. 
+Flavor Text: "The Knowledge Pool knows. Memnarch understands." 
+             -Janus, speaker of the synod 
+     Rarity: R 
+     Number: 55/306
+     Artist: Kev Walker 
+
+
+  Card Name: Wanderguard Sentry
+      Color: U
+       Cost: 4U
+       Type: Creature - Drone
+    Pow/Tgh: 3/3
+ Rules Text: When Wanderguard Sentry comes into play, look at target 
+             opponent's hand. 
+Flavor Text: Created by the vedalken to guard Lumengrid, the drones' 
+             empty eyes look beyond the Quicksilver Sea. 
+     Rarity: C 
+     Number: 56/306
+     Artist: Luca Zontini 
+
+
+  Card Name: Barter in Blood
+      Color: B
+       Cost: 2BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Each player sacrifices two creatures. 
+Flavor Text: "In the game of conquest, who cares about the pawns 
+             if the king yet reigns?" 
+             -Geth, keeper of the Vault 
+     Rarity: U 
+     Number: 57/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Betrayal of Flesh
+      Color: B
+       Cost: 5B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one - Destroy target creature; or return target 
+             creature card from your graveyard to play. 
+             Entwine-Sacrifice three lands. (Choose both if you 
+             pay the entwine cost.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 58/306
+     Artist: Wayne England 
+
+
+  Card Name: Chimney Imp
+      Color: B
+       Cost: 4B
+       Type: Creature - Imp
+    Pow/Tgh: 1/2
+ Rules Text: Flying 
+             When Chimney Imp is put into a graveyard from play, 
+             target opponent puts a card from his or her hand on 
+             top of his or her library. 
+Flavor Text: 
+     Rarity: C 
+     Number: 59/306
+     Artist: Christopher Moeller 
+
+
+  Card Name: Consume Spirit
+      Color: B
+       Cost: X1B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Spend only black mana on X. 
+             Consume Spirit deals X damage to target creature or 
+             player. You gain X life. 
+Flavor Text: Mephidross changes all who dwell there, taking their 
+             lives and adding them to its own. 
+     Rarity: C 
+     Number: 60/306
+     Artist: Matt Thompson 
+
+
+  Card Name: Contaminated Bond
+      Color: B
+       Cost: 1B
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Whenever enchanted creature attacks or blocks, its 
+             controller loses 3 life. 
+Flavor Text: This leash disciplines the master. 
+     Rarity: C 
+     Number: 61/306
+     Artist: Thomas M. Baxa 
+
+
+  Card Name: Disciple of the Vault
+      Color: B
+       Cost: B
+       Type: Creature - Human Cleric
+    Pow/Tgh: 1/1
+ Rules Text: Whenever an artifact is put into a graveyard from play, 
+             you may have target opponent lose 1 life. 
+Flavor Text: He stands in the shadow of his lord, Geth, drinking 
+             in the dark energies of the Vault. 
+     Rarity: C 
+     Number: 62/306
+     Artist: Matt Thompson 
+
+
+  Card Name: Dross Harvester
+      Color: B
+       Cost: 1BB
+       Type: Creature - Horror
+    Pow/Tgh: 4/4
+ Rules Text: Protection from white 
+             At the end of your turn, you lose 4 life. 
+             Whenever a creature is put into a graveyard from play, 
+             you gain 2 life. 
+Flavor Text: 
+     Rarity: R 
+     Number: 63/306
+     Artist: Michael Sutfin 
+
+
+  Card Name: Dross Prowler
+      Color: B
+       Cost: 2B
+       Type: Creature - Zombie
+    Pow/Tgh: 2/1
+ Rules Text: Fear 
+Flavor Text: "I would never have believed that on a world with four 
+             suns there could exist a place so dark." 
+             -Glissa Sunseeker 
+     Rarity: C 
+     Number: 64/306
+     Artist: Michael Sutfin 
+
+
+  Card Name: Flayed Nim
+      Color: B
+       Cost: 3B
+       Type: Creature - Skeleton
+    Pow/Tgh: 2/2
+ Rules Text: Whenever Flayed Nim deals combat damage to a creature, 
+             that creature's controller loses that much life. 
+             2B: Regenerate Flayed Nim. 
+Flavor Text: 
+     Rarity: U 
+     Number: 65/306
+     Artist: Trevor Hairsine 
+
+
+  Card Name: Grim Reminder
+      Color: B
+       Cost: 2B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Search your library for a nonland card and reveal it. 
+             Each opponent who played a card this turn with the 
+             same name as that card loses 6 life. Then shuffle the 
+             revealed card back into your library.  
+             BB: Return Grim Reminder from your graveyard to your 
+             hand. Play this ability only during your upkeep. 
+Flavor Text: 
+     Rarity: R 
+     Number: 66/306
+     Artist: Wayne England 
+
+
+  Card Name: Irradiate
+      Color: B
+       Cost: 3B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets -1/-1 until end of turn for each 
+             artifact you control. 
+Flavor Text: The blast ignores the cage of metal but devours the 
+             flesh inside. 
+     Rarity: C 
+     Number: 67/306
+     Artist: Dave Dorman 
+
+
+  Card Name: Moriok Scavenger
+      Color: B
+       Cost: 3B
+       Type: Creature - Human Rogue
+    Pow/Tgh: 2/3
+ Rules Text: When Moriok Scavenger comes into play, you may return 
+             target artifact creature card from your graveyard to 
+             your hand. 
+Flavor Text: Many go to Mephidross in search of lost riches. Most 
+             end up as part of the cache. 
+     Rarity: C 
+     Number: 68/306
+     Artist: Puddnhead 
+
+
+  Card Name: Necrogen Mists
+      Color: B
+       Cost: 2B
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player's upkeep, that player 
+             discards a card from his or her hand. 
+Flavor Text: Mephidross filled with roars of fury and wails of despair 
+             as the leonin fought to keep their memories from being 
+             pulled into the mists. 
+     Rarity: R 
+     Number: 69/306
+     Artist: Alex Horley-Orlandelli 
+
+
+  Card Name: Nim Devourer
+      Color: B
+       Cost: 3BB
+       Type: Creature - Zombie
+    Pow/Tgh: 4/1
+ Rules Text: Nim Devourer gets +1/+0 for each artifact you control. 
+             BB: Return Nim Devourer from your graveyard to play, 
+             then sacrifice a creature. Play this ability only during 
+             your upkeep. 
+Flavor Text: 
+     Rarity: R 
+     Number: 70/306
+     Artist: Adam Rex 
+
+
+  Card Name: Nim Lasher
+      Color: B
+       Cost: 2B
+       Type: Creature - Zombie
+    Pow/Tgh: 1/1
+ Rules Text: Nim Lasher gets +1/+0 for each artifact you control. 
+Flavor Text: The rotting metal feeds the necrogen mists, and in 
+             turn the mists feed the nim. 
+     Rarity: C 
+     Number: 71/306
+     Artist: Adam Rex 
+
+
+  Card Name: Nim Shambler
+      Color: B
+       Cost: 2BB
+       Type: Creature - Zombie
+    Pow/Tgh: 2/1
+ Rules Text: Nim Shambler gets +1/+0 for each artifact you control. 
+             Sacrifice a creature: Regenerate Nim Shambler. 
+Flavor Text: Called "the Dross" by its inhabitants, Mephidross is 
+             home to the nim, Mirrodin's mindless, ravenous undead. 
+     Rarity: U 
+     Number: 72/306
+     Artist: Adam Rex 
+
+
+  Card Name: Nim Shrieker
+      Color: B
+       Cost: 3B
+       Type: Creature - Zombie
+    Pow/Tgh: 0/1
+ Rules Text: Flying 
+             Nim Shrieker gets +1/+0 for each artifact you control. 
+Flavor Text: As imps they were an annoyance. As nim they are a 
+pestilence. 
+     Rarity: C 
+     Number: 73/306
+     Artist: Adam Rex 
+
+
+  Card Name: Promise of Power
+      Color: B
+       Cost: 2BBB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose one - You draw five cards and you lose 5 life; 
+             or put a black Demon creature token with flying into 
+             play with power and toughness each equal to the number 
+             of cards in your hand as the token comes into play. 
+             Entwine 4 (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 74/306
+     Artist: Kev Walker 
+
+
+  Card Name: Reiver Demon
+      Color: B
+       Cost: 4BBBB
+       Type: Creature - Demon
+    Pow/Tgh: 6/6
+ Rules Text: Flying 
+             When Reiver Demon comes into play, if you played it 
+             from your hand, destroy all nonartifact, nonblack 
+creatures. 
+             They can't be regenerated. 
+Flavor Text: 
+     Rarity: R 
+     Number: 75/306
+     Artist: Brom 
+
+
+  Card Name: Relic Bane
+      Color: B
+       Cost: 1BB
+       Type: Enchant Artifact 
+    Pow/Tgh: 
+ Rules Text: Enchanted artifact has "At the beginning of your upkeep, 
+             you lose 2 life." 
+Flavor Text: A sword that has seen cowardice in battle exacts the 
+             price of honor from its wielder. 
+     Rarity: U 
+     Number: 76/306
+     Artist: Eric Peterson 
+
+
+  Card Name: Slith Bloodletter
+      Color: B
+       Cost: BB
+       Type: Creature - Slith
+    Pow/Tgh: 1/1
+ Rules Text: Whenever Slith Bloodletter deals combat damage to a 
+             player, put a +1/+1 counter on it. 
+             1B: Regenerate Slith Bloodletter. 
+Flavor Text: Goblins fear the slith, believing they are children 
+             banished from the womb of the Steel Mother, deep within 
+             Kuldotha. 
+     Rarity: U 
+     Number: 77/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Spoils of the Vault
+      Color: B
+       Cost: B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Name a card. Reveal cards from the top of your library 
+             until you reveal the named card, then put that card 
+             into your hand. Remove all other cards revealed this 
+             way from the game, and you lose 1 life for each of 
+             the removed cards. 
+Flavor Text: 
+     Rarity: R 
+     Number: 78/306
+     Artist: Thomas M. Baxa 
+
+
+  Card Name: Terror
+      Color: B
+       Cost: 1B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target nonartifact, nonblack creature. It can't 
+             be regenerated. 
+Flavor Text: "A simple trap in a dark corner of the mind, and their 
+             nightmares catch up with them." 
+             -Geth, keeper of the Vault 
+     Rarity: C 
+     Number: 79/306
+     Artist: Puddnhead 
+
+
+  Card Name: Vermiculos
+      Color: B
+       Cost: 4B
+       Type: Creature - Horror
+    Pow/Tgh: 1/1
+ Rules Text: Whenever an artifact comes into play, Vermiculos gets 
+             +4/+4 until end of turn. 
+Flavor Text: Mirrodin's artificial environment requires its own 
+             predators, scavengers, and senseless forces of nature. 
+     Rarity: R 
+     Number: 80/306
+     Artist: Daren Bader 
+
+
+  Card Name: Wail of the Nim
+      Color: B
+       Cost: 2B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one - Regenerate each creature you control; 
+             or Wail of the Nim deals 1 damage to each creature 
+             and each player. 
+             Entwine B (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 81/306
+     Artist: John Matson 
+
+
+  Card Name: Wall of Blood
+      Color: B
+       Cost: 2B
+       Type: Creature - Wall
+    Pow/Tgh: 0/2
+ Rules Text: (Walls can't attack.) 
+             Pay 1 life: Wall of Blood gets +1/+1 until end of turn. 
+Flavor Text: Blood is thicker than mortar. 
+     Rarity: U 
+     Number: 82/306
+     Artist: Tony Szczudlo 
+
+
+  Card Name: Woebearer
+      Color: B
+       Cost: 4B
+       Type: Creature - Zombie
+    Pow/Tgh: 2/3
+ Rules Text: Fear 
+             Whenever Woebearer deals combat damage to a player, 
+             you may return target creature card from your graveyard 
+             to your hand. 
+Flavor Text: 
+     Rarity: U 
+     Number: 83/306
+     Artist: Matt Thompson 
+
+
+  Card Name: Wrench Mind
+      Color: B
+       Cost: BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player discards two cards from his or her hand 
+             unless he or she discards an artifact card from his 
+             or her hand. 
+Flavor Text: What is the sound of one head snapping? 
+     Rarity: C 
+     Number: 84/306
+     Artist: Pete Venters 
+
+
+  Card Name: Arc-Slogger
+      Color: R
+       Cost: 3RR
+       Type: Creature - Beast
+    Pow/Tgh: 4/5
+ Rules Text: R, Remove the top ten cards of your library from the 
+             game: Arc-Slogger deals 2 damage to target creature 
+             or player. 
+Flavor Text: A shuffling sound and the smell of ozone follow the 
+             slogger as surely as its electric tail. 
+     Rarity: R 
+     Number: 85/306
+     Artist: Jeff Easley 
+
+
+  Card Name: Atog
+      Color: R
+       Cost: 1R
+       Type: Creature - Atog
+    Pow/Tgh: 1/2
+ Rules Text: Sacrifice an artifact: Atog gets +2/+2 until end of 
+             turn. 
+Flavor Text: On Dominaria, a scavenger. On Mirrodin, a predator. 
+     Rarity: U 
+     Number: 86/306
+     Artist: Puddnhead 
+
+
+  Card Name: Confusion in the Ranks
+      Color: R
+       Cost: 3RR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever an artifact, creature, or enchantment comes 
+             into play, its controller chooses target permanent 
+             another player controls that shares a type with it. 
+             Exchange control of those permanents. 
+Flavor Text: 
+     Rarity: R 
+     Number: 87/306
+     Artist: Ron Spencer 
+
+
+  Card Name: Detonate
+      Color: R
+       Cost: XR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact with converted mana cost X. 
+             It can't be regenerated. Detonate deals X damage to 
+             that artifact's controller. 
+Flavor Text: The goblins have forty-two different words for "ow." 
+     Rarity: U 
+     Number: 88/306
+     Artist: Dave Dorman 
+
+
+  Card Name: Electrostatic Bolt
+      Color: R
+       Cost: R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Electrostatic Bolt deals 2 damage to target creature. 
+             If it's an artifact creature, Electrostatic Bolt deals 
+             4 damage to it instead. 
+Flavor Text: It's hard to avoid electric shock when the entire plane 
+             is metallic. 
+     Rarity: C 
+     Number: 89/306
+     Artist: Randy Gallegos 
+
+
+  Card Name: Fiery Gambit
+      Color: R
+       Cost: 2R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Flip a coin until you lose a flip or choose to stop 
+             flipping. If you lose a flip, Fiery Gambit has no effect. 
+             If you win one or more flips, Fiery Gambit deals 3 
+             damage to target creature. If you win two or more flips, 
+             Fiery Gambit deals 6 damage to each opponent. If you 
+             win three or more flips, draw nine cards and untap 
+             all lands you control. 
+Flavor Text: 
+     Rarity: R 
+     Number: 90/306
+     Artist: Scott M. Fischer 
+
+
+  Card Name: Fists of the Anvil
+      Color: R
+       Cost: 1R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +4/+0 until end of turn. 
+Flavor Text: Gron's mind reeled with possibilities, most of which 
+             are best left unmentioned. 
+     Rarity: C 
+     Number: 91/306
+     Artist: Pete Venters 
+
+
+  Card Name: Forge Armor
+      Color: R
+       Cost: 4R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: As an additional cost to play Forge Armor, sacrifice 
+             an artifact. 
+             Put X +1/+1 counters on target creature, where X is 
+             the sacrificed artifact's converted mana cost. 
+Flavor Text: 
+     Rarity: U 
+     Number: 92/306
+     Artist: Tony Szczudlo 
+
+
+  Card Name: Fractured Loyalty
+      Color: R
+       Cost: 1R
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Whenever enchanted creature becomes the target of a 
+             spell or ability, that spell or ability's controller 
+             gains control of enchanted creature. (This effect doesn't 
+             end at end of turn.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 93/306
+     Artist: Greg Staples 
+
+
+  Card Name: Goblin Striker
+      Color: R
+       Cost: 1R
+       Type: Creature - Goblin Berserker
+    Pow/Tgh: 1/1
+ Rules Text: First strike, haste 
+Flavor Text: There's no word in the goblin language for "strategy." 
+             Then again, there's no word in the goblin language 
+             for "word." 
+     Rarity: C 
+     Number: 94/306
+     Artist: Kevin Dobler 
+
+
+  Card Name: Grab the Reins
+      Color: R
+       Cost: 3R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one - Until end of turn, you gain control of 
+             target creature and it gains haste; or sacrifice a 
+             creature, then Grab the Reins deals damage equal to 
+             that creature's power to target creature or player. 
+             Entwine 2R (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 95/306
+     Artist: Michael Sutfin 
+
+
+  Card Name: Incite War
+      Color: R
+       Cost: 2R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one - Creatures target player controls attack 
+             this turn if able; or creatures you control gain first 
+             strike until end of turn. 
+             Entwine 2 (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 96/306
+     Artist: Alex Horley-Orlandelli 
+
+
+  Card Name: Krark-Clan Grunt
+      Color: R
+       Cost: 2R
+       Type: Creature - Goblin Warrior
+    Pow/Tgh: 2/2
+ Rules Text: Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 
+             and gains first strike until end of turn. 
+Flavor Text: The more weapons a goblin breaks in battle, the more 
+             respected he becomes. 
+     Rarity: C 
+     Number: 97/306
+     Artist: Thomas M. Baxa 
+
+
+  Card Name: Krark-Clan Shaman
+      Color: R
+       Cost: R
+       Type: Creature - Goblin Shaman
+    Pow/Tgh: 1/1
+ Rules Text: Sacrifice an artifact: Krark-Clan Shaman deals 1 damage 
+             to each creature without flying. 
+Flavor Text: "What do you mean, we're out of stuff to melt down? 
+             Give me your leg." 
+     Rarity: C 
+     Number: 98/306
+     Artist: Thomas M. Baxa 
+
+
+  Card Name: Mass Hysteria
+      Color: R
+       Cost: R
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: All creatures have haste. 
+Flavor Text: The sooner you see the whites of their eyes, the sooner 
+             you'll spill the red of their blood. 
+     Rarity: R 
+     Number: 99/306
+     Artist: Adam Rex 
+
+
+  Card Name: Megatog
+      Color: R
+       Cost: 4RR
+       Type: Creature - Atog
+    Pow/Tgh: 3/4
+ Rules Text: Sacrifice an artifact: Megatog gets +3/+3 and gains 
+             trample until end of turn. 
+Flavor Text: In an ironic bit of evolution, the megatog's dozens 
+             of teeth are mainly ornamental. It prefers swallowing 
+             things whole. 
+     Rarity: R 
+     Number: 100/306
+     Artist: Pete Venters 
+
+
+  Card Name: Molten Rain
+      Color: R
+       Cost: 1RR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target land. If that land is nonbasic, Molten 
+             Rain deals 2 damage to the land's controller. 
+Flavor Text: When the molten rains fall, entire landscapes melt 
+             and flow away in rivulets of fire. 
+     Rarity: C 
+     Number: 101/306
+     Artist: Hugh Jamieson 
+
+
+  Card Name: Ogre Leadfoot
+      Color: R
+       Cost: 4R
+       Type: Creature - Ogre
+    Pow/Tgh: 3/3
+ Rules Text: Whenever Ogre Leadfoot becomes blocked by an artifact 
+             creature, destroy that creature. 
+Flavor Text: When the goblins need more scrap for the Great Furnace, 
+             they simply let the ogres loose and follow in their 
+             wake. 
+     Rarity: C 
+     Number: 102/306
+     Artist: Heather Hudson 
+
+
+  Card Name: Rustmouth Ogre
+      Color: R
+       Cost: 4RR
+       Type: Creature - Ogre
+    Pow/Tgh: 5/4
+ Rules Text: Whenever Rustmouth Ogre deals combat damage to a player, 
+             you may destroy target artifact that player controls. 
+Flavor Text: It has an iron stomach. Literally. 
+     Rarity: U 
+     Number: 103/306
+     Artist: Brian Snoddy 
+
+
+  Card Name: Seething Song
+      Color: R
+       Cost: 2R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Add RRRRR to your mana pool. 
+Flavor Text: Vulshok mana rituals echo the day when the red sun 
+             burst through Mirrodin's surface to take its place 
+             in the heavens. 
+     Rarity: C 
+     Number: 104/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Shatter
+      Color: R
+       Cost: 1R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact. 
+Flavor Text: Days of planning. Weeks of building. Months of perfecting. 
+             Seconds of smashing. 
+     Rarity: C 
+     Number: 105/306
+     Artist: Tim Hildebrandt 
+
+
+  Card Name: Shrapnel Blast
+      Color: R
+       Cost: 1R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: As an additional cost to play Shrapnel Blast, sacrifice 
+             an artifact. 
+             Shrapnel Blast deals 5 damage to target creature or 
+             player. 
+Flavor Text: From trinket to trauma. 
+     Rarity: U 
+     Number: 106/306
+     Artist: Dave Dorman 
+
+
+  Card Name: Slith Firewalker
+      Color: R
+       Cost: RR
+       Type: Creature - Slith
+    Pow/Tgh: 1/1
+ Rules Text: Haste 
+             Whenever Slith Firewalker deals combat damage to a 
+             player, put a +1/+1 counter on it. 
+Flavor Text: The slith incubate in the Great Furnace's heat, emerging 
+             on Mirrodin's surface only when the four suns have 
+             aligned overhead. 
+     Rarity: U 
+     Number: 107/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Spikeshot Goblin
+      Color: R
+       Cost: 2R
+       Type: Creature - Goblin Shaman
+    Pow/Tgh: 1/2
+ Rules Text: R, T: Spikeshot Goblin deals damage equal to its power 
+             to target creature or player. 
+Flavor Text: The path of a goblin shaman is a journey through a 
+             thousand ways of hurting people. 
+     Rarity: C 
+     Number: 108/306
+     Artist: Alan Pollack 
+
+
+  Card Name: Trash for Treasure
+      Color: R
+       Cost: 2R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: As an additional cost to play Trash for Treasure, 
+sacrifice 
+             an artifact. 
+             Return target artifact card from your graveyard to 
+             play. 
+Flavor Text: Goblins generally have two possessions: one per hand. 
+     Rarity: R 
+     Number: 109/306
+     Artist: Lars Grant-West 
+
+
+  Card Name: Vulshok Battlemaster
+      Color: R
+       Cost: 4R
+       Type: Creature - Human Warrior
+    Pow/Tgh: 2/2
+ Rules Text: Haste 
+             When Vulshok Battlemaster comes into play, attach all 
+             Equipment in play to it. (Control of the Equipment 
+             doesn't change.) 
+Flavor Text: "I could demonstrate how the leonin sunsplicer works, 
+             but then you'd be too dead to buy one." 
+     Rarity: R 
+     Number: 110/306
+     Artist: Kev Walker 
+
+
+  Card Name: Vulshok Berserker
+      Color: R
+       Cost: 3R
+       Type: Creature - Human Berserker
+    Pow/Tgh: 3/2
+ Rules Text: Haste 
+Flavor Text: He experiences every emotion with passion and repays 
+             every slight with vengeance. 
+     Rarity: C 
+     Number: 111/306
+     Artist: Pete Venters 
+
+
+  Card Name: War Elemental
+      Color: R
+       Cost: RRR
+       Type: Creature - Elemental
+    Pow/Tgh: 1/1
+ Rules Text: When War Elemental comes into play, sacrifice it unless 
+             an opponent was dealt damage this turn. 
+             Whenever damage is dealt to an opponent, put that many 
+             +1/+1 counters on War Elemental. 
+Flavor Text: 
+     Rarity: R 
+     Number: 112/306
+     Artist: Anthony S. Waters 
+
+
+  Card Name: Battlegrowth
+      Color: G
+       Cost: G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put a +1/+1 counter on target creature. 
+Flavor Text: "I would gladly die for the forest, but I'm much better 
+             at killing for it." 
+     Rarity: C 
+     Number: 113/306
+     Artist: John Matson 
+
+
+  Card Name: Bloodscent
+      Color: G
+       Cost: 3G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: All creatures able to block target creature this turn 
+             do so. 
+Flavor Text: To study the predators of the Tangle, two people are 
+             required: one to watch from above, and one to run like 
+             hell. 
+     Rarity: U 
+     Number: 114/306
+     Artist: Matt Cavotta 
+
+
+  Card Name: Brown Ouphe
+      Color: G
+       Cost: G
+       Type: Creature - Ouphe
+    Pow/Tgh: 1/1
+ Rules Text: 1G, T: Counter target activated ability from an artifact 
+             source. (Mana abilities can't be countered.) 
+Flavor Text: In a strange twist of fate, one of the most annoying 
+             creatures in the multiverse was brought to the place 
+             where it could cause the most damage. 
+     Rarity: U 
+     Number: 115/306
+     Artist: Greg Hildebrandt 
+
+
+  Card Name: Copperhoof Vorrac
+      Color: G
+       Cost: 3GG
+       Type: Creature - Beast
+    Pow/Tgh: 2/2
+ Rules Text: Copperhoof Vorrac gets +1/+1 for each untapped permanent 
+             your opponents control. 
+Flavor Text: Like all forest beasts, it lives by one rule: if there's 
+             no room to grow, make some. 
+     Rarity: R 
+     Number: 116/306
+     Artist: Matt Cavotta 
+
+
+  Card Name: Creeping Mold
+      Color: G
+       Cost: 2GG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact, enchantment, or land. 
+Flavor Text: The deadliest force on Mirrodin isn't the largest 
+organism-it's 
+             the smallest. 
+     Rarity: U 
+     Number: 117/306
+     Artist: Dany Orizio 
+
+
+  Card Name: Deconstruct
+      Color: G
+       Cost: 2G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact. Then add GGG to your mana 
+             pool. 
+Flavor Text: "Nothing in this world, not even magic, likes to be 
+             caged." 
+     Rarity: C 
+     Number: 118/306
+     Artist: D. Alexander Gregory 
+
+
+  Card Name: Fangren Hunter
+      Color: G
+       Cost: 3GG
+       Type: Creature - Beast
+    Pow/Tgh: 4/4
+ Rules Text: Trample 
+Flavor Text: Big ones hunt the elves, so the elves hunt the small 
+             ones to keep them from getting big. 
+     Rarity: C 
+     Number: 119/306
+     Artist: Darrell Riche 
+
+
+  Card Name: Glissa Sunseeker
+      Color: G
+       Cost: 2GG
+       Type: Creature - Elf Legend
+    Pow/Tgh: 3/2
+ Rules Text: First strike 
+             T: Destroy target artifact if its converted mana cost 
+             is equal to the amount of mana in your mana pool. 
+Flavor Text: "There's a secret at the heart of this world, and I 
+             will unlock it." 
+     Rarity: R 
+     Number: 120/306
+     Artist: Brom 
+
+
+  Card Name: Groffskithur
+      Color: G
+       Cost: 5G
+       Type: Creature - Beast
+    Pow/Tgh: 3/3
+ Rules Text: Whenever Groffskithur becomes blocked, you may return 
+             target card named Groffskithur from your graveyard 
+             to your hand. 
+Flavor Text: It growls not to threaten, but to summon. 
+     Rarity: C 
+     Number: 121/306
+     Artist: John Matson 
+
+
+  Card Name: Hum of the Radix
+      Color: G
+       Cost: 2GG
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Each artifact spell costs 1 more to play for each artifact 
+             its controller controls. 
+Flavor Text: The elves learned long ago that anything left here 
+             slowly vanishes. Now it is a sacred site where the 
+             dead are laid to rest and where unnatural magic is 
+             erased forever. 
+     Rarity: R 
+     Number: 122/306
+     Artist: John Avon 
+
+
+  Card Name: Journey of Discovery
+      Color: G
+       Cost: 2G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose one - Search your library for up to two basic 
+             land cards, reveal them, put them into your hand, then 
+             shuffle your library; or you may play up to two additional 
+             lands this turn. 
+             Entwine 2G (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 123/306
+     Artist: John Matson 
+
+
+  Card Name: Living Hive
+      Color: G
+       Cost: 6GG
+       Type: Creature - Elemental
+    Pow/Tgh: 6/6
+ Rules Text: Trample 
+             Whenever Living Hive deals combat damage to a player, 
+             put that many 1/1 green Insect creature tokens into 
+             play. 
+Flavor Text: In its center is a single red ant, a queen that regulates 
+             the hive's movements. 
+     Rarity: R 
+     Number: 124/306
+     Artist: Anthony S. Waters 
+
+
+  Card Name: Molder Slug
+      Color: G
+       Cost: 3GG
+       Type: Creature - Beast
+    Pow/Tgh: 4/6
+ Rules Text: At the beginning of each player's upkeep, that player 
+             sacrifices an artifact. 
+Flavor Text: Fortunately for it, Mirrodin is a plane without salt. 
+     Rarity: R 
+     Number: 125/306
+     Artist: Heather Hudson 
+
+
+  Card Name: One Dozen Eyes
+      Color: G
+       Cost: 5G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose one - Put a 5/5 green Beast creature token into 
+             play; or put five 1/1 green Insect creature tokens 
+             into play. 
+             Entwine GGG (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 126/306
+     Artist: Darrell Riche 
+
+
+  Card Name: Plated Slagwurm
+      Color: G
+       Cost: 4GGG
+       Type: Creature - Wurm
+    Pow/Tgh: 8/8
+ Rules Text: Plated Slagwurm can't be the target of spells or abilities 
+             your opponents control. 
+Flavor Text: Beneath the Tangle, the wurm tunnels stretch . . . 
+             wide as a stone's throw, long as forever, deep as you 
+             dare. 
+     Rarity: R 
+     Number: 127/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Predator's Strike
+      Color: G
+       Cost: 1G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +3/+3 and gains trample until 
+             end of turn. 
+Flavor Text: If you hear it coming, you're not its prey. 
+     Rarity: C 
+     Number: 128/306
+     Artist: Tony Szczudlo 
+
+
+  Card Name: Slith Predator
+      Color: G
+       Cost: GG
+       Type: Creature - Slith
+    Pow/Tgh: 1/1
+ Rules Text: Trample 
+             Whenever Slith Predator deals combat damage to a player, 
+             put a +1/+1 counter on it. 
+Flavor Text: Born amid the molten metal of the Great Furnace, the 
+             slith have more than adapted to the perils of a metal 
+             world. 
+     Rarity: U 
+     Number: 129/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Sylvan Scrying
+      Color: G
+       Cost: 1G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Search your library for a land card, reveal it, and 
+             put it into your hand. Then shuffle your library. 
+Flavor Text: One glimpse of an elf's home lasts her weeks away in 
+             the wild. 
+     Rarity: U 
+     Number: 130/306
+     Artist: Scott M. Fischer 
+
+
+  Card Name: Tel-Jilad Archers
+      Color: G
+       Cost: 4G
+       Type: Creature - Elf Archer
+    Pow/Tgh: 2/4
+ Rules Text: Protection from artifacts 
+             Tel-Jilad Archers may block as though it had flying. 
+Flavor Text: They are extensions of the Tangle, stretching its vines 
+             into the furthest reaches of the sky. 
+     Rarity: C 
+     Number: 131/306
+     Artist: Marcelo Vignali 
+
+
+  Card Name: Tel-Jilad Chosen
+      Color: G
+       Cost: 1G
+       Type: Creature - Elf Warrior
+    Pow/Tgh: 2/1
+ Rules Text: Protection from artifacts 
+Flavor Text: "It is my honor to keep safe Tel-Jilad's secrets, not 
+             to know them." 
+     Rarity: C 
+     Number: 132/306
+     Artist: Matthew D. Wilson 
+
+
+  Card Name: Tel-Jilad Exile
+      Color: G
+       Cost: 3G
+       Type: Creature - Troll Warrior
+    Pow/Tgh: 2/3
+ Rules Text: 1G: Regenerate Tel-Jilad Exile. 
+Flavor Text: For his crimes, he was made to forget all the trolls' 
+             secrets. Now he knows only that he is outcast, but 
+             not why. 
+     Rarity: C 
+     Number: 133/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Tooth and Nail
+      Color: G
+       Cost: 5GG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose one - Search your library for up to two creature 
+             cards, reveal them, put them into your hand, then shuffle 
+             your library; or put up to two creature cards from 
+             your hand into play. 
+             Entwine 2 (Choose both if you pay the entwine cost.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 134/306
+     Artist: Greg Hildebrandt 
+
+
+  Card Name: Troll Ascetic
+      Color: G
+       Cost: 1GG
+       Type: Creature - Troll Shaman
+    Pow/Tgh: 3/2
+ Rules Text: Troll Ascetic can't be the target of spells or abilities 
+             your opponents control. 
+             1G: Regenerate Troll Ascetic. 
+Flavor Text: It's no coincidence that the oldest trolls are also 
+             the angriest. 
+     Rarity: R 
+     Number: 135/306
+     Artist: Puddnhead 
+
+
+  Card Name: Trolls of Tel-Jilad
+      Color: G
+       Cost: 5GG
+       Type: Creature - Troll Shaman
+    Pow/Tgh: 5/6
+ Rules Text: 1G: Regenerate target green creature. 
+Flavor Text: "The secret of this world weighs upon us, and we have 
+             been shaped by time and duty to bear it." 
+     Rarity: U 
+     Number: 136/306
+     Artist: Marcelo Vignali 
+
+
+  Card Name: Turn to Dust
+      Color: G
+       Cost: G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target Equipment. Then add G to your mana pool. 
+Flavor Text: Mirrodin's inhabitants must be prepared for anything-
+including 
+             suddenly being unprepared. 
+     Rarity: C 
+     Number: 137/306
+     Artist: Wayne England 
+
+
+  Card Name: Viridian Joiner
+      Color: G
+       Cost: 2G
+       Type: Creature - Elf Druid
+    Pow/Tgh: 1/2
+ Rules Text: T: Add an amount of G to your mana pool equal to Viridian 
+             Joiner's power. 
+Flavor Text: "The Tangle reaches out to itself constantly, forming 
+             new connections. We must follow its example." 
+     Rarity: C 
+     Number: 138/306
+     Artist: Daren Bader 
+
+
+  Card Name: Viridian Shaman
+      Color: G
+       Cost: 2G
+       Type: Creature - Elf Shaman
+    Pow/Tgh: 2/2
+ Rules Text: When Viridian Shaman comes into play, destroy target 
+             artifact. 
+Flavor Text: Because the elves are so in touch with Mirrodin's nature, 
+             they understand best how to dismantle it. 
+     Rarity: U 
+     Number: 139/306
+     Artist: Scott M. Fischer 
+
+
+  Card Name: Wurmskin Forger
+      Color: G
+       Cost: 5GG
+       Type: Creature - Elf Warrior
+    Pow/Tgh: 2/2
+ Rules Text: When Wurmskin Forger comes into play, distribute three 
+             +1/+1 counters among any number of target creatures. 
+Flavor Text: It takes three weeks for a patrol of hunters to down 
+             a slagwurm. It takes just as long to make a single 
+             cut in its hide. 
+     Rarity: C 
+     Number: 140/306
+     Artist: Justin Sweet 
+
+
+  Card Name: AEther Spellbomb
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: U, Sacrifice AEther Spellbomb: Return target creature 
+             to its owner's hand. 
+             1, Sacrifice AEther Spellbomb: Draw a card. 
+Flavor Text: "Release that which was never caged." 
+             -Spellbomb inscription 
+     Rarity: C 
+     Number: 141/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Alpha Myr
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 2/1
+ Rules Text: 
+Flavor Text: First to charge, first to fight. 
+     Rarity: C 
+     Number: 142/306
+     Artist: Dany Orizio 
+
+
+  Card Name: Altar of Shadows
+      Color: A
+       Cost: 7
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of your precombat main phase, add 
+             B to your mana pool for each charge counter on Altar 
+             of Shadows. 
+             7, T: Destroy target creature. Then put a charge counter 
+             on Altar of Shadows. 
+Flavor Text: 
+     Rarity: R 
+     Number: 143/306
+     Artist: Sam Wood 
+
+
+  Card Name: Banshee's Blade
+      Color: A
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +1/+1 for each charge counter 
+             on Banshee's Blade. 
+             Whenever equipped creature deals combat damage, put 
+             a charge counter on this card. 
+             Equip 2 (2: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 144/306
+     Artist: Bradley Williams 
+
+
+  Card Name: Blinkmoth Urn
+      Color: A
+       Cost: 5
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player's precombat main phase, 
+             if Blinkmoth Urn is untapped, that player adds 1 to 
+             his or her mana pool for each artifact he or she controls. 
+Flavor Text: The vedalken embed such urns in their living artifact 
+             creations. 
+     Rarity: R 
+     Number: 145/306
+     Artist: David Martin 
+
+
+  Card Name: Bonesplitter
+      Color: A
+       Cost: 1
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +2/+0. 
+             Equip 1 (1: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 146/306
+     Artist: Darrell Riche 
+
+
+  Card Name: Bosh, Iron Golem
+      Color: A
+       Cost: 8
+       Type: Artifact Creature - Golem Legend
+    Pow/Tgh: 6/7
+ Rules Text: Trample 
+             3R, Sacrifice an artifact: Bosh, Iron Golem deals damage 
+             equal to the sacrificed artifact's converted mana cost 
+             to target creature or player. 
+Flavor Text: As Glissa searches for the truth about Memnarch, Bosh 
+             searches to unearth the secrets buried deep in his 
+             memory. 
+     Rarity: R 
+     Number: 147/306
+     Artist: Brom 
+
+
+  Card Name: Bottle Gnomes
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Gnome
+    Pow/Tgh: 1/3
+ Rules Text: Sacrifice Bottle Gnomes: You gain 3 life. 
+Flavor Text: Reinforcements . . . or refreshments? 
+     Rarity: U 
+     Number: 148/306
+     Artist: Ben Thompson 
+
+
+  Card Name: Cathodion
+      Color: A
+       Cost: 3
+       Type: Artifact Creature 
+    Pow/Tgh: 3/3
+ Rules Text: When Cathodion is put into a graveyard from play, add 
+             3 to your mana pool. 
+Flavor Text: Cathodions repair the Great Furnace by soldering parts 
+             of themselves to the mechanism. Eventually, they become 
+             one with the machine. 
+     Rarity: U 
+     Number: 149/306
+     Artist: Eric Peterson 
+
+
+  Card Name: Chalice of the Void
+      Color: A
+       Cost: XX
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Chalice of the Void comes into play with X charge counters 
+             on it. 
+             Whenever a player plays a spell with converted mana 
+             cost equal to the number of charge counters on Chalice 
+             of the Void, counter that spell. 
+Flavor Text: 
+     Rarity: R 
+     Number: 150/306
+     Artist: Mark Zug 
+
+
+  Card Name: Chromatic Sphere
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T, Sacrifice Chromatic Sphere: Add one mana of any 
+             color to your mana pool. Draw a card. 
+Flavor Text: "As expected, this sphere's design reflects the colors 
+             of the four moons . . . plus another?" 
+             -Pontifex, elder researcher 
+     Rarity: C 
+     Number: 151/306
+     Artist: Brian Snoddy 
+
+
+  Card Name: Chrome Mox
+      Color: A
+       Cost: 0
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Imprint - When Chrome Mox comes into play, you may 
+             remove a nonartifact, nonland card in your hand from 
+             the game. (The removed card is imprinted on this 
+artifact.) 
+             T: Add one mana of any of the imprinted card's colors 
+             to your mana pool. 
+Flavor Text: 
+     Rarity: R 
+     Number: 152/306
+     Artist: Donato Giancola 
+
+
+  Card Name: Clockwork Beetle
+      Color: A
+       Cost: 1
+       Type: Artifact Creature - Insect
+    Pow/Tgh: 0/0
+ Rules Text: Clockwork Beetle comes into play with two +1/+1 counters 
+             on it. 
+             Whenever Clockwork Beetle attacks or blocks, remove 
+             a +1/+1 counter from it at end of combat. 
+Flavor Text: 
+     Rarity: C 
+     Number: 153/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Clockwork Condor
+      Color: A
+       Cost: 4
+       Type: Artifact Creature - Bird
+    Pow/Tgh: 0/0
+ Rules Text: Flying 
+             Clockwork Condor comes into play with three +1/+1 counters 
+             on it. 
+             Whenever Clockwork Condor attacks or blocks, remove 
+             a +1/+1 counter from it at end of combat. 
+Flavor Text: 
+     Rarity: C 
+     Number: 154/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Clockwork Dragon
+      Color: A
+       Cost: 7
+       Type: Artifact Creature - Dragon
+    Pow/Tgh: 0/0
+ Rules Text: Flying 
+             Clockwork Dragon comes into play with six +1/+1 counters 
+             on it. 
+             Whenever Clockwork Dragon attacks or blocks, remove 
+             a +1/+1 counter from it at end of combat. 
+             3: Put a +1/+1 counter on Clockwork Dragon. 
+Flavor Text: 
+     Rarity: R 
+     Number: 155/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Clockwork Vorrac
+      Color: A
+       Cost: 5
+       Type: Artifact Creature - Beast
+    Pow/Tgh: 0/0
+ Rules Text: Trample 
+             Clockwork Vorrac comes into play with four +1/+1 counters 
+             on it. 
+             Whenever Clockwork Vorrac attacks or blocks, remove 
+             a +1/+1 counter from it at end of combat. 
+             T: Put a +1/+1 counter on Clockwork Vorrac. 
+Flavor Text: 
+     Rarity: U 
+     Number: 156/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Cobalt Golem
+      Color: A
+       Cost: 4
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 2/3
+ Rules Text: 1U: Cobalt Golem gains flying until end of turn. 
+Flavor Text: Centuries before the first tides of the Quicksilver 
+             Sea rose to meet each new sun, Mirrodin's light shone 
+             on the golems alone. 
+     Rarity: C 
+     Number: 157/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Copper Myr
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: T: Add G to your mana pool. 
+Flavor Text: The elves thought of the myr as minor threats, just 
+             as the myr thought of the elves. 
+     Rarity: C 
+     Number: 158/306
+     Artist: Kev Walker 
+
+
+  Card Name: Crystal Shard
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T or U, T: Return target creature to its owner's 
+             hand unless its controller pays 1. 
+Flavor Text: The vedalken know it is not of this world, so they 
+             know that this world is not the only one. 
+     Rarity: U 
+     Number: 159/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Culling Scales
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of your upkeep, destroy target nonland 
+             permanent with the lowest converted mana cost among 
+             nonland permanents in play. (If two or more permanents 
+             are tied for lowest cost, target any one of them.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 160/306
+     Artist: Daren Bader 
+
+
+  Card Name: Damping Matrix
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Activated abilities of artifacts and creatures can't 
+             be played unless they're mana abilities. 
+Flavor Text: The priests tried cursing it. The mages tried dispelling 
+             it. In the end, they all obeyed it. 
+     Rarity: R 
+     Number: 161/306
+     Artist: Mike Dringenberg 
+
+
+  Card Name: Dead-Iron Sledge
+      Color: A
+       Cost: 1
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Whenever equipped creature blocks or becomes blocked 
+             by a creature, destroy that creature and equipped 
+creature. 
+             Equip 2 (2: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 162/306
+     Artist: Ray Lago 
+
+
+  Card Name: Dragon Blood
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T: Put a +1/+1 counter on target creature. 
+Flavor Text: A single drop turns skin to scale and fist to claw. 
+     Rarity: U 
+     Number: 163/306
+     Artist: Ron Spencer 
+
+
+  Card Name: Dross Scorpion
+      Color: A
+       Cost: 4
+       Type: Artifact Creature 
+    Pow/Tgh: 3/1
+ Rules Text: Whenever Dross Scorpion or another artifact creature 
+             is put into a graveyard from play, you may untap target 
+             artifact. 
+Flavor Text: They skitter out of the mists to consume fresh kill 
+             before Mephidross has a chance to corrode it away. 
+     Rarity: C 
+     Number: 164/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Duplicant
+      Color: A
+       Cost: 6
+       Type: Artifact Creature - Shapeshifter
+    Pow/Tgh: 2/4
+ Rules Text: Imprint - When Duplicant comes into play, you may remove 
+             target nontoken creature from the game. (The removed 
+             card is imprinted on this artifact.) 
+             As long as a creature card is imprinted on Duplicant, 
+             Duplicant has that card's power, toughness, and creature 
+             types. It's still a Shapeshifter. 
+Flavor Text: 
+     Rarity: R 
+     Number: 165/306
+     Artist: Thomas M. Baxa 
+
+
+  Card Name: Duskworker
+      Color: A
+       Cost: 4
+       Type: Artifact Creature 
+    Pow/Tgh: 2/2
+ Rules Text: Whenever Duskworker becomes blocked, regenerate it. 
+             3: Duskworker gets +1/+0 until end of turn. 
+Flavor Text: At the setting of each sun, it emerges to clean Mirrodin's 
+             floor of the day's carrion. 
+     Rarity: U 
+     Number: 166/306
+     Artist: Greg Staples 
+
+
+  Card Name: Elf Replica
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Elf
+    Pow/Tgh: 2/2
+ Rules Text: 1G, Sacrifice Elf Replica: Destroy target enchantment. 
+Flavor Text: It hunts with unnerving ferocity. 
+     Rarity: C 
+     Number: 167/306
+     Artist: Carl Critchlow 
+
+
+  Card Name: Empyrial Plate
+      Color: A
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +1/+1 for each card in your 
+             hand. 
+             Equip 2 (2: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 168/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Extraplanar Lens
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Imprint - When Extraplanar Lens comes into play, you 
+             may remove target land you control from the game. (The 
+             removed card is imprinted on this artifact.) 
+             Whenever a land with the same name as the imprinted 
+             card is tapped for mana, its controller adds one mana 
+             to his or her mana pool of any type that land produced. 
+Flavor Text: 
+     Rarity: R 
+     Number: 169/306
+     Artist: Lars Grant-West 
+
+
+  Card Name: Farsight Mask
+      Color: A
+       Cost: 5
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a source an opponent controls deals damage 
+             to you, if Farsight Mask is untapped, you may draw 
+             a card. 
+Flavor Text: It turns the adversity of the moment into the knowledge 
+             of a lifetime. 
+     Rarity: U 
+     Number: 170/306
+     Artist: Ben Thompson 
+
+
+  Card Name: Fireshrieker
+      Color: A
+       Cost: 3
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature has double strike. (It deals both 
+             first-strike and regular combat damage.) 
+             Equip 2 (2: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 171/306
+     Artist: Christopher Moeller 
+
+
+  Card Name: Frogmite
+      Color: A
+       Cost: 4
+       Type: Artifact Creature 
+    Pow/Tgh: 2/2
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+Flavor Text: At first, vedalken observers thought blinkmoths naturally 
+             avoided certain places. Then they realized those places 
+             were frogmite feeding grounds. 
+     Rarity: C 
+     Number: 172/306
+     Artist: Terese Nielsen 
+
+
+  Card Name: Galvanic Key
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: You may play Galvanic Key any time you could play an 
+             instant. 
+             3, T: Untap target artifact. 
+Flavor Text: A solution in search of a problem. 
+     Rarity: C 
+     Number: 173/306
+     Artist: Tony Szczudlo 
+
+
+  Card Name: Gate to the AEther
+      Color: A
+       Cost: 6
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player's upkeep, that player 
+             reveals the top card of his or her library. If it's 
+             an artifact, creature, enchantment, or land card, the 
+             player may put it into play. 
+Flavor Text: 
+     Rarity: R 
+     Number: 174/306
+     Artist: Pete Venters 
+
+
+  Card Name: Gilded Lotus
+      Color: A
+       Cost: 5
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add three mana of any one color to your mana pool. 
+Flavor Text: Over such beauty, wars are fought. With such power, 
+             wars are won. 
+     Rarity: R 
+     Number: 175/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Goblin Charbelcher
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T: Reveal cards from the top of your library until 
+             you reveal a land card. Goblin Charbelcher deals damage 
+             equal to the number of nonland cards revealed this 
+             way to target creature or player. If the revealed land 
+             card was a Mountain, Goblin Charbelcher deals double 
+             that damage instead. Put the revealed cards on the 
+             bottom of your library in any order. 
+Flavor Text: 
+     Rarity: R 
+     Number: 176/306
+     Artist: Stephen Tappin 
+
+
+  Card Name: Goblin Dirigible
+      Color: A
+       Cost: 6
+       Type: Artifact Creature 
+    Pow/Tgh: 4/4
+ Rules Text: Flying 
+             Goblin Dirigible doesn't untap during your untap step. 
+             At the beginning of your upkeep, you may pay 4. If 
+             you do, untap Goblin Dirigible. 
+Flavor Text: 
+     Rarity: U 
+     Number: 177/306
+     Artist: Michael Sutfin 
+
+
+  Card Name: Goblin Replica
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Goblin
+    Pow/Tgh: 2/2
+ Rules Text: 3R, Sacrifice Goblin Replica: Destroy target artifact. 
+Flavor Text: It destroys with unthinking glee. 
+     Rarity: C 
+     Number: 178/306
+     Artist: Carl Critchlow 
+
+
+  Card Name: Goblin War Wagon
+      Color: A
+       Cost: 4
+       Type: Artifact Creature 
+    Pow/Tgh: 3/3
+ Rules Text: Goblin War Wagon doesn't untap during your untap step. 
+             At the beginning of your upkeep, you may pay 2. If 
+             you do, untap Goblin War Wagon. 
+Flavor Text: 
+     Rarity: C 
+     Number: 179/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Gold Myr
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: T: Add W to your mana pool. 
+Flavor Text: The leonin thought of the myr as omens, never imagining 
+             the sinister fate they foretold. 
+     Rarity: C 
+     Number: 180/306
+     Artist: Kev Walker 
+
+
+  Card Name: Golem-Skin Gauntlets
+      Color: A
+       Cost: 1
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +1/+0 for each Equipment attached 
+             to it. 
+             Equip 2 (2: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 181/306
+     Artist: Alan Pollack 
+
+
+  Card Name: Granite Shard
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T or R, T: Granite Shard deals 1 damage to target 
+             creature or player. 
+Flavor Text: It's a piece of a world the goblins have never seen 
+             but would dearly like to blow up. 
+     Rarity: U 
+     Number: 182/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Grid Monitor
+      Color: A
+       Cost: 4
+       Type: Artifact Creature 
+    Pow/Tgh: 4/6
+ Rules Text: You can't play creature spells. 
+Flavor Text: The vedalken protect the Knowledge Pool at any cost. 
+     Rarity: R 
+     Number: 183/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Heartwood Shard
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T or G, T: Target creature gains trample until end 
+             of turn. 
+Flavor Text: Like all other relics, it was left on the Radix by 
+             the elves to be destroyed. Unlike all other relics, 
+             it persisted. 
+     Rarity: U 
+     Number: 184/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Hematite Golem
+      Color: A
+       Cost: 4
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 1/4
+ Rules Text: 1R: Hematite Golem gets +2/+0 until end of turn. 
+Flavor Text: Centuries before the first peaks of the Oxidda Chain 
+             rewrote the laws of magnetism, the golems patrolled 
+             Mirrodin's featureless surface unhindered. 
+     Rarity: C 
+     Number: 185/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Icy Manipulator
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: Tap target artifact, creature, or land. 
+Flavor Text: A model of Mirrodin in both shape and spirit. 
+     Rarity: U 
+     Number: 186/306
+     Artist: Mark Zug 
+
+
+  Card Name: Iron Myr
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: T: Add R to your mana pool. 
+Flavor Text: The goblins didn't think of the myr at all, which allowed 
+             the myr to observe everywhere unhindered. 
+     Rarity: C 
+     Number: 187/306
+     Artist: Kev Walker 
+
+
+  Card Name: Isochron Scepter
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Imprint - When Isochron Scepter comes into play, you 
+             may remove an instant card with converted mana cost 
+             2 or less in your hand from the game. (The removed 
+             card is imprinted on this artifact.) 
+             2, T: You may copy the imprinted instant card and play 
+             the copy without paying its mana cost. 
+Flavor Text: 
+     Rarity: U 
+     Number: 188/306
+     Artist: Mark Harrison 
+
+
+  Card Name: Jinxed Choker
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the end of your turn, target opponent gains control 
+             of Jinxed Choker and puts a charge counter on it. 
+             At the beginning of your upkeep, Jinxed Choker deals 
+             damage to you equal to the number of charge counters 
+             on it. 
+             3: Put a charge counter on Jinxed Choker or remove 
+             one from it. 
+Flavor Text: 
+     Rarity: R 
+     Number: 189/306
+     Artist: Mike Dringenberg 
+
+
+  Card Name: Krark's Thumb
+      Color: A
+       Cost: 2
+       Type: Legendary Artifact 
+    Pow/Tgh: 
+ Rules Text: If you would flip a coin, instead flip two coins and 
+             ignore one. 
+Flavor Text: "I can think of one goblin it ain't so lucky for." 
+             -Slobad, goblin tinkerer 
+     Rarity: R 
+     Number: 190/306
+     Artist: Ron Spencer 
+
+
+  Card Name: Leaden Myr
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: T: Add B to your mana pool. 
+Flavor Text: The Moriok saw the myr as fellow scavengers, never 
+             knowing just who the myr were scavenging for. 
+     Rarity: C 
+     Number: 191/306
+     Artist: Kev Walker 
+
+
+  Card Name: Leonin Bladetrap
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: You may play Leonin Bladetrap any time you could play 
+             an instant. 
+             2, Sacrifice Leonin Bladetrap: Leonin Bladetrap deals 
+             2 damage to each attacking creature without flying. 
+Flavor Text: 
+     Rarity: U 
+     Number: 192/306
+     Artist: Randy Gallegos 
+
+
+  Card Name: Leonin Scimitar
+      Color: A
+       Cost: 1
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +1/+1. 
+             Equip 1 (1: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 193/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Leonin Sun Standard
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1W: Creatures you control get +1/+1 until end of turn. 
+Flavor Text: The commander tells the troops where to go, but the 
+             standard reminds them why they're there. 
+     Rarity: R 
+     Number: 194/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Leveler
+      Color: A
+       Cost: 5
+       Type: Artifact Creature 
+    Pow/Tgh: 10/10
+ Rules Text: When Leveler comes into play, remove your library from 
+             the game. 
+Flavor Text: Once a century, the levelers rip through every corner 
+             of Mirrodin, obeying the commands of an unseen master. 
+     Rarity: R 
+     Number: 195/306
+     Artist: Carl Critchlow 
+
+
+  Card Name: Liar's Pendulum
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 2, T: Name a card. Target opponent guesses whether 
+             a card with that name is in your hand. You may reveal 
+             your hand. If you do and your opponent guessed wrong, 
+             draw a card. 
+Flavor Text: 
+     Rarity: R 
+     Number: 196/306
+     Artist: Christopher Moeller 
+
+
+  Card Name: Lifespark Spellbomb
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: G, Sacrifice Lifespark Spellbomb: Until end of turn, 
+             target land becomes a 3/3 creature that's still a land. 
+             1, Sacrifice Lifespark Spellbomb: Draw a card. 
+Flavor Text: "Awaken that which was never asleep." 
+             -Spellbomb inscription 
+     Rarity: C 
+     Number: 197/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Lightning Coils
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a nontoken creature you control is put into 
+             a graveyard from play, put a charge counter on Lightning 
+             Coils. 
+             At the beginning of your upkeep, if Lightning Coils 
+             has five or more charge counters on it, remove all 
+             of them from it and put that many 3/1 red Elemental 
+             creature tokens with haste into play. Remove them from 
+             the game at end of turn. 
+Flavor Text: 
+     Rarity: R 
+     Number: 198/306
+     Artist: Brian Snoddy 
+
+
+  Card Name: Lightning Greaves
+      Color: A
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature has haste and can't be the target 
+             of spells or abilities. 
+             Equip 0 (0: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 199/306
+     Artist: Jeremy Jarvis 
+
+
+  Card Name: Lodestone Myr
+      Color: A
+       Cost: 4
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 2/2
+ Rules Text: Trample 
+             Tap an untapped artifact you control: Lodestone Myr 
+             gets +1/+1 until end of turn. 
+Flavor Text: When necessary, myr can override and control any 
+artificial 
+             object, as can their creator. 
+     Rarity: R 
+     Number: 200/306
+     Artist: Greg Staples 
+
+
+  Card Name: Loxodon Warhammer
+      Color: A
+       Cost: 3
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +3/+0, has trample, and has 
+             "Whenever this creature deals damage, you gain that 
+             much life." 
+             Equip 3 (3: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 201/306
+     Artist: Jeremy Jarvis 
+
+
+  Card Name: Malachite Golem
+      Color: A
+       Cost: 6
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 5/3
+ Rules Text: 1G: Malachite Golem gains trample until end of turn. 
+Flavor Text: Centuries before the first branches of the Tangle gave 
+             shelter from the suns' cold light, the shadows of golems 
+             were Mirrodin's only shade. 
+     Rarity: C 
+     Number: 202/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Mask of Memory
+      Color: A
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Whenever equipped creature deals combat damage to a 
+             player, you may draw two cards. If you do, discard 
+             a card from your hand. 
+             Equip 1 (1: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 203/306
+     Artist: Alan Pollack 
+
+
+  Card Name: Mesmeric Orb
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a permanent becomes untapped, that permanent's 
+             controller puts the top card of his or her library 
+             into his or her graveyard. 
+Flavor Text: A step in one direction is two steps away from another. 
+     Rarity: R 
+     Number: 204/306
+     Artist: David Martin 
+
+
+  Card Name: Mind's Eye
+      Color: A
+       Cost: 5
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever an opponent draws a card, you may pay 1. If 
+             you do, draw a card. 
+Flavor Text: "Ideas drift like petals on the wind. I have only to 
+             lift my face to the breeze." 
+     Rarity: R 
+     Number: 205/306
+     Artist: Edward P. Beard, Jr. 
+
+
+  Card Name: Mindslaver
+      Color: A
+       Cost: 6
+       Type: Legendary Artifact 
+    Pow/Tgh: 
+ Rules Text: 4, T, Sacrifice Mindslaver: You control target player's 
+             next turn. (You see all cards that player could see 
+             and make all decisions for the player. He or she doesn't 
+             lose life because of mana burn.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 206/306
+     Artist: Glen Angus 
+
+
+  Card Name: Mindstorm Crown
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of your upkeep, draw a card if you 
+             had no cards in hand at the beginning of this turn. 
+             If you had a card in hand, Mindstorm Crown deals 1 
+             damage to you. 
+Flavor Text: 
+     Rarity: U 
+     Number: 207/306
+     Artist: Ben Thompson 
+
+
+  Card Name: Mirror Golem
+      Color: A
+       Cost: 6
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 3/4
+ Rules Text: Imprint - When Mirror Golem comes into play, you may 
+             remove target card in a graveyard from the game. (The 
+             removed card is imprinted on this artifact.) 
+             Mirror Golem has protection from each of the imprinted 
+             card's card types. (The card types are artifact, creature, 
+             enchantment, instant, land, and sorcery.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 208/306
+     Artist: Franz Vohwinkel 
+
+
+  Card Name: Mourner's Shield
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Imprint - When Mourner's Shield comes into play, you 
+             may remove target card in a graveyard from the game. 
+             (The removed card is imprinted on this artifact.) 
+             2, T: Prevent all damage that would be dealt this turn 
+             by a source of your choice that shares a color with 
+             the imprinted card. 
+Flavor Text: 
+     Rarity: U 
+     Number: 209/306
+     Artist: Carl Critchlow 
+
+
+  Card Name: Myr Adapter
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: Myr Adapter gets +1/+1 for each Equipment attached 
+             to it. 
+Flavor Text: "The simplest way to plan ahead is merely to be ready 
+             for everything." 
+             -Pontifex, elder researcher 
+     Rarity: C 
+     Number: 210/306
+     Artist: Ben Thompson 
+
+
+  Card Name: Myr Enforcer
+      Color: A
+       Cost: 7
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 4/4
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+Flavor Text: Most myr monitor other species. Some myr monitor other 
+             myr. 
+     Rarity: C 
+     Number: 211/306
+     Artist: Greg Staples 
+
+
+  Card Name: Myr Incubator
+      Color: A
+       Cost: 6
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 6, T, Sacrifice Myr Incubator: Search your library 
+             for any number of artifact cards, remove them from 
+             the game, then put that many 1/1 Myr artifact creature 
+             tokens into play. Then shuffle your library. 
+Flavor Text: 
+     Rarity: R 
+     Number: 212/306
+     Artist: Alex Horley-Orlandelli 
+
+
+  Card Name: Myr Mindservant
+      Color: A
+       Cost: 1
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: 2, T: Shuffle your library. 
+Flavor Text: It knows what you are planning, and does not approve. 
+     Rarity: U 
+     Number: 213/306
+     Artist: Dave Dorman 
+
+
+  Card Name: Myr Prototype
+      Color: A
+       Cost: 5
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 2/2
+ Rules Text: At the beginning of your upkeep, put a +1/+1 counter 
+             on Myr Prototype. 
+             Myr Prototype can't attack or block unless you pay 
+             1 for each +1/+1 counter on it. (This cost is paid 
+             as attackers or blockers are declared.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 214/306
+     Artist: Dave Dorman 
+
+
+  Card Name: Myr Retriever
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: When Myr Retriever is put into a graveyard from play, 
+             return another target artifact card from your graveyard 
+             to your hand. 
+Flavor Text: Mephidross gives up treasure easily . . . as long as 
+             you take its place. 
+     Rarity: U 
+     Number: 215/306
+     Artist: Trevor Hairsine 
+
+
+  Card Name: Necrogen Spellbomb
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: B, Sacrifice Necrogen Spellbomb: Target player discards 
+             a card from his or her hand. 
+             1, Sacrifice Necrogen Spellbomb: Draw a card. 
+Flavor Text: "Forget that which was never known." 
+             -Spellbomb inscription 
+     Rarity: C 
+     Number: 216/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Needlebug
+      Color: A
+       Cost: 4
+       Type: Artifact Creature - Insect
+    Pow/Tgh: 2/2
+ Rules Text: Protection from artifacts 
+             You may play Needlebug any time you could play an instant. 
+Flavor Text: Near Tel-Jilad, the Tangle is almost silent, save for 
+             the trolls' chants and the skittering of needlebugs. 
+     Rarity: U 
+     Number: 217/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Neurok Hoversail
+      Color: A
+       Cost: 1
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature has flying. 
+             Equip 2 (2: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 218/306
+     Artist: Alan Pollack 
+
+
+  Card Name: Nightmare Lash
+      Color: A
+       Cost: 4
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +1/+1 for each Swamp you control. 
+             Equip-Pay 3 life. (Pay 3 life: Attach to target creature 
+             you control. Equip only as a sorcery. This card comes 
+             into play unattached and stays in play if the creature 
+             leaves play.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 219/306
+     Artist: Puddnhead 
+
+
+  Card Name: Nim Replica
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Zombie
+    Pow/Tgh: 3/1
+ Rules Text: 2B, Sacrifice Nim Replica: Target creature gets -1/-1 
+             until end of turn. 
+Flavor Text: It kills with unfeeling malice. 
+     Rarity: C 
+     Number: 220/306
+     Artist: Carl Critchlow 
+
+
+  Card Name: Nuisance Engine
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 2, T: Put a 0/1 Pest artifact creature token into play. 
+Flavor Text: All Auriok children know the tale, "Bolgri and the 
+             Long Day of Squashing." 
+     Rarity: U 
+     Number: 221/306
+     Artist: Stephen Tappin 
+
+
+  Card Name: Oblivion Stone
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 4, T: Put a fate counter on target permanent. 
+             5, T, Sacrifice Oblivion Stone: Destroy each nonland 
+             permanent without a fate counter on it, then remove 
+             all fate counters from all permanents. 
+Flavor Text: 
+     Rarity: R 
+     Number: 222/306
+     Artist: Sam Wood 
+
+
+  Card Name: Omega Myr
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/2
+ Rules Text: 
+Flavor Text: Last to charge, last to fall. 
+     Rarity: C 
+     Number: 223/306
+     Artist: Dany Orizio 
+
+
+  Card Name: Ornithopter
+      Color: A
+       Cost: 0
+       Type: Artifact Creature 
+    Pow/Tgh: 0/2
+ Rules Text: Flying 
+Flavor Text: Regardless of the century, plane, or species, developing 
+             artificers never fail to invent the ornithopter. 
+     Rarity: U 
+     Number: 224/306
+     Artist: Dana Knutson 
+
+
+  Card Name: Pearl Shard
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T or W, T: Prevent the next 2 damage that would 
+             be dealt to target creature or player this turn. 
+Flavor Text: Leonin folktales claim it was brought from beyond the 
+             sky by the first kha. 
+     Rarity: U 
+     Number: 225/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Pentavus
+      Color: A
+       Cost: 7
+       Type: Artifact Creature 
+    Pow/Tgh: 0/0
+ Rules Text: Pentavus comes into play with five +1/+1 counters on 
+             it. 
+             1, Remove a +1/+1 counter from Pentavus: Put a 1/1 
+             Pentavite artifact creature token with flying into 
+             play. 
+             1, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus. 
+Flavor Text: 
+     Rarity: R 
+     Number: 226/306
+     Artist: Greg Staples 
+
+
+  Card Name: Pewter Golem
+      Color: A
+       Cost: 5
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 4/2
+ Rules Text: 1B: Regenerate Pewter Golem. 
+Flavor Text: Centuries before the first chimneys of Mephidross belched 
+             clouds of toxic gas, only the golems' movements stirred 
+             the air of Mirrodin. 
+     Rarity: C 
+     Number: 227/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Platinum Angel
+      Color: A
+       Cost: 7
+       Type: Artifact Creature - Angel
+    Pow/Tgh: 4/4
+ Rules Text: Flying 
+             You can't lose the game and your opponents can't win 
+             the game. 
+Flavor Text: In its heart lies the secret of immortality. 
+     Rarity: R 
+     Number: 228/306
+     Artist: Brom 
+
+
+  Card Name: Power Conduit
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T, Remove a counter from a permanent you control: Choose 
+             one - Put a charge counter on target artifact; or put 
+             a +1/+1 counter on target creature. 
+Flavor Text: Never content, vedalken artificers continually tinker 
+             with their creations. 
+     Rarity: U 
+     Number: 229/306
+     Artist: Todd Lockwood 
+
+
+  Card Name: Proteus Staff
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 2U, T: Put target creature on the bottom of its owner's 
+             library. That creature's controller reveals cards from 
+             the top of his or her library until he or she reveals 
+             a creature card. The player puts that card into play 
+             and the rest on the bottom of his or her library in 
+             any order. Play this ability only any time you could 
+             play a sorcery. 
+Flavor Text: 
+     Rarity: R 
+     Number: 230/306
+     Artist: Trevor Hairsine 
+
+
+  Card Name: Psychogenic Probe
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a spell or ability causes a player to shuffle 
+             his or her library, Psychogenic Probe deals 2 damage 
+             to him or her. 
+Flavor Text: The same devices sold as surgeons' tools in Lumengrid 
+             are sold as implements of torture in Mephidross. 
+     Rarity: R 
+     Number: 231/306
+     Artist: Jeremy Jarvis 
+
+
+  Card Name: Pyrite Spellbomb
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: R, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 
+             2 damage to target creature or player. 
+             1, Sacrifice Pyrite Spellbomb: Draw a card. 
+Flavor Text: "Melt that which was never frozen." 
+             -Spellbomb inscription 
+     Rarity: C 
+     Number: 232/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Quicksilver Fountain
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player's upkeep, that player 
+             puts a flood counter on target non-Island land he or 
+             she controls. That land is an Island as long as it 
+             has a flood counter on it. 
+             At end of turn, if all lands in play are Islands, remove 
+             all flood counters from them. 
+Flavor Text: 
+     Rarity: R 
+     Number: 233/306
+     Artist: Trevor Hairsine 
+
+
+  Card Name: Rust Elemental
+      Color: A
+       Cost: 4
+       Type: Artifact Creature - Elemental
+    Pow/Tgh: 4/4
+ Rules Text: Flying 
+             At the beginning of your upkeep, sacrifice an artifact 
+             other than Rust Elemental. If you can't, tap Rust 
+Elemental 
+             and you lose 4 life. 
+Flavor Text: 
+     Rarity: U 
+     Number: 234/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Rustspore Ram
+      Color: A
+       Cost: 4
+       Type: Artifact Creature 
+    Pow/Tgh: 1/3
+ Rules Text: When Rustspore Ram comes into play, destroy target 
+             Equipment. 
+Flavor Text: Where herds have passed, the dented ground is lined 
+             with piles of rust. 
+     Rarity: U 
+     Number: 235/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Scale of Chiss-Goria
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+             You may play Scale of Chiss-Goria any time you could 
+             play an instant. 
+             T: Target creature gets +0/+1 until end of turn. 
+Flavor Text: 
+     Rarity: C 
+     Number: 236/306
+     Artist: Alan Pollack 
+
+
+  Card Name: Scrabbling Claws
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Target player removes a card in his or her graveyard 
+             from the game. 
+             1, Sacrifice Scrabbling Claws: Remove target card in 
+             a graveyard from the game. Draw a card. 
+Flavor Text: 
+     Rarity: U 
+     Number: 237/306
+     Artist: Thomas M. Baxa 
+
+
+  Card Name: Sculpting Steel
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: As Sculpting Steel comes into play, you may choose 
+             an artifact in play. If you do, Sculpting Steel comes 
+             into play as a copy of that artifact. 
+Flavor Text: An artificer once dropped one in a vault full of coins. 
+             She has yet to find it. 
+     Rarity: R 
+     Number: 238/306
+     Artist: Heather Hudson 
+
+
+  Card Name: Scythe of the Wretched
+      Color: A
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +2/+2. 
+             Whenever a creature dealt damage by equipped creature 
+             this turn is put into a graveyard, return that card 
+             to play under your control. Attach Scythe of the Wretched 
+             to that creature. 
+             Equip 4 
+Flavor Text: 
+     Rarity: R 
+     Number: 239/306
+     Artist: Matt Cavotta 
+
+
+  Card Name: Serum Tank
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever Serum Tank or another artifact comes into 
+             play, put a charge counter on Serum Tank. 
+             3, T, Remove a charge counter from Serum Tank: Draw 
+             a card. 
+Flavor Text: 
+     Rarity: U 
+     Number: 240/306
+     Artist: Corey D. Macourek 
+
+
+  Card Name: Silver Myr
+      Color: A
+       Cost: 2
+       Type: Artifact Creature - Myr
+    Pow/Tgh: 1/1
+ Rules Text: T: Add U to your mana pool. 
+Flavor Text: The vedalken saw the myr as toys, unaware of the 
+intelligence 
+             lurking behind their empty eyes. 
+     Rarity: C 
+     Number: 241/306
+     Artist: Kev Walker 
+
+
+  Card Name: Skeleton Shard
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T or B, T: Return target artifact creature card 
+             from your graveyard to your hand. 
+Flavor Text: Metal permeates the marrow of every bone in Mephidross-
+except 
+             one. 
+     Rarity: U 
+     Number: 242/306
+     Artist: Doug Chaffee 
+
+
+  Card Name: Slagwurm Armor
+      Color: A
+       Cost: 1
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +0/+6. 
+             Equip 3 (3: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 243/306
+     Artist: Justin Sweet 
+
+
+  Card Name: Soldier Replica
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Soldier
+    Pow/Tgh: 1/3
+ Rules Text: 1W, Sacrifice Soldier Replica: Soldier Replica deals 
+             3 damage to target attacking or blocking creature. 
+Flavor Text: It fights with inhuman vigor. 
+     Rarity: C 
+     Number: 244/306
+     Artist: Carl Critchlow 
+
+
+  Card Name: Solemn Simulacrum
+      Color: A
+       Cost: 4
+       Type: Artifact Creature 
+    Pow/Tgh: 2/2
+ Rules Text: When Solemn Simulacrum comes into play, you may search 
+             your library for a basic land card and put that card 
+             into play tapped. If you do, shuffle your library. 
+             When Solemn Simulacrum is put into a graveyard from 
+             play, you may draw a card. 
+Flavor Text: 
+     Rarity: R 
+     Number: 245/306
+     Artist: Greg Staples 
+
+
+  Card Name: Soul Foundry
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Imprint - When Soul Foundry comes into play, you may 
+             remove a creature card in your hand from the game. 
+             (The removed card is imprinted on this artifact.) 
+             X, T: Put a creature token into play that's a copy 
+             of the imprinted creature card. X is the converted 
+             mana cost of that card. 
+Flavor Text: 
+     Rarity: R 
+     Number: 246/306
+     Artist: Arnie Swekel 
+
+
+  Card Name: Spellweaver Helix
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Imprint - When Spellweaver Helix comes into play, you 
+             may remove two target sorcery cards in a single graveyard 
+             from the game. (The removed cards are imprinted on 
+             this artifact.) 
+             Whenever a card is played, if it has the same name 
+             as one of the imprinted sorcery cards, you may copy 
+             the other and play the copy without paying its mana 
+             cost. 
+Flavor Text: 
+     Rarity: R 
+     Number: 247/306
+     Artist: Luca Zontini 
+
+
+  Card Name: Steel Wall
+      Color: A
+       Cost: 1
+       Type: Artifact Creature - Wall
+    Pow/Tgh: 0/4
+ Rules Text: (Walls can't attack.) 
+Flavor Text: "We sculpt the land into what we need-homes, armament, 
+             fortresses of war. Our strength comes not only from 
+             knowing, but from commanding the terrain." 
+             -Raksha Golden Cub, leonin kha 
+     Rarity: C 
+     Number: 248/306
+     Artist: David Day 
+
+
+  Card Name: Sun Droplet
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever you're dealt damage, put that many charge 
+             counters on Sun Droplet. 
+             At the beginning of each player's upkeep, you may remove 
+             a charge counter from Sun Droplet. If you do, you gain 
+             1 life. 
+Flavor Text: 
+     Rarity: U 
+     Number: 249/306
+     Artist: Tim Hildebrandt 
+
+
+  Card Name: Sunbeam Spellbomb
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: W, Sacrifice Sunbeam Spellbomb: You gain 5 life. 
+             1, Sacrifice Sunbeam Spellbomb: Draw a card. 
+Flavor Text: "Cure that which was never ill." 
+             -Spellbomb inscription 
+     Rarity: C 
+     Number: 250/306
+     Artist: Jim Nelson 
+
+
+  Card Name: Sword of Kaldra
+      Color: A
+       Cost: 4
+       Type: Legendary Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +5/+5. 
+             Whenever equipped creature deals damage to a creature, 
+             remove that creature from the game. 
+             Equip 4 (4: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 251/306
+     Artist: Donato Giancola 
+
+
+  Card Name: Synod Sanctum
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 2, T: Remove target permanent you control from the 
+             game. 
+             2, Sacrifice Synod Sanctum: Return to play under your 
+             control all cards removed from the game with Synod 
+             Sanctum. 
+Flavor Text: 
+     Rarity: U 
+     Number: 252/306
+     Artist: Dana Knutson 
+
+
+  Card Name: Talisman of Dominance
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add U or B to your mana pool. Talisman of Dominance 
+             deals 1 damage to you. 
+Flavor Text: 
+     Rarity: U 
+     Number: 253/306
+     Artist: Mike Dringenberg 
+
+
+  Card Name: Talisman of Impulse
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add R or G to your mana pool. Talisman of Impulse 
+             deals 1 damage to you. 
+Flavor Text: 
+     Rarity: U 
+     Number: 254/306
+     Artist: Mike Dringenberg 
+
+
+  Card Name: Talisman of Indulgence
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add B or R to your mana pool. Talisman of Indulgence 
+             deals 1 damage to you. 
+Flavor Text: 
+     Rarity: U 
+     Number: 255/306
+     Artist: Mike Dringenberg 
+
+
+  Card Name: Talisman of Progress
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add W or U to your mana pool. Talisman of Progress 
+             deals 1 damage to you. 
+Flavor Text: 
+     Rarity: U 
+     Number: 256/306
+     Artist: Mike Dringenberg 
+
+
+  Card Name: Talisman of Unity
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add G or W to your mana pool. Talisman of Unity 
+             deals 1 damage to you. 
+Flavor Text: 
+     Rarity: U 
+     Number: 257/306
+     Artist: Mike Dringenberg 
+
+
+  Card Name: Tanglebloom
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: You gain 1 life. 
+Flavor Text: Druids converted swaths of the Tangle into tanglebloom 
+             orchards. Though heavy tools are needed to cut a leaf 
+             in the Tangle, tanglebloom fruit is easily plucked 
+             by hand. 
+     Rarity: C 
+     Number: 258/306
+     Artist: Val Mayerik 
+
+
+  Card Name: Tangleroot
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a player plays a creature spell, that player 
+             adds G to his or her mana pool. 
+Flavor Text: As if there's glitch in the system, the Tangle sometimes 
+             folds in on itself, throwing off sparks of mana in 
+             a mystifying display. 
+     Rarity: R 
+     Number: 259/306
+     Artist: Dana Knutson 
+
+
+  Card Name: Tel-Jilad Stylus
+      Color: A
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Put target permanent you own on the bottom of your 
+             library. 
+Flavor Text: Etched on Tel-Jilad's trunk is an entire history of 
+             Mirrodin-except for an expanse near the ground scrubbed 
+             smooth by an unknown hand. 
+     Rarity: U 
+     Number: 260/306
+     Artist: Darrell Riche 
+
+
+  Card Name: Thought Prison
+      Color: A
+       Cost: 5
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Imprint - When Thought Prison comes into play, you 
+             may have target player reveal his or her hand. If you 
+             do, choose a nonland card from it and remove that card 
+             from the game. (The removed card is imprinted on this 
+             artifact.) 
+             Whenever a player plays a spell that shares a color 
+             or converted mana cost with the imprinted card, Thought 
+             Prison deals 2 damage to that player. 
+Flavor Text: 
+     Rarity: U 
+     Number: 261/306
+     Artist: Glen Angus 
+
+
+  Card Name: Timesifter
+      Color: A
+       Cost: 5
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player's upkeep, each player 
+             removes the top card of his or her library from the 
+             game. The player who removed the card with the highest 
+             converted mana cost takes an extra turn after this 
+             one. If two or more players' cards are tied for highest 
+             cost, the tied players repeat this process until the 
+             tie is broken. 
+Flavor Text: 
+     Rarity: R 
+     Number: 262/306
+     Artist: Dany Orizio 
+
+
+  Card Name: Titanium Golem
+      Color: A
+       Cost: 5
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 3/3
+ Rules Text: 1W: Titanium Golem gains first strike until end of 
+             turn. 
+Flavor Text: Centuries before the first blades of the Razor Fields 
+             chimed in the wind, Mirrodin echoed with the golems' 
+             footsteps. 
+     Rarity: C 
+     Number: 263/306
+     Artist: Paolo Parente 
+
+
+  Card Name: Tooth of Chiss-Goria
+      Color: A
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Affinity for artifacts (This spell costs 1 less to 
+             play for each artifact you control.) 
+             You may play Tooth of Chiss-Goria any time you could 
+             play an instant. 
+             T: Target creature gets +1/+0 until end of turn. 
+Flavor Text: 
+     Rarity: C 
+     Number: 264/306
+     Artist: Alan Pollack 
+
+
+  Card Name: Tower of Champions
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 8, T: Target creature gets +6/+6 until end of turn. 
+Flavor Text: The ur-golem runes tell of the transformation of 
+Mirrodin's 
+             warden from silent guardian to merciless god. 
+     Rarity: R 
+     Number: 265/306
+     Artist: Greg Staples 
+
+
+  Card Name: Tower of Eons
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 8, T: You gain 10 life. 
+Flavor Text: Its etchings tell the ur-golems' stories of an entity 
+             able to force life into a lifeless plane. 
+     Rarity: R 
+     Number: 266/306
+     Artist: John Avon 
+
+
+  Card Name: Tower of Fortunes
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 8, T: Draw four cards. 
+Flavor Text: The ur-golem etchings begin by celebrating Mirrodin's 
+             creator, a golem of almost limitless power. They end 
+             by cursing its protector, a being called Memnarch. 
+     Rarity: R 
+     Number: 267/306
+     Artist: Matt Cavotta 
+
+
+  Card Name: Tower of Murmurs
+      Color: A
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 8, T: Target player puts the top eight cards of his 
+             or her library into his or her graveyard. 
+Flavor Text: Etched on its surface are warnings from a long-lost 
+             race of ur-golems pushed to the brink of extinction. 
+     Rarity: R 
+     Number: 268/306
+     Artist: Glen Angus 
+
+
+  Card Name: Triskelion
+      Color: A
+       Cost: 6
+       Type: Artifact Creature 
+    Pow/Tgh: 1/1
+ Rules Text: Triskelion comes into play with three +1/+1 counters 
+             on it. 
+             Remove a +1/+1 counter from Triskelion: Triskelion 
+             deals 1 damage to target creature or player. 
+Flavor Text: 
+     Rarity: R 
+     Number: 269/306
+     Artist: Christopher Moeller 
+
+
+  Card Name: Viridian Longbow
+      Color: A
+       Cost: 1
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature has "T: This creature deals 1 damage 
+             to target creature or player." 
+             Equip 3 (3: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 270/306
+     Artist: Jeremy Jarvis 
+
+
+  Card Name: Vorrac Battlehorns
+      Color: A
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature has trample and can't be blocked 
+             by more than one creature. 
+             Equip 1 (1: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 271/306
+     Artist: David Martin 
+
+
+  Card Name: Vulshok Battlegear
+      Color: A
+       Cost: 3
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +3/+3. 
+             Equip 3 (3: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 272/306
+     Artist: Kevin Dobler 
+
+
+  Card Name: Vulshok Gauntlets
+      Color: A
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +4/+2 and doesn't untap during 
+             its controller's untap step. 
+             Equip 3 (3: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: C 
+     Number: 273/306
+     Artist: Richard Sardinha 
+
+
+  Card Name: Welding Jar
+      Color: A
+       Cost: 0
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Sacrifice Welding Jar: Regenerate target artifact. 
+Flavor Text: The wires crawl over broken metal and heat themselves 
+             to melting, filling cracks quickly and efficiently. 
+     Rarity: C 
+     Number: 274/306
+     Artist: Mark Brill 
+
+
+  Card Name: Wizard Replica
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Wizard
+    Pow/Tgh: 1/3
+ Rules Text: Flying 
+             U, Sacrifice Wizard Replica: Counter target spell unless 
+             its controller pays 2. 
+Flavor Text: It responds with unnatural precision. 
+     Rarity: C 
+     Number: 275/306
+     Artist: Carl Critchlow 
+
+
+  Card Name: Worldslayer
+      Color: A
+       Cost: 5
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Whenever equipped creature deals combat damage to a 
+             player, destroy all permanents other than Worldslayer. 
+             Equip 5 (5: Attach to target creature you control. 
+             Equip only as a sorcery. This card comes into play 
+             unattached and stays in play if the creature leaves 
+             play.) 
+Flavor Text: 
+     Rarity: R 
+     Number: 276/306
+     Artist: Greg Staples 
+
+
+  Card Name: Yotian Soldier
+      Color: A
+       Cost: 3
+       Type: Artifact Creature - Soldier
+    Pow/Tgh: 1/4
+ Rules Text: Attacking doesn't cause Yotian Soldier to tap. 
+Flavor Text: Poets dream the verses of otherworldly stories. Artificers 
+             dream the blueprints of otherplanar artifacts. 
+     Rarity: C 
+     Number: 277/306
+     Artist: Luca Zontini 
+
+
+  Card Name: Ancient Den
+      Color: L
+       Cost: 
+       Type: Artifact Land 
+    Pow/Tgh: 
+ Rules Text: (Ancient Den isn't a spell.) 
+             T: Add W to your mana pool. 
+Flavor Text: Taj-Nar, throne of Raksha Golden Cub, destined leader 
+             of the leonin prides. 
+     Rarity: C 
+     Number: 278/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Blinkmoth Well
+      Color: L
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             2, T: Tap target noncreature artifact. 
+Flavor Text: When dictated by blinkmoth migratory patterns, clouds 
+             of tiny lights well up from Mirrodin's core. 
+     Rarity: U 
+     Number: 279/306
+     Artist: David Martin 
+
+
+  Card Name: Cloudpost
+      Color: L
+       Cost: 
+       Type: Land - Locus
+    Pow/Tgh: 
+ Rules Text: Cloudpost comes into play tapped. 
+             T: Add 1 to your mana pool for each Locus in play. 
+Flavor Text: "He watches from above. He watches from below. He watches 
+             from within." 
+             -Inscription on Tel-Jilad, the Tree of Tales 
+     Rarity: C 
+     Number: 280/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Glimmervoid
+      Color: L
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: At end of turn, if you control no artifacts, sacrifice 
+             Glimmervoid. 
+             T: Add one mana of any color to your mana pool. 
+Flavor Text: An empty canvas holds infinite possibilities. 
+     Rarity: R 
+     Number: 281/306
+     Artist: Lars Grant-West 
+
+
+  Card Name: Great Furnace
+      Color: L
+       Cost: 
+       Type: Artifact Land 
+    Pow/Tgh: 
+ Rules Text: (Great Furnace isn't a spell.) 
+             T: Add R to your mana pool. 
+Flavor Text: Kuldotha, wellspring of molten metal, temple of the 
+             goblin horde. 
+     Rarity: C 
+     Number: 282/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Seat of the Synod
+      Color: L
+       Cost: 
+       Type: Artifact Land 
+    Pow/Tgh: 
+ Rules Text: (Seat of the Synod isn't a spell.) 
+             T: Add U to your mana pool. 
+Flavor Text: Lumengrid, site of the Knowledge Pool, source of vedalken 
+             arcana. 
+     Rarity: C 
+     Number: 283/306
+     Artist: John Avon 
+
+
+  Card Name: Stalking Stones
+      Color: L
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             6: Stalking Stones becomes a 3/3 artifact creature 
+             that's still a land. (This effect doesn't end at end 
+             of turn.) 
+Flavor Text: 
+     Rarity: U 
+     Number: 284/306
+     Artist: David Day 
+
+
+  Card Name: Tree of Tales
+      Color: L
+       Cost: 
+       Type: Artifact Land 
+    Pow/Tgh: 
+ Rules Text: (Tree of Tales isn't a spell.) 
+             T: Add G to your mana pool. 
+Flavor Text: Tel-Jilad, sanctum of the ancient trolls, keepers of 
+             the secret of Mirrodin's origin. 
+     Rarity: C 
+     Number: 285/306
+     Artist: John Avon 
+
+
+  Card Name: Vault of Whispers
+      Color: L
+       Cost: 
+       Type: Artifact Land 
+    Pow/Tgh: 
+ Rules Text: (Vault of Whispers isn't a spell.) 
+             T: Add B to your mana pool. 
+Flavor Text: Ish Sah, den of the warlord Geth, commander of countless 
+             nim. 
+     Rarity: C 
+     Number: 286/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Plains
+      Color: L
+       Cost: 
+       Type: Basic Land - Plains
+    Pow/Tgh: 
+ Rules Text: [W] 
+Flavor Text: 
+     Rarity: L 
+     Number: 287/306
+     Artist: Mark Tedin 
+
+
+  Card Name: Plains
+      Color: L
+       Cost: 
+       Type: Basic Land - Plains
+    Pow/Tgh: 
+ Rules Text: [W] 
+Flavor Text: 
+     Rarity: L 
+     Number: 288/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Plains
+      Color: L
+       Cost: 
+       Type: Basic Land - Plains
+    Pow/Tgh: 
+ Rules Text: [W] 
+Flavor Text: 
+     Rarity: L 
+     Number: 289/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Plains
+      Color: L
+       Cost: 
+       Type: Basic Land - Plains
+    Pow/Tgh: 
+ Rules Text: [W] 
+Flavor Text: 
+     Rarity: L 
+     Number: 290/306
+     Artist: John Avon 
+
+
+  Card Name: Island
+      Color: L
+       Cost: 
+       Type: Basic Land - Island
+    Pow/Tgh: 
+ Rules Text: [U] 
+Flavor Text: 
+     Rarity: L 
+     Number: 291/306
+     Artist: Mark Tedin 
+
+
+  Card Name: Island
+      Color: L
+       Cost: 
+       Type: Basic Land - Island
+    Pow/Tgh: 
+ Rules Text: [U] 
+Flavor Text: 
+     Rarity: L 
+     Number: 292/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Island
+      Color: L
+       Cost: 
+       Type: Basic Land - Island
+    Pow/Tgh: 
+ Rules Text: [U] 
+Flavor Text: 
+     Rarity: L 
+     Number: 293/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Island
+      Color: L
+       Cost: 
+       Type: Basic Land - Island
+    Pow/Tgh: 
+ Rules Text: [U] 
+Flavor Text: 
+     Rarity: L 
+     Number: 294/306
+     Artist: John Avon 
+
+
+  Card Name: Swamp
+      Color: L
+       Cost: 
+       Type: Basic Land - Swamp
+    Pow/Tgh: 
+ Rules Text: [B] 
+Flavor Text: 
+     Rarity: L 
+     Number: 295/306
+     Artist: Mark Tedin 
+
+
+  Card Name: Swamp
+      Color: L
+       Cost: 
+       Type: Basic Land - Swamp
+    Pow/Tgh: 
+ Rules Text: [B] 
+Flavor Text: 
+     Rarity: L 
+     Number: 296/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Swamp
+      Color: L
+       Cost: 
+       Type: Basic Land - Swamp
+    Pow/Tgh: 
+ Rules Text: [B] 
+Flavor Text: 
+     Rarity: L 
+     Number: 297/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Swamp
+      Color: L
+       Cost: 
+       Type: Basic Land - Swamp
+    Pow/Tgh: 
+ Rules Text: [B] 
+Flavor Text: 
+     Rarity: L 
+     Number: 298/306
+     Artist: John Avon 
+
+
+  Card Name: Mountain
+      Color: L
+       Cost: 
+       Type: Basic Land - Mountain
+    Pow/Tgh: 
+ Rules Text: [R] 
+Flavor Text: 
+     Rarity: L 
+     Number: 299/306
+     Artist: Mark Tedin 
+
+
+  Card Name: Mountain
+      Color: L
+       Cost: 
+       Type: Basic Land - Mountain
+    Pow/Tgh: 
+ Rules Text: [R] 
+Flavor Text: 
+     Rarity: L 
+     Number: 300/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Mountain
+      Color: L
+       Cost: 
+       Type: Basic Land - Mountain
+    Pow/Tgh: 
+ Rules Text: [R] 
+Flavor Text: 
+     Rarity: L 
+     Number: 301/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Mountain
+      Color: L
+       Cost: 
+       Type: Basic Land - Mountain
+    Pow/Tgh: 
+ Rules Text: [R] 
+Flavor Text: 
+     Rarity: L 
+     Number: 302/306
+     Artist: John Avon 
+
+
+  Card Name: Forest
+      Color: L
+       Cost: 
+       Type: Basic Land - Forest
+    Pow/Tgh: 
+ Rules Text: [G] 
+Flavor Text: 
+     Rarity: L 
+     Number: 303/306
+     Artist: Mark Tedin 
+
+
+  Card Name: Forest
+      Color: L
+       Cost: 
+       Type: Basic Land - Forest
+    Pow/Tgh: 
+ Rules Text: [G] 
+Flavor Text: 
+     Rarity: L 
+     Number: 304/306
+     Artist: Rob Alexander 
+
+
+  Card Name: Forest
+      Color: L
+       Cost: 
+       Type: Basic Land - Forest
+    Pow/Tgh: 
+ Rules Text: [G] 
+Flavor Text: 
+     Rarity: L 
+     Number: 305/306
+     Artist: Martina Pilcerova 
+
+
+  Card Name: Forest
+      Color: L
+       Cost: 
+       Type: Basic Land - Forest
+    Pow/Tgh: 
+ Rules Text: [G] 
+Flavor Text: 
+     Rarity: L 
+     Number: 306/306
+     Artist: John Avon

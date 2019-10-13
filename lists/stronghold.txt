@@ -1,0 +1,1836 @@
+Stronghold Card List
+Wizards of the Coast, Inc.
+(Released March 2nd, 1998)
+
+143 Cards Total (25 Black, 25 Blue, 25 Green, 25 Red, 25 White, 
+6 Multicolor, 11 Artifacts, 1 Land; 55 Commons, 44 Uncommons, 
+44 Rare)
+
+Mana Key: 
+U - Blue, W - White, G - Green, B - Black, R - Red; 
+Numbers - Colorless (Generic) Mana
+
+Note: n/a means "not applicable"
+
+
+Card Title:    Acidic Sliver 
+Card Color:    Multi
+Type & Class:  Summon Sliver
+Casting Cost:  BR
+Pow/Tgh:       2/2
+Card Text:     Each Sliver gains "2, Sacrifice this creature: This creature 
+               deals 2 damage to target creature of player."
+Flavor Text:   The first sliver burst against the cave wall, and others piled in 
+               behind to deepen the new tunnel.
+Artist:        Jeff Miracola
+Rarity:        Uncommon
+
+
+Card Title:    Amok 
+Card Color:    Red
+Type & Class:  Enchantment 
+Casting Cost:  1R
+Pow/Tgh:       n/a
+Card Text:     1, Discard a card at random: Put a +1/+1 counter on target 
+               creature.
+Flavor Text:   Crovax's rage was horrifying. Within moments only blood and 
+               shreds of flesh remained of the shapeshifter.
+Artist:        Dermot Power
+Rarity:        Rare
+
+
+Card Title:    Awakening 
+Card Color:    Green
+Type & Class:  Enchantment 
+Casting Cost:  2GG
+Pow/Tgh:       n/a
+Card Text:     At the beginning of each player's upkeep, untap all creatures and 
+               lands.
+Flavor Text:   "There are times when destiny calls forth a people and demands an 
+               action. Now is the time. We are the people. This is our action. 
+               Charge!" -Eladamri, Lord of Leaves
+Artist:        Dan Frazier
+Rarity:        Rare
+
+
+Card Title:    Bandage 
+Card Color:    White
+Type & Class:  Instant 
+Casting Cost:  W
+Pow/Tgh:       n/a
+Card Text:     Prevent 1 damage to any creature or player.
+               Draw a card.
+Flavor Text:   Takara shook with guilt. She knew the last image her father had 
+               seen was her sword flashing toward him.
+Artist:        Rebecca Guay
+Rarity:        Common
+
+
+Card Title:    Bottomless Pit 
+Card Color:    Black
+Type & Class:  Enchantment 
+Casting Cost:  1BB
+Pow/Tgh:       n/a
+Card Text:     During each player's upkeep, that player discards a card at 
+               random.
+Flavor Text:   "I'm sure it came with the place. I don't think you build one on 
+               purpose." -Gerrard
+Artist:        Kev Walker
+Rarity:        Uncommon
+
+
+Card Title:    Brush With Death 
+Card Color:    Black
+Type & Class:  Sorcery 
+Casting Cost:  2B
+Pow/Tgh:       n/a
+Card Text:     Buyback 2BB (You may pay an additional 2BB when you playthis 
+               spell. If you do, put it into your hand instead of your graveyard 
+               as part of the spell's effect.)
+               Target opponent loses 2 life. You gain 2 life.
+Artist:        Stephen Daniele
+Rarity:        Common
+
+
+Card Title:    Bullwhip 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  4
+Pow/Tgh:       n/a
+Card Text:     2, T: Bullwhip deals 1 damage to target creature. That creature 
+               attacks this turn if able.
+Flavor Text:   "Pain is a crude way to enforce obedience, but it is cheap and 
+               plentiful." -Volrath
+Artist:        Brom
+Rarity:        Uncommon
+
+
+Card Title:    Burgeoning 
+Card Color:    Green
+Type & Class:  Enchantment 
+Casting Cost:  G
+Pow/Tgh:       n/a
+Card Text:     Whenever any opponent plays a land, you may choose a land card 
+               from your hand and put it into play.
+Flavor Text:   "The plants said, "We will fight the stone with root and stem and 
+               seed. We are patient. We will win." -Skyshroud myth of the forest
+Artist:        Randy Gallegos
+Rarity:        Rare
+
+
+Card Title:    Calming Licid 
+Card Color:    White
+Type & Class:  Summon Licid
+Casting Cost:  2W
+Pow/Tgh:       2/2
+Card Text:     W, T:  Calming Licid loses this ability and becomes a creature 
+               enchantment that reads "Enchanted creature cannot attack" instead 
+               of a creature. Move Calming Licid onto target creature. You may 
+               pay W to end this effect.
+Artist:        D. Alexander Gregory
+Rarity:        Uncommon
+
+
+Card Title:    Cannibalize 
+Card Color:    Black
+Type & Class:  Sorcery 
+Casting Cost:  1B
+Pow/Tgh:       n/a
+Card Text:     Choose two target creatures controlled by any one player. Remove 
+               one of those creatures from the game and put two +1/+1 counters 
+               on the other.
+Flavor Text:   "Mine."
+Artist:        Robert Bliss
+Rarity:        Common
+
+
+Card Title:    Cardassid 
+Card Color:    Green
+Type & Class:  Summon Beasts
+Casting Cost:  4GG
+Pow/Tgh:       5/4
+Card Text:     Trample
+               1G: Regenerate Carnassid.
+Flavor Text:   The hunter would never forget the time or place where he first 
+               met the carnassid, for they buried him there.
+Artist:        Brom
+Rarity:        Rare
+
+
+Card Title:    Change of Heart 
+Card Color:    White
+Type & Class:  Instant 
+Casting Cost:  W
+Pow/Tgh:       n/a
+Card Text:     Buyback 3 (You may pay an additional 3 when you play this spell. 
+               If you do, put it into your hand instead of your graveyard as 
+               part of the spell's effect.)
+               Target creature cannot attack this turn
+Artist:        Ron Spencer
+Rarity:        Common
+
+
+Card Title:    Cloud Spirit 
+Card Color:    Blue
+Type & Class:  Summon Spirit
+Casting Cost:  2U
+Pow/Tgh:       3/1
+Card Text:     Flying
+               Cloud Spirit can block only creatures with flying.
+Flavor Text:   Clouds are the soil, dreams are the crop. -Kor saying
+Artist:        Randy Gallegos
+Rarity:        Common
+
+
+Card Title:    Constant Mists 
+Card Color:    Green
+Type & Class:  Instant 
+Casting Cost:  1G
+Pow/Tgh:       n/a
+Card Text:     Buyback - Sacrifice a land (You may sacrifice a land in addition 
+               to any other costs when you play this spell. If you do, put 
+               Constant Mists into your hand instead of your graveyard as part
+               of the spell's effect.)
+               Creatures deal no combat damage this turn.
+Artist:        Dermot Power
+Rarity:        Uncommon
+
+
+Card Title:    Contemplation 
+Card Color:    White
+Type & Class:  Enchantment 
+Casting Cost:  1WW
+Pow/Tgh:       n/a
+Card Text:     Whenever you successfully cast a spell, gain 1 life.
+Flavor Text:   "How fascinating it is to watch the machinations of one's own 
+               mind play themselves out." -Volrath
+Artist:        Brom
+Rarity:        Uncommon
+
+
+Card Title:    Contempt 
+Card Color:    Blue
+Type & Class:  Enchant Creature
+Casting Cost:  1U
+Pow/Tgh:       n/a
+Card Text:     If enchanted creature attacks, return that creature and Contempt 
+               to owner's hand at end of combat.
+Flavor Text:   "Predictable little man. In all these years you taught me so much 
+               yet learned so little." -Volrath, to Starke
+Artist:        Val Mayerik
+Rarity:        Common
+
+
+Card Title:    Conviction 
+Card Color:    White
+Type & Class:  Enchant Creature
+Casting Cost:  1W
+Pow/Tgh:       n/a
+Card Text:     Enchanted creature gets +1/+3.
+               W: Return Conviction to owner's hand.
+Flavor Text:   It was not the minotaur's shoulders but his soul that bore the 
+               heaviest weight.
+Artist:        Paolo Parente
+Rarity:        Common
+
+
+Card Title:    Convulsing Licid 
+Card Color:    Red
+Type & Class:  Summon Licid
+Casting Cost:  2R
+Pow/Tgh:       2/2
+Card Text:     R, T: Convulsing Licid loses this ability and becomes a creature 
+               enchantment that reads "Enchanted creature cannot block" instead 
+               of a creature. Move Convulsing Licid onto target creature. You 
+               may pay R to end this effect.
+Artist:        Scott Kirschner
+Rarity:        Uncommon
+
+
+Card Title:    Corrupting Licid 
+Card Color:    Black
+Type & Class:  Summon Licid
+Casting Cost:  2B
+Pow/Tgh:       2/2
+Card Text:     B, T: Corrupting Licid loses this abillity and becomes a creature 
+               enchantment that reads "Enchanted creature cannot be blocked 
+               except by artifact creatures and black creatures" instead of a 
+               creature. Move Corrupting Licid onto target creature. You may pay 
+               B to end this effect.
+Artist:        Thomas M. Baxa
+Rarity:        Uncommon
+
+
+Card Title:    Craven Giant 
+Card Color:    Red
+Type & Class:  Summon Giant
+Casting Cost:  2R
+Pow/Tgh:       4/1
+Card Text:     Craven Giant cannot block.
+Flavor Text:   What is high as a mountain and low as a snake? -Dal riddle
+Artist:        Brian Snoddy
+Rarity:        Common
+
+
+Card Title:    Crossbow Ambush 
+Card Color:    Green
+Type & Class:  Instant 
+Casting Cost:  G
+Pow/Tgh:       n/a
+Card Text:     All creatures you control can block creatures with flying until 
+               end of turn.
+Flavor Text:   There is no drake that flies faster than a crossbow bolt. -Vec 
+               saying
+Artist:        Kev Walker
+Rarity:        Common
+
+
+Card Title:    Crovax the Cursed 
+Card Color:    Black
+Type & Class:  Summon Legend
+Casting Cost:  2BB
+Pow/Tgh:       0/0
+Card Text:     Crovax the Cursed counts as a Vampire.
+               Crovax comes into play with four +1/+1 counters on it.
+               During your upkeep, sacrifice a creature and put a +1/+1 counter 
+               Crovax, or remove a +1/+1 counter from Crovax.
+               B: Crovax gains flying until end of turn.
+Artist:        Pete Venters
+Rarity:        Rare
+
+
+Card Title:    Crystalline Sliver 
+Card Color:    Multi
+Type & Class:  Summon Sliver
+Casting Cost:  WU
+Pow/Tgh:       2/2
+Card Text:     Slivers cannot be the target of spells or abilities.
+Flavor Text:   Bred as living shields, these slivers have proven unruly-they 
+               know they cannot be caught.
+Artist:        L. A. Williams
+Rarity:        Uncommon
+
+
+Card Title:    Dauthi Trapper 
+Card Color:    Black
+Type & Class:  Summon Minion
+Casting Cost:  2B
+Pow/Tgh:       1/1
+Card Text:     T: Target creature gains shadow until end of turn. (This creature 
+               can block or be blocked by only creatures with shadow.)
+Flavor Text:   Merfolk tell their young of Dandan, humans of Rag Man. Dal tell 
+               tales of the Dauthi, and they are far worse.
+Artist:        Thomas M. Baxa
+Rarity:        Uncommon
+
+
+Card Title:    Death Stroke 
+Card Color:    Black
+Type & Class:  Sorcery 
+Casting Cost:  BB
+Pow/Tgh:       n/a
+Card Text:     Destroy target tapped creature.
+Flavor Text:   For a sharp second, Selenia froze, and Crovax's blade found home. 
+               As the angel shattered like glass, Crovax felt his mind collapse-
+               the curse had been fulfilled.
+Artist:        Colin Mc Neil
+Rarity:        Common
+
+
+Card Title:    Dream Halls 
+Card Color:    Blue
+Type & Class:  Enchantment 
+Casting Cost:  3UU
+Pow/Tgh:       n/a
+Card Text:     Instead of paying the casting cost for a spell of any color, its 
+               caster may choose and discard a card that shares at least one 
+               color with that spell. If the spell has X in its casting cost, X 
+               is 0.
+Flavor Text:   Within without.
+Artist:        Matthew Wilson
+Rarity:        Rare
+
+
+Card Title:    Dream Prowler 
+Card Color:    Blue
+Type & Class:  Summon Illusion
+Casting Cost:  2UU
+Pow/Tgh:       1/5
+Card Text:     Dream Prowler is unblockable as long as no other creatures are 
+               attacking.
+Flavor Text:   "To think that some find sleep a restful state." -Volrath
+Artist:        Richard Kane Ferguson
+Rarity:        Common
+
+
+Card Title:    Duct Crawler 
+Card Color:    Red
+Type & Class:  Summon Insect
+Casting Cost:  R
+Pow/Tgh:       1/1
+Card Text:     1R: Target creature cannot block Duct Crawler this turn.
+Flavor Text:   "The mountain's ducts will be like organ pipes, amplifying the 
+               glorious roar of the dying." -Stonghold architect, journal
+Artist:        Stephen Daniele
+Rarity:        Common
+
+
+Card Title:    Dungeon Shade 
+Card Color:    Black
+Type & Class:  Summon Spirit
+Casting Cost:  3B
+Pow/Tgh:       1/1
+Card Text:     Flying
+               B: Dungeon Shade gets +1/+1 until end of turn.
+Flavor Text:   A sickness stirs in its eyes, a nightmare born in darkened wails.
+Artist:        Jason  Alexander Behnke
+Rarity:        Common
+
+
+Card Title:    Elven Rite 
+Card Color:    Green
+Type & Class:  Sorcery 
+Casting Cost:  1G
+Pow/Tgh:       n/a
+Card Text:     Put two +1/+1 counters, distributed any way you choose, on any 
+               number of target creatures.
+Flavor Text:   As the bough stretches, so shall you grow. As the roots spread, 
+               so shall you thrive.
+Artist:        Jeff Miracola
+Rarity:        Uncommon
+
+
+Card Title:    Endangered Armodon  
+Card Color:    Green
+Type & Class:  Summon Elephant
+Casting Cost:  2GG
+Pow/Tgh:       4/5
+Card Text:     If you control any creature with toughness 2 or less, sacrifice 
+               Endangered Armodon.
+Flavor Text:   These are its last days. Its doom to be remembered only until 
+               the hunters hunger again.
+Artist:        Kev Walker
+Rarity:        Common
+
+
+Card Title:    Ensnaring Bridge 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  3
+Pow/Tgh:       n/a
+Card Text:     Each creature with power greater than the number of cards in your 
+               hand cannot attack.
+Flavor Text:   "I expected a fight, but I didn't expect it from the building 
+               itself." -Gerrard
+Artist:        Pete Venters
+Rarity:        Rare
+
+
+Card Title:    Evacuation 
+Card Color:    Blue
+Type & Class:  Instant 
+Casting Cost:  3UU
+Pow/Tgh:       n/a
+Card Text:     Return all creatures to owner's hands.
+Flavor Text:   The first step of every exodus is from the blood and the fire 
+               onto the trail
+Artist:        Rob Alexander
+Rarity:        Rare
+
+
+Card Title:    Fanning the Flames 
+Card Color:    Red
+Type & Class:  Sorcery 
+Casting Cost:  XRR
+Pow/Tgh:       n/a
+Card Text:     Buyback 3 (You may pay an additional 3 when you play this spell. 
+               If you do, put it into your hand instead of your graveyard as
+               part of the spell's effect.)
+               Fanning the Flames deals X damage to target creature or player.
+Artist:        Ron Spencer
+Rarity:        Uncommon
+
+
+Card Title:    Flame Wave 
+Card Color:    Red
+Type & Class:  Sorcery 
+Casting Cost:  3RRRR 
+Pow/Tgh:       n/a
+Card Text:     Flame Wave deals 4 damage to target player and each creature he 
+               or she controls.
+Flavor Text:   "I hear the roaring of a wave whose waters are red and whose 
+               mists are black." -Oracle en-Vec
+Artist:        Donato Giancola
+Rarity:        Uncommon
+
+
+Card Title:    Fling 
+Card Color:    Red
+Type & Class:  Instant 
+Casting Cost:  1R
+Pow/Tgh:       n/a
+Card Text:     Sacrifice a creature: Fling deals damage equal to the sacrificed 
+               creature's power to target creature or player.
+Flavor Text:   It's raining rats and moggs.
+Artist:        Paolo Parente
+Rarity:        Common
+
+
+Card Title:    Flowstone Blade 
+Card Color:    Red
+Type & Class:  Enchant Creature
+Casting Cost:  R
+Pow/Tgh:       n/a
+Card Text:     R: Enchanted creature gets +1/-1 until end of turn.
+Flavor Text:   "Remember the fable of the elf who came upon a cave of gold. In 
+               trying to free the largest piece, she was crushed by its weight.
+               -Karn, silver golem
+Artist:        L. A. Williams
+Rarity:        Common
+
+
+Card Title:    Flowstone Hellion 
+Card Color:    Red
+Type & Class:  Summon Beast
+Casting Cost:  4R
+Pow/Tgh:       3/3
+Card Text:     Flowstone Hellion is unaffected by summoning sickness.
+               0: Flowstone Hellion gets +1/-1 until end of turn.
+Flavor Text:   Volrath leaves no stone untrained.
+Artist:        Daren Bader
+Rarity:        Uncommon
+
+
+Card Title:    Flowstone Mauler 
+Card Color:    Red
+Type & Class:  Summon Beasts
+Casting Cost:  4RR
+Pow/Tgh:       4/5
+Card Text:     Trample
+               R: Flowstone Mauler gets +1/-1 until end of turn.
+Flavor Text:   Once these horrifying creatures were perfected, there was no need 
+               for armodons.
+Artist:        Paolo Parente
+Rarity:        Rare
+
+
+Card Title:    Flowstone Shambler 
+Card Color:    Red
+Type & Class:  Summon Beast
+Casting Cost:  2R
+Pow/Tgh:       2/2
+Card Text:     R: Flowstone Shambler gets +1/-1 until end of turn.
+Flavor Text:   Flowstone troops are notoriously difficult to keep in formation.
+Artist:        Jim Nelson
+Rarity:        Common
+
+
+Card Title:    Foul Imp 
+Card Color:    Black
+Type & Class:  Summon Imp
+Casting Cost:  BB
+Pow/Tgh:       2/2
+Card Text:     Flying
+               When Foul Imp comes into play, lose 2 life.
+Flavor Text:   The imp, unaware of its own ordor, paused to catch its 
+               breath...and promptly died.
+Artist:        Jim Nelson
+Rarity:        Common
+
+
+Card Title:    Furnace Spirit 
+Card Color:    Red
+Type & Class:  Summon Spirit
+Casting Cost:  2R
+Pow/Tgh:       1/1
+Card Text:     Furnace Spirit is unaffected by summoning sickness.
+               R: Furnace Spirit gets +1/+0 until end of turn.
+Flavor Text:   If it can survive the Furnace, you don't want it near you.
+Artist:        Jeff Miracola
+Rarity:        Common
+
+
+Card Title:    Gliding Licid 
+Card Color:    Blue
+Type & Class:  Summon Licid
+Casting Cost:  2U
+Pow/Tgh:       2/2
+Card Text:     U, T: Gliding Licid loses this ability and becomes a creature 
+               enchantment that reads "Enchanted creature gains flying" instead 
+               of a creature. Move Gliding Licid onto target creature.  You may 
+               pay U to end this effect.
+Artist:        Heather Hudson
+Rarity:        Uncommon
+
+
+Card Title:    Grave Pact 
+Card Color:    Black
+Type & Class:  Enchantment 
+Casting Cost:  1BBB
+Pow/Tgh:       n/a
+Card Text:     Whenever any creature you control is put into any graveyard, each 
+               other player sacrifices a creature.
+Flavor Text:   "The bonds of loyalty can tie one to the grave." -Crovax
+Artist:        Scott Kirschner
+Rarity:        Rare
+
+
+Card Title:    Hammerhead Shark 
+Card Color:    Blue
+Type & Class:  Summon Fish
+Casting Cost:  1U
+Pow/Tgh:       2/3
+Card Text:     Hammerhead Shark cannot attack unless defending player controls 
+               any islands.
+Flavor Text:   Cross the eyes of a hammerhead and you'll dot its teeth.
+Artist:        Stephen Daniele
+Rarity:        Common
+
+
+Card Title:    Heartstone 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  3
+Pow/Tgh:       n/a
+Card Text:     The cost of each creature ability requiring an activation cost is 
+               reduced by 1. This cannot reduce an ability's generic mana cost 
+               to less then 1.
+Flavor Text:   "Finding a true heartstone is even harder than finding a true 
+               heart." -Hanna
+Artist:        John Matson
+Rarity:        Uncommon
+
+
+Card Title:    Heat of Battle 
+Card Color:    Red
+Type & Class:  Enchantment 
+Casting Cost:  1R
+Pow/Tgh:       n/a
+Card Text:     Whenever any creature blocks, Heat of Battle deals 1 damage to 
+               that creature's controller.
+Flavor Text:   "Takara, it's me!" shouted Starke. It was no use - she obeyed 
+               Volrath.
+Artist:        Matthew Wilson
+Rarity:        Uncommon
+
+
+Card Title:    Hermit Druid 
+Card Color:    Green
+Type & Class:  Summon Druid
+Casting Cost:  1G
+Pow/Tgh:       1/1
+Card Text:     G, T: Reveal cards from the top of your library until you reveal 
+               a basic land card. Put that card into your hand and put all other 
+               revealed cards into your graveyard.
+Flavor Text:   Seeking the company of plants ensures that your wits will go to 
+               seed.
+Artist:        Heather Hudson
+Rarity:        Rare
+
+
+Card Title:    Hesitation 
+Card Color:    Blue
+Type & Class:  Enchantment 
+Casting Cost:  1U
+Pow/Tgh:       n/a
+Card Text:     If any spell is played, counter that spell and sacrifice 
+               Hesitation.
+Flavor Text:   Gerrard hesitaed, looking up at an enemy ship. The future 
+               hesitated with him, changed forever by the pause.
+Artist:        Pete Venters
+Rarity:        Uncommon
+
+
+Card Title:    Hibernation Sliver 
+Card Color:    Multi
+Type & Class:  Summon Sliver
+Casting Cost:  UB
+Pow/Tgh:       2/2
+Card Text:     Each Sliver gains "Pay 2 life: Return this creature to owner's 
+               hand."
+Flavor Text:   Mogglings have been known to play ball with hibernating slivers, 
+               completly unaware of their true nature.
+Artist:        Scott Kirschner
+Rarity:        Uncommon
+
+
+Card Title:    Hidden Retreat 
+Card Color:    White
+Type & Class:  Enchantment 
+Casting Cost:  2W
+Pow/Tgh:       n/a
+Card Text:     Choose a card in your hand and put it on top of your library: 
+               Prevent all damage from an instant or sorcery. (Treat further 
+               damage from that source normally.)
+Flavor Text:   After an hour in the hidey-hole, Squee seriously pondered the 
+               advantages of danger over boredom.
+Artist:        Terese Nielsen
+Rarity:        Rare
+
+
+Card Title:    Honor Guard 
+Card Color:    White
+Type & Class:  Summon Soldier
+Casting Cost:  W
+Pow/Tgh:       1/1
+Card Text:     W: Honor Guard gets +0/+1 until end of  turn.
+Flavor Text:   "It is not a choice I make, to have this guard. It is the choice 
+               of my people, and my duty to them." -Oracle en-Vec
+Artist:        Joel Biske
+Rarity:        Common
+
+
+Card Title:    Horn of Greed 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  3
+Pow/Tgh:       n/a
+Card Text:     Whenever any player plays a land, that player draws a card.
+Flavor Text:   "Rath grows, and I am nourished." -Volrath
+Artist:        Jeff Miracola
+Rarity:        Rare
+
+
+Card Title:    Hornet Cannon 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  4
+Pow/Tgh:       n/a
+Card Text:     3, T: Put a Hornet token into play. Treat this token as a 1/1 
+               artifact creature with flying that is unaffected by summoning 
+               sickness. At end of turn, destroy the token.
+Artist:        Ron Spencer
+Rarity:        Uncommon
+
+
+Card Title:    Intruder Alarm 
+Card Color:    Blue
+Type & Class:  Enchantment 
+Casting Cost:  2U
+Pow/Tgh:       n/a
+Card Text:     Creatures do not untap during their controllers' untap phase. 
+               Whenever any creature comes into play, untap all creatures.
+Flavor Text:   Mirri was startled by Volrath's apparition- it had no scent.
+Artist:        Donato Giancola
+Rarity:        Rare
+
+
+Card Title:    Invasion Plans 
+Card Color:    Red
+Type & Class:  Enchantment 
+Casting Cost:  2R
+Pow/Tgh:       n/a
+Card Text:     Each creature blocks whenever able.
+               Attacking player chooses how each  creature blocks. (All blocking 
+               assignments must still be legal.)
+Flavor Text:   Gerrard studied the globe as Mirri kept watch. Suddenly, his eyes 
+               widened. "This is Dominaria!"
+Artist:        Pete Venters
+Rarity:        Rare
+
+
+Card Title:    Jinxed Ring 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  2
+Pow/Tgh:       n/a
+Card Text:     Whenever any card is put into your graveyard from play, Jinxed 
+               Ring deals 1 damage to you.
+               Sacrifice a creature: Target opponent gains control of Jinxed 
+               Ring permanently.
+Artist:        DiTerlizzi
+Rarity:        Rare
+
+
+Card Title:    Lab Rats 
+Card Color:    Black
+Type & Class:  Sorcery 
+Casting Cost:  B
+Pow/Tgh:       n/a
+Card Text:     Buyback 4 (You may pay an additional 4 when you play this spell. 
+               If you do, put it into your hand instead of your graveyard as 
+               part of the spell's effect.)
+               Put a Rat token into play. Treat this token as a 1/1 black 
+               creature.
+Artist:        DiTerlizzi
+Rarity:        Common
+
+
+Card Title:    Lancers en-Kor 
+Card Color:    White
+Type & Class:  Summon Soldiers
+Casting Cost:  3WW
+Pow/Tgh:       3/3
+Card Text:     Trample
+               0: Redirect 1 damage from Lancers en-Kor to a creature you 
+               control.
+Flavor Text:   Nearly all sets of Kor twins are trained as lancers.
+Artist:        Pete Venters
+Rarity:        Uncommon
+
+
+Card Title:    Leap 
+Card Color:    Blue
+Type & Class:  Instant 
+Casting Cost:  U
+Pow/Tgh:       n/a
+Card Text:     Target creature gains flying until end of turn. Draw a card.
+Flavor Text:   Mirri leapt quickly and silently. The Guard died likewise.
+Artist:        Kev Walker
+Rarity:        Common
+
+
+Card Title:    Lowland Basilisk 
+Card Color:    Green
+Type & Class:  Summon Basilisk
+Casting Cost:  2G
+Pow/Tgh:       1/3
+Card Text:     Whenever Lowland Basilisk damages any creature, destroy that 
+               creature at end of combat.
+Flavor Text:   Unlike their cousins, Rathi basilisks turn their victims into 
+               puddles of flowstone.
+Artist:        Randy Gallegos
+Rarity:        Common
+
+
+Card Title:    Mana Leak 
+Card Color:    Blue
+Type & Class:  Interrupt 
+Casting Cost:  1U
+Pow/Tgh:       n/a
+Card Text:     Counter target spell unless its caster pays an additional 3.
+Flavor Text:   "The fatal flaw in every plan is the assumption that you know 
+               more than your enemy." -Volrath
+Flavor Text:   
+Artist:        Christopher Rush
+Rarity:        Common
+
+
+Card Title:    Mask of the Mimic 
+Card Color:    Blue
+Type & Class:  Instant 
+Casting Cost:  U
+Pow/Tgh:       n/a
+Card Text:     Sacrifice a creature: Search your library for any copy of target 
+               creature card and put it into play. Shuffle your library 
+               afterwards.
+Artist:        Heather Hudson
+Rarity:        Uncommon
+
+
+Card Title:    Megrim 
+Card Color:    Black
+Type & Class:  Enchantment 
+Casting Cost:  2B
+Pow/Tgh:       n/a
+Card Text:     Whenever any opponent discards a card, Megrim deals 2 damage to 
+               him or her.
+Flavor Text:   "You can run from your pain," explained Gerrard to Crovax, "but 
+               take it from experience: you will tire before it does."
+Artist:        Donato Giancola
+Rarity:        Uncommon
+
+
+Card Title:    Mind Games 
+Card Color:    Blue
+Type & Class:  Instant 
+Casting Cost:  U
+Pow/Tgh:       n/a
+Card Text:     Buyback 2U (You may pay an additional 2U when you play this 
+               spell. If you do, put it into your hand insted of your graveyard 
+               as part of the spell's effect.)
+               Tap target artifact, creature, or land.
+Artist:        Andrew Robinson
+Rarity:        Common
+
+
+Card Title:    Mind Peel 
+Card Color:    Black
+Type & Class:  Sorcery 
+Casting Cost:  B
+Pow/Tgh:       n/a
+Card Text:     Buyback 2BB (You may pay an additional 2BB when you play this 
+               spell. If you do, put it into your hand instead of your graveyard 
+               as part of the spell's effect.)
+               Target player chooses and discards a card.
+Artist:        Adam Rex
+Rarity:        Uncommon
+
+
+Card Title:    Mindwarper 
+Card Color:    Black
+Type & Class:  Summon Spirit
+Casting Cost:  2BB
+Pow/Tgh:       0/0
+Card Text:     Mindwarper comes into play with three +1/+1 counters on it. 
+               2B, Remove a +1/+1/ counter from Mindwarper: Target player 
+               chooses and discards a card. Play this ability as a sorcery.
+Artist:        Paolo Parente
+Rarity:        Rare
+
+
+Card Title:    Mob Justice 
+Card Color:    Red
+Type & Class:  Sorcery 
+Casting Cost:  1R
+Pow/Tgh:       n/a
+Card Text:     Mob Justice deals 1 damage to target player for each creature you 
+               control.
+Flavor Text:   A single stone can start an avalanche.
+Artist:        Ron Spencer
+Rarity:        Common
+
+
+Card Title:    Mogg Bombers 
+Card Color:    Red
+Type & Class:  Summon Goblins
+Casting Cost:  3R
+Pow/Tgh:       3/4
+Card Text:     If any other creature comes into play, sacrifice Mogg Bombers and 
+               it deals 3 damage to target player.
+Flavor Text:   Behind every great mogg bomber is another mogg with a shovel and 
+               a basket.
+Artist:        Dermot Power
+Rarity:        Common
+
+
+Card Title:    Mogg Flunkies 
+Card Color:    Red
+Type & Class:  Summon Goblins
+Casting Cost:  1R
+Pow/Tgh:       3/3
+Card Text:     Mogg Flunkies cannot attack or block during a turn in which no 
+               other creature you control attacks or blocks.
+Flavor Text:   They'll attack whatever's in front of them-as long as you tell
+               them where that is.
+Artist:        Brom
+Rarity:        Common
+
+
+Card Title:    Mogg Infestation 
+Card Color:    Red
+Type & Class:  Sorcery 
+Casting Cost:  3RR 
+Pow/Tgh:       n/a
+Card Text:     Destroy all creatures target player controls. FOr each creature 
+               put into any graveyard in this way, put two Goblin tokens into 
+               play under that player's control. Treat these tokens as 1/1 red 
+               creatures.
+Artist:        Pete Venters
+Rarity:        Rare
+
+
+Card Title:    Mogg Maniac 
+Card Color:    Red
+Type & Class:  Summon Goblin
+Casting Cost:  1 R
+Pow/Tgh:       1/1
+Card Text:     Whenever Mogg Maniac is dealt damage, it deals an equal amount of 
+               damage to target opponent.
+Flavor Text:   Stand clear if he gets an itch.
+Artist:        Brian Snoddy
+Rarity:        Uncommon
+
+
+Card Title:    Morgue Thrull 
+Card Color:    Black
+Type & Class:  Summon Thrull
+Casting Cost:  2B
+Pow/Tgh:       2/2
+Card Text:     Sacrifice Morgue Thrull: Put the top three cards of your library 
+               into your graveyard.
+Flavor Text:   It's so hard to find good help these days.
+Artist:        Robert Bliss
+Rarity:        Common
+
+
+Card Title:    Mortuary 
+Card Color:    Black
+Type & Class:  Enchantment 
+Casting Cost:  3B
+Pow/Tgh:       n/a
+Card Text:     Whenever any creature is put into your graveyard from play, put 
+               that creature on top of your library.
+Flavor Text:   "Think of them not as failures but as works in progress." 
+               -Volrath
+Artist:        Robert Bliss
+Rarity:        Rare
+
+
+Card Title:    Mox Diamond 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  0
+Pow/Tgh:       n/a
+Card Text:     When Mox Diamond comes into play, choose and discard a land card 
+               or sacrifice Mox Diamond.
+               T: Add one mana of any color to your mana pool. Play this ability 
+               as a mana source.
+Artist:        Dan Frazier
+Rarity:        Rare
+
+
+Card Title:    Mulch 
+Card Color:    Green
+Type & Class:  Sorcery 
+Casting Cost:  1G
+Pow/Tgh:       n/a
+Card Text:     Reveal the top four cards of your library to all players. Put any 
+               of those cards that are lands into your hand and the rest into 
+               your graveyard.
+Flavor Text:   Hope is the one crop that can grow in any climate.
+Artist:        Rebecca Guay
+Rarity:        Common
+
+
+Card Title:    Nomads en-Kor
+Card Color:    White
+Type & Class:  Summon Soldiers
+Casting Cost:  W
+Pow/Tgh:       1/1
+Card Text:     0: Redirect 1 damage from  Nomads en-Kor to a creature you 
+               control.
+Flavor Text:   The Kor forsake roots for the winding of the path; forsake voices 
+               for the silence of the mind; forsake all else for the poverty of 
+               isolation.
+Artist:        Val Mayerik
+Rarity:        Common
+
+
+Card Title:    Overgrowth 
+Card Color:    Green
+Type & Class:  Enchant Land
+Casting Cost:  2G
+Pow/Tgh:       n/a
+Card Text:     Whenever enchanted land is tapped for mana, it produces an 
+               additional GG.
+Flavor Text:   Life needs no encouragement.
+Artist:        Rob Alexander
+Rarity:        Common
+
+
+Card Title:    Portcullis 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  4
+Pow/Tgh:       n/a
+Card Text:     Whenever any creature comes into play, if there are two or more 
+               other creatures in play, set that creature aside. If Portcullis 
+               leaves play, put the creature into play under its owner's 
+               control.
+Artist:        Kev Walker
+Rarity:        Rare
+
+
+Card Title:    Primal Rage 
+Card Color:    Green
+Type & Class:  Enchantment 
+Casting Cost:  1G
+Pow/Tgh:       n/a
+Card Text:     All creatures you control gain trample.
+Flavor Text:   "Charge!" A great cry went out, and countless elves and Vec 
+               soldiers charged up the mountain. Their fury and passion hid the 
+               fact that they were horribly outnumbered.
+Artist:        Brian Snoddy
+Rarity:        Uncommon
+
+
+Card Title:    Provoke 
+Card Color:    Green
+Type & Class:  Instant 
+Casting Cost:  1G
+Pow/Tgh:       n/a
+Card Text:     Untap target creature you do not control. That creature blocks 
+               this turn if able.
+               Draw a card.
+Flavor Text:   Mirri did not have time to think, only to react.
+Artist:        Terese Nielsen
+Rarity:        Common
+
+
+Card Title:    Pursuit of Knowledge 
+Card Color:    White
+Type & Class:  Enchantment 
+Casting Cost:  3W
+Pow/Tgh:       n/a
+Card Text:     Skip drawing a card: Put a study counter on Pursuit of Knowledge.
+               Remove three study counters from Pursuit of Knowledge, Sacrifice 
+               Pursuit of Knowledge: Draw seven cards.
+Artist:        DiTerlizzi
+Rarity:        Rare
+
+
+Card Title:    Rabid Rats 
+Card Color:    Black
+Type & Class:  Summon Rats
+Casting Cost:  1B
+Pow/Tgh:       1/1
+Card Text:     T: Target blocking creature gets -1/-1 until end of turn.
+Flavor Text:   Every sentence in Volrath's prisons ends the same way.
+Artist:        Matthew Wilson
+Rarity:        Common
+
+
+Card Title:    Ransack 
+Card Color:    Blue
+Type & Class:  Sorcery 
+Casting Cost:  3U
+Pow/Tgh:       n/a
+Card Text:     Look at the top five cards of target player's library. Put any 
+               number of those cards on the bottom of that player's library in 
+               any order and the rest on top of the player's library in any 
+               order.
+Artist:        Ron Spencer
+Rarity:        Uncommon
+
+
+Card Title:    Rebound 
+Card Color:    Blue
+Type & Class:  Interrupt 
+Casting Cost:  1U
+Pow/Tgh:       n/a
+Card Text:     Target spell, which targets only a single player, targets another 
+               player of your choice instead.
+Flavor Text:   Insult, like an arrow, is beyond control once loosed.
+Artist:        Doug Chaffee
+Rarity:        Uncommon
+
+
+Card Title:    Reins of Power 
+Card Color:    Blue
+Type & Class:  Instant 
+Casting Cost:  2UU
+Pow/Tgh:       n/a
+Card Text:     You and target oppenent each untap and  gain control of all 
+               creatures the other controls until end of turn. Those creatures 
+               are unaffected by summoning sickness this turn.
+Artist:        Colin Mc Neil
+Rarity:        Rare
+
+
+Card Title:    Revenant 
+Card Color:    Black
+Type & Class:  Summon Spirit
+Casting Cost:  4B
+Pow/Tgh:       */*
+Card Text:     Flying
+               Revenant has power and toughness each equal to the number of 
+               creature cards in your graveyard.
+Flavor Text:   "Not again." -Hans
+Artist:        Terese Nielsen
+Rarity:        Rare
+
+
+Card Title:    Rolling Stones 
+Card Color:    White
+Type & Class:  Enchantment 
+Casting Cost:  1W
+Pow/Tgh:       n/a
+Card Text:     Walls can attack as though they were not Walls.
+Flavor Text:   Walls collapse and kill people all the time. Some are just more 
+               aggressive about it.
+Artist:        John Matson
+Rarity:        Rare
+
+
+Card Title:    Ruination 
+Card Color:    Red
+Type & Class:  Sorcery 
+Casting Cost:  3R
+Pow/Tgh:       n/a
+Card Text:     Destroy all nonbasic lands.
+Flavor Text:   "We have built a wall upon sand. The wall will vanish. The sand 
+               will remain." -Oracle en-Vec
+Artist:        Dermot Power
+Rarity:        Rare
+
+
+Card Title:    Sacred Ground 
+Card Color:    White
+Type & Class:  Enchantment 
+Casting Cost:  1W
+Pow/Tgh:       n/a
+Card Text:     Whenever an effect controlled by any opponent puts a land into 
+               your graveyard from play, put that land into play.
+Flavor Text:   "That which knows itself cannot be shaped to another's will."
+               -Oracle en-Vec
+Artist:        Terese Nielsen
+Rarity:        Rare
+
+
+Card Title:    Samite Blessing 
+Card Color:    White
+Type & Class:  Enchant Creature
+Casting Cost:  W
+Pow/Tgh:       n/a
+Card Text:     Enchanted creature gains "T: Prevent all damage to any creature 
+               from any one source." (Treat further damage from that source 
+               normally.)
+Flavor Text:   Knit bone, darn flesh, 
+               Stitch skin, weave breath.
+               -Samite healing ritual
+Artist:        Rebecca Guay
+Rarity:        Common
+
+
+Card Title:    Scapegoat 
+Card Color:    White
+Type & Class:  Instant 
+Casting Cost:  W
+Pow/Tgh:       n/a
+Card Text:     Sacrifice a creature: Return any number of target creatures you 
+               control to owner's hand.
+Flavor Text:   "Enjoy your deception, Vuel," Gerrard said, as Volrath's features 
+               melted from the dead shapeshifter. "I'll count this one as 
+               practice."
+Artist:        Daren Bader
+Rarity:        Uncommon
+
+
+Card Title:    Seething Anger 
+Card Color:    Red
+Type & Class:  Sorcery 
+Casting Cost:  R
+Pow/Tgh:       n/a
+Card Text:     Buyback 3 (You may pay an additional 3 when you play this spell. 
+               If you do, put it into your hand instead of your graveyard as 
+               part of the spell's effect.)
+               Target creature gets +3/+0 until end of turn.
+Artist:        Val Mayerik
+Rarity:        Common
+
+
+Card Title:    Serpent Warrior 
+Card Color:    Black
+Type & Class:  Summon Soldier
+Casting Cost:  2B
+Pow/Tgh:       3/3
+Card Text:     When Serpent Warrior comes into play, lose 3 life.
+Flavor Text:   A hiss before dying.
+Artist:        Ron Spencer
+Rarity:        Common
+
+
+Card Title:    Shaman en-Kor 
+Card Color:    White
+Type & Class:  Summon Cleric
+Casting Cost:  1W
+Pow/Tgh:       1/2
+Card Text:     0: Redirect 1 damage from Shaman en-Kor to a creature you 
+               control.
+               1W: Redirect to Shaman en-Kor all damage dealt to any one
+               creature from any one source.
+Artist:        Jeff Miracola
+Rarity:        Rare
+
+
+Card Title:    Shard Phoenix 
+Card Color:    Red
+Type & Class:  Summon Phoenix
+Casting Cost:  4R
+Pow/Tgh:       2/2
+Card Text:     Flying
+               RRR: Put Shard Phoenix into your hand. Use the ability only if 
+               Shard Phoenix is in your graveyard and only during your upkeep.
+               Sacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each 
+               creature without flying.
+Artist:        Paolo Parente
+Rarity:        Rare
+
+
+Card Title:    Shifting Wall 
+Card Color:    Artifact
+Type & Class:  Artifact Creature
+Casting Cost:  X
+Pow/Tgh:       0/0
+Card Text:     Shifting Wall counts as a Wall (Walls cannot attack.)
+               Shifting Wall comes into play with X +1/+1 counters on it.
+Flavor Text:   "You'd almost think Volrath doesn't want me here." -Gerrard
+Artist:        Michael Sutfin
+Rarity:        Uncommon
+
+
+Card Title:    Shock 
+Card Color:    Red
+Type & Class:  Instant 
+Casting Cost:  R
+Pow/Tgh:       n/a
+Card Text:     Shock deals 2 damage to target creature or player.
+Flavor Text:   Lightning tethers souls to the world. -Kor saying
+Artist:        Randy Gallegos
+Rarity:        Common
+
+
+Card Title:    Sift 
+Card Color:    Blue
+Type & Class:  Sorcery 
+Casting Cost:  3U
+Pow/Tgh:       n/a
+Card Text:     Draw three cards, then choose and discard a card.
+Flavor Text:   Twice I have let the Legacy slip away. Never again."
+               -Karn, silver golem
+Artist:        Pete Venters
+Rarity:        Common
+
+
+Card Title:    Silver Wyvern 
+Card Color:    Blue
+Type & Class:  Summon Drake
+Casting Cost:  3UU
+Pow/Tgh:       4/3
+Card Text:     Flying
+               U: Target spell or ability, which targets only Silver Wyvern, 
+               targets another creature of your choice instead. Play this 
+               ability as an interrupt.
+Artist:        Colin Mc Neil
+Rarity:        Rare
+
+
+Card Title:    Skeleton Scavengers 
+Card Color:    Black
+Type & Class:  Summon Skeletons
+Casting Cost:  2B
+Pow/Tgh:       0/0
+Card Text:     Skeleton Scavengers comes into play with one +1/+1 counter on it.
+               Pay 1 for each +1/+1 counter on Skeleton Scavengers: Regenerate 
+               Skeleton Scavengers and put a +1/+1 counter on it.
+Artist:        Brian Snoddy
+Rarity:        Rare
+
+
+Card Title:    Skyshroud Archer 
+Card Color:    Green
+Type & Class:  Summon Elf
+Casting Cost:  G
+Pow/Tgh:       1/1
+Card Text:     T: Target creature with flying gets -1/-1 until end of turn.
+Flavor Text:   In Rath, arrows are guided not by virtue but by necessity.
+Artist:        Jeff Miracola
+Rarity:        Common
+
+
+Card Title:    Skyshroud Falcon 
+Card Color:    White
+Type & Class:  Summon Bird
+Casting Cost:  1W
+Pow/Tgh:       1/1
+Card Text:     Flying
+               Attacking does not cause Skyshroud Falcon to tap.
+Flavor Text:   The falcon slits the sky to let the light drip through.
+               -Kor saying
+Artist:        Mike Raabe
+Rarity:        Common
+
+
+Card Title:    Skyshroud Troopers 
+Card Color:    Green
+Type & Class:  Summon Elves
+Casting Cost:  3G
+Pow/Tgh:       3/3
+Card Text:     T: Add G to your mana pool. Play this ability as a mana source.
+Flavor Text:   "We were not made for war. Like flowstone, Volrath shaped us to 
+               it." -Eladamri, Lord of Leaves
+Artist:        DiTerlizzi
+Rarity:        Common
+
+
+Card Title:    Sliver Queen 
+Card Color:    Multi
+Type & Class:  Summon Legend
+Casting Cost:  WUBRG
+Pow/Tgh:       7/7
+Card Text:     Sliver Queen counts as a Sliver.
+               2: Put a Sliver token into play. Treat this token as a 1/1 
+               colorless creature.
+Flavor Text:   Her children are ever part of her.
+Artist:        Ron Spencer
+Rarity:        Rare
+
+
+Card Title:    Smite 
+Card Color:    White
+Type & Class:  Instant 
+Casting Cost:  W
+Pow/Tgh:       n/a
+Card Text:     Destroy target blocked creature.
+Flavor Text:   "You've got your childhood wish at last. Now you get to die."
+               -Gerrard, to Volrath
+Artist:        Daren Bader
+Rarity:        Common
+
+
+Card Title:    Soltari Champion 
+Card Color:    White
+Type & Class:  Summon Soldier
+Casting Cost:  2W
+Pow/Tgh:       2/2
+Card Text:     Shadow (This creature can block or be blocked by only creatures 
+               with shadow.) If Soltari Champion attacks, all other creatures 
+               you control get +1/+1 until end of turn.
+Artist:        Adam Rex
+Rarity:        Rare
+
+
+Card Title:    Spike Breeder 
+Card Color:    Green
+Type & Class:  Summon Spike
+Casting Cost:  3G
+Pow/Tgh:       0/0
+Card Text:     Spike Breeder comes into play with three +1/+1 counters on it.
+               2, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter 
+               on target creature.
+               2, Remove a +1/+1 counter from Spike Breeder: Put a Spike token 
+               into play. Treat this token as a 1/1 green creature.
+Artist:        Adam Rex
+Rarity:        Rare
+
+
+Card Title:    Spike Colony 
+Card Color:    Green
+Type & Class:  Summon Spike
+Casting Cost:  4G
+Pow/Tgh:       0/0
+Card Text:     Spike Colony comes into play with four +1/+1 counters on it.
+               2, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter 
+               on target creature.
+Artist:        Douglas Shuler
+Rarity:        Common
+
+
+Card Title:    Spike Feeder 
+Card Color:    Green
+Type & Class:  Summon Spike
+Casting Cost:  1GG
+Pow/Tgh:       0/0
+Card Text:     Spike Feeder comes into play with two +1/+1 counters on it.
+               2, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter 
+               on target creature.
+               Remove a +1/+1 counter from Spike Feeder: Gain 2 life.
+Artist:        Heather Hudson
+Rarity:        Uncommon
+
+
+Card Title:    Spike Soldier 
+Card Color:    Green
+Type & Class:  Summon Spike
+Casting Cost:  2GG
+Pow/Tgh:       0/0
+Card Text:     Spike Soldier comes into play with three +1/+1 counters on it.
+               2, Remove a +1/+1 counter from Spike Soldier: Put a +1/+1 counter 
+               on target creature.
+               Remove a +1/+1 counter from Spike Soldier: Spike Soldier gets 
+               +2/+2 until end of turn.
+Artist:        Randy Elliott
+Rarity:        Uncommon
+
+
+Card Title:    Spike Worker 
+Card Color:    Green
+Type & Class:  Summon Spike
+Casting Cost:  2G
+Pow/Tgh:       0/0
+Card Text:     Spike Worker comes into play with two +1/+1 counters on it.
+               2, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter
+               on target creature.
+Artist:        Daniel Gelon
+Rarity:        Common
+
+
+Card Title:    Spindrift Drake 
+Card Color:    Blue
+Type & Class:  Summon Drake
+Casting Cost:  U
+Pow/Tgh:       2/1
+Card Text:     Flying
+               During your upkeep, pay U or sacrifce Spindrift Drake.
+Flavor Text:   Sea brine for blood, washing foam for laughter.
+Artist:        Anthony Waters
+Rarity:        Common
+
+
+Card Title:    Spined Sliver 
+Card Color:    Multi
+Type & Class:  Summon Sliver
+Casting Cost:  RG
+Pow/Tgh:       2/2
+Card Text:     If any Sliver is blocked it gets +1/+1 until end of turn for each 
+               creature blocking it.
+Flavor Text:   "Slivers are evil and slivers are sly;
+               And if you get eaten, then no one will cry."
+               -Mogg children's rhyme
+Artist:        Ron Spencer
+Rarity:        Uncommon
+
+
+Card Title:    Spined Wurm 
+Card Color:    Green
+Type & Class:  Summon Wurm
+Casting Cost:  4G
+Pow/Tgh:       5/4
+Card Text:     [None]
+Flavor Text:   "As it moved, the wurm's spines gathered up bits of flowstone, 
+               which took the shapes of dead villager's heads. Each head spoke a 
+               single sound, but if taken together, they said, 'Alas for the 
+               living.'" -Dal myth of the wurm
+Artist:        Keith Parkinson
+Rarity:        Common
+
+
+Card Title:    Spirit en-Kor 
+Card Color:    White
+Type & Class:  Summon Spirit
+Casting Cost:  3W
+Pow/Tgh:       2/2
+Card Text:     Flying
+               0: Redirect 1 damage from Spirit en-Kor to a creature you 
+               control.
+Flavor Text:   Death free throat from thirst, mouth from speech, feet from 
+               earth. -Kor requiem
+Artist:        John Matson
+Rarity:        Common
+
+
+Card Title:    Spitting Hydra 
+Card Color:    Red
+Type & Class:  Summon Hydra
+Casting Cost:  3RR 
+Pow/Tgh:       0/0
+Card Text:     Spitting Hydra comes into play with four +1/+1 counters on it.
+               1R, Remove a +1/+1 counter from Spitting Hydra: Spitting Hydra 
+               deals 1 damage to target creature.
+Artist:        Daren Bader
+Rarity:        Rare
+
+
+Card Title:    Stronghold Assassin 
+Card Color:    Black
+Type & Class:  Summon Assassin
+Casting Cost:  1BB
+Pow/Tgh:       2/1
+Card Text:     T, Sacrifice a creature: Destroy target nonblack creature.
+Flavor Text:   The assassin sees only throats and hears only heartbeats.
+Artist:        Matthew Wilson
+Rarity:        Rare
+
+
+Card Title:    Stronghold Taskmaster 
+Card Color:    Black
+Type & Class:  Summon Minion
+Casting Cost:  2BB
+Pow/Tgh:       4/3
+Card Text:     All other black creatures get -1/-1.
+Flavor Text:   "With the completion of each joyous task, we are closer to 
+               Yawgmoth's divine vision." -Stronghold architect, journal
+Artist:        Brom
+Rarity:        Uncommon
+
+
+Card Title:    Sword of the Chosen 
+Card Color:    Artifact
+Type & Class:  Legendary Artifact
+Casting Cost:  2
+Pow/Tgh:       n/a
+Card Text:     T: Target legend gets +2/+2 until end of turn.
+Flavor Text:   One shard of Selenia yet remained.
+Artist:        Adam Rex
+Rarity:        Rare
+
+
+Card Title:    Temper 
+Card Color:    White
+Type & Class:  Instant 
+Casting Cost:  X1W
+Pow/Tgh:       n/a
+Card Text:     Prevent up to X damage to target creature. For each 1 damage 
+               prevented in this way, put a +1/+1 counter on that creature.
+Flavor Text:   "I don't need a plan, just a goal. The rest will follow on its 
+               own." -Gerrard
+Artist:        Matthew Wilson
+Rarity:        Uncommon
+
+
+Card Title:    Tempting Licid 
+Card Color:    Green
+Type & Class:  Summon Licid
+Casting Cost:  2G
+Pow/Tgh:       2/2
+Card Text:     G, T: Tempting Licid loses this ability and becomes a creature 
+               enchantment that reads "All creatures able to block enchanted 
+               creature do so" instead of a creature. Move Tempting Licid onto 
+               target creature. You may pay G to end this effect.
+Artist:        Randy Gallegos
+Rarity:        Uncommon
+
+
+Card Title:    Thalakos Deceiver 
+Card Color:    Blue
+Type & Class:  Summon Wizard
+Casting Cost:  3U
+Pow/Tgh:       1/1
+Card Text:     Shadow (This creature can block or be blocked by only creatures 
+               with shadow.)
+               Sacrifice Thalakos Deceiver: Gain control of target creature 
+               permanently. Use this ability only if Thalakos Deceiver is 
+               attacking and unblocked.
+Artist:        Andrew Robinson
+Rarity:        Rare
+
+
+Card Title:    Tidal Surge 
+Card Color:    Blue
+Type & Class:  Sorcery 
+Casting Cost:  1U
+Pow/Tgh:       n/a
+Card Text:     Tap up to three target creatures without flying.
+Flavor Text:   "It is nature that gives us our boundaries and nature that 
+               enforces them."
+Artist:        Doug Chaffee
+Rarity:        Common
+
+
+Card Title:    Tidal Warrior 
+Card Color:    Blue
+Type & Class:  Summon Merfolk
+Casting Cost:  U
+Pow/Tgh:       1/1
+Card Text:     T: Target land is an island until end of turn.
+Flavor Text:   The tide of battle favors those who can swim.
+Artist:        Daren Bader
+Rarity:        Common
+
+
+Card Title:    Torment 
+Card Color:    Black
+Type & Class:  Enchant Creature
+Casting Cost:  1B
+Pow/Tgh:       n/a
+Card Text:     Enchanted creature gets -3/-/0.
+Flavor Text:   "Volrath has killed me. All that remains of me is the scar!"
+               -Tahngarth
+Artist:        Paolo Parente
+Rarity:        Common
+
+
+Card Title:    Tortured Existence 
+Card Color:    Black
+Type & Class:  Enchantment 
+Casting Cost:  B
+Pow/Tgh:       n/a
+Card Text:     B, Choose and discard a creature card. Return target creature 
+               card from your graveyard to your hand.
+Flavor Text:   "There are terors lurking in the unseen corners of us all."
+               -Crovax
+Artist:        Keith Parkinson
+Rarity:        Common
+
+
+Card Title:    Venerable Monk 
+Card Color:    White
+Type & Class:  Summon Cleric
+Casting Cost:  2W
+Pow/Tgh:       2/2
+Card Text:     When Venerable Monk comes into play, gain 2 life.
+Flavor Text:   Age wears the flesh but galvanizes the soul
+Artist:        Terese Nielsen
+Rarity:        Common
+
+
+Card Title:    Verdant Touch 
+Card Color:    Green
+Type & Class:  Sorcery 
+Casting Cost:  1G
+Pow/Tgh:       n/a
+Card Text:     Buyback 3 (You may pay an additional 3 when you play this spell. 
+               If you do, put it into your hand instead of your graveyard as 
+               part of the spell's effect.)
+               Target land becomes a 2/2 creature permanently. (This creature 
+               still counts as a land.)
+Artist:        DiTerlizzi
+Rarity:        Rare
+
+
+Card Title:    Victual Sliver 
+Card Color:    Multi
+Type & Class:  Summon Sliver
+Casting Cost:  GW
+Pow/Tgh:       2/2
+Card Text:     Each Sliver gains "2, Sacrifice this creature: Gain 4 life."
+Flavor Text:   "We are kinfolk," explained Karn to the sliver queen. "Just as 
+               you need your progeny to complete you, so do I need the pieces of 
+               the Legacy to make me whole."
+Artist:        Terese Nielsen
+Rarity:        Uncommon
+
+
+Card Title:    Volrath's Gardens 
+Card Color:    Green
+Type & Class:  Enchantment 
+Casting Cost:  1G
+Pow/Tgh:       n/a
+Card Text:     2, Tap a creature you control: Gain 2 life. Play this ability as 
+               a sorcery.
+Flavor Text:   "Watch yourself," warned Starke. "These plants aren't nice when 
+               they're hungry."
+Artist:        Rob Alexander
+Rarity:        Rare
+
+
+Card Title:    Volrath's Laboratory 
+Card Color:    Artifact
+Type & Class:  Artifact 
+Casting Cost:  5
+Pow/Tgh:       n/a
+Card Text:     When you play Volrath's Laboratory, choose a color and creature 
+               type.
+               5, T: Put a token creature into play. Treat this token as a 2/2 
+               creature of the chosen color and creature type.
+Artist:        Brom
+Rarity:        Rare
+
+
+Card Title:    Volrath's Shapeshifter 
+Card Color:    Blue
+Type & Class:  Summon Shapeshifter
+Casting Cost:  1UU
+Pow/Tgh:       0/1
+Card Text:     As long as the top card of your graveyard is a creature card, 
+               Volrath's Shapeshifter is a copy of that card, except that 
+               Volrath's Shapeshifter retains its abilities.
+               2: Choose and discard a card.
+Artist:        Ron Spencer
+Rarity:        Rare
+
+
+Card Title:    Volrath's Stronghold 
+Card Color:    Land
+Type & Class:  Legendary  Land
+Casting Cost:  n/a
+Pow/Tgh:       n/a
+Card Text:     T: Add one colorless mana to your mana pool.
+               1B, T: Put target creature card from your graveyard on top of 
+               your library.
+Flavor Text:   The seed of a world's evil.
+Artist:        Kev Walker
+Rarity:        Rare
+
+
+Card Title:    Walking Dream 
+Card Color:    Blue
+Type & Class:  Summon Illusion
+Casting Cost:  3U
+Pow/Tgh:       3/3
+Card Text:     Walking Dream is unblockable.
+               Walking Dream does not untap during your untap phase if any 
+               opponent controls two or more creatures.
+Flavor Text:   Dreams, by definition, live shorter lives than those who dream 
+               them.
+Artist:        Richard Kane Ferguson
+Rarity:        Uncommon
+
+
+Card Title:    Wall of Blossoms 
+Card Color:    Green
+Type & Class:  Summon Wall
+Casting Cost:  1G
+Pow/Tgh:       0/4
+Card Text:     (Walls cannot attack.) 
+               When Wall of Blossoms comes into play, draw a card.
+Flavor Text:   Each flower identical, every leaf and petal disturbingly exact.
+Artist:        Heather Hudson
+Rarity:        Uncommon
+
+
+Card Title:    Wall of Essence 
+Card Color:    White
+Type & Class:  Summon Wall
+Casting Cost:  1W
+Pow/Tgh:       0/4
+Card Text:     (Walls cannot attack.) 
+               For each 1 combat damage dealt to Wall of Essence, gain 1 life.
+Flavor Text:   The ceiling and the floor fell in love, but only the wall knew.
+               -Dal saying
+Artist:        Adam Rex
+Rarity:        Uncommon
+
+
+Card Title:    Wall of Razors 
+Card Color:    Red
+Type & Class:  Summon Wall
+Casting Cost:  1R
+Pow/Tgh:       4/1
+Card Text:     (Walls cannot attack.)
+               First strike
+Flavor Text:   "In this blessed structure let the very walls baptize themselves 
+               in the blood of intruders." -Stonghold architect, journal
+Artist:        Michael Sutfin
+Rarity:        Uncommon
+
+
+Card Title:    Wall of Souls 
+Card Color:    Black
+Type & Class:  Summon Wall
+Casting Cost:  1B
+Pow/Tgh:       0/4
+Card Text:     (Walls cannot attack.)
+               Whenever Wall of Souls is dealt combat damage, it deals an equal 
+               amount of damage to target opponent.
+Flavor Text:   "It is the nature of evil to turn you against yourself." -Starke
+Artist:        John Matson
+Rarity:        Uncommon
+
+
+Card Title:    Wall of Tears 
+Card Color:    Blue
+Type & Class:  Summon Wall
+Casting Cost:  1U
+Pow/Tgh:       0/4
+Card Text:     (Walls cannot attack.)
+               If Wall of Tears blocks any creatures, return each of those 
+               creatures to owner's hand at end of combat.
+Flavor Text:   "Many have been lost to pity." -Karn, silver golem
+Artist:        Rebecca Guay
+Rarity:        Uncommon
+
+
+Card Title:    Warrior Angel 
+Card Color:    White
+Type & Class:  Summon Angel
+Casting Cost:  4WW
+Pow/Tgh:       3/4
+Card Text:     Flying
+               For each 1 damage Warrior Angel deals, gain 1 life.
+Flavor Text:   She represents not hope, but hope's desperate fury.
+Artist:        Brom
+Rarity:        Rare
+
+
+Card Title:    Warrior en-Kor 
+Card Color:    White
+Type & Class:  Summon Knight
+Casting Cost:  WW
+Pow/Tgh:       2/2
+Card Text:     0: Redirect 1 damage from Warrior en-Kor to a creature you 
+               control.
+Flavor Text:   Only a matter as vital as destroying Volrath could bring together 
+               the reclusive Kor people.
+Artist:        Stephen Daniele
+Rarity:        Uncommon
+
+
+Card Title:    Youthful Knight 
+Card Color:    White
+Type & Class:  Summon Knight
+Casting Cost:  1W
+Pow/Tgh:       2/1
+Card Text:     First strike.
+Flavor Text:   "Let no child be without a sword. We will all fight, for if we 
+               fail, we will certainly all die." -Oracle en-Vec
+Artist:        Rebecca Guay
+Rarity:        Common
+
+Copyright 1998 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+Arabian Nights, Antiquities, Legends, The Dark, Fallen Empires,
+Ice Age, Homelands, Chronicles, Alliances, Mirage,
+Visions, Weatherlight, Tempest, and Stronghold
+are trademarks of Wizards of the Coast, Inc.

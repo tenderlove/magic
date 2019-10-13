@@ -1,0 +1,1194 @@
+Fallen Empires Card List
+Wizards of the Coast, Inc.
+(Released November 1994)
+
+187 Cards Total (33 White, 33 Green, 33 Red, 33 Blue, 33 Black, 11 Land, 
+11 Artifacts; 66 Uncommons, 121 Commons)
+
+Explanation of Rarity: the number after the rarity (e.g.: Common 1), means 
+that that card appears that many times on the print sheet. 
+
+The following Card Lists are also available for Magic: The Gathering: 
+Alpha/Beta/Unlimited, Promo Cards, Arabian Nights, Antiquities, Legends,
+The Dark, Revised, 4th Edition, Ice Age, Chronicles, Homelands, Alliances, 
+Mirage, Visions, and 5th Edition.
+
+Mana Key: 
+U - Blue, W - White, G - Green, B - Black, R - Red; Numbers - Colorless 
+(Generic) Mana
+
+Note: n/a means "not applicable"
+
+Card Title:	Aeolipile
+Color:		Artifact
+Card Type:	Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	1, TAP: Sacrifice Aeolipile to have it deal 2 damage to any
+		target.
+Artist:		Heather Hudson
+Rarity:		Uncommon 1
+
+Card Title:	Armor Thrull (4 versions)
+Color:		Black
+Card Type:	Summon Thrull
+Cost:		2B
+Pow/Tgh:	1/3
+Card Text:	TAP: Sacrifice Armor Thrull to put a +1/+2 counter on a
+		target creature.
+Artists:	Jeff A. Menges, Pete Venters, Ron Spencer, Scott Kirschner
+Rarity:		Common 1
+
+Card Title:	Balm of Restoration
+Color:		Artifact
+Card Type:	Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	1, TAP: Sacrifice Balm of Restoration to gain 2 life or
+		prevent up to 2 damage to any player or creature.
+Artist:		Margaret Organ-Keen
+Rarity:		Uncommon 1
+
+Card Title:	Basal Thrull (4 versions)
+Color:		Black
+Card Type:	Summon Thrull
+Cost:		BB
+Pow/Tgh:	1/2
+Card Text:	TAP: Sacrifice Basal Thrull to add BB to your mana pool.
+		Play this ability as an interrupt.
+Artists:	Chris Rush, Kaja Foglio, Phil Foglio, Richard Kane-Ferguson
+Rarity:		Common 1
+
+Card Title:	Bottomless Vault
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped. You may choose not to untap
+		Bottomless Vault during your untap phase and instead put a
+		storage counter on it.
+		TAP: Remove any number of storage counters from
+		Bottomless Vault. For each storage counter removed, add
+		B to your mana pool.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 1
+
+Card Title:	Brassclaw Orcs (4 versions)
+Color:		Red
+Card Type:	Summon Orcs
+Cost:		2R
+Pow/Tgh:	3/2
+Card Text:	Cannot be assigned to block any creature of power greater
+		than 1.
+Artists:	Dan Frazier, Heather Hudson, Rob Alexander (2 cards)
+Rarity:		Common 1
+
+Card Title:	Breeding Pit
+Color:		Black
+Card Type:	Enchantment
+Cost:		3B
+Pow/Tgh:	n/a
+Card Text:	During your upkeep, pay BB or bury Breeding Pit.
+		At the end of your turn, put a Thrull token into play. Treat
+		this token as a 0/1 black creature.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 3
+
+Card Title:	Combat Medic (4 versions)
+Color:		White
+Card Type:	Summon Soldier
+Cost:		2W
+Pow/Tgh:	0/2
+Card Text:	1W: Prevent 1 damage to any player or creature.
+Artists:	Anson Maddocks, Edward Beard, Jr., Liz Danforth, Susan
+		Van Camp
+Rarity:		Common 1
+
+Card Title:	Conch Horn
+Color:		Artifact
+Card Type:	Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	1, TAP: Sacrifice Conch Horn. Draw two cards, then put
+		any one card from your hand back on top of your library.
+Artist:		Phil Foglio
+Rarity:		Uncommon 1
+
+Card Title:	Deep Spawn
+Color:		Blue
+Card Type:	Summon Homarid
+Cost:		5UUU
+Pow/Tgh:	6/6
+Card Text:	Trample
+		During your upkeep, take two cards from the top of your
+		library and put them in your graveyard, or destroy Deep
+		Spawn.
+		U: Deep Spawn may not be the target of spells or effects
+		until end of turn and does not untap as normal during
+		your next untap phase. If Deep Spawn is untapped, tap it.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 3
+
+Card Title:	Delif's Cone
+Color:		Artifact
+Card Type:	Artifact
+Cost:		0
+Pow/Tgh:	n/a
+Card Text:	TAP: Sacrifice Delif's Cone. If target creature you control
+		attacks and is not blocked, you may choose to gain its power
+		in life. If you do so, it deals no damage to opponent this
+		turn.
+Artist:		Mark Tedin 
+Rarity:		Common 1
+
+Card Title:	Delif's Cube
+Color:		Artifact
+Card Type:	Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	2, TAP: If target creature you control attacks and is not
+		blocked, it deals no damage to opponent. Instead, put a cube
+		counter on Delif's Cube.
+		2: Remove a cube counter to regenerate a target creature.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 1
+
+Card Title:	Derelor
+Color:		Black
+Card Type:	Summon Thrull
+Cost:		3B
+Pow/Tgh:	4/4
+Card Text:	Your black spells cost an additional B to cast.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 1
+
+Card Title:	Draconian Cylix
+Color:		Artifact
+Card Type:	Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	2, TAP: Discard a card at random from your hand to
+		regenerate a target creature.
+Artists:	Edward Beard, Jr.
+Rarity:		Uncommon 1
+
+Card Title:	Dwarven Armorer
+Color:		Red
+Card Type:	Summon Dwarf
+Cost:		R
+Pow/Tgh:	0/2
+Card Text:	R, TAP: Discard a card from your hand to put either a +0/+1
+		or a +1/+0 counter on a target creature.
+Artist:		Bryon Wackwitz
+Rarity:		Uncommon 1
+
+Card Title:	Dwarven Catapult
+Color:		Red
+Card Type:	Instant
+Cost:		XR
+Pow/Tgh:	n/a
+Card Text:	Dwarven Catapult does X damage, divided evenly among
+		all of opponent's creatures (round down).
+Artist:		Jeff A. Menges
+Rarity:		Uncommon 3
+
+Card Title:	Dwarven Hold
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped. You may choose not to untap
+		Dwarven Hold during your untap phase and instead put a
+		storage counter on it.
+		TAP: Remove any number of storage counters from
+		Dwarven Hold. For each storage counter removed, add R
+		to your mana pool.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 1
+
+Card Title:	Dwarven Lieutenant
+Color:		Red
+Card Type:	Summon Dwarf
+Cost:		RR
+Pow/Tgh:	1/2
+Card Text:	1R: Target Dwarf gets +1/+0 until end of turn.
+Artist:		Jeff A. Menges
+Rarity:		Uncommon 3
+
+Card Title:	Dwarven Ruins
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped.
+		TAP: Add R to your mana pool.
+		TAP: Sacrifice Dwarven Ruins to add RR to your mana pool.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Dwarven Soldier (3 versions)
+Color:		Red
+Card Type:	Summon Dwarf
+Cost:		1R
+Pow/Tgh:	2/1
+Card Text:	If Dwarven Soldier blocks or is blocked by Orcs, it gets
+		+0/+2 until end of turn.
+Artists:	Douglas Shuler, Randy Asplund-Faith, Rob Alexander
+Rarity:		Common 1
+
+Card Title:	Ebon Praetor
+Color:		Black
+Card Type:	Summon Avatar
+Cost:		4BB
+Pow/Tgh:	5/5
+Card Text:	Trample, first strike
+		During your upkeep, put a -2/-2 counter on Ebon Praetor.
+		You may sacrifice a creature during your upkeep to
+		remove a -2/-2 counter from Ebon Praetor. If the creature
+		sacrificed was a Thrull, also put a +1/+0 counter on
+		Ebon Praetor. Only one creature may be sacrificed in this
+		manner each turn.
+Artist:		Randy Asplund-Faith
+Rarity:		Uncommon 1
+
+Card Title:	Ebon Stronghold
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped.
+		TAP: Add B to your mana pool.
+		TAP: Sacrifice Ebon Stronghold to add BB to your
+		mana pool.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Elven Fortress (4 versions)
+Color:		Green
+Card Type:	Enchantment
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	1G: Target blocking creature gets +0/+1 until end of turn.
+Artists:	Mark Poole, Pete Venters, Randy Asplund-Faith,
+		Tom Wanerstrand
+Rarity:		Common 1
+
+Card Title:	Elven Lyre
+Color:		Artifact
+Card Type:	Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	1, TAP: Sacrifice Elven Lyre to give a target creature +2/+2
+		until end of turn.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 1
+
+Card Title:	Elvish Farmer
+Color:		Green
+Card Type:	Summon Elf
+Cost:		1G
+Pow/Tgh:	0/2
+Card Text:	During your upkeep, put a spore counter on Elvish Farmer.
+		0: Remove three spore counters from Elvish Farmer to pu
+		a Saproling token into play. Treat this token as a 1/1 green
+		creature.
+		0: Sacrifice a Saproling to gain 2 life.
+Artist:		Richard Kane-Ferguson
+Rarity:		Uncommon 1
+
+Card Title:	Elvish Hunter (3 versions)
+Color:		Green
+Card Type:	Summon Elf
+Cost:		1G
+Pow/Tgh:	1/1
+Card Text:	1G, TAP: Target creature does not untap as normal during
+		its controller's next untap phase.
+Artists:	Anson Maddocks, Mark Poole, Susan Van Camp, 
+Rarity:		Common 1
+
+Card Title:	Elvish Scout (3 versions)
+Color:		Green
+Card Type:	Summon Elf
+Cost:		G
+Pow/Tgh:	1/1
+Card Text:	G, TAP: Untap a target attacking creature you control. That
+		creature neither receives nor deals damage during combat
+		this turn.
+Artists:	Chris Rush, Mark Poole, Pete Venters
+Rarity:		Common 1
+
+Card Title:	Farrel's Mantle
+Color:		White
+Card Type:	Enchant Creature
+Cost:		2W
+Pow/Tgh:	n/a
+Card Text:	If target creature attacks and is not blocked, it may 
+		deal X+2 damage to any other target creature, where 
+		X is the power of the creature Farrel's Mantle enchants. 
+		If it does so, it deals no damage to opponent this turn.
+Artist:		Anthony Waters
+Rarity:		Uncommon 3
+
+Card Title:	Farrel's Zealot (3 versions)
+Color:		White
+Card Type:	Summon Townsfolk
+Cost:		1WW
+Pow/Tgh:	2/2
+Card Text:	If Farrel's Zealot attacks and is not blocked, you 
+		may choose to have it deal 3 damage to a target 
+		creature. If you do so, it deals no damage to opponent 
+		this turn.
+Artists:	Edward Beard, Jr., Melissa Benson, Richard Kane-Ferguson
+Rarity:		Common 1
+
+Card Title:	Farrelite Priest
+Color:		White
+Card Type:	Summon Cleric
+Cost:		1WW
+Pow/Tgh:	1/3
+Card Text:	1: Add W to your mana pool. Play this ability as an
+		interrupt. If more than 3 is spent in this way during one
+		turn, bury Farrelite Priest at end of turn.
+Artist:		Phil Foglio
+Rarity:		Uncommon 3
+
+Card Title:	Feral Thallid
+Color:		Green
+Card Type:	Summon Fungus
+Cost:		3GGG
+Pow/Tgh:	6/3
+Card Text:	During your upkeep, put a spore counter on Feral Thallid.
+		0: Remove three spore counters from Feral Thallid to
+		regenerate it.
+Artist:		Rob Alexander
+Rarity:		Uncommon 3
+
+Card Title:	Fungal Bloom
+Color:		Green
+Card Type:	Enchantment
+Cost:		GG
+Pow/Tgh:	n/a
+Card Text:	GG: Put a spore counter on a target Fungus. 
+Artist:		Daniel Gelon
+Rarity:		Uncommon 1
+
+Card Title:	Goblin Chirurgeon (3 versions)
+Color:		Red
+Card Type:	Summon Goblin
+Cost:		R
+Pow/Tgh:	0/2
+Card Text:	0: Sacrifice a Goblin to regenerate a target creature.
+Artists:	Dan Frazier, Daniel Gelon, Phil Foglio
+Rarity:		Common 1
+
+Card Title:	Goblin Flotilla
+Color:		Red
+Card Type:	Summon Goblins
+Cost:		2R
+Pow/Tgh:	2/2
+Card Text:	Islandwalk
+Card Text:	At the beginning of the attack, pay R or any creatures blocking
+		or blocked by Goblin Flotilla gain first strike until end of turn.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+
+Card Title:	Goblin Grenade (3 versions)
+Color:		Red
+Card Type:	Sorcery
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a Goblin to have Goblin Grenade deal 5 damage to
+		one target.
+Artists:	Chris Rush, Dan Frazier, Ron Spencer
+Rarity:		Common 1
+
+Card Title:	Goblin Kites
+Color:		Red
+Card Type:	Enchantment
+Cost:		1R
+Pow/Tgh:	n/a
+Card Text:	R: A target creature you control, which cannot have a
+		toughness greater than 2, gains flying until end of turn. Other
+		effects may later be used to increase the creature's toughness.
+		At end of turn, flip a coin; opponent calls heads or tails while
+		coin is in the air. If the flip ends up in opponent's favor,
+		bury that creature.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 3
+
+Card Title:	Goblin War Drums (4 versions)
+Color:		Red
+Card Type:	Enchantment
+Cost:		2R
+Pow/Tgh:	n/a
+Card Text:	Each attacking creature you control that opponent chooses to
+		block may not be blocked with fewer than two creatures.
+Artists:	Dan Frazier, Heather Hudson, Jeff A. Menges, Richard Kane-Ferguson
+Rarity:		Common 1
+
+Card Title:	Goblin Warrens
+Color:		Red
+Card Type:	Enchantment
+Cost:		2R
+Pow/Tgh:	n/a
+Card Text:	2R: Sacrifice two Goblins to put three Goblin tokens into
+		play.
+		Treat these tokens as 1/1 red creatures.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+
+Card Title:	Hand of Justice
+Color:		White
+Card Type:	Summon Avatar
+Cost:		5W
+Pow/Tgh:	2/6
+Card Text:	TAP: Tap three target white creatures you control to destroy
+		any target creature.
+Artist:		Melissa Benson
+Rarity:		Uncommon 1
+
+Card Title:	Havenwood Battleground
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped.
+		TAP: Add G to your mana pool.
+		TAP: Sacrifice Havenwood Battleground to add GG to your
+		mana pool.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Heroism
+Color:		White
+Card Type:	Enchantment
+Cost:		2W
+Pow/Tgh:	n/a
+Card Text:	0: Sacrifice a white creature to have attacking red creatures
+		deal no damage during combat this turn. The attacking
+		player may pay 2R for an attacking creature to have it deal
+		damage as normal.
+Artist:		Mark Poole
+Rarity:		Uncommon 3
+
+Card Title:	High Tide (3 versions)
+Color:		Blue
+Card Type:	Instant
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Until end of turn, all islands produce an additional U when 
+		tapped for mana. 
+Artists:	Amy Weber, Anson Maddocks, Drew Tucker
+Rarity:		Common 1
+
+Card Title:	Hollow Trees
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped. You may choose not to untap
+		Hollow Trees during your untap phase and instead put a
+		storage counter on it.
+		TAP: Remove any number of storage counters from Hollow
+		Trees. For each storage counter removed, add G to your
+		mana pool.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 1
+
+Card Title:	Homarid (4 versions)
+Color:		Blue
+Card Type:	Summon Homarid
+Cost:		2U
+Pow/Tgh:	2/2
+Card Text:	Put a tide counter on Homarid when it is brought into play
+		and during your upkeep. If there is one tide counter on
+		Homarid, it gets -1/-1. If there are three tide counters on
+		Homarid, it gets +1/+1. When there are four tide counters
+		on Homarid, remove them all.
+Artists:	Bryon Wackwitz, Heather Hudson, Quinton Hoover, Mark Tedin
+Rarity:		Common 1
+
+Card Title:	Homarid Shaman
+Color:		Blue
+Card Type:	Summon Homarid
+Cost:		2UU
+Pow/Tgh:	2/1
+Card Text:	U: Tap a target green creature.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+
+Card Title:	Homarid Spawning Bed
+Color:		Blue
+Card Type:	Enchantment
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	1UU: Sacrifice a blue creature to put X Camarid tokens into
+		play, where X is the casting cost of the sacrificed creature.
+		Treat these tokens as 1/1 blue creatures.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 3
+
+Card Title:	Homarid Warrior (3 versions)
+Color:		Blue
+Card Type:	Summon Homarid
+Cost:		4U
+Pow/Tgh:	3/3
+Card Text:	U: Homarid Warrior may not be the target of spells or effects
+		until end of turn and does not untap as normal during your
+		next untap phase. If Homarid Warrior is untapped, tap it.
+Artists:	Daniel Gelon, Douglas Shuler, Randy Asplund-Faith
+Rarity:		Common 1
+
+Card Title:	Hymn to Tourach (4 versions)
+Color:		Black
+Card Type:	Sorcery
+Cost:		BB
+Pow/Tgh:	n/a
+Card Text:	Target player discards two cards at random from his or her
+		hand. If target player does not have enough cards, his or her
+		entire hand is discarded.
+Artists:	Liz Danforth, Quinton Hoover, Scott Kirschner, Susan Van Camp
+Rarity:		Common 1
+
+Card Title:	Icatian Infantry (4 versions)
+Color:		White
+Card Type:	Summon Soldiers
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	1: Bands until end of turn
+		1: First strike until end of turn
+Artists:	Chris Rush, Douglas Shuler, Drew Tucker, Edward
+		Beard, Jr.
+Rarity:		Common 1
+
+Card Title:	Icatian Javelineers (3 versions)
+Color:		White
+Card Type:	Summon Soldiers
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	When Icatian Javelineers is brought into play, put a javelin
+		counter on it.
+		TAP: Remove the javelin counter to have Icatian
+		Javelineers deal 1 damage to any target.
+Artists:	Edward Beard, Jr., Melissa Benson, Scott Kirschner
+Rarity:		Common 1
+
+Card Title:	Icatian Lieutenant
+Color:		White
+Card Type:	Summon Soldier
+Cost:		WW
+Pow/Tgh:	1/2
+Card Text:	1W: Target Soldier gets +1/+0 until end of turn.
+Artist:		Pete Venters
+Rarity:		Uncommon 1
+
+Card Title:	Icatian Moneychanger (3 versions)
+Color:		White
+Card Type:	Summon Townsfolk
+Cost:		W
+Pow/Tgh:	0/2
+Card Text:	Moneychanger deals 3 damage to you when summoned;
+		put three credit counters on Moneychanger at that time.
+		During your upkeep, put one credit counter on
+		Moneychanger.
+		0: Sacrifice Moneychanger to gain 1 life for each credit
+		counter on it. Use this ability only during your upkeep.
+Artists:	Edward Beard, Jr., Drew Tucker, Melissa Benson
+Rarity:		Common 1
+
+Card Title:	Icatian Phalanx
+Color:		White
+Card Type:	Summon Soldiers
+Cost:		4W
+Pow/Tgh:	2/4
+Card Text:	Bands
+Artist:		Kaja Foglio
+Rarity:		Uncommon 3
+
+Card Title:	Icatian Priest
+Color:		White
+Card Type:	Summon Cleric
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	1WW: Target creature gets +1/+1 until end of turn.
+Artist:		Drew Tucker
+Rarity:		Uncommon 3
+
+Card Title:	Icatian Scout (4 versions)
+Color:		White
+Card Type:	Summon Soldier
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	1, TAP: Target creature gains first strike until end of turn.
+Artists:	Douglas Shuler, Phil Foglio, Rob Alexander, Richard
+		Kane-Ferguson
+Rarity:		Common 1
+
+Card Title:	Icatian Skirmishes
+Color:		White
+Card Type:	Summon Soldiers
+Cost:		3W
+Pow/Tgh:	1/1
+Card Text:	Bands, first strike
+		All creatures that band with Skirmishers to attack gain first
+		strike until end of turn.
+Artist:		Heather Hudson
+Rarity:		Uncommon 1
+
+Card Title:	Icatian Store
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped. You may choose not to untap
+		Icatian Store during your untap phase and instead put a
+		storage counter on it.
+		TAP: Remove any number of storage counters from Icatian
+		Store. For each storage counter removed, add W to your
+		mana pool.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 1
+
+Card Title:	Icatian Town
+Color:		White
+Card Type:	Sorcery
+Cost:		5W
+Pow/Tgh:	n/a
+Card Text:	Put 4 Citizen tokens into play. Treat these tokens as 1/1
+		white creatures.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+
+Card Title:	Implements of Sacrifice
+Color:		Artifact
+Card Type:	Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	1, TAP: Sacrifice Implements of Sacrifice to add 2 mana of any
+		one color to your mana pool. Play this ability as an interrupt.
+Artist:		Margaret Organ-Keen
+Rarity:		Uncommon 1
+
+Card Title:	Initiates of the Ebon Hand (3 versions)
+Color:		Black
+Card Type:	Summon Clerics
+Cost:		B
+Pow/Tgh:	1/1
+Card Text:	1: Add B to your mana pool. Play this ability as an interrupt.
+		If more than 3 is spent in this way during one turn, bury
+		Initiates of the Ebon Hand at end of turn.
+Artists:	Heather Hudson, Liz Danforth, Kaja Foglio
+Rarity:		Common 1
+
+Card Title:	Merseine (4 versions)
+Color:		Blue
+Card Type:	Enchant Creature
+Cost:		2UU
+Pow/Tgh:	n/a
+Card Text:	Put three net counters on Merseine when it is brought into
+		play. Target creature Merseine enchants does not untap as
+		normal during its controller's untap phase as long as any
+		net counters remain. As a fast effect, target creature's
+		controller may pay creature's casting cost to remove a net
+		counter. 
+Artists:	Drew Tucker, Heather Hudson, Margaret Organ-Kean, Pete
+		Venter
+Rarity:		Common 1
+
+Card Title:	Mindstab Thrull (3 versions)
+Color:		Black
+Card Type:	Summon Thrull
+Cost:		1BB
+Pow/Tgh:	2/2
+Card Text:	If Mindstab Thrull attacks and is not blocked, you may
+		sacrifice it to force the player it attacked to discard three
+		cards. If you do so, it deals no damage during combat this
+		turn. If that player does not have enough cards, his or her
+		entire hand is discarded.
+Artists:	Heather Hudson, Mark Tedin, Richard Kane-Ferguson,
+		Christopher Rush
+Rarity:		Common 1
+
+Card Title:	Necrite (3 versions)
+Color:		Black
+Card Type:	Summon Thrull
+Cost:		1BB
+Pow/Tgh:	2/2
+Card Text:	If Necrite attacks and is not blocked, you may sacrifice it to
+		bury a target creature controlled by the player Necrite
+		attacked this turn. If you do so, Necrite deals no damage
+		during combat this turn.
+Artists:	Chris Rush, Drew Tucker, Ron Spencer
+Rarity:		Common 1
+
+Card Title:	Night Soil (3 versions)
+Color:		Green
+Card Type:	Enchantment
+Cost:		GG
+Pow/Tgh:	n/a
+Card Text:	1: Remove two creatures in any graveyard from the game
+		to put a Saproling token into play. Treat this token as a
+		1/1 green creature.
+Artists:	Drew Tucker, Heather Hudson, Sandra Everingham
+Rarity:		Common 1
+
+Card Title:	Orcish Captain
+Color:		Red
+Card Type:	Summon Orc
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	1: Choose a target Orc. Flip a coin; opponent calls heads or
+		tails while coin is in the air. If the flip ends up in your
+		favor, that Orc gets +2/+0 until end of turn. Otherwise, that
+		Orc gets -0/-2 until end of turn.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 3
+
+Card Title:	Orcish Spy (3 versions)
+Color:		Red
+Card Type:	Summon Orc
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	TAP: Look at the top three cards of target player's library
+		and return them in the same order.
+Artists:	Daniel Gelon, Pete Venters, Susan Van Camp
+Rarity:		Common 1
+
+Card Title:	Orcish Veteran (4 versions)
+Color:		Red
+Card Type:	Summon Orc
+Cost:		2R
+Pow/Tgh:	2/2
+Card Text:	Cannot be assigned to block any white creature of power
+		greater than 1.
+		R: First strike until end of turn
+Artists:	Dan Frazier, Douglas Shuler, Melissa Benson, Quinton
+		Hoover
+Rarity:		Common 1
+
+Card Title:	Order of Leitbur (3 versions)
+Color:		White
+Card Type:	Summon Clerics
+Cost:		WW
+Pow/Tgh:	2/1
+Card Text:	Protection from black
+		WW: +1/+0 until end of turn
+		W: First strike until end of turn
+Artists:	Bryon Wackwitz (2 cards), Randy Asplund-Faith
+Rarity:		Common 1
+
+Card Title:	Order of the Ebon Hand (3 versions)
+Color:		Black
+Card Type:	Summon Clerics
+Cost:		BB
+Pow/Tgh:	2/1
+Card Text:	Protection from white
+		BB: +1/+0 until end of turn
+		B: First strike until end of turn
+Artists:	Christopher Rush, Melissa Benson, Ron Spencer
+Rarity:		Common 1
+
+Card Title:	Orgg
+Color:		Red
+Card Type:	Summon Orgg
+Cost:		3RR
+Pow/Tgh:	6/6
+Card Text:	Trample
+		Orgg may not attack if opponent controls an untapped
+		creature of power greater than 2. Orgg cannot be assigned
+		to block any creature of power greater than 2.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 1
+
+Card Title:	Raiding Party
+Color:		Red
+Card Type:	Enchantment
+Cost:		2R
+Pow/Tgh:	n/a
+Card Text:	Raiding Party may not be the target of white spells or
+		effects.
+		0: Sacrifice an Orc to destroy all plains. A player may tap a
+		white creature to prevent up to two plains from being
+		destroyed. Any number of creatures may be tapped in
+		this manner.
+Artist:		Quinton Hoover
+Rarity:		Uncommon 3
+
+Card Title:	Rainbow Vale
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add 1 mana of any color to your mana pool. Control
+		of Rainbow Vale passes to opponent at end of turn.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 1
+
+Card Title:	Ring of Renewal
+Color:		Artifact
+Card Type:	Artifact
+Cost:		5
+Pow/Tgh:	n/a
+Card Text:	5, TAP: Discard a card at random from your hand and
+		draw two cards.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 1
+
+Card Title:	River Merfolk
+Color:		Blue
+Card Type:	Summon Merfolk
+Cost:		UU
+Pow/Tgh:	2/1
+Card Text:	U: Mountainwalk until end of turn
+Artist:		Douglas Shuler
+Rarity:		Uncommon 1
+
+Card Title:	Ruins of Trokair
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped.
+		TAP: Add W to your mana pool.
+		TAP: Sacrifice Ruins of Trokair to add WW to your
+		mana pool.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Sand Silos
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped. You may choose not to untap Sand
+		Silos during your untap phase and instead put a storage
+		counter on it.
+		TAP: Remove any number of storage counters from Sand
+		Silos. For each storage counter removed, add U to your
+		mana pool.
+Artist:		Pat Morrissey
+Rarity:		Uncommon 1
+
+Card Title:	Seasinger
+Color:		Blue
+Card Type:	Summon Merfolk
+Cost:		1UU
+Pow/Tgh:	0/1
+Card Text:	Bury Seasinger if you control no islands.
+		TAP: Gain control of a target creature if its controller
+		controls at least one island. You lose control of target
+		creature if Seasinger leaves play, if you lose control of
+		Seasinger, or if Seasinger becomes untapped. You may
+		choose not to untap Seasinger as normal during your
+		untap phase.
+Artist:		Amy Weber
+Rarity:		Uncommon 3
+
+Card Title:	Soul Exchange
+Color:		Black
+Card Type:	Sorcery
+Cost:		BB
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a creature, but remove it from the game instead
+		of putting it in your graveyard. Take a creature from your
+		graveyard and put it directly into play as though it were just
+		summoned. Put a +2/+2 counter on this creature if the
+		creature sacrificed was a Thrull.
+Artist:		Anthony Waters
+Rarity:		Uncommon 3
+
+Card Title:	Spirit Shield
+Color:		Artifact
+Card Type:	Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	2, TAP: Target creature gets +0/+2 as long as Spirit Shield
+		remains tapped.
+		You may choose not to untap Spirit Shield as normal
+		during your untap phase.
+Artist:		Scott Kirschner
+Rarity:		Uncommon 1
+
+Card Title:	Spore Cloud (3 versions)
+Color:		Green
+Card Type:	Instant
+Cost:		1GG
+Pow/Tgh:	n/a
+Card Text:	Tap all blocking creatures. No creatures deal damage in
+		combat this turn. Neither attacking nor blocking creatures
+		untap as normal during their controllers' next untap phase.
+Artists:	Amy Weber, Jesper Myrfors, Susan Van Camp
+Rarity:		Common 1
+
+Card Title:	Spore Flower
+Color:		Green
+Card Type:	Summon Fungus
+Cost:		GG
+Pow/Tgh:	0/1
+Card Text:	During your upkeep, put a spore counter on Spore
+		Flower.
+		0: Remove three spore counters from Spore Flower.
+		No creatures deal damage in combat this turn. 
+Artist:		Margaret Organ-Keen
+Rarity:		Uncommon 3
+
+Card Title:	Svyelunite Priest
+Color:		Blue
+CardCard Type:	Summon Merfolk
+Cost:		1U
+Pow/Tgh:	1/1
+Card Text:	UU, TAP: Target creature may not be the target of spells or
+		effects until end of turn. Use this ability only during
+		your upkeep.
+Artist:		Ron Spencer
+Rarity:		Uncommon 3
+
+Card Title:	Svyelunite Temple
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Comes into play tapped.
+		TAP: Add U to your mana pool.
+		TAP: Sacrifice Svyelunite Temple to add UU to your
+		mana pool.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Thallid (4 versions)
+Color:		Green
+Card Type:	Summon Fungus
+Cost:		G
+Pow/Tgh:	1/1 
+Card Text:	During your upkeep, put a spore counter on Thallid.
+		0: Remove three spore counters from Thallid to put a
+		Saproling token into play. Treat this token as a 1/1 green
+		creature.
+Artists:	Daniel Gelon, Jesper Myrfors, Edward Beard Jr., Ron Spencer
+Rarity:		Common 1
+
+Card Title:	Thallid Devourer
+Color:		Green
+Card Type:	Summon Fungus
+Cost:		1GG
+Pow/Tgh:	2/2
+Card Text:	During your upkeep, put a spore counter on Thallid
+		Devourer.
+		0: Remove three spore counters from Thallid Devourer
+		to put a Saproling token into play. Treat this token as a
+		1/1 green creature.
+		0: Sacrifice a Saproling to give Thallid Devourer +1/+2
+		until end of turn.
+Artist:		Ron Spencer
+Rarity:		Uncommon 3
+
+Card Title:	Thelon's Chant
+Color:		Green
+Card Type:	Enchantment
+Cost:		1GG
+Pow/Tgh:	n/a
+Card Text:	During your upkeep, pay G or bury Thelon's Chant.
+		Whenever a player puts a swamp into play, Thelon's
+		Chant deals 3 damage to him or her unless that player puts
+		a -1/-1 counter on a target creature he or she controls.
+Artist:		Melissa Benson
+Rarity:		Uncommon 3
+
+Card Title:	Thelon's Curse
+Color:		Green
+Card Type:	Enchantment
+Cost:		GG
+Pow/Tgh:	n/a
+Card Text:	Blue creatures do not untap as normal during their
+		controller's untap phase. During his or her upkeep, a blue
+		creature's controller may pay an additional U to untap it.
+		Each creature may be untapped in this way only once per
+		turn.
+Artist:		Pete Venters
+Rarity:		Uncommon 1
+
+Card Title:	Thelonite Druid
+Color:		Green
+Card Type:	Summon Cleric
+Cost:		2G
+Pow/Tgh:	1/1
+Card Text:	1G, TAP: Sacrifice a creature to turn all your forests into 2/3
+		creatures until end of turn. The forests still count as lands
+		but may not be tapped for mana if they were brought into
+		play this turn.
+Artist:		Margaret Organ-Keen
+Rarity:		Uncommon 3
+
+Card Title:	Thelonite Monk
+Color:		Green
+Card Type:	Summon Cleric
+Cost:		2GG
+Pow/Tgh:	1/2
+Card Text:	TAP: Sacrifice a green creature to turn a target land into a
+		basic forest. Mark changed land with a counter.
+Artist:		Bryon Wackwitz
+Rarity:		Uncommon 1
+
+Card Title:	Thorn Thallid (4 versions)
+Color:		Green
+Card Type:	Summon Fungus
+Cost:		1GG
+Pow/Tgh:	2/2
+Card Text:	During your upkeep, put a spore counter on Thorn Thallid.
+		0: Remove three spore counters from Thorn Thallid to
+		have it deal 1 damage to any target.
+Artists:	Daniel Gelon, Heather Hudson, Jesper Myrfors, Mark Tedin
+Rarity:		Common 1
+
+Card Title:	Thrull Champion
+Color:		Black
+Card Type:	Summon Thrull
+Cost:		4B
+Pow/Tgh:	2/2
+Card Text:	All Thrulls get +1/+1.
+		TAP: Take control of a target Thrull. You lose control of
+		target Thrull if Thrull Champion leaves play or you lose
+		control of Thrull Champion.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 1
+
+Card Title:	Thrull Retainer
+Color:		Black
+Card Type:	Enchant Creature
+Cost:		B
+Pow/Tgh:	n/a
+Card Text:	Target creature gets +1/+1.
+		Sacrifice Thrull Retainer to regenerate the creature it
+		enchants.
+Artists:	Ron Spencer
+Rarity:		Uncommon 3
+
+Card Title:	Thrull Wizard
+Color:		Black
+Card Type:	Summon Thrull
+Cost:		2B
+Card Text:	Pow/Tgh:	1/1
+		1B: Counters a target black spell if caster of target spell does
+		not pay an additional B or 3. Play this ability as an interrupt.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 3
+
+Card Title:	Tidal Flats (3 versions)
+Color:		Blue
+Card Type:	Enchantment
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	UU: All your creatures that are blocking any non-flying
+		creatures gain first strike until end of turn. The attacking
+		player may pay 1 for each attacking creature to prevent
+		Tidal Flats from giving that creature's blockers first strike. 
+Artists:	Rob Alexander (2 cards), Sandra Everingham
+Rarity:		Common 1
+
+Card Title:	Tidal Influence
+Color:		Blue
+Card Type:	Enchantment
+Cost:		2U
+Pow/Tgh:	n/a
+Card Text:	Put a tide counter on Tidal Influence when it is brought into
+		play and during your upkeep. If there is one tide counter
+		on Tidal Influence, all blue creatures get -2/-0. If there are
+		three tide counters on Tidal Influence, all blue creatures get
+		+2/+0. When there are four tide counters on Tidal Influence,
+		remove them all. You may not cast Tidal Influence if there
+		is another Tidal Influence in play.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 3
+
+Card Title:	Tourach's Chant
+Color:		Black
+Card Type:	Enchantment
+Cost:		1BB
+Pow/Tgh:	n/a
+Card Text:	During your upkeep, pay B or bury Tourach's Chant.
+		Whenever a player puts a forest into play, Tourach's Chant
+		deals 3 damage to him or her unless that player puts a -1/-1
+		counter on a target creature he or she controls.
+Artist:		Richard Kane-Ferguson
+Rarity:		Uncommon 3
+
+Card Title:	Tourach's Gate
+Color:		Black
+Card Type:	Enchant Land
+Cost:		1BB
+Pow/Tgh:	n/a
+Card Text:	Can only be played on a target land you control.
+		Sacrifice a Thrull to put three time counters on Tourach's
+		Gate.
+		During your upkeep, remove a time counter from
+		Tourach's Gate. If there are no time counters on Tourach's
+		Gate, bury it.
+		0: Tap land Tourach's Gate enchants. All attacking creatures
+		you control get +2/-1 until end of turn.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+
+Card Title:	Vodalian Knights
+Color:		Blue
+Card Type:	Summon Merfolk
+Cost:		1UU
+Pow/Tgh:	2/2
+Card Text:	First strike
+		U: Flying until end of turn
+		Vodalian Knights may not attack unless opponent controls
+		at least one island. Bury Vodalian Knights if you control
+		no islands.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 1
+
+Card Title:	Vodalian Mage (3 versions)
+Color:		Blue
+Card Type:	Summon Merfolk
+Cost:		2U
+Pow/Tgh:	1/1
+Card Text:	U, TAP: Counters a target spell if caster of target spell does
+		not pay an additional 1. Play this ability as an interrupt.
+Artists:	Mark Poole, Quinton Hoover, Susan Van Camp
+Rarity:		Common 1
+
+Card Title:	Vodalian Soldiers (4 versions)
+Color:		Blue
+Card Type:	Summon Merfolk
+Cost:		1U
+Pow/Tgh:	1/2
+Card Text:	n/a
+Artists:	Jeff A. Menges, Melissa Benson, Richard Kane-Ferguson, Susan Van 
+Camp
+Rarity:		Common 1
+
+Card Title:	Vodalian War Machine
+Color:		Blue
+Card Type:	Summon Wall
+Cost:		1UU
+Pow/Tgh:	0/4
+Card Text:	0: Tap target Merfolk you control to allow Vodalian War
+		Machine to attack this turn or to give Vodalian War
+		Machine +2/+1 until end of turn. If Vodalian War Machine
+		is put in the graveyard, all Merfolk tapped in this manner
+		this turn are destroyed.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+
+Card Title:	Zelyon Sword
+Color:		Artifact
+Card Type:	Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	3, TAP: Target creature gets +2/+0 as long as Zelyon Sword
+		remains tapped.
+		You may choose not to untap Zelyon Sword as normal
+		during your untap phase.
+Artist:		Scott Kirschner
+Rarity:		Uncommon 1
+
+Copyright 1994 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+Arabian Nights, Antiquities, Legends, The Dark, Fallen Empires, 
+Ice Age, and Chronicles, Homelands, Alliances, Mirage, and 
+Visions are trademarks of Wizards of the Coast, Inc.
+

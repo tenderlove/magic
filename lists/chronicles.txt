@@ -1,0 +1,1398 @@
+Chronicles Card List
+Wizards of the Coast, Inc.
+(Released September 1995)
+
+125 Cards Total (14 Black, 14 Blue, 14 Green, 14 Red, 14 White, 20
+Multicolor, 21 Artifacts, 14 Land; 54 Commons, 71 Uncommons, 50 Rare;
+14 from Arabian Nights, 21 from Antiquities, 71 from Legends, 19 from
+The Dark)
+
+Explanation of Rarity: the number after the rarity (e.g.: Common 1), means 
+that that card appears that many times on the print sheet. 
+
+The following Card Lists are also available for Magic: The Gathering: 
+Alpha/Beta/Unlimited, Promo Cards, Arabian Nights, Antiquities, Legends,
+The Dark, Fallen Empires, Revised, 4th Edition, Ice Age,
+Homelands, Alliances, Mirage, Visions, and 5th Edition.
+
+Mana Key: 
+U - Blue, W - White, G - Green, B - Black, R - Red; Numbers - Colorless 
+(Generic) Mana
+
+Note: n/a means "not applicable"
+
+Card Title:	Abu Ja'far
+Color:		White
+Card Type:	Summon Leper
+Cost:		W
+Pow/Tgh:	0/1
+Card Text:	If Abu Ja'far is put into the graveyard from play during
+		combat, bury all creatures blocking or blocked by Abu Ja'far.
+Artist:		Ken Meyer, Jr.
+Rarity:		Uncommon 3
+Expansion:	Arabian Nights
+
+Card Title:	Active Volcano
+Color:		Red
+Card Type:	Instant
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Destroy target blue permanent or return target island to
+		owner's hand.
+Artist:		Justin Hampton
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Akron Legionnaire
+Color:		White
+Card Type:	Summon Legionnaire
+Cost:		6WW
+Pow/Tgh:	8/4
+Card Text:	Except for Akron Legionnaires, non-artifact creatures you
+		control cannot attack.
+Artist:		Mark Poole
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Aladdin
+Color:		Red
+Card Type:	Summon Aladdin
+Cost:		2RR
+Pow/Tgh:	1/1
+Card Text:	1RR, TAP: Gain control of target artifact. Lose control of 
+		target artifact if Aladdin leaves play or if you lose control of
+		Aladdin.
+Artist:		Julie Baroh
+Rarity:		Uncommon 1
+Expansion:	Arabian Nights
+
+Card Title:	Angelic Voices
+Color:		White
+Card Type:	Enchantment
+Cost:		2WW
+Pow/Tgh:	n/a
+Card Text:	As long as the only creatures you control are white or
+		artifact creatures, all creatures you control get +1/+1.
+Artist:		Julie Baroh
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Arcades Sabboth
+Color:		Multi-color
+Card Type:	Summon Elder Dragon Legend
+Cost:		2WWUUGG
+Pow/Tgh:	7/7
+Card Text:	Flying
+		As long as they are not attacking, untapped creatures you
+		control get +0/+2.
+		During your upkeep, pay WUG or bury Arcades Sabboth.
+		W: +0/+1 until end of turn
+Artist:		Edward Beard, Jr.
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Arena of the Ancients
+Color:		Artifact
+Card Type:	Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	When Arena of the Ancients comes into play, tap all legends.
+		Legends do not untap during their controllers' untap phase.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Argothian Pixies
+Color:		Green
+Card Type:	Summon Faeries
+Cost:		1G
+Pow/Tgh:	2/1
+Card Text:	Cannot be blocked by artifact creatures. Any damage dealt
+		to Argothian Pixies by artifact creatures is reduced to 0.
+Artist:		Amy Weber
+Rarity:		Common 3
+Expansion:	Antiquities
+
+Card Title:	Ashnod's Altar
+Color:		Artifact
+Card Type:	Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	0: Sacrifice a creature to add two colorless mana to your
+		mana pool. Play this ability as an interrupt.
+Artist:		Anson Maddocks
+Rarity:		Common 2
+Expansion:	Antiquities
+
+Card Title:	Ashnod's Transmogrant
+Color:		Artifact
+Card Type:	Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	TAP: Sacrifice Ashnod's Transmogrant to put a +1/+1
+		counter on target non-artifact creature. That creature becomes
+		an artifact creature, although it retains its color.
+Artist:		Mark Tedin
+Rarity:		Common 2
+Expansion:	Antiquities
+
+Card Title:	Axelrod Gunnarson
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		4BBRR
+Pow/Tgh:	5/5
+Card Text:	Trample
+		Whenever a creature is damaged by Axelrod Gunnarson
+		and put into the graveyard, you gain 1 life and Axelrod
+		deals 1 damage to target player.
+Artist:		Scott Kirschner
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Ayesha Tanaka
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		WWUU
+Pow/Tgh:	2/2
+Card Text:	Banding
+		TAP: Counter target artifact effect requiring an activation
+		cost, unless the artifact's controller pays W. Play this
+		ability as an interrupt.
+Artist:		Bryon Wackwitz
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Azure Drake
+Color:		Blue
+Card Type:	Summon Drake
+Cost:		3U
+Pow/Tgh:	2/4
+Card Text:	Flying
+Artist:		Dan Frazier
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Banshee
+Color:		Black
+Card Type:	Summon Banshee
+Cost:		2BB
+Pow/Tgh:	0/1
+Card Text:	X, TAP: Banshee deals X damage, half (rounded up) to you
+		and half (rounded down) to target creature or player.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 3
+Expansion:	The Dark
+
+Card Title:	Barl's Cage
+Color:		Artifact
+Card Type:	Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	3: Target creature does not untap during its controller's
+		next untap phase.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+Expansion:	The Dark
+
+Card Title:	Beasts of Bogardan
+Color:		Red
+Card Type:	Summon Beasts
+Cost:		4R
+Pow/Tgh:	3/3
+Card Text:	Protection from red
+		As long as any opponent controls any white cards, Beasts of
+		Bogardan gets +1/+1.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Blood Moon
+Color:		Red
+Card Type:	Enchantment
+Cost:		2R
+Pow/Tgh:	n/a
+Card Text:	All non-basic lands become mountains.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+Expansion:	The Dark
+
+Card Title:	Blood of the Martyr
+Color:		White
+Card Type:	Instant
+Cost:		WWW
+Pow/Tgh:	n/a
+Card Text:	Until end of turn, you may redirect to yourself all damage
+		dealt to any number of creatures. The source of the damage
+		does not change.
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+Expansion:	The Dark
+
+Card Title:	Bog Rats
+Color:		Black
+Card Type:	Summon Rats
+Cost:		B
+Pow/Tgh:	1/1
+Card Text:	Cannot be blocked by walls.
+Artist:		Ron Spencer
+Rarity:		Common 3
+Expansion:	The Dark
+
+Card Title:	Book of Rass
+Color:		Artifact
+Card Type:	Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	2: Pay 2 life to draw a card. Effects that prevent or redirect
+		damage cannot be used to counter this loss of life.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+Expansion:	The Dark
+
+Card Title:	Boomerang
+Color:		Blue
+Card Type:	Instant
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	Return target permanent to owner's hand.
+Artist:		Brian Snoddy
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Bronze Horse
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		7
+Pow/Tgh:	4/4
+Card Text:	Trample
+		As long as you control any other creatures, damage dealt to
+		Bronze Horse by spells that target it is reduced to 0.
+Artist:		Mark Poole
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Cat Warriors
+Color:		Green
+Card Type:	Summon Cat Warriors
+Cost:		1GG
+Pow/Tgh:	2/2
+Card Text:	Forestwalk
+Artist:		Melissa Benson
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Chromium
+Color:		Multi-color
+Card Type:	Summon Elder Dragon Legend
+Cost:		2WWUUBB
+Pow/Tgh:	7/7
+Card Text:	Flying, rampage: 2
+		During your upkeep, pay WUB or bury Chromium.
+Artist:		Edward Beard, Jr.
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	City of Brass
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Whenever City of Brass becomes tapped, it deals 1 damage
+		to you.
+		TAP: Add one mana of any color to your mana pool.
+Artist:		Mark Tedin
+Rarity:		Uncommon 1
+Expansion:	Arabian Nights
+
+Card Title:	Cocoon
+Color:		Green
+Card Type:	Enchant Creature
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Tap target creature you control and put three change
+		counters on Cocoon. If there are any change counters on
+		Cocoon, that creature does not untap during your untap
+		phase. During your upkeep, remove one change counter.
+		During the upkeep after the one in which the last change
+		counter was removed, put a +1/+1 counter on the creature,
+		the creature gains flying, and bury Cocoon.
+Artist:		Mark Tedin
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Concordant Crossroads
+Color:		Green
+Card Type:	Enchant World
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Creatures can attack or use abilities that include TAP in the
+		activation cost as soon as they come into play on their
+		controller's side.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Craw Giant
+Color:		Green
+Card Type:	Summon Giant
+Cost:		3GGGG
+Pow/Tgh:	6/4
+Card Text:	Trample, rampage: 2
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Cuombajj Witches
+Color:		Black
+Card Type:	Summon Witches
+Cost:		BB
+Pow/Tgh:	1/3
+Card Text:	TAP: Cuombajj Witches deals 1 damage to target creature
+		or player. Cuombajj Witches also deals 1 damage to target
+		creature or player of target opponent's choice. Choose your
+		target first.
+Artist:		Kaja Foglio
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Cyclone
+Color:		Green
+Card Type:	Enchantment
+Cost:		2GG
+Pow/Tgh:	n/a
+Card Text:	At the beginning of your upkeep, put a wind counter on
+		Cyclone. During your upkeep, pay G for each wind counter
+		on Cyclone or bury Cyclone. If you pay, Cyclone deals 1
+		damage to each player and each creature for each wind
+		counter on it.
+Artist:		Mark Tedin
+Rarity:		Uncommon 1
+Expansion:	Arabian Nights
+
+Card Title:	D'Avenant Archer
+Color:		White
+Card Type:	Summon Archer
+Cost:		2W
+Pow/Tgh:	1/2
+Card Text:	TAP: D'Avenant Archer deals 1 damage to target attacking
+		or blocking creature.
+Artist:		Douglas Shuler
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Dakkon Blackblade
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		2WUUB
+Pow/Tgh:	*/*
+Card Text:	Dakkon Blackblade has power and toughness each equal to
+		the number of lands you control.
+Artist:		Richard Kane Ferguson
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Dance of Many
+Color:		Blue
+Card Type:	Enchantment
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	When Dance of Many comes into play, choose a target
+		summon card in play. Put a token creature into play and treat
+		it as though an exact copy of that summon card were just
+		summoned. If Dance of Many leaves play, remove that token
+		creature from game. If the token creature leaves play, bury
+		Dance of Many.
+		During your upkeep, pay UU or bury Dance of Many.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+Expansion:	The Dark
+
+Card Title:	Dandan
+Color:		Blue
+Card Type:	Summon Dandan
+Cost:		UU
+Pow/Tgh:	4/1
+Card Text:	Cannot attack if defending player controls no islands. If at
+		any time you control no islands, bury Dandan.
+Artist:		Drew Tucker
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Divine Offering
+Color:		White
+Card Type:	Instant
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	Destroy target artifact. Gain life equal to the artifact's casting
+		cost.
+Artist:		Jeff A. Menges
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Emerald Dragonfly
+Color:		Green
+Card Type:	Summon Dragonfly
+Cost:		1G
+Pow/Tgh:	1/1
+Card Text:	Flying
+		GG: First strike until end of turn
+Artist:		Quinton Hoover
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Enchantment Alteration
+Color:		Blue
+Card Type:	Instant
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Switch target enchantment from one creature to another
+		or from one land to another; that enchantment's new target
+		must be legal. The controller of the enchantment does not
+		change. Treat the enchantment as though it were just cast on
+		the new target.
+Artist:		Brian Snoddy
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Erhnam Djinn
+Color:		Green
+Card Type:	Summon Djinn
+Cost:		3G
+Pow/Tgh:	4/5
+Card Text:	During your upkeep, target non-wall creature an opponent
+		controls gains forestwalk until your next turn. Ignore this
+		effect if there are no legal targets.
+Artist:		Ken Meyer, Jr.
+Rarity:		Uncommon 3
+Expansion:	Arabian Nights
+
+Card Title:	Fallen Angel
+Color:		Black
+Card Type:	Summon Angel
+Cost:		3BB
+Pow/Tgh:	3/3
+Card Text:	Flying
+		0: Sacrifice a creature to give Fallen Angel +2/+1 until
+		end of turn.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Feldon's Cane
+Color:		Artifact
+Card Type:	Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	TAP: Reshuffle your graveyard into your library. Remove
+		Feldon's Cane from the game.
+Artist:		Mark Tedin
+Rarity:		Common 2
+Expansion:	Antiquities
+
+Card Title:	Fire Drake
+Color:		Red
+Card Type:	Summon Drake
+Cost:		1RR
+Pow/Tgh:	1/2
+Card Text:	Flying
+		R: +1/+0 until end of turn. You cannot spend more than R
+		in this way each turn.
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+Expansion:	The Dark
+
+Card Title:	Fishliver Oil
+Color:		Blue
+Card Type:	Enchant Creature
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Target creature gains islandwalk.
+Artist:		Anson Maddocks
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Flash Flood
+Color:		Blue
+Card Type:	Instant
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Destroy target red permanent or return target mountain to
+		owner's hand.
+Artist:		Tom Wanerstrand
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Fountain of Youth
+Color:		Artifact
+Card Type:	Artifact
+Cost:		0
+Pow/Tgh:	n/a
+Card Text:	2, TAP: Gain 1 life.
+Artist:		Daniel Gelon
+Rarity:		Common 2
+Expansion:	The Dark
+
+Card Title:	Gabriel Angelfire
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		3WWGG
+Pow/Tgh:	4/4
+Card Text:	During your upkeep, Gabriel Angelfire gains one of the
+		following abilities until your next upkeep: flying,
+		first strike, trample, or rampage: 3.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Gauntlets of Chaos
+Color:		Artifact
+Card Type:	Artifact
+Cost:		5
+Pow/Tgh:	n/a
+Card Text:	5: Sacrifice Gauntlets of Chaos. Choose a target artifact,
+		creature, or land opponent controls and a target permanent
+		you control of the same type. Exchange control of these
+		permanents. Bury any enchantments played on these
+		permanents.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Ghazban Ogre
+Color:		Green
+Card Type:	Summon Ogre
+Cost:		G
+Pow/Tgh:	2/2
+Card Text:	During your upkeep, the player with the most life gains
+		control of Ghazban Ogre. If the highest life total is shared
+		by more than one player, the player currently controlling
+		Ghazban Ogre retains control of it.
+Artist:		Jesper Myrfors
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Giant Slug
+Color:		Black
+Card Type:	Summon Slug
+Cost:		1B
+Pow/Tgh:	1/1
+Card Text:	5: During your next upkeep, choose a basic landwalk ability.
+		Giant Slug gains that landwalk ability until end of turn.
+Artist:		Anson Maddocks
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Goblin Artisans
+Color:		Red
+Card Type:	Summon Goblins
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	TAP: Use this ability only when you cast a target artifact
+		spell; play this ability as an interrupt. Flip a coin; target
+		opponent calls heads or tails while coin is in the air. If the
+		flip ends up in your favor, draw a card. Otherwise, counter
+		your artifact spell. More than one Goblin Artisans ability
+		cannot target the same artifact spell.
+Artist:		Julie Baroh
+Rarity:		Uncommon 3
+Expansion:	Antiquities
+
+Card Title:	Goblin Digging Team
+Color:		Red
+Card Type:	Summon Goblins
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	TAP: Sacrifice Goblin Digging Team to destroy target wall.
+Artist:		Ron Spencer
+Rarity:		Common 3
+Expansion:	The Dark
+
+Card Title:	Goblin Shrine
+Color:		Red
+Card Type:	Enchant Land
+Cost:		1RR
+Pow/Tgh:	n/a
+Card Text:	As long as target land is a mountain, all Goblins get +1/+0.
+		If Goblin Shrine leaves play, it deals 1 damage to each
+		Goblin.
+Artist:		Ron Spencer
+Rarity:		Common 3
+Expansion:	The Dark
+
+Card Title:	Goblins of the Flarg
+Color:		Red
+Card Type:	Summon Goblins
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	Mountainwalk
+		If at any time you control any Dwarves, bury Goblins of the
+		Flarg.
+Artist:		Tom Wanerstrand
+Rarity:		Common 3
+Expansion:	The Dark
+
+Card Title:	Hasran Ogress
+Color:		Black
+Card Type:	Summon Ogre
+Cost:		BB
+Pow/Tgh:	3/2
+Card Text:	If you declare Hasran Ogress as an attacker, pay 2 or Hasran
+		Ogress deals 3 damage to you.
+Artist:		Dan Frazier
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Hell's Caretaker
+Color:		Black
+Card Type:	Summon Hell's Caretaker
+Cost:		3B
+Pow/Tgh:	1/1
+Card Text:	TAP: Sacrifice a creature to take target creature from your
+		graveyard and put it directly into play as though it were just
+		summoned. Use this ability only during your upkeep.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Horn of Deafening
+Color:		Artifact
+Card Type:	Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	2, TAP: Target creature deals no damage in combat this turn.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Indestructible Aura
+Color:		White
+Card Type:	Instant
+Cost:		W
+Pow/Tgh:	n/a
+Card Text:	Any damage dealt to target creature for the rest of the turn
+		is reduced to 0.
+Artist:		Mark Poole
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Ivory Guardians
+Color:		White
+Card Type:	Summon Guardians
+Cost:		4WW
+Pow/Tgh:	3/3
+Card Text:	Protection from red
+		As long as an opponent controls any red cards, all Guardians
+		get +1/+1.
+Artist:		Melissa Benson
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Jalum Tome
+Color:		Artifact
+Card Type:	Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	2, TAP: Draw a card; then, choose and discard a card from your
+		hand.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+Expansion:	Antiquities
+
+Card Title:	Jeweled Bird
+Color:		Artifact
+Card Type:	Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	Remove Jeweled Bird from your deck before playing if not
+		playing for ante.
+		TAP: Draw a card. Put your contribution to the ante into
+		your graveyard and replace it with Jeweled Bird.
+Artist:		Amy Weber
+Rarity:		Uncommon 1
+Expansion:	Arabian Nights
+
+Card Title:	Johan
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		3WRG
+Pow/Tgh:	5/4
+Card Text:	As long as Johan does not attack and is untapped, attacking
+		does not cause creatures you control to tap.
+Artist:		Mark Tedin
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Juxtapose
+Color:		Blue
+Card Type:	Sorcery
+Cost:		3U
+Pow/Tgh:	n/a
+Card Text:	You and target player each choose one of the creatures you
+		control with the highest casting cost. Exchange control of
+		these creatures. Then do the same for artifacts. If one
+		of the players does not control a creature or artifact,
+		don't exchange that type of card.
+Artist:		Justin Hampton
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Keepers of the Faith
+Color:		White
+Card Type:	Summon Keepers
+Cost:		1WW
+Pow/Tgh:	2/3
+Card Text:	n/a
+Artist:		Daniel Gelon
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Kei Takahashi
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		2WG
+Pow/Tgh:	2/2
+Card Text:	TAP: Prevent up to 2 damage to any creature.
+Artist:		Scott Kirschner
+Rarity:		Common 1
+Expansion:	Legends
+
+Card Title:	Land's Edge
+Color:		Red
+Card Type:	Enchant World
+Cost:		1RR
+Pow/Tgh:	n/a
+Card Text:	Any player may choose and discard a card from his or her
+		hand at any time. If a player discards a land, Land's Edge
+		deals 2 damage to target player of that player's choice.
+Artist:		Brian Snoddy
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Living Armor
+Color:		Artifact
+Card Type:	Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	TAP: Sacrifice Living Armor to put a +0/+X counter on
+		target creature, where X is equal to that creature's casting
+		cost.
+Artist:		Anson Maddocks
+Rarity:		Common 2
+Expansion:	The Dark
+
+Card Title:	Marhault Elsdragon
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		3RRG
+Pow/Tgh:	4/6
+Card Text:	Rampage: 1
+Artist:		Mark Poole
+Rarity:		Common 1
+Expansion:	Legends
+
+Card Title:	Metamorphosis
+Color:		Green
+Card Type:	Sorcery
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a creature to add an amount of mana equal to its
+		casting cost plus one to your mana pool. This mana may be
+		of any one color. Use this mana only to cast summon spells.
+Artist:		Christopher Rush
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Mountain Yeti
+Color:		Red
+Card Type:	Summon Yeti
+Cost:		2RR
+Pow/Tgh:	3/3
+Card Text:	Mountainwalk, protection from white
+Artist:		Dan Frazier
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Nebuchadnezzar
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		3UB
+Pow/Tgh:	3/3
+Card Text:	X, TAP: Name a card. Target opponent reveals X cards from
+		his or her hand at random. If that player does not have
+		enough cards in hand, his or her entire hand is revealed.
+		Opponent then discards any of those cards that match the
+		named card. Use this ability only during your turn.
+Artist:		Richard Kane Ferguson
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Nicol Bolas
+Color:		Multi-color
+Card Type:	Summon Elder Dragon Legend
+Cost:		2UUBBRR
+Pow/Tgh:	7/7
+Card Text:	Flying
+		Whenever Nicol Bolas damages an opponent, that opponent
+		discards his or her entire hand. Ignore this ability if that
+		opponent has no cards left in hand.
+		During your upkeep, pay UBR or bury Nicol Bolas.
+Artist:		Edward Beard, Jr.
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Obelisk of Undoing
+Color:		Artifact
+Card Type:	Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	6, TAP: Return target permanent you control and own to
+		your hand.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 1
+Expansion:	Antiquities
+
+Card Title:	Palladia-Mors
+Color:		Multi-color
+Card Type:	Summon Elder Dragon Legend
+Cost:		2WWRRGG
+Pow/Tgh:	7/7
+Card Text:	Flying, trample
+		During your upkeep, pay WRG or bury Palladia-Mors.
+Artist:		Edward Beard, Jr.
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Petra Sphinx
+Color:		White
+Card Type:	Summon Sphinx
+Cost:		2WWW
+Pow/Tgh:	3/4
+Card Text:	TAP: Target player names a card and then turns over the
+		top card of his or her library. If it is the card named, put
+		it into that player's hand. Otherwise, put it into the
+		player's graveyard.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Primordial Ooze
+Color:		Red
+Card Type:	Summon Ooze
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	Must attack each turn if possible.
+		At the beginning of your upkeep, put a +1/+1 counter on
+		Primordial Ooze. At the end of your upkeep, pay X, where X
+		is equal to the number of +1/+1 counters on Primordial Ooze,
+		 or Primordial Ooze deals X damage to you. If Primordial Ooze
+		deals damage to you in this way, tap it.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Puppet Master
+Color:		Blue
+Card Type:	Enchant Creature
+Cost:		UUU
+Pow/Tgh:	n/a
+Card Text:	If target creature is put into the graveyard, return it to its
+		owner's hand.
+		UUU: Return Puppet Master to its owner's hand. Use this
+		ability only when the creature Puppet Master enchants
+		returns to its owner's hand.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Rabid Wombat
+Color:		Green
+Card Type:	Summon Wombat
+Cost:		2GG
+Pow/Tgh:	0/1
+Card Text:	Rabid Wombat gets +2/+2 for each creature enchantment
+		on it.  Attacking does not cause Rabid Wombat to tap.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Rakalite
+Color:		Artifact
+Card Type:	Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	2: Prevent 1 damage to any creature or player. Return
+		Rakalite to owner's hand at end of turn.
+Artist:		Christopher Rush
+Rarity:		Uncommon 1
+Expansion:	Antiquities
+
+Card Title:	Recall
+Color:		Blue
+Card Type:	Sorcery
+Cost:		XXU
+Pow/Tgh:	n/a
+Card Text:	Choose and discard X cards from your hand to take X target
+		cards from your graveyard and put them into your hand.
+		Remove Recall from the game.
+Artist:		Brian Snoddy
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Remove Soul
+Color:		Blue
+Card Type:	Interrupt
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Counter target summon spell.
+Artist:		Brian Snoddy
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Repentant Blacksmith
+Color:		White
+Card Type:	Summon Smith
+Cost:		1W
+Pow/Tgh:	1/2
+Card Text:	Protection from red
+Artist:		Drew Tucker
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Revelation
+Color:		Green
+Card Type:	Enchant World
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	All players play with the cards in their hands face up on
+		the table.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Rubinia Soulsinger
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		2WUG
+Pow/Tgh:	2/3
+Card Text:	You may choose not to untap Rubinia Soulsinger during
+		your untap phase.
+		TAP: Gain control of target creature. Lose control of target
+		creature if Rubinia leaves play, if you lose control of Rubinia,
+		or if Rubinia becomes untapped.
+Artist:		Rob Alexander
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Runesword
+Color:		Artifact
+Card Type:	Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	3, TAP: Target attacking creature gets +2/+0 until end of turn.
+		Any creature damaged by that creature cannot regenerate this
+		turn; if such a creature receives lethal damage this turn,
+		remove it from the game. If the target leaves play before end
+		of turn, bury Runesword.
+Artist:		Christopher Rush
+Rarity:		Common 2
+Expansion:	The Dark
+
+Card Title:	Safe Haven
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	2, TAP: Remove target creature you control from the game.
+		Play this ability as an interrupt.
+		0: Sacrifice Safe Haven to return all creatures it has
+		removed from the game directly into play under their owners'
+		control as though they were just summoned. Use this ability
+		only during your upkeep.
+Artist:		Christopher Rush
+Rarity:		Uncommon 1
+Expansion:	The Dark
+
+Card Title:	Scavenger Folk
+Color:		Green
+Card Type:	Summon Scavenger Folk
+Cost:		G
+Pow/Tgh:	1/1
+Card Text:	G, TAP: Sacrifice Scavenger Folk to destroy target artifact.
+Artist:		Dennis Detwiler
+Rarity:		Common 3
+Expansion:	The Dark
+
+Card Title:	Sentinel
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		4
+Pow/Tgh:	1/*
+Card Text:	When Sentinel comes into play, its toughness is equal to 1.
+		0: Change Sentinel's toughness to 1 plus the power of target
+		creature blocking or blocked by Sentinel.
+Artist:		Randy Asplund-Faith
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Serpent Generator
+Color:		Artifact
+Card Type:	Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	4, TAP: Put a Poison Snake token into play. Treat this token
+		as a 1/1 artifact creature. Whenever a Poison Snake damages
+		a player, he or she gets a poison counter. When a player has
+		ten or more poison counters, he or she loses the game.
+Artist:		Mark Tedin
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Shield Wall
+Color:		White
+Card Type:	Instant
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	All creatures you control get +0/+2 until end of turn.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Shimian Night Stalker
+Color:		Black
+Card Type:	Summon Night Stalker
+Cost:		3BB
+Pow/Tgh:	4/4
+Card Text:	B, TAP: Redirect to Shimian Night Stalker all damage dealt
+		to you by any attacking creature. The source of the damage
+		does not change.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Sivitri Scarzam
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		5UB
+Pow/Tgh:	6/4
+Artist:		Ne Ne Thomas
+Rarity:		Common 1
+Expansion:	Legends
+
+Card Title:	Sol'kanar the Swamp King
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		2UBR
+Pow/Tgh:	5/5
+Card Text:	Swampwalk
+		Whenever a black spell is successfully cast, gain 1 life.
+Artist:		Richard Kane Ferguson
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Stangg
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		4RG
+Pow/Tgh:	3/4
+Card Text:	When Stangg comes into play, put a Stangg Twin token
+		into play. Treat this token as a 3/4 green and red legend. If
+		Stangg leaves play, remove Stangg Twin token from the
+		game. If Stangg Twin token leaves play, bury Stangg.
+Artist:		Mark Poole
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Storm Seeker
+Color:		Green
+Card Type:	Instant
+Cost:		3G
+Pow/Tgh:	n/a
+Card Text:	Storm Seeker deals 1 damage to target player for each card
+		in his or her hand.
+Artist:		Mark Poole
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Takklemaggot
+Color:		Black
+Card Type:	Enchant Creature
+Cost:		2BB
+Pow/Tgh:	n/a
+Card Text:	During target creature's controller's upkeep, put a -0/-1
+		counter on that creature. If the creature is put into the
+		graveyard, its controller chooses a new target creature for
+		Takklemaggot. If there are no legal targets, Takklemaggot
+		becomes an enchantment; during his or her upkeep,
+		Takklemaggot deals 1 damage to the controller of the last
+		creature Takklemaggot enchanted. Control of Takklemaggot
+		does not change when its target changes or when it becomes
+		an enchantment.
+Artist:		Daniel Gelon
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Teleport
+Color:		Blue
+Card Type:	Instant
+Cost:		UUU
+Pow/Tgh:	n/a
+Card Text:	Target creature becomes unblockable until end of turn. Cast
+		only after attack is declared and before defense is chosen.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Fallen, The
+Color:		Black
+Card Type:	Summon Fallen
+Cost:		1BBB
+Pow/Tgh:	2/3
+Card Text:	During your upkeep, The Fallen deals 1 damage to each
+		opponent it has previously damaged.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 3
+Expansion:	The Dark
+
+Card Title:	Wretched, The
+Color:		Black
+Card Type:	Summon Wretched
+Cost:		3BB
+Pow/Tgh:	2/5
+Card Text:	At end of combat, gain control of all creatures blocking The
+		Wretched. Lose control of these creatures if The Wretched
+		leaves play or if you lose control of The Wretched.
+Artist:		Christopher Rush
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Tobias Andrion
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		3WU
+Pow/Tgh:	4/4
+Card Text:	n/a
+Artist:		Andi Rusu
+Rarity:		Common 1
+Expansion:	Legends
+
+Card Title:	Tor Wauki
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		2BBR
+Pow/Tgh:	3/3
+Card Text:	TAP: Tor Wauki deals 2 damage to target attacking or
+		blocking creature.
+Artist:		Randy Asplund-Faith
+Rarity:		Common 1
+Expansion:	Legends
+
+Card Title:	Tormod's Crypt
+Color:		Artifact
+Card Type:	Artifact
+Cost:		0
+Pow/Tgh:	n/a
+Card Text:	TAP: Sacrifice Tormod's Crypt to remove all cards in target
+		player's graveyard from the game.
+Artist:		Christopher Rush
+Rarity:		Common 2
+Expansion:	The Dark
+
+Card Title:	Transmutation
+Color:		Black
+Card Type:	Instant
+Cost:		B
+Pow/Tgh:	n/a
+Card Text:	Until end of turn, switch target creature's power and
+		toughness. Effects that alter power alter toughness instead,
+		and vice versa.
+Artist:		Susan Van Camp
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Triassic Egg
+Color:		Artifact
+Card Type:	Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	3, TAP: Put a hatchling counter on Triassic Egg.
+		0: Sacrifice Triassic Egg to take target creature from your
+		hand or graveyard and put it directly into play as though it
+		were just summoned. Use this ability only when there are
+		at least two hatchling counters on Triassic Egg.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Urza's Mine (4 versions)
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool. If you
+		control Urza's Mine, Urza's Tower, and Urza's Power Plant,
+		add two colorless mana to your mana pool instead of one.
+Artist:		Anson Maddocks
+Rarity:		Common 1
+Expansion:	Antiquities
+
+Card Title:	Urza's Power Plant (4 versions)
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool. If you
+		control Urza's Mine, Urza's Tower, and Urza's Power Plant,
+		add two colorless mana to your mana pool instead of one.
+Artist:		Mark Tedin
+Rarity:		Common 1
+Expansion:	Antiquities
+
+Card Title:	Urza's Tower (4 versions)
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool. If you
+		control Urza's Mine, Urza's Tower, and Urza's Power Plant,
+		add three colorless mana to your mana pool instead of one.
+Artist:		Mark Poole
+Rarity:		Common 1
+Expansion:	Antiquities
+
+Card Title:	Vaevictis Asmadi
+Color:		Multi-color
+Card Type:	Summon Elder Dragon Legend
+Cost:		2BBRRGG
+Pow/Tgh:	7/7
+Card Text:	Flying
+		During your upkeep, pay BRG or bury Vaevictis Asmadi.
+		B: +1/+0 until end of turn
+		R: +1/+0 until end of turn
+		G: +1/+0 until end of turn
+Artist:		Andi Rusu
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Voodoo Doll
+Color:		Artifact
+Card Type:	Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	At the beginning of your upkeep, put one pin counter on
+		Voodoo Doll. If Voodoo Doll is untapped at the end of your
+		turn, it deals X damage to you, where X is equal to the number
+		of pin counters on Voodoo Doll. If Voodoo Doll deals
+		damage to you in this way, destroy it.
+		XX, TAP: Voodoo Doll deals X damage to target creature or
+		player, where X is equal to the number of pin counters on
+		Voodoo Doll.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Wall of Heat
+Color:		Red
+Card Type:	Summon Wall
+Cost:		2R
+Pow/Tgh:	2/6
+Card Text:	n/a
+Artist:		Richard Thomas
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Wall of Opposition
+Color:		Red
+Card Type:	Summon Wall
+Cost:		3RR
+Pow/Tgh:	0/6
+Card Text:	1: +1/+0 until end of turn
+Artist:		Harold McNeill
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	Wall of Shadows
+Color:		Black
+Card Type:	Summon Wall
+Cost:		1BB
+Pow/Tgh:	0/1
+Card Text:	Damage dealt to Wall of Shadows by creatures it blocks is
+		reduced to 0. Wall of Shadows cannot be the target of spells
+		or effects that can target only walls.
+Artist:		Pete Venters
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Wall of Vapor
+Color:		Blue
+Card Type:	Summon Wall
+Cost:		3U
+Pow/Tgh:	0/1
+Card Text:	Damage dealt to Wall of Vapor by creatures it blocks is
+		reduced to 0.
+Artist:		Richard Thomas
+Rarity:		Common 3
+Expansion:	Legends
+
+Card Title:	Wall of Wonder
+Color:		Blue
+Card Type:	Summon Wall
+Cost:		2UU
+Pow/Tgh:	1/5
+Card Text:	2UU: +4/-4 until end of turn; Wall of Wonder can attack
+		this turn.
+Artist:		Richard Thomas
+Rarity:		Uncommon 3
+Expansion:	Legends
+
+Card Title:	War Elephant
+Color:		White
+Card Type:	Summon Elephant
+Cost:		3W
+Pow/Tgh:	2/2
+Card Text:	Banding, trample
+Artist:		Kristen Bishop
+Rarity:		Common 3
+Expansion:	Arabian Nights
+
+Card Title:	Witch Hunter
+Color:		White
+Card Type:	Summon Hunter
+Cost:		2WW
+Pow/Tgh:	1/1
+Card Text:	TAP: Witch Hunter deals 1 damage to target player.
+		1WW, TAP: Return target creature any opponent controls to
+		owner's hand.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 3
+Expansion:	The Dark
+
+Card Title:	Xira Arien
+Color:		Multi-color
+Card Type:	Summon Legend
+Cost:		BRG
+Pow/Tgh:	1/2
+Card Text:	Flying
+		BRG, TAP: Target player draws a card.
+Artist:		Melissa Benson
+Rarity:		Uncommon 1
+Expansion:	Legends
+
+Card Title:	Yawgmoth Demon
+Color:		Black
+Card Type:	Summon Demon
+Cost:		4BB
+Pow/Tgh:	6/6
+Card Text:	Flying, first strike
+		During your upkeep, sacrifice an artifact or Yawgmoth
+		Demon deals 2 damage to you. If Yawgmoth Demon deals
+		damage to you in this way, tap it.
+Artist:		Sandra Everingham
+Rarity:		Uncommon 1
+Expansion:	Antiquities
+
+Copyright 1995 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+Arabian Nights, Antiquities, Legends, The Dark, Fallen Empires, Ice Age,
+and Chronicles, Homelands, Alliances, Mirage, and Visions are trademarks
+of Wizards of the Coast, Inc.
+

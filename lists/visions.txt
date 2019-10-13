@@ -1,0 +1,1894 @@
+Visions Card List
+Wizards of the Coast, Inc.
+(Released Febuary 3rd)
+
+167 Cards Total (25 Black, 25 Blue, 25 Green, 25 Red, 25 White, 
+15 Multicolor, 19 Artifacts, 8 Land; 62 Commons, 55 Uncommons, 
+50 Rare)
+
+Explanation of Rarity: the number after the rarity (e.g.: Common 1), 
+means that that card appears that many times on the print sheet. 
+
+The following Card Lists are also available for Magic: The Gathering: 
+Alpha/Beta/Unlimited, Promo Cards, Arabian Nights, Antiquities, 
+Legends, The Dark, Fallen Empires, Revised, 4th Edition, Ice Age, 
+Chronicles, Homelands, Alliances, Mirage,and 5th Edition.
+
+Mana Key: 
+U - Blue, W - White, G - Green, B - Black, R - Red; 
+Numbers - Colorless (Generic) Mana
+
+Note: n/a means "not applicable"
+
+Card Title:	Aku Djinn
+Color:		Black
+Type:		Summon Djinn
+Cost:		3BB
+Pow/Tgh:	5/6
+Card Text:	Trample
+		During your upkeep, each opponent puts a +1/+1 
+		counter on each creature he or she controls.
+Artist:		Terese Nielsen
+Rarity:		Rare 1
+
+Card Title:	Anvil of Bogardan
+Color:		Artifact
+Type:		Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	Each player skips his or her discard phase.
+		During each player's draw phase, that player draws 
+		an additional card and then chooses and discards a 
+		card.
+Artist:		Roger Raupp
+Rarity:		Rare 1
+
+Card Title:	Archangel
+Color:		White
+Type:		Summon Angel
+Cost:		5WW
+Pow/Tgh:	5/5
+Card Text:	Flying
+		Attacking does not cause Archangel to tap.
+Artist:		Christopher Rush
+Rarity:		Rare 1
+
+Card Title:	Army Ants
+Color:		Multicolor
+Type:		Summon Insects
+Cost:		1BR
+Pow/Tgh:	1/1
+Card Text:	TAP, Sacrifice a land: Destroy target land.
+Artist:		G. Darrow & I. Rabarot
+Rarity:		Uncommon 1
+
+Card Title:	Betrayal
+Color:		Blue
+Type:		Enchant Creature
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Play only on a creature an opponent controls.
+		If enchanted creature becomes tapped, draw a card.
+Artist:		Gary Leach
+Rarity:		Common 1
+
+Card Title:	Blanket of Night
+Color:		Black
+Type:		Enchantment
+Cost:		1BB
+Pow/Tgh:	n/a
+Card Text:	Each mana-producing land is a swamp in addition to 
+		its normal land type.
+Artist:		Cliff Nielsen
+Rarity:		Uncommon 1
+
+Card Title:	Bogardan Phoenix
+Color:		Red
+Type:		Summon Phoenix
+Cost:		2RRR
+Pow/Tgh:	3/3
+Card Text:	Flying
+		If Bogardan Phoenix is put into any graveyard from 
+		play and has no death counter on it, return Bogardan 
+		Phoenix to play and put a death counter on it.
+		If Bogardan Phoenix is put into any graveyard from 
+		play and has a death counter on it, remove it from the 
+		game.
+Artist:		David O'Connor
+Rarity:		Rare 1
+
+Card Title:	Brass-Talon Chimera
+Color:		Artifact
+Type:		Artifact Creature
+Cost:		4
+Pow/Tgh:	2/2
+Card Text:	First strike
+		Brass-Talon Chimera counts as a Chimera.
+		Sacrifice Brass-Talon Chimera: Put a +2/+2 counter 
+		on target Chimera and that Chimera gains first strike 
+		permanently.
+Artist:		Mike Dringenberg
+Rarity:		Uncommon 1
+
+Card Title:	Breathstealer's Crypt
+Color:		Multicolor
+Type:		Enchantment
+Cost:		2UB
+Pow/Tgh:	n/a
+Card Text:	Whenever any player draws a card, he or she reveals 
+		that card.
+		If the card is a creature card, that player pays 3 life or
+		discards the card.
+Artist:		Blackie del Rio
+Rarity:		Rare 1
+
+Card Title:	Breezekeeper
+Color:		Blue
+Type:		Summon Djinn
+Cost:		3U
+Pow/Tgh:	4/4
+Card Text:	Flying, phasing
+Artist:		Adam Rex
+Rarity:		Common 1
+
+Card Title:	Brood of Cockroaches
+Color:		Black
+Type:		Summon Insects
+Cost:		1B
+Pow/Tgh:	1/1
+Card Text:	If Brood of Cockroaches is put into your graveyard 
+		from play, pay 1 life and return Brood of 
+		Cockroaches to your hand at end of turn.
+Artist:		G. Darrow & I. Rabarot
+Rarity:		Uncommon 1
+
+Card Title:	Bull Elephant
+Color:		Green
+Type:		Summon Elephant
+Cost:		3G
+Pow/Tgh:	4/4
+Card Text:	When Bull Elephant comes into play, return two 
+		forests you control to owner's hand or bury Bull 
+		Elephant.
+Artist:		Steven White
+Rarity:		Common 1
+
+Card Title:	Chronatog
+Color:		Blue
+Type:		Summon Atog
+Cost:		1U
+Pow/Tgh:	1/2
+Card Text:	Skip your next turn: Chronatog gets +3/+3 until end 
+		of turn.
+		Use this ability only once each turn.
+Artist:		Christopher Rush
+Rarity:		Rare 1
+
+Card Title:	City of Solitude
+Color:		Green
+Type:		Enchantment
+Cost:		2G
+Pow/Tgh:	n/a
+Card Text:	Each player may play spells and abilities only during 
+		his or her turn.
+Artist:		Romas Kukalis
+Rarity:		Rare 1
+
+Card Title:	Cloud Elemental
+Color:		Blue
+Type:		Summon Elemental
+Cost:		2U
+Pow/Tgh:	2/3
+Card Text:	Flying
+		Cloud Elemental can block only creatures with flying.
+Artist:		Adam Rex
+Rarity:		Common 1
+
+Card Title:	Coercion
+Color:		Black
+Type:		Sorcery
+Cost:		2B
+Pow/Tgh:	n/a
+Card Text:	Look at target opponent's hand. Choose a card from 
+		that player's hand. That player discards that card.
+Artist:		DiTerlizzi
+Rarity:		Common 1
+
+Card Title:	Coral Atoll
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Coral Atoll comes into play tapped.
+		When Coral Atoll comes into play, return an untapped 
+		island you control to owner's hand or bury Coral 
+		Atoll.
+		TAP: Add U and one colorless mana to your mana 
+		pool.
+Artist:		John Avon
+Rarity:		Uncommon 1
+
+Card Title:	Corrosion
+Color:		Multicolor
+Type:		Enchantment
+Cost:		1BR
+Pow/Tgh:	n/a
+Card Text:	Cumulative upkeep 1
+		During your upkeep, put a rust counter on each 
+		artifact target opponent controls. If the number of 
+		rust counters on an artifact equals or exceeds that 
+		artifact's casting cost, bury the artifact.
+		If Corrosion leaves play, remove all rust counters 
+		from the game.
+Artist:		Michael Danza
+Rarity:		Rare 1
+
+Card Title:	Creeping Mold
+Color:		Green
+Type:		Sorcery
+Cost:		2GG
+Pow/Tgh:	n/a
+Card Text:	Destroy target artifact, land, or enchantment.
+Artist:		Dave Seeley
+Rarity:		Uncommon 1
+
+Card Title:	Crypt Rats
+Color:		Black
+Type:		Summon Rats
+Cost:		2B
+Pow/Tgh:	1/1
+Card Text:	X: Crypt Rats deals X damage to each creature and 
+		player. Spend only black mana in this way.
+Artist:		Paul Lee
+Rarity:		Common 1
+
+Card Title:	Daraja Griffin
+Color:		White
+Type:		Summon Griffin
+Cost:		3W
+Pow/Tgh:	2/2
+Card Text:	Flying
+		Sacrifice Daraja Griffin: Destroy target black creature.
+Artist:		Stuart Griffin
+Rarity:		Uncommon 1
+
+Card Title:	Dark Privilege
+Color:		Black
+Type:		Enchant Creature
+Cost:		1B
+Pow/Tgh:	n/a
+Card Text:	Enchanted creature gets +1/+1.
+		Sacrifice a creature: Regenerate enchanted creature.
+Artist:		Tom Kyffin
+Rarity:		Common 1
+
+Card Title:	Death Watch
+Color:		Black
+Type:		Enchant Creature
+Cost:		B
+Pow/Tgh:	n/a
+Card Text:	If enchanted creature is put into any graveyard, that 
+		creature's controller loses an amount of life equal to 
+		to its power and you gain an amount of life equal to 
+		its toughness.
+Artist:		Brian Horton
+Rarity:		Common 1
+
+Card Title:	Desertion
+Color:		Blue
+Type:		Interrupt
+Cost:		3UU
+Pow/Tgh:	n/a
+Card Text:	Counter target spell. If that spell is an artifact or 
+		summon spell, put that card into play under your 
+		control as though it were just played.
+Artist:		Richard Kane Ferguson
+Rarity:		Rare 1
+
+Card Title:	Desolation
+Color:		Black
+Type:		Enchantment
+Cost:		1BB
+Pow/Tgh:	n/a
+Card Text:	At the end of each turn, each player who tapped a 
+		land for mana during that turn sacrifices a land. If a 
+		plains is sacrificed in this way, Desolation deals 2 
+		damage to that plains' controller.
+Artist:		George Pratt
+Rarity:		Uncommon 1
+
+Card Title:	Diamond Kaleidoscope
+Color:		Artifact
+Type:		Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	3, TAP: Put a Prism token into play. Treat this token 
+		as a 0/1 artifact creature.
+		Sacrifice a Prism token: Add one mana of any color 
+		to your mana pool. Play this ability as a mana source.
+Artist:		Ron Spencer
+Rarity:		Rare 1
+
+Card Title:	Dormant Volcano
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Dormant Volcano comes into play tapped.
+		When Dormant Volcano comes into play, return an 
+		untapped mountain you control to owner's hand or 
+		bury Dormant Volcano.
+		TAP: Add R and one colorless mana to your mana 
+		pool.
+Artist:		John Avon
+Rarity:		Uncommon 1
+
+Card Title:	Dragon Mask
+Color:		Artifact
+Type:		Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	3, TAP: Target creature you control gets +2/+2 until 
+		end of turn.
+		At end of turn, if that creature is in play, return it to
+		owner's hand.
+Artist:		Craig Hooper
+Rarity:		Uncommon 1
+
+Card Title:	Dream Tides
+Color:		Blue
+Type:		Enchantment
+Cost:		2UU
+Pow/Tgh:	n/a
+Card Text:	Creatures do not untap during their controllers' untap 
+		phase.
+		Each nongreen creature's controller may pay an 
+		additional 2 during his or her upkeep to untap that 
+		creature.
+Artist:		Jerry Tiritilli
+Rarity:		Uncommon 1
+
+Card Title:	Dwarven Vigilantes
+Color:		Red
+Type:		Summon Dwarves
+Cost:		2R
+Pow/Tgh:	2/2
+Card Text:	If Dwarven Vigilantes attacks and is not blocked, you 
+		may choose to have it deal no combat damage this turn. 
+		If you do, Dwarven Vigilantes deals an amount of 
+		damage equal to its power to target creature.
+Artist:		Pete Venters
+Rarity:		Common 1
+
+Card Title:	Elephant Grass
+Color:		Green
+Type:		Enchantment
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Cumulative upkeep 1
+		Black creatures cannot attack you. Nonblack creatures 
+		cannot attack you unless their controller pays an 
+		additional 2 for each attacking creature.
+Artist:		Tony Roberts
+Rarity:		Uncommon 1
+
+Card Title:	Elkin Lair
+Color:		Red
+Type:		Enchant World
+Cost:		3R
+Pow/Tgh:	n/a
+Card Text:	During each player's upkeep, that player chooses a 
+		card at random from his or her hand and sets it aside 
+		face up. The player may play that card as though it 
+		were in his or her hand. If the player does not play 
+		the card by end of turn, bury that card.
+Artist:		Jerry Tiritilli
+Rarity:		Rare 1
+
+Card Title:	Elven Cache
+Color:		Green
+Type:		Sorcery
+Cost:		2GG
+Pow/Tgh:	n/a
+Card Text:	Return target card from your graveyard to your hand.
+Artist:		John Matson
+Rarity:		Common 1
+
+Card Title:	Emerald Charm
+Color:		Green
+Type:		Instant
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Choose one - Untap target permanent; or destroy 
+		target global enchantment; or target creature loses 
+		flying until end of turn.
+Artist:		Greg Spalenka
+Rarity:		Common 1
+
+Card Title:	Equipoise
+Color:		White
+Type:		Enchantment
+Cost:		2W
+Pow/Tgh:	n/a
+Card Text:	During your upkeep, for each land target player 
+		controls in excess of the number of lands you control, 
+		target land he or she controls phases out. Repeat this 
+		process for artifacts and then for creatures.
+Artist:		Adam Rex
+Rarity:		Rare 1
+
+Card Title:	Everglades
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Everglades comes into play tapped.
+		When Everglades comes into play, return an untapped 
+		swamp you control to owner's hand or bury 
+		Everglades.
+		TAP: Add B and one colorless mana to your mana 
+		pool.
+Artist:		Bob Eggleton
+Rarity:		Uncommon 1
+
+Card Title:	Eye of Singularity
+Color:		White
+Type:		Enchant World
+Cost:		3W
+Pow/Tgh:	n/a
+Card Text:	When Eye of Singularity comes into play, bury all 
+		permanents with the same name except basic lands.
+		Whenever any permanent other than a basic land 
+		comes into play, bury any permanent already in play 
+		with the same name.
+Artist:		Eric Peterson
+Rarity:		Rare 1
+
+Card Title:	Fallen Askari
+Color:		Black
+Type:		Summon Knight
+Cost:		1B
+Pow/Tgh:	2/2
+Card Text:	Flanking (Whenever a creature without flanking is 
+		assigned to block this creature, the blocking creature 
+		gets -1/-1 until end of turn.)
+		Fallen Askari cannot block.
+Artist:		Adrian Smith
+Rarity:		Common 1
+
+Card Title:	Femeref Enchantress
+Color:		Multicolor
+Type:		Summon Enchantress
+Cost:		GW
+Pow/Tgh:	1/2
+Card Text:	Whenever an enchantment is put into any graveyard 
+		from play, draw a card.
+Artist:		D. Alexander Gregory
+Rarity:		Rare 1
+
+Card Title:	Feral Instinct
+Color:		Green
+Type:		Instant
+Cost:		1G
+Pow/Tgh:	n/a
+Card Text:	Target creature gets +1/+1 until end of turn.
+		Draw a card at the beginning of the next turn's 
+		upkeep.
+Artist:		Una Fricker
+Rarity:		Common 1
+
+Card Title:	Fireblast
+Color:		Red
+Type:		Instant
+Cost:		4RR
+Pow/Tgh:	n/a
+Card Text:	You may sacrifice two mountains instead of paying 
+		Fireblast's casting cost.
+		Fireblast deals 4 damage to target creature or player.
+Artist:		Michael Danza
+Rarity:		Common 1
+
+Card Title:	Firestorm Hellkite
+Color:		Multicolor
+Type:		Summon Dragon
+Cost:		4UR
+Pow/Tgh:	6/6
+Card Text:	Flying, trample
+		Cumulative upkeep UR
+Artist:		Pete Venters
+Rarity:		Rare 1
+
+Card Title:	Flooded Shoreline
+Color:		Blue
+Type:		Enchantment
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	UU, Return two islands you control to owner's hand: 
+		Return target creature to owner's hand.
+Artist:		Romas Kukalis
+Rarity:		Rare 1
+
+Card Title:	Forbidden Ritual
+Color:		Black
+Type:		Sorcery
+Cost:		2BB
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a card in play: Target opponent loses 2 life 
+		unless he or she sacrifices a permanent or chooses 
+		and discards a card.
+		You may repeat this process as many times as you 
+		choose.
+Artist:		Christopher Rush
+Rarity:		Rare 1
+
+Card Title:	Foreshadow
+Color:		Blue
+Type:		Instant
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Name a card. Put the top card from target opponent's 
+		library into his or her graveyard. If that card is the
+		one named, draw a card.
+		Draw a card at the beginning of the next turn's upkeep.
+Artist:		George Pratt
+Rarity:		Uncommon 1
+
+Card Title:	Freewind Falcon
+Color:		White
+Type:		Summon Falcon
+Cost:		1W
+Pow/Tgh:	1/1
+Card Text:	Flying, protection from red
+Artist:		Una Fricker
+Rarity:		Common 1
+
+Card Title:	Funeral Charm
+Color:		Black
+Type:		Instant
+Cost:		B
+Pow/Tgh:	n/a
+Card Text:	Choose one - Target player chooses and discards a 
+		card; or target creature gets +2/-1 until end of turn; or 
+		target creature gains swampwalk until end of turn. (If 
+		defending player controls any swamps, that creature 
+		is unblockable.)
+Artist:		Greg Spalenka
+Rarity:		Common 1
+
+Card Title:	Giant Caterpillar
+Color:		Green
+Type:		Summon Caterpillar
+Cost:		3G
+Pow/Tgh:	3/3
+Card Text:	G, Sacrifice Giant Caterpillar: Put a Butterfly token 
+		into play at end of turn. Treat this token as a 1/1 
+		green creaturewith flying.
+Artist:		Zina Saunders
+Rarity:		Common 1
+
+Card Title:	Goblin Recruiter
+Color:		Red
+Type:		Summon Goblin
+Cost:		1R
+Pow/Tgh:	1/1
+Card Text:	When Goblin Recruiter comes into play, search your 
+		library for any number of Goblin cards. Reveal those 
+		cards to all players.
+		Shuffle your library, then put the cards on top of your 
+		library in any order.
+Artist:		Scott Kirschner
+Rarity:		Uncommon 1
+
+Card Title:	Goblin Swine-Rider
+Color:		Red
+Type:		Summon Goblin
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	If Goblin Swine-Rider is blocked, it deals 2 damage to 
+		each attacking creature and 2 damage to each blocking 
+		creature.
+Artist:		G. Darrow & I. Rabarot
+Rarity:		Common 1
+
+Card Title:	Gossamer Chains
+Color:		White
+Type:		Enchantment
+Cost:		WW
+Pow/Tgh:	n/a
+Card Text:	Return Gossamer Chains to owner's hand: Target 
+		unblocked creature deals no combat damage this turn.
+Artist:		Steve Luke
+Rarity:		Common 1
+
+Card Title:	Griffin Canyon
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool.
+		TAP: Untap target Griffin. That Griffin gets +1/+1 
+		until end of turn.
+Artist:		Stuart Griffin
+Rarity:		Rare 1
+
+Card Title:	Guiding Spirit
+Color:		Multicolor
+Type:		Summon Angel
+Cost:		1WU
+Pow/Tgh:	1/2
+Card Text:	Flying
+		TAP: If the top card of target player's graveyard is a 
+		creature card, put that card on the top of that player's 
+		library.
+Artist:		Terese Nielsen
+Rarity:		Rare 1
+
+Card Title:	Hearth Charm
+Color:		Red
+Type:		Instant
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Choose one - Destroy target artifact creature; or all 
+		attacking creatures get +1/+0 until end of turn; or target 
+		creature with power 2 or less is unblockable this turn.
+Artist:		Greg Spalenka
+Rarity:		Common 1
+
+Card Title:	Heat Wave
+Color:		Red
+Type:		Enchantment
+Cost:		2R
+Pow/Tgh:	n/a
+Card Text:	Cumulative upkeep R
+		Blue creatures cannot block creatures you control. 
+		Nonblue creatures cannot block creatures you control 
+		unless their controller pays an additional 1 life for 
+		each blocking creature.
+Artist:		Alan Rabinowitz
+Rarity:		Uncommon 1
+
+Card Title:	Helm of Awakening
+Color:		Artifact
+Type:		Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	All spells cost one generic mana less to play.
+Artist:		Adam Rex
+Rarity:		Uncommon 1
+
+Card Title:	Honorable Passage
+Color:		White
+Type:		Instant
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	Prevent all damage to you or target creature from 
+		any one source. If that source is red, Honorable 
+		Passage deals to the source's controller an amount 
+		of damage equal to the amount of damage prevented.
+Artist:		Jeff Miracola
+Rarity:		Uncommon 1
+
+Card Title:	Hope Charm
+Color:		White
+Type:		Instant
+Cost:		W
+Pow/Tgh:	n/a
+Card Text:	Choose one - Target creature gains first strike until
+		end of turn; or target player gains 2 life; or destroy 
+		target local enchantment.
+Artist:		Greg Spalenka
+Rarity:		Common 1
+
+Card Title:	Hulking Cyclops
+Color:		Red
+Type:		Summon Cyclops
+Cost:		3RR
+Pow/Tgh:	5/5
+Card Text:	Hulking Cyclops cannot block.
+Artist:		DiTerlizzi
+Rarity:		Uncommon 1
+
+Card Title:	Impulse
+Color:		Blue
+Type:		Instant
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Look at the top four cards of your library. Put one of 
+		them into your hand and the rest on the bottom of your 
+		library. Shuffle your library afterwards.
+Artist:		Bryan Talbot
+Rarity:		Common 1
+
+Card Title:	Infantry Veteran
+Color:		White
+Type:		Summon Soldier
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	TAP: Target attacking creature gets +1/+1 until end 
+		of turn.
+Artist:		Christopher Rush
+Rarity:		Common 1
+
+Card Title:	Infernal Harvest
+Color:		Black
+Type:		Sorcery
+Cost:		1B
+Pow/Tgh:	n/a
+Card Text:	Return X swamps you control to owner's hand: 
+		Infernal Harvest deals X damage, divided any way 
+		you choose, among any number of target creatures.
+Artist:		Nathalie Hertz
+Rarity:		Common 1
+
+Card Title:	Inspiration
+Color:		Blue
+Type:		Instant
+Cost:		3U
+Pow/Tgh:	n/a
+Card Text:	Target player draws two cards.
+Artist:		Zina Saunders
+Rarity:		Common 1
+
+Card Title:	Iron-Heart Chimera
+Color:		Artifact
+Type:		Artifact Creature
+Cost:		4
+Pow/Tgh:	2/2
+Card Text:	Attacking does not cause Iron-Heart Chimera to tap.
+		Iron-Heart Chimera counts as a Chimera.
+		Sacrifice Iron Heart Chimera: Put a +2/+2 counter on 
+		target Chimera and attacking any turn does not cause 
+		that Chimera to tap.
+Artist:		Mike Dringenberg
+Rarity:		Uncommon 1
+
+Card Title:	Jamuraan Lion
+Color:		White
+Type:		Summon Lion
+Cost:		2W
+Pow/Tgh:	3/1
+Card Text:	W, TAP: Target creature cannot block this turn.
+Artist:		Stuart Griffin
+Rarity:		Common 1
+
+Card Title:	Juju Bubble
+Color:		Artifact
+Type:		Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	Cumulative upkeep 1
+		If you play a card, bury Juju Bubble.
+		2: Gain 1 life.
+Artist:		Donato Giancola
+Rarity:		Uncommon 1
+
+Card Title:	Jungle Basin
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Jungle Basin comes into play tapped.
+		When Jungle Basin comes into play, return an 
+		untapped forest you control to owner's hand or bury 
+		Jungle Basin.
+		TAP: Add G and one colorless mana to your mana 
+		pool.
+Artist:		John Avon
+Rarity:		Uncommon 1
+
+Card Title:	Kaervek's Spite
+Color:		Black
+Type:		Instant
+Cost:		BBB
+Pow/Tgh:	n/a
+Card Text:	Sacrifice all permanents, Discard your hand: Target 
+		player loses 5 life.
+Artist:		Bryan Talbot
+Rarity:		Rare 1
+
+Card Title:	Karoo
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Karoo comes into play tapped.
+		When Karoo comes into play, return an untapped 
+		plains you control to owner'shand or bury Karoo.
+		TAP: Add W and one colorless mana to your mana 
+		pool.
+Artist:		Zina Saunders
+Rarity:		Uncommon 1
+
+Card Title:	Katabatic Winds
+Color:		Green
+Type:		Enchantment
+Cost:		2G
+Pow/Tgh:	n/a
+Card Text:	Phasing
+		Creatures with flying cannot attack, block, or use any 
+		ability that includes TAP in the activation cost.
+Artist:		Gary Gianni
+Rarity:		Rare 1
+
+Card Title:	Keeper of Kookus
+Color:		Red
+Type:		Summon Goblin
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	R: Protection from red until end of turn
+Artist:		Scott Hampton
+Rarity:		Common 1
+
+Card Title:	King Cheetah
+Color:		Green
+Type:		Summon Cheetah
+Cost:		3G
+Pow/Tgh:	3/2
+Card Text:	You may play King Cheetah whenever you could 
+		play an instant.
+Artist:		Terese Nielsen
+Rarity:		Common 1
+
+Card Title:	Knight of the Mists
+Color:		Blue
+Type:		Summon Knight
+Cost:		2U
+Pow/Tgh:	2/2
+Card Text:	Flanking (Whenever a creature without flanking is 
+		assigned to block this creature,the blocking creature 
+		gets -1/-1 until end of turn.)
+		When Knight of the Mists comes into play, pay U 
+		or bury target Knight.
+Artist:		Harold McNeill
+Rarity:		Common 1
+
+Card Title:	Knight of Valor
+Color:		White
+Type:		Summon Knight
+Cost:		2W
+Pow/Tgh:	2/2
+Card Text:	Flanking (Whenever a creature without flanking is 
+		assigned to block this creature, the blocking creature 
+		gets -1/-1 until end of turn.)
+		1W: Each creature without flanking blocking Knight 
+		of Valor gets -1/-1 until end of turn. Use this ability 
+		only once each turn.
+Artist:		Jeff Miracola
+Rarity:		Common 1
+
+Card Title:	Kookus
+Color:		Red
+Type:		Summon Djinn
+Cost:		3RR
+Pow/Tgh:	3/5
+Card Text:	Trample
+		During your upkeep, if you do not control at least 
+		one Keeper of Kookus, Kookus deals 3 damage to 
+		you and attacks this turn if able.
+		R: +1/+0 until end of turn
+Artist:		Scott Hampton
+Rarity:		Rare 1
+
+Card Title:	Kyscu Drake
+Color:		Green
+Type:		Summon Drake
+Cost:		3G
+Pow/Tgh:	2/2
+Card Text:	Flying
+		G: +0/+1 until end of turn. You cannot spend more 
+		than G in this way each turn.
+		Sacrifice Kyscu Drake and Spitting Drake: Search 
+		your library for Viashivan Dragon and put it into play. 
+		Shuffle your library afterwards.
+Artist:		G. Darrow &L. Rabarot
+Rarity:		Uncommon 1
+
+Card Title:	Lead-Belly Chimera
+Color:		Artifact
+Type:		Artifact Creature
+Cost:		4
+Pow/Tgh:	2/2
+Card Text:	Trample
+		Lead-Belly Chimera counts as a Chimera.
+		Sacrifice Lead-Belly Chimera: Put a +2/+2 counter 
+		on target Chimera and that Chimera gains trample 
+		permanently.
+Artist:		Mike Dringenberg
+Rarity:		Uncommon 1
+
+Card Title:	Lichenthrope
+Color:		Green
+Type:		Summon Lichenthrope
+Cost:		3GG
+Pow/Tgh:	5/5
+Card Text:	For each 1 damage dealt to Lichenthrope, put a -1/-1
+		counter on it instead.
+		During your upkeep, remove one of these -1/-1 
+		counters from Lichenthrope.
+Artist:		Bob Eggleton
+Rarity:		Rare 1
+
+Card Title:	Lightning Cloud
+Color:		Red
+Type:		Enchantment
+Cost:		3R
+Pow/Tgh:	n/a
+Card Text:	R: Lightning Cloud deals 1 damage to target creature 
+		or player. Use this ability only when a red spell is 
+		successfully cast and only once for each such spell.
+Artist:		John Matson
+Rarity:		Rare 1
+
+Card Title:	Longbow Archer
+Color:		White
+Type:		Summon Archer
+Cost:		WW
+Pow/Tgh:	2/2
+Card Text:	First strike
+		Longbow Archer can block creatures with flying.
+Artist:		Eric Peterson
+Rarity:		Uncommon 1
+
+Card Title:	Magma Mine
+Color:		Artifact
+Type:		Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	4: Put a pressure counter on Magma Mine.
+		TAP, Sacrifice Magma Mine: For each pressure 
+		counter on it, Magma Mine deals 1 damage to target 
+		creature or player.
+Artist:		Ron Spencer
+Rarity:		Uncommon 1
+
+Card Title:	Man-o'-War
+Color:		Blue
+Type:		Summon Jellyfish
+Cost:		2U
+Pow/Tgh:	2/2
+Card Text:	When Man-o'-War comes into play, return target 
+		creature to owner's hand.
+Artist:		Jon J Muth
+Rarity:		Common 1
+
+Card Title:	Matopi Golem
+Color:		Artifact
+Type:		Artifact Creature
+Cost:		5
+Pow/Tgh:	3/3
+Card Text:	1: Regenerate and put a -1/-1 counter on Matopi 
+		Golem.
+Artist:		Tom Kyffin
+Rarity:		Uncommon 1
+
+Card Title:	Miraculous Recovery
+Color:		White
+Type:		Instant
+Cost:		4W
+Pow/Tgh:	n/a
+Card Text:	Put target creature card from your graveyard into 
+		play and put a +1/+1 counter on that creature. Treat 
+		the creature as though it were just played.
+Artist:		Brian Horton
+Rarity:		Uncommon 1
+
+Card Title:	Mob Mentality
+Color:		Red
+Type:		Enchant Creature
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Enchanted creature gains trample.
+		If all non-Wall creatures you control attack, enchanted 
+		creature gets +*/+0 until end of turn, where * is equal 
+		to the number of attacking creatures.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 1
+
+Card Title:	Mortal Wound
+Color:		Green
+Type:		Enchant Creature
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	If damage is dealt to enchanted creature, destroy it.
+Artist:		Kevin Walker
+Rarity:		Common 1
+
+Card Title:	Mundungu
+Color:		Multicolor
+Type:		Summon Wizard
+Cost:		1UB
+Pow/Tgh:	1/1
+Card Text:	TAP: Counter target spell unless that spell's caster 
+		pays an additional 1 and 1 life. Play this ability as an 
+		interrupt.
+Artist:		Terese Nielsen
+Rarity:		Uncommon 1
+
+Card Title:	Mystic Veil
+Color:		Blue
+Type:		Enchant Creature
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	You may choose to play Mystic Veil as an instant; if 
+		you do, bury it at end of turn.
+		Enchanted creature cannot be the target of spells or 
+		effects.
+Artist:		D. Alexander Gregory
+Rarity:		Common 1
+
+Card Title:	Natural Order
+Color:		Green
+Type:		Sorcery
+Cost:		2GG
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a green creature: Search your library for a 
+		green creature card and put it into play as though it 
+		were just played.
+		Shuffle your library afterwards.
+Artist:		Terese Nielsen
+Rarity:		Rare 1
+
+Card Title:	Necromancy
+Color:		Black
+Type:		Enchantment
+Cost:		2B
+Pow/Tgh:	n/a
+Card Text:	You may choose to play Necromancy as an instant; 
+		if you do, bury it at end of turn.
+		When you play Necromancy, choose target creature 
+		card in any graveyard. When Necromancy comes 
+		into play, put that creature into play as though it were 
+		just played and Necromancy becomes a creature 
+		enchantment which targets the creature. If Necromancy 
+		leaves play, bury the creature.
+Artist:		Pete Venters
+Rarity:		Uncommon 1
+
+Card Title:	Necrosavant
+Color:		Black
+Type:		Summon Necrosavant
+Cost:		3BBB
+Pow/Tgh:	5/5
+Card Text:	3BB, Sacrifice a creature: Put Necrosavant into play. 
+		Use this ability only during your upkeep and only if 
+		Necrosavant is in your graveyard.
+Artist:		John Coulthart
+Rarity:		Rare 1
+
+Card Title:	Nekrataal
+Color:		Black
+Type:		Summon Nekrataal
+Cost:		2BB
+Pow/Tgh:	2/1
+Card Text:	First strike
+		When Nekrataal comes into play, bury target 
+		nonartifact, nonblack creature.
+Artist:		Adrian Smith
+Rarity:		Uncommon 1
+
+Card Title:	Ogre Enforcer
+Color:		Red
+Type:		Summon Ogre
+Cost:		3RR
+Pow/Tgh:	4/4
+Card Text:	Ogre Enforcer cannot be destroyed by lethal damage 
+		unless a single source deals enough damage to 
+		destroy it.
+Artist:		Pete Venters
+Rarity:		Rare 1
+
+Card Title:	Ovinomancer
+Color:		Blue
+Type:		Summon Sorcerer
+Cost:		2U
+Pow/Tgh:	0/1
+Card Text:	When Ovinomancer comes into play, return three 
+		basic lands you control to owner's hand or bury 
+		Ovinomancer.
+		TAP, Return Ovinomancer to owner's hand: Bury 
+		target creature and put a Sheep token into play under 
+		the control of the creature's controller. Treat this 
+		token as a 0/1 green creature.
+Artist:		Kevin Walker
+Rarity:		Uncommon 1
+
+Card Title:	Panther Warriors
+Color:		Green
+Type:		Summon Cat Warriors
+Cost:		4G
+Pow/Tgh:	6/3
+Card Text:	n/a
+Artist:		Cecil Fernando
+Rarity:		Common 1
+
+Card Title:	Parapet
+Color:		White
+Type:		Enchantment
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	You may choose to play Parapet as an instant; if you 
+		do, bury it at end of turn.
+		All creatures you control get +0/+1.
+Artist:		Mark Poole
+Rarity:		Common 1
+
+Card Title:	Peace Talks
+Color:		White
+Type:		Sorcery
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	During this turn and the next one, players cannot 
+		declare an attack and cannot play spells or abilities 
+		that target any permanent or player.
+Artist:		Roger Raupp
+Rarity:		Uncommon 1
+
+Card Title:	Phyrexian Marauder
+Color:		Artifact
+Type:		Artifact Creature
+Cost:		X
+Pow/Tgh:	0/0
+Card Text:	Phyrexian Marauder comes into play with X +1/+1 
+		counters on it.
+		Phyrexian Marauder cannot block.
+		Phyrexian Marauder cannot attack unless you pay 1 
+		for each +1/+1 counter on it.
+Artist:		David Seeley
+Rarity:		Rare 1
+
+Card Title:	Phyrexian Walker
+Color:		Artifact
+Type:		Artifact Creature
+Cost:		0
+Pow/Tgh:	0/3
+Card Text:	n/a
+Artist:		Bryan Talbot
+Rarity:		Common 1
+
+Card Title:	Pillar Tombs of Aku
+Color:		Black
+Type:		Enchant World
+Cost:		2BB
+Pow/Tgh:	n/a
+Card Text:	During each player's upkeep, that player sacrifices 
+		a creature, or that player loses 5 life and you bury 
+		Pillar Tombs of Aku.
+Artist:		Terese Nielsen
+Rarity:		Rare 1
+
+Card Title:	Prosperity
+Color:		Blue
+Type:		Sorcery
+Cost:		XU
+Pow/Tgh:	n/a
+Card Text:	Each player draws X cards.
+Artist:		Dan Frazier
+Rarity:		Uncommon 1
+
+Card Title:	Pygmy Hippo
+Color:		Multicolor
+Type:		Summon Hippopotamus
+Cost:		GU
+Pow/Tgh:	2/2
+Card Text:	If Pygmy Hippo attacks and is not blocked, you may 
+		choose to have it deal no combat damage this turn. If 
+		you do, defending player draws all mana from his or 
+		her lands, then his or her mana pool is emptied. After 
+		combat, add an equal amount of colorless mana to your 
+		mana pool.
+Artist:		Steve White
+Rarity:		Rare 1
+
+Card Title:	Python
+Color:		Black
+Type:		Summon Python
+Cost:		1BB
+Pow/Tgh:	3/2
+Card Text:	n/a
+Artist:		Steve White
+Rarity:		Common 1
+
+Card Title:	Quicksand
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool.
+		TAP, Sacrifice Quicksand: Target attacking creature
+		without flying gets -1/-2 until end of turn.
+Artist:		Roger Raupp
+Rarity:		Uncommon 1
+
+Card Title:	Quirion Druid
+Color:		Green
+Type:		Summon Druid
+Cost:		2G
+Pow/Tgh:	1/2
+Card Text:	G, TAP: Target land becomes a 2/2 green creature 
+		permanently. That land still counts as a land.
+Artist:		John Matson
+Rarity:		Rare 1
+
+Card Title:	Quirion Ranger
+Color:		Green
+Type:		Summon Elf
+Cost:		G
+Pow/Tgh:	1/1
+Card Text:	Return a forest you control to owner's hand: 
+		Untap target creature. Use this ability only once each 
+		turn.
+Artist:		Tom Kyffin
+Rarity:		Common 1
+
+Card Title:	Raging Gorilla
+Color:		Red
+Type:		Summon Gorilla
+Cost:		2R
+Pow/Tgh:	2/3
+Card Text:	If Raging Gorilla blocks or is blocked, it gets +2/-2 
+		until end of turn.
+Artist:		Tom Kyffin
+Rarity:		Common 1
+
+Card Title:	Rainbow Efreet
+Color:		Blue
+Type:		Summon Efreet
+Cost:		3U
+Pow/Tgh:	3/1
+Card Text:	Flying
+		UU: Phase out
+Artist:		Nathalie Hertz
+Rarity:		Rare 1
+
+Card Title:	Relentless Assault
+Color:		Red
+Type:		Sorcery
+Cost:		2RR
+Pow/Tgh:	n/a
+Card Text:	Untap all creatures that attacked this turn. You may 
+		declare an additional attack during your main phase 
+		this turn.
+Artist:		G. Darrow &I. Rabarot
+Rarity:		Rare 1
+
+Card Title:	Relic Ward
+Color:		White
+Type:		Enchant Artifact
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	You may choose to play Relic Ward as an instant; if 
+		you do, bury it at end of turn.
+		Enchanted artifact cannot be the target of spells or 
+		effects.
+Artist:		John Coulthart
+Rarity:		Uncommon 1
+
+Card Title:	Remedy
+Color:		White
+Type:		Instant
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	Prevent up to 5 damage total to any number of 
+		creatures and/or players.
+Artist:		Zina Saunders
+Rarity:		Common 1
+
+Card Title:	Resistance Fighter
+Color:		White
+Type:		Summon Soldier
+Cost:		W
+Pow/Tgh:	1/1
+Card Text:	Sacrifice Resistance Fighter: Target creature deals no 
+		combat damage this turn.
+Artist:		Cecil Fernando
+Rarity:		Common 1
+
+Card Title:	Retribution of the Meek
+Color:		White
+Type:		Sorcery
+Cost:		2W
+Pow/Tgh:	n/a
+Card Text:	Bury all creatures with power 4 or greater.
+Artist:		Nathalie Hertz
+Rarity:		Rare 1
+
+Card Title:	Righteous Aura
+Color:		White
+Type:		Enchantment
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	W, Pay 2 life: Prevent all damage to you from any
+		one source.
+Artist:		Jeff Miracola
+Rarity:		Common 1
+
+Card Title:	Righteous War
+Color:		Multicolor
+Type:		Enchantment
+Cost:		1WB
+Pow/Tgh:	n/a
+Card Text:	All white creatures you control gain protection 
+		from black.
+		All black creatures you control gain protection 
+		from white.
+Artist:		Ian Miller
+Rarity:		Rare 1
+
+Card Title:	River Boa
+Color:		Green
+Type:		Summon Snake
+Cost:		1G
+Pow/Tgh:	2/1
+Card Text:	Islandwalk (If defending player controls an island, 
+		this creature is unblockable.)
+		G: Regenerate
+Artist:		Steve White
+Rarity:		Common 1
+
+Card Title:	Rock Slide
+Color:		Red
+Type:		Instant
+Cost:		XR
+Pow/Tgh:	n/a
+Card Text:	Rock Slide deals X damage, divided any way you 
+		choose, among any number of target attacking or 
+		blocking creatures without flying.
+Artist:		Mike Kerr
+Rarity:		Common 1
+
+Card Title:	Rowen
+Color:		Green
+Type:		Enchantment
+Cost:		2GG
+Pow/Tgh:	n/a
+Card Text:	During your draw phase, reveal the first card you 
+		draw to all players. If that card is a basic land, draw 
+		a card.
+Artist:		Jon J Muth
+Rarity:		Rare 1
+
+Card Title:	Sands of Time
+Color:		Artifact
+Type:		Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	Each player skips his or her untap phase.
+		At the beginning of each player's turn, untap each 
+		tapped artifact, creature, and land he or she controls 
+		and tap each untapped artifact, creature, and land he 
+		or she controls.
+Artist:		Paul Lee
+Rarity:		Rare 1
+
+Card Title:	Scalebane's Elite
+Color:		Multicolor
+Type:		Summon Soldiers
+Cost:		3WG
+Pow/Tgh:	4/4
+Card Text:	Protection from black
+Artist:		Steve Luke
+Rarity:		Uncommon 1
+
+Card Title:	Shimmering Efreet
+Color:		Blue
+Type:		Summon Efreet
+Cost:		2U
+Pow/Tgh:	2/2
+Card Text:	Flying, phasing
+		When Shimmering Efreet phases in, target creature 
+		phases out.
+Artist:		Thomas Gianni
+Rarity:		Uncommon 1
+
+Card Title:	Shrieking Drake
+Color:		Blue
+Type:		Summon Drake
+Cost:		U
+Pow/Tgh:	1/1
+Card Text:	Flying
+		When Shrieking Drake comes into play, return a 
+		creature you control to owner's hand.
+Artist:		Ian Miller
+Rarity:		Common 1
+
+Card Title:	Simoon
+Color:		Multicolor
+Type:		Instant
+Cost:		RG
+Pow/Tgh:	n/a
+Card Text:	Simoon deals 1 damage to each creature target 
+		opponent controls.
+Artist:		Randy Gallegos
+Rarity:		Uncommon 1
+
+Card Title:	Sisay's Ring
+Color:		Artifact
+Type:		Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	TAP: Add two colorless mana to your mana pool. 
+		Play this ability as a mana source.
+Artist:		Donato Giancola
+Rarity:		Common 1
+
+Card Title:	Snake Basket
+Color:		Artifact
+Type:		Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	X, Sacrifice Snake Basket: Put X Cobra tokens into 
+		play. Treat these tokens as 1/1 green creatures. Play 
+		this ability as a sorcery.
+Artist:		Roger Raupp
+Rarity:		Rare 1
+
+Card Title:	Solfatara
+Color:		Red
+Type:		Instant
+Cost:		2R
+Pow/Tgh:	n/a
+Card Text:	Target player cannot play any land cards this turn. 
+		Draw a card at the beginning of the next turn's 
+		upkeep.
+Artist:		Omaha Perez
+Rarity:		Common 1
+
+Card Title:	Song of Blood
+Color:		Red
+Type:		Sorcery
+Cost:		1R
+Pow/Tgh:	n/a
+Card Text:	Put the top four cards from your library into your 
+		graveyard. For each creature card put into your 
+		graveyard in this way, all creatures that attack this 
+		turn get +1/+0 until end of turn.
+Artist:		Eric Peterson
+Rarity:		Common 1
+
+Card Title:	Spider Climb
+Color:		Green
+Type:		Enchant Creature
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	You may choose to play Spider Climb as an instant; 
+		if you do, bury it at end of turn.
+		Enchanted creature gets +0/+3 and can block creatures 
+		with 
+		flying.
+Artist:		Ron Spencer
+Rarity:		Common 1
+
+Card Title:	Spitting Drake
+Color:		Red
+Type:		Summon Drake
+Cost:		3R
+Pow/Tgh:	2/2
+Card Text:	Flying
+		R: +1/+0 until end of turn. You cannot spend more 
+		than R in this way each turn.
+Artist:		G. Darrow & I. Rabarot
+Rarity:		Uncommon 1
+
+Card Title:	Squandered Resources
+Color:		Multicolor
+Type:		Enchantment
+Cost:		BG
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a land: Add to your mana pool one mana 
+		of any type the sacrificed land could produce. Play 
+		this ability as a mana source.
+Artist:		Romas Kukalis
+Rarity:		Rare 1
+
+Card Title:	Stampeding Wildebeests
+Color:		Green
+Type:		Summon Wildebeests
+Cost:		2GG
+Pow/Tgh:	5/4
+Card Text:	Trample
+		During your upkeep, return a green creature you 
+		control to owner's hand.
+Artist:		Randy Gallegos
+Rarity:		Uncommon 1
+
+Card Title:	Suleiman's Legacy
+Color:		Multicolor
+Type:		Enchantment
+Cost:		RW
+Pow/Tgh:	n/a
+Card Text:	When Suleiman's Legacy comes into play, bury all 
+		Djinns and Efreets.
+		Whenever a Djinn or Efreet comes into play, bury it.
+Artist:		Kaja Foglio
+Rarity:		Rare 1
+
+Card Title:	Summer Bloom
+Color:		Green
+Type:		Sorcery
+Cost:		1G
+Pow/Tgh:	n/a
+Card Text:	You may play up to three additional lands this turn.
+Artist:		Nicola Leonard
+Rarity:		Uncommon 1
+
+Card Title:	Sun Clasp
+Color:		White
+Type:		Enchant Creature
+Cost:		1W
+Pow/Tgh:	n/a
+Card Text:	Enchanted creature gets +1/+3.
+		W: Return enchanted creature to owner's hand.
+Artist:		John Coulthart
+Rarity:		Common 1
+
+Card Title:	Suq'Ata Assassin
+Color:		Black
+Type:		Summon Assassin
+Cost:		1BB
+Pow/Tgh:	1/1
+Card Text:	Suq'Ata Assassin cannot be blocked except by 
+		artifact or black creatures.
+		If Suq'Ata Assassin attacks and is not blocked, 
+		defending player gets a poison counter. If any 
+		player has ten or more poison counters, he or she 
+		loses the game.
+Artist:		Gary Gianni
+Rarity:		Uncommon 1
+
+Card Title:	Suq'Ata Lancer
+Color:		Red
+Type:		Summon Knight
+Cost:		2R
+Pow/Tgh:	2/2
+Card Text:	Flanking (Whenever a creature without flanking is 
+		assigned to block this creature,the blocking creature 
+		gets -1/-1 until end of turn.)
+		Suq'Ata Lancer is unaffected by summoning 
+		sickness.
+Artist:		Jeff Miracola
+Rarity:		Common 1
+
+Card Title:	Talruum Champion
+Color:		Red
+Type:		Summon Minotaur
+Cost:		4R
+Pow/Tgh:	3/3
+Card Text:	First strike
+		Whenever Talruum Champion blocks or is blocked 
+		by any creature, that creature loses first strike until 
+		end of turn.
+Artist:		Pete Venters
+Rarity:		Common 1
+
+Card Title:	Talruum Piper
+Color:		Red
+Type:		Summon Minotaur
+Cost:		4R
+Pow/Tgh:	3/3
+Card Text:	All creatures with flying able to block Talruum Piper 
+		do so.
+Artist:		Pete Venters
+Rarity:		Uncommon 1
+
+Card Title:	Tar Pit Warrior
+Color:		Black
+Type:		Summon Cyclops
+Cost:		2B
+Pow/Tgh:	3/4
+Card Text:	If Tar Pit Warrior is the target of a spell or effect,
+		bury Tar Pit Warrior.
+Artist:		George Pratt
+Rarity:		Common 1
+
+Card Title:	Teferi's Honor Guard
+Color:		White
+Type:		Summon Knight
+Cost:		2W
+Pow/Tgh:	2/2
+Card Text:	Flanking (Whenever a creature without flanking is 
+		assigned to block this creature, the blocking creature 
+		gets -1/-1 until end of turn.)
+		UU: Phase out
+Artist:		Cecil Fernando
+Rarity:		Uncommon 1
+
+Card Title:	Teferi's Puzzle Box
+Color:		Artifact
+Type:		Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	During each player's draw phase, that player counts 
+		the cards in his or her hand, puts those cards on the 
+		bottom of his or her library, and then draws that 
+		number of cards.
+Artist:		Kaja Foglio
+Rarity:		Rare 1
+
+Card Title:	Teferi's Realm
+Color:		Blue
+Type:		Enchant World
+Cost:		1UU
+Pow/Tgh:	n/a
+Card Text:	At the beginning of each player's upkeep, that player 
+		chooses artifacts, creatures, lands, or global 
+		enchantments. All cards of that type phase out.
+Artist:		Alan Rabinowitz
+Rarity:		Rare 1
+
+Card Title:	Tempest Drake
+Color:		Multicolor
+Type:		Summon Drake
+Cost:		1WU
+Pow/Tgh:	2/2
+Card Text:	Flying
+		Attacking does not cause Tempest Drake to tap.
+Artist:		Gerry Grace
+Rarity:		Uncommon 1
+
+Card Title:	Three Wishes
+Color:		Blue
+Type:		Instant
+Cost:		1UU
+Pow/Tgh:	n/a
+Card Text:	Take the top three cards from your library, look at 
+		them, and set them aside face down. You may play 
+		those cards as though they were in your hand. At the
+		beginning of your next turn, bury any of those cards 
+		not played.
+Artist:		George Pratt
+Rarity:		Rare 1
+
+Card Title:	Time and Tide
+Color:		Blue
+Type:		Instant
+Cost:		UU
+Pow/Tgh:	n/a
+Card Text:	All creatures that are phased out phase in and all 
+		creatures with phasing phase out.
+Artist:		George Pratt
+Rarity:		Uncommon 1
+
+Card Title:	Tin-Wing Chimera
+Color:		Artifact
+Type:		Artifact Creature
+Cost:		4
+Pow/Tgh:	2/2
+Card Text:	Flying
+		Tin-Wing Chimera counts as a Chimera.
+		Sacrifice Tin-Wing Chimera: Put a +2/+2 counter on 
+		target Chimera and that Chimera gains flying 
+		permanently.
+Artist:		Mike Dringenberg
+Rarity:		Uncommon 1
+
+Card Title:	Tithe
+Color:		White
+Type:		Instant
+Cost:		W
+Pow/Tgh:	n/a
+Card Text:	Search your library for a plains card. If you control 
+		fewer lands than target opponent, you may search 
+		your library for an additional plains card. Reveal those 
+		cards to all players and put them into your hand. Shuffle 
+		your library afterwards.
+Artist:		Jon J Muth
+Rarity:		Rare 1
+
+Card Title:	Tremor
+Color:		Red
+Type:		Sorcery
+Cost:		R
+Pow/Tgh:	n/a
+Card Text:	Tremor deals 1 damage to each creature without flying.
+Artist:		Michael Danza
+Rarity:		Common 1
+
+Card Title:	Triangle of War
+Color:		Artifact
+Type:		Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	2, Sacrifice Triangle of War: Choose target creature you control
+		and target creature an opponent controls. Each creature deals an
+		amount of damage equal to its power to the other.
+Artist:		Ian Miller
+Rarity:		Rare 1
+
+Card Title:	Uktabi Orangutan
+Color:		Green
+Type:		Summon Ape
+Cost:		2G
+Pow/Tgh:	2/2
+Card Text:	When Uktabi Orangutan comes into play, destroy 
+		target artifact.
+Artist:		Una Fricker
+Rarity:		Uncommon 1
+
+Card Title:	Undiscovered Paradise
+Color:		Land
+Type:		Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	TAP: Add one mana of any color to your mana pool. 
+		At the beginning of your next untap phase, return 
+		Undiscovered Paradise to owner's hand.
+Artist:		David O'Connor
+Rarity:		Rare 1
+
+Card Title:	Undo
+Color:		Blue
+Type:		Sorcery
+Cost:		1UU
+Pow/Tgh:	n/a
+Card Text:	Return two target creatures to owner's hand.
+Artist:		Terese Nielsen
+Rarity:		Common 1
+
+Card Title:	Urborg Mindsucker
+Color:		Black
+Type:		Summon Mindsucker
+Cost:		2B
+Pow/Tgh:	2/2
+Card Text:	B, Sacrifice Urborg Mindsucker: Target opponent 
+		discards a card at random. Play this ability as a 
+		sorcery.
+Artist:		Tony Diterlizzi
+Rarity:		Common 1
+
+Card Title:	Vampiric Tutor
+Color:		Black
+Type:		Instant
+Cost:		B
+Pow/Tgh:	n/a
+Card Text:	Pay 2 life: Search your library for any one card. 
+		Shuffle your library, then put that card on top of 
+		your library.
+Artist:		Gary Leach
+Rarity:		Rare 1
+
+Card Title:	Vampirism
+Color:		Black
+Type:		Enchant Creature
+Cost:		1B
+Pow/Tgh:	n/a
+Card Text:	Draw a card at the beginning of the upkeep of the 
+		turn after Vampirism comes into play.
+		Enchanted creature gets +1/+1 for each other creature 
+		you control. All other creatures you control get -1/-1.
+Artist:		Gary Leach
+Rarity:		Uncommon 1
+
+Card Title:	Vanishing
+Color:		Blue
+Type:		Enchant Creature
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	UU: Enchanted creature phases out.
+Artist:		John Matson
+Rarity:		Common 1
+
+Card Title:	Viashino Sandstalker
+Color:		Red
+Type:		Summon Viashino
+Cost:		1RR
+Pow/Tgh:	4/2
+Card Text:	Viashino Sandstalker is unaffected by summoning 
+		sickness.
+		At the end of any turn, return Viashino Sandstalker 
+		to owner's hand.
+Artist:		Andrew Robinson
+Rarity:		Uncommon 1
+
+Card Title:	Viashivan Dragon
+Color:		Multicolor
+Type:		Summon Dragon
+Cost:		2RRGG
+Pow/Tgh:	4/4
+Card Text:	Flying
+		R: +1/+0 until end of turn
+		G: +0/+1 until end of turn
+Artist:		Ian Miller
+Rarity:		Rare 1
+
+Card Title:	Vision Charm
+Color:		Blue
+Type:		Instant
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Choose one - Target artifact phases out; or put the 
+		top four cards from target player's library into his or 
+		her graveyard; or all lands of one type are basic lands 
+		of your choice until end of turn.
+Artist:		Greg Spalenka
+Rarity:		Common 1
+
+Card Title:	Wake of Vultures
+Color:		Black
+Type:		Summon Vultures
+Cost:		3B
+Pow/Tgh:	3/1
+Card Text:	Flying
+		1B, Sacrifice a creature: Regenerate
+Artist:		Jeff Miracola
+Rarity:		Common 1
+
+Card Title:	Wand of Denial
+Color:		Artifact
+Type:		Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	TAP: Look at the top card of target player's library. 
+		If that card is a nonland card, you may pay 2 life to 
+		put it into that player's graveyard.
+Artist:		Steve Luke
+Rarity:		Rare 1
+
+Card Title:	Warrior's Honor
+Color:		White
+Type:		Instant
+Cost:		2W
+Pow/Tgh:	n/a
+Card Text:	All creatures you control get +1/+1 until end
+		of turn.
+Artist:		D. Alexander Gregory
+Rarity:		Common 1
+
+Card Title:	Warthog
+Color:		Green
+Type:		Summon Warthog
+Cost:		1GG
+Pow/Tgh:	3/2
+Card Text:	Swampwalk (If defending player controls any 
+		swamps, this creature is unblockable.)
+Artist:		Steve White
+Rarity:		Common 1
+
+Card Title:	Waterspout Djinn
+Color:		Blue
+Type:		Summon Djinn
+Cost:		2UU
+Pow/Tgh:	4/4
+Card Text:	Flying
+		During your upkeep, return an untapped island you 
+		control to owner's hand or bury Waterspout Djinn.
+Artist:		Thomas Gianni
+Rarity:		Uncommon 1
+
+Card Title:	Wicked Reward
+Color:		Black
+Type:		Instant
+Cost:		1B
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a creature: Target creature gets +4/+2 until 
+		end of turn.
+Artist:		D. Alexander Gregory
+Rarity:		Common 1
+
+Card Title:	Wind Shear
+Color:		Green
+Type:		Instant
+Cost:		2G
+Pow/Tgh:	n/a
+Card Text:	All attacking creatures with flying get -2/-2 and lose 
+		flying until end of turn.
+Artist:		John Matson
+Rarity:		Uncommon 1
+
+Card Title:	Zhalfirin Crusader
+Color:		White
+Type:		Summon Knight
+Cost:		1WW
+Pow/Tgh:	2/2
+Card Text:	Flanking (Whenever a creature without flanking is 
+		assigned to block this creature, the blocking creature 
+		gets -1/-1 until end of turn.)
+		1W: Redirect 1 damage from Zhalfirin Crusader to 
+		target creature or player.
+Artist:		Alan Rabinowitz
+Rarity:		Rare 1
+
+Copyright 1996 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+Arabian Nights, Antiquities, Legends, The Dark, Fallen Empires, 
+Ice Age, and Chronicles, Homelands, Alliances, Mirage, and
+Visions are trademarks of Wizards of the Coast, Inc.

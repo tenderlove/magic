@@ -1,0 +1,1853 @@
+Magic: The Gathering - Scourge
+™ & © 1993–2003 Wizards of the Coast, Inc.
+http://www.magicthegathering.com/
+
+Number: 143 cards total
+Color:  27 white, 27 blue, 27 black, 27 red, 27 green, 3 artifact, 4 multicolor, 1 land
+Rarity: 55 common, 44 uncommon, 44 rare
+
+  Card Name: Ageless Sentinels
+      Color: W
+       Cost: 3W
+       Type: Creature — Wall
+    Pow/Tgh: 4/4
+ Rules Text: (Walls can’t attack.) 
+             Flying 
+             When Ageless Sentinels blocks, its creature type becomes 
+             Giant Bird. (It’s no longer a Wall. This effect doesn’t 
+             end at end of turn.) 
+Flavor Text: 
+     Rarity: R     Number: 1/143
+     Artist: Tony Szczudlo
+
+  Card Name: Astral Steel
+      Color: W
+       Cost: 2W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +1/+2 until end of turn. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn. You may choose new targets 
+             for the copies.) 
+Flavor Text: 
+     Rarity: C     Number: 2/143
+     Artist: Matt Cavotta
+
+  Card Name: Aven Farseer
+      Color: W
+       Cost: 1W
+       Type: Creature — Bird Soldier
+    Pow/Tgh: 1/1
+ Rules Text: Flying 
+             Whenever a creature is turned face up, put a +1/+1 
+             counter on Aven Farseer. 
+Flavor Text: His enemies’ trickery and deceit only fuel his righteous 
+             anger. 
+     Rarity: C     Number: 3/143
+     Artist: Luca Zontini
+
+  Card Name: Aven Liberator
+      Color: W
+       Cost: 2WW
+       Type: Creature — Bird Soldier
+    Pow/Tgh: 2/3
+ Rules Text: Flying 
+             Morph 3W (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Aven Liberator is turned face up, target creature 
+             you control gains protection from the color of your 
+             choice until end of turn. 
+Flavor Text: 
+     Rarity: C     Number: 4/143
+     Artist: Brian Snoddy
+
+  Card Name: Daru Spiritualist
+      Color: W
+       Cost: 1W
+       Type: Creature — Cleric
+    Pow/Tgh: 1/1
+ Rules Text: Whenever a Cleric you control becomes the target of 
+             a spell or ability, it gets +0/+2 until end of turn. 
+Flavor Text: He lifts the spirits of his people so they may descend 
+             in wrath upon their foes. 
+     Rarity: C     Number: 5/143
+     Artist: Dave Dorman
+
+  Card Name: Daru Warchief
+      Color: W
+       Cost: 2WW
+       Type: Creature — Soldier
+    Pow/Tgh: 1/1
+ Rules Text: Soldier spells you play cost 1 less to play. 
+             Soldiers you control get +1/+2. 
+Flavor Text: His victories speak for him. 
+     Rarity: U     Number: 6/143
+     Artist: Tim Hildebrandt
+
+  Card Name: Dawn Elemental
+      Color: W
+       Cost: WWWW
+       Type: Creature — Elemental
+    Pow/Tgh: 3/3
+ Rules Text: Flying 
+             Prevent all damage that would be dealt to Dawn Elemental. 
+Flavor Text: It was midnight on the Daru Plains, yet it seemed the 
+             sun was rising. 
+     Rarity: R     Number: 7/143
+     Artist: Anthony S. Waters
+
+  Card Name: Decree of Justice
+      Color: W
+       Cost: XX2WW
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Put X 4/4 white Angel creature tokens with flying into 
+             play. 
+             Cycling 2W 
+             When you cycle Decree of Justice, you may pay X. If 
+             you do, put X 1/1 white Soldier creature tokens into 
+             play. 
+Flavor Text: 
+     Rarity: R     Number: 8/143
+     Artist: Adam Rex
+
+  Card Name: Dimensional Breach
+      Color: W
+       Cost: 5WW
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Remove all permanents from the game. As long as any 
+             of those cards remain removed from the game, at the 
+             beginning of each player’s upkeep, that player returns 
+             one of the removed cards he or she owns to play. 
+Flavor Text: 
+     Rarity: R     Number: 9/143
+     Artist: Dave Dorman
+
+  Card Name: Dragon Scales
+      Color: W
+       Cost: 1W
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature gets +1/+2 and attacking doesn’t 
+             cause it to tap. 
+             When a creature with converted mana cost 6 or more 
+             comes into play, you may return Dragon Scales from 
+             your graveyard to play enchanting that creature. 
+Flavor Text: 
+     Rarity: C     Number: 10/143
+     Artist: Darrell Riche
+
+  Card Name: Dragonstalker
+      Color: W
+       Cost: 4W
+       Type: Creature — Bird Soldier
+    Pow/Tgh: 3/3
+ Rules Text: Flying, protection from Dragons 
+Flavor Text: “When the skies are filled with flames, the brave shall 
+             step forward to quench them.” 
+             —Order prophecy 
+     Rarity: U     Number: 11/143
+     Artist: Ron Spencer
+
+  Card Name: Eternal Dragon
+      Color: W
+       Cost: 5WW
+       Type: Creature — Dragon Spirit
+    Pow/Tgh: 5/5
+ Rules Text: Flying 
+             3WW: Return Eternal Dragon from your graveyard to your 
+             hand. Play this ability only during your upkeep. 
+             Plainscycling 2 (2, Discard this card from your hand: 
+             Search your library for a plains card, reveal it, and 
+             put it into your hand. Then shuffle your library.) 
+Flavor Text: 
+     Rarity: R     Number: 12/143
+     Artist: Justin Sweet
+
+  Card Name: Exiled Doomsayer
+      Color: W
+       Cost: 1W
+       Type: Creature — Cleric
+    Pow/Tgh: 1/2
+ Rules Text: All morph costs cost 2 more. (This doesn’t affect the 
+             cost to play creatures face down.) 
+Flavor Text: He’s desperate to hold back the future because he has 
+             seen it. 
+     Rarity: R     Number: 13/143
+     Artist: Brian Snoddy
+
+  Card Name: Force Bubble
+      Color: W
+       Cost: 2WW
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: If damage would be dealt to you, put that many depletion 
+             counters on Force Bubble instead. 
+             When there are four or more depletion counters on Force 
+             Bubble, sacrifice it. 
+             At end of turn, remove all depletion counters from 
+             Force Bubble. 
+Flavor Text: 
+     Rarity: R     Number: 14/143
+     Artist: Alan Pollack
+
+  Card Name: Frontline Strategist
+      Color: W
+       Cost: W
+       Type: Creature — Soldier
+    Pow/Tgh: 1/1
+ Rules Text: Morph W (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Frontline Strategist is turned face up, prevent 
+             all combat damage non-Soldiers would deal this turn. 
+Flavor Text: 
+     Rarity: C     Number: 15/143
+     Artist: Christopher Moeller
+
+  Card Name: Gilded Light
+      Color: W
+       Cost: 1W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: You can’t be the target of spells or abilities this 
+             turn. 
+             Cycling 2 (2, Discard this card from your hand: Draw 
+             a card.) 
+Flavor Text: “Whoever survives the first blow lives to land the 
+             second.” 
+     Rarity: U     Number: 16/143
+     Artist: John Avon
+
+  Card Name: Guilty Conscience
+      Color: W
+       Cost: W
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Whenever enchanted creature deals damage, Guilty Conscience 
+             deals that much damage to enchanted creature. 
+Flavor Text: Those who most feel guilt don’t need to, while those 
+             who most need to feel guilt never do. 
+             —Order proverb 
+     Rarity: C     Number: 17/143
+     Artist: Christopher Moeller
+
+  Card Name: Karona’s Zealot
+      Color: W
+       Cost: 4W
+       Type: Creature — Cleric
+    Pow/Tgh: 2/5
+ Rules Text: Morph 3WW (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Karona’s Zealot is turned face up, all damage 
+             that would be dealt to it this turn is dealt to target 
+             creature instead. 
+Flavor Text: 
+     Rarity: U     Number: 18/143
+     Artist: Alan Pollack
+
+  Card Name: Noble Templar
+      Color: W
+       Cost: 5W
+       Type: Creature — Cleric Soldier
+    Pow/Tgh: 3/6
+ Rules Text: Attacking doesn’t cause Noble Templar to tap. 
+             Plainscycling 2 (2, Discard this card from your hand: 
+             Search your library for a plains card, reveal it, and 
+             put it into your hand. Then shuffle your library.) 
+Flavor Text: 
+     Rarity: C     Number: 19/143
+     Artist: Alex Horley-Orlandelli
+
+  Card Name: Rain of Blades
+      Color: W
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Rain of Blades deals 1 damage to each attacking creature. 
+Flavor Text: Some say they are the weapons of heroes fallen in battle, 
+             eager for one last chance at glory. 
+     Rarity: U     Number: 20/143
+     Artist: Rob Alexander
+
+  Card Name: Recuperate
+      Color: W
+       Cost: 3W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose one — You gain 6 life; or prevent the next 6 
+             damage that would be dealt to target creature this 
+             turn. 
+Flavor Text: “Rise once more, so you may continue to destroy our 
+             enemies.” 
+             —Karona, false god 
+     Rarity: C     Number: 21/143
+     Artist: Tim Hildebrandt
+
+  Card Name: Reward the Faithful
+      Color: W
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Any number of target players each gains life equal 
+             to the highest converted mana cost among permanents 
+             you control. 
+Flavor Text: “When you have drunk your fill, pass the cup to others 
+             who thirst.” 
+     Rarity: U     Number: 22/143
+     Artist: Matt Cavotta
+
+  Card Name: Silver Knight
+      Color: W
+       Cost: WW
+       Type: Creature — Knight
+    Pow/Tgh: 2/2
+ Rules Text: First strike, protection from red 
+Flavor Text: Otaria’s last defense against the wave of chaos threatening 
+             to engulf it. 
+     Rarity: U     Number: 23/143
+     Artist: Eric Peterson
+
+  Card Name: Trap Digger
+      Color: W
+       Cost: 3W
+       Type: Creature — Soldier
+    Pow/Tgh: 1/3
+ Rules Text: 2W, T: Put a trap counter on target land you control. 
+             Sacrifice a land with a trap counter on it: Trap Digger 
+             deals 3 damage to target attacking creature without 
+             flying. 
+Flavor Text: 
+     Rarity: R     Number: 24/143
+     Artist: Christopher Moeller
+
+  Card Name: Wing Shards
+      Color: W
+       Cost: 1WW
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target player sacrifices an attacking creature. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn.) 
+Flavor Text: 
+     Rarity: U     Number: 25/143
+     Artist: Daren Bader
+
+  Card Name: Wipe Clean
+      Color: W
+       Cost: 1W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Remove target enchantment from the game. 
+             Cycling 3 (3, Discard this card from your hand: Draw 
+             a card.) 
+Flavor Text: “The light of the Ancestor will scour the taint of 
+             darkness from the land.” 
+     Rarity: C     Number: 26/143
+     Artist: Arnie Swekel
+
+  Card Name: Zealous Inquisitor
+      Color: W
+       Cost: 2W
+       Type: Creature — Cleric
+    Pow/Tgh: 2/2
+ Rules Text: 1W: The next 1 damage that would be dealt to Zealous 
+             Inquisitor this turn is dealt to target creature instead. 
+Flavor Text: “I only return what rightly belongs to another.” 
+     Rarity: C     Number: 27/143
+     Artist: Wayne England
+
+  Card Name: Aphetto Runecaster
+      Color: U
+       Cost: 3U
+       Type: Creature — Wizard
+    Pow/Tgh: 2/3
+ Rules Text: Whenever a creature is turned face up, you may draw 
+             a card. 
+Flavor Text: “The ignorant fear change; the wise use it as a weapon.” 
+     Rarity: U     Number: 28/143
+     Artist: Scott M. Fischer
+
+  Card Name: Brain Freeze
+      Color: U
+       Cost: 1U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target player puts the top three cards of his or her 
+             library into his or her graveyard. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn. You may choose new targets 
+             for the copies.) 
+Flavor Text: 
+     Rarity: U     Number: 29/143
+     Artist: Tim Hildebrandt
+
+  Card Name: Coast Watcher
+      Color: U
+       Cost: 1U
+       Type: Creature — Bird Soldier
+    Pow/Tgh: 1/1
+ Rules Text: Flying, protection from green 
+Flavor Text: The aven came to fear the forest’s clawing branches, 
+             but the watchers quickly renewed their courage. 
+     Rarity: C     Number: 30/143
+     Artist: Luca Zontini
+
+  Card Name: Day of the Dragons
+      Color: U
+       Cost: 4UUU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: When Day of the Dragons comes into play, remove all 
+             creatures you control from the game. Then put that 
+             many 5/5 red Dragon creature tokens with flying into 
+             play. 
+             When Day of the Dragons leaves play, sacrifice all 
+             Dragons you control. Then return the removed cards 
+             to play under your control. 
+Flavor Text: 
+     Rarity: R     Number: 31/143
+     Artist: Matthew D. Wilson
+
+  Card Name: Decree of Silence
+      Color: U
+       Cost: 6UU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever an opponent plays a spell, counter that spell 
+             and put a depletion counter on Decree of Silence. If 
+             there are three or more depletion counters on Decree 
+             of Silence, sacrifice it. 
+             Cycling 4UU 
+             When you cycle Decree of Silence, you may counter target 
+             spell. 
+Flavor Text: 
+     Rarity: R     Number: 32/143
+     Artist: Adam Rex
+
+  Card Name: Dispersal Shield
+      Color: U
+       Cost: 1U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell if its converted mana cost is 
+             less than or equal to the highest converted mana cost 
+             among permanents you control. 
+Flavor Text: “Maybe next time.” 
+     Rarity: C     Number: 33/143
+     Artist: Dave Dorman
+
+  Card Name: Dragon Wings
+      Color: U
+       Cost: 1U
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature has flying. 
+             Cycling 1U (1U, Discard this card from your hand: Draw 
+             a card.) 
+             When a creature with converted mana cost 6 or more 
+             comes into play, you may return Dragon Wings from your 
+             graveyard to play enchanting that creature. 
+Flavor Text: 
+     Rarity: C     Number: 34/143
+     Artist: Darrell Riche
+
+  Card Name: Faces of the Past
+      Color: U
+       Cost: 2U
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature is put into a graveyard from play, 
+             tap or untap all creatures that share a creature type 
+             with it. 
+Flavor Text: The ties that bind can also strangle. 
+     Rarity: R     Number: 35/143
+     Artist: Wayne England
+
+  Card Name: Frozen Solid
+      Color: U
+       Cost: 1UU
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature doesn’t untap during its controller’s 
+             untap step. 
+             When damage is dealt to enchanted creature, destroy 
+             it. 
+Flavor Text: 
+     Rarity: C     Number: 36/143
+     Artist: Glen Angus
+
+  Card Name: Hindering Touch
+      Color: U
+       Cost: 3U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell unless its controller pays 2. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn. You may choose new targets 
+             for the copies.) 
+Flavor Text: 
+     Rarity: C     Number: 37/143
+     Artist: Glen Angus
+
+  Card Name: Long-Term Plans
+      Color: U
+       Cost: 2U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Search your library for a card, shuffle your library, 
+             then put that card third from the top. 
+Flavor Text: “Wait, it’ll come to me in a minute.” 
+     Rarity: U     Number: 38/143
+     Artist: Ben Thompson
+
+  Card Name: Mercurial Kite
+      Color: U
+       Cost: 3U
+       Type: Creature — Bird
+    Pow/Tgh: 2/2
+ Rules Text: Flying 
+             Whenever Mercurial Kite deals combat damage to a creature, 
+             tap that creature. It doesn’t untap during its controller’s 
+             next untap step. 
+Flavor Text: 
+     Rarity: C     Number: 39/143
+     Artist: Richard Sardinha
+
+  Card Name: Metamorphose
+      Color: U
+       Cost: 1U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put target permanent an opponent controls on top of 
+             its owner’s library. That opponent may put an artifact, 
+             creature, enchantment, or land card from his or her 
+             hand into play. 
+Flavor Text: If it’s not one thing, it’s another. 
+     Rarity: U     Number: 40/143
+     Artist: Ron Spencer
+
+  Card Name: Mind’s Desire
+      Color: U
+       Cost: 4UU
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Shuffle your library. Then remove the top card of your 
+             library from the game. Until end of turn, you may play 
+             it as though it were in your hand without paying its 
+             mana cost. (If it has X in its mana cost, X is 0.) 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn.) 
+Flavor Text: 
+     Rarity: R     Number: 41/143
+     Artist: Ron Spencer
+
+  Card Name: Mischievous Quanar
+      Color: U
+       Cost: 4U
+       Type: Creature — Beast
+    Pow/Tgh: 3/3
+ Rules Text: 3UU: Turn Mischievous Quanar face down. 
+             Morph 1UU (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Mischievous Quanar is turned face up, copy target 
+             instant or sorcery spell. You may choose new targets 
+             for that copy. 
+Flavor Text: 
+     Rarity: R     Number: 42/143
+     Artist: Lars Grant-West
+
+  Card Name: Mistform Warchief
+      Color: U
+       Cost: 2U
+       Type: Creature — Illusion
+    Pow/Tgh: 1/3
+ Rules Text: Creature spells you play that share a creature type 
+             with Mistform Warchief cost 1 less to play. 
+             T: Mistform Warchief’s type becomes the creature type 
+             of your choice until end of turn. 
+Flavor Text: 
+     Rarity: U     Number: 43/143
+     Artist: Greg Hildebrandt
+
+  Card Name: Parallel Thoughts
+      Color: U
+       Cost: 3UU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: When Parallel Thoughts comes into play, search your 
+             library for seven cards, remove them from the game 
+             in a face-down pile, and shuffle that pile. Then shuffle 
+             your library. 
+             If you would draw a card, you may instead put the top 
+             card of the pile you removed into your hand. 
+Flavor Text: 
+     Rarity: R     Number: 44/143
+     Artist: Ben Thompson
+
+  Card Name: Pemmin’s Aura
+      Color: U
+       Cost: 1UU
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: U: Untap enchanted creature. 
+             U: Enchanted creature gains flying until end of turn. 
+             U: Enchanted creature can’t be the target of spells 
+             or abilities this turn. 
+             1: Enchanted creature gets +1/-1 or -1/+1 until end 
+             of turn. 
+Flavor Text: 
+     Rarity: U     Number: 45/143
+     Artist: Greg Staples
+
+  Card Name: Raven Guild Initiate
+      Color: U
+       Cost: 2U
+       Type: Creature — Wizard
+    Pow/Tgh: 1/4
+ Rules Text: Morph—Return a Bird you control to its owner’s hand. 
+             (You may play this face down as a 2/2 creature for 
+             3. Turn it face up any time for its morph cost.) 
+Flavor Text: The Raven Guild soars on winds of unease. 
+     Rarity: C     Number: 46/143
+     Artist: Christopher Moeller
+
+  Card Name: Raven Guild Master
+      Color: U
+       Cost: 1UU
+       Type: Creature — Wizard Mutant
+    Pow/Tgh: 1/1
+ Rules Text: Whenever Raven Guild Master deals combat damage to 
+             a player, that player removes the top ten cards of 
+             his or her library from the game. 
+             Morph 2UU (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+Flavor Text: 
+     Rarity: R     Number: 47/143
+     Artist: Kev Walker
+
+  Card Name: Riptide Survivor
+      Color: U
+       Cost: 2U
+       Type: Creature — Wizard
+    Pow/Tgh: 2/1
+ Rules Text: Morph 1UU (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Riptide Survivor is turned face up, discard two 
+             cards from your hand, then draw three cards. 
+Flavor Text: 
+     Rarity: U     Number: 48/143
+     Artist: Thomas M. Baxa
+
+  Card Name: Rush of Knowledge
+      Color: U
+       Cost: 4U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Draw cards equal to the highest converted mana cost 
+             among permanents you control. 
+Flavor Text: “Limitless power is glorious until you gain limitless 
+             understanding.” 
+             —Ixidor, reality sculptor 
+     Rarity: C     Number: 49/143
+     Artist: Eric Peterson
+
+  Card Name: Scornful Egotist
+      Color: U
+       Cost: 7U
+       Type: Creature — Wizard
+    Pow/Tgh: 1/1
+ Rules Text: Morph U (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+Flavor Text: “Once I was human. Now I am far more.” 
+     Rarity: C     Number: 50/143
+     Artist: Jim Nelson
+
+  Card Name: Shoreline Ranger
+      Color: U
+       Cost: 5U
+       Type: Creature — Bird Soldier
+    Pow/Tgh: 3/4
+ Rules Text: Flying 
+             Islandcycling 2 (2, Discard this card from your hand: 
+             Search your library for an island card, reveal it, 
+             and put it into your hand. Then shuffle your library.) 
+Flavor Text: 
+     Rarity: C     Number: 51/143
+     Artist: Michael Sutfin
+
+  Card Name: Stifle
+      Color: U
+       Cost: U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target activated or triggered ability. (Mana 
+             abilities can’t be countered.) 
+Flavor Text: “If I wanted your opinion, I’d have told you what it 
+             was.” 
+             —Pemmin, Riptide survivor 
+     Rarity: R     Number: 52/143
+     Artist: Dany Orizio
+
+  Card Name: Temporal Fissure
+      Color: U
+       Cost: 4U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Return target permanent to its owner’s hand. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn. You may choose new targets 
+             for the copies.) 
+Flavor Text: 
+     Rarity: C     Number: 53/143
+     Artist: Edward P. Beard, Jr.
+
+  Card Name: Thundercloud Elemental
+      Color: U
+       Cost: 5UU
+       Type: Creature — Elemental
+    Pow/Tgh: 3/4
+ Rules Text: Flying 
+             3U: Tap all creatures with toughness 2 or less. 
+             3U: All other creatures lose flying until end of turn. 
+Flavor Text: Some days it’s better to stay inside. 
+     Rarity: U     Number: 54/143
+     Artist: Anthony S. Waters
+
+  Card Name: Bladewing’s Thrall
+      Color: B
+       Cost: 2BB
+       Type: Creature — Zombie
+    Pow/Tgh: 3/3
+ Rules Text: Bladewing’s Thrall has flying as long as you control 
+             a Dragon. 
+             When a Dragon comes into play, you may return Bladewing’s 
+             Thrall from your graveyard to play. 
+Flavor Text: 
+     Rarity: U     Number: 55/143
+     Artist: Kev Walker
+
+  Card Name: Cabal Conditioning
+      Color: B
+       Cost: 6B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Any number of target players each discards cards from 
+             his or her hand equal to the highest converted mana 
+             cost among permanents you control. 
+Flavor Text: “Hear only the Cabal’s voice. 
+             See only the Cabal’s way. 
+             Speak only the Cabal’s word.” 
+             —Cabal mantra 
+     Rarity: R     Number: 56/143
+     Artist: Scott M. Fischer
+
+  Card Name: Cabal Interrogator
+      Color: B
+       Cost: 1B
+       Type: Creature — Zombie Wizard
+    Pow/Tgh: 1/1
+ Rules Text: XB, T: Target player reveals X cards from his or her 
+             hand and you choose one of them. That player discards 
+             that card. Play this ability only any time you could 
+             play a sorcery. 
+Flavor Text: 
+     Rarity: U     Number: 57/143
+     Artist: Tony Szczudlo
+
+  Card Name: Call to the Grave
+      Color: B
+       Cost: 4B
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player’s upkeep, that player 
+             sacrifices a non-Zombie creature. 
+             At end of turn, if no creatures are in play, sacrifice 
+             Call to the Grave. 
+Flavor Text: 
+     Rarity: R     Number: 58/143
+     Artist: Daren Bader
+
+  Card Name: Carrion Feeder
+      Color: B
+       Cost: B
+       Type: Creature — Zombie
+    Pow/Tgh: 1/1
+ Rules Text: Carrion Feeder can’t block. 
+             Sacrifice a creature: Put a +1/+1 counter on Carrion 
+             Feeder. 
+Flavor Text: Stinking of rot, it leaps between gravestones in search 
+             of its next meal. 
+     Rarity: C     Number: 59/143
+     Artist: Brian Snoddy
+
+  Card Name: Chill Haunting
+      Color: B
+       Cost: 1B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: As an additional cost to play Chill Haunting, remove 
+             X creature cards in your graveyard from the game. 
+             Target creature gets -X/-X until end of turn. 
+Flavor Text: 
+     Rarity: U     Number: 60/143
+     Artist: Brian Snoddy
+
+  Card Name: Clutch of Undeath
+      Color: B
+       Cost: 3BB
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature gets +3/+3 as long as it’s a Zombie. 
+             Otherwise, it gets -3/-3. 
+Flavor Text: The hand of death recognizes its own. 
+     Rarity: C     Number: 61/143
+     Artist: Greg Hildebrandt
+
+  Card Name: Consumptive Goo
+      Color: B
+       Cost: BB
+       Type: Creature — Ooze
+    Pow/Tgh: 1/1
+ Rules Text: 2BB: Target creature gets -1/-1 until end of turn. 
+             Put a +1/+1 counter on Consumptive Goo. 
+Flavor Text: Silent as fog and relentless as plague, it is wet, 
+             creeping death. 
+     Rarity: R     Number: 62/143
+     Artist: Carl Critchlow
+
+  Card Name: Death’s-Head Buzzard
+      Color: B
+       Cost: 1BB
+       Type: Creature — Bird
+    Pow/Tgh: 2/1
+ Rules Text: Flying 
+             When Death’s-Head Buzzard is put into a graveyard from 
+             play, all creatures get -1/-1 until end of turn. 
+Flavor Text: Infested with vermin, ever hungering, dropping from 
+             night’s sky. 
+     Rarity: C     Number: 63/143
+     Artist: Marcelo Vignali
+
+  Card Name: Decree of Pain
+      Color: B
+       Cost: 6BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy all creatures. They can’t be regenerated. Draw 
+             a card for each creature destroyed this way. 
+             Cycling 3BB 
+             When you cycle Decree of Pain, all creatures get -2/-2 
+             until end of turn. 
+Flavor Text: 
+     Rarity: R     Number: 64/143
+     Artist: Carl Critchlow
+
+  Card Name: Dragon Shadow
+      Color: B
+       Cost: 1B
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature gets +1/+0 and has fear. (It can’t 
+             be blocked except by artifact creatures and/or black 
+             creatures.) 
+             When a creature with converted mana cost 6 or more 
+             comes into play, you may return Dragon Shadow from 
+             your graveyard to play enchanting that creature. 
+Flavor Text: 
+     Rarity: C     Number: 65/143
+     Artist: Kev Walker
+
+  Card Name: Fatal Mutation
+      Color: B
+       Cost: B
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: When enchanted creature is turned face up, destroy 
+             it. It can’t be regenerated. 
+Flavor Text: “You wear that shell as a mask. Now it’s your coffin.” 
+             —Cabal cleric 
+     Rarity: U     Number: 66/143
+     Artist: Erica Gassalasca-Jape
+
+  Card Name: Final Punishment
+      Color: B
+       Cost: 3BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player loses life equal to the damage already 
+             dealt to him or her this turn. 
+Flavor Text: The pain of a lifetime—every scrape, illness, and bruise—condensed 
+             into a single moment. 
+     Rarity: R     Number: 67/143
+     Artist: Matt Thompson
+
+  Card Name: Lethal Vapors
+      Color: B
+       Cost: 2BB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature comes into play, destroy it. 
+             0: Destroy Lethal Vapors. You skip your next turn. 
+             Any player may play this ability. 
+Flavor Text: The vapors infiltrate every crevice, poison every lung, 
+             and snuff out every life. 
+     Rarity: R     Number: 68/143
+     Artist: John Avon
+
+  Card Name: Lingering Death
+      Color: B
+       Cost: 1B
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: The controller of enchanted creature sacrifices it 
+             at the end of his or her turn. 
+Flavor Text: “Looks bad. I don’t know if he’ll make it through the 
+             night.” 
+             —Cabal cleric 
+     Rarity: C     Number: 69/143
+     Artist: Matt Thompson
+
+  Card Name: Nefashu
+      Color: B
+       Cost: 4BB
+       Type: Creature — Zombie Mutant
+    Pow/Tgh: 5/3
+ Rules Text: Whenever Nefashu attacks, up to five target creatures 
+             each get -1/-1 until end of turn. 
+Flavor Text: Where the nefashu pass, blood rolls like a silk carpet. 
+     Rarity: R     Number: 70/143
+     Artist: rk post
+
+  Card Name: Putrid Raptor
+      Color: B
+       Cost: 4BB
+       Type: Creature — Zombie Beast
+    Pow/Tgh: 4/4
+ Rules Text: Morph—Discard a Zombie card from your hand. (You may 
+             play this face down as a 2/2 creature for 3. Turn it 
+             face up any time for its morph cost.) 
+Flavor Text: It eagerly gobbles up bits of its own rotting flesh 
+             as they fall to the swampy ground. 
+     Rarity: U     Number: 71/143
+     Artist: Pete Venters
+
+  Card Name: Reaping the Graves
+      Color: B
+       Cost: 2B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Return target creature card from your graveyard to 
+             your hand. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn. You may choose new targets 
+             for the copies.) 
+Flavor Text: 
+     Rarity: C     Number: 72/143
+     Artist: Ron Spencer
+
+  Card Name: Skulltap
+      Color: B
+       Cost: 1B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: As an additional cost to play Skulltap, sacrifice a 
+             creature. 
+             Draw two cards. 
+Flavor Text: “Finally, a use for that head of yours.”  
+             —Braids, dementia summoner 
+     Rarity: C     Number: 73/143
+     Artist: Adam Rex
+
+  Card Name: Soul Collector
+      Color: B
+       Cost: 3BB
+       Type: Creature — Vampire
+    Pow/Tgh: 3/4
+ Rules Text: Flying 
+             Whenever a creature dealt damage by Soul Collector 
+             this turn is put into a graveyard, return that card 
+             to play under your control. 
+             Morph BBB (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+Flavor Text: 
+     Rarity: R     Number: 74/143
+     Artist: Matthew D. Wilson
+
+  Card Name: Tendrils of Agony
+      Color: B
+       Cost: 2BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player loses 2 life and you gain 2 life. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn. You may choose new targets 
+             for the copies.) 
+Flavor Text: 
+     Rarity: U     Number: 75/143
+     Artist: Pete Venters
+
+  Card Name: Twisted Abomination
+      Color: B
+       Cost: 5B
+       Type: Creature — Zombie Mutant
+    Pow/Tgh: 5/3
+ Rules Text: B: Regenerate Twisted Abomination. 
+             Swampcycling 2 (2, Discard this card from your hand: 
+             Search your library for a swamp card, reveal it, and 
+             put it into your hand. Then shuffle your library.) 
+Flavor Text: 
+     Rarity: C     Number: 76/143
+     Artist: Daren Bader
+
+  Card Name: Unburden
+      Color: B
+       Cost: 1BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player discards two cards. 
+             Cycling 2 (2, Discard this card from your hand: Draw 
+             a card.) 
+Flavor Text: Cabal initiates enter training full of hopes and fears. 
+             They graduate with neither. 
+     Rarity: C     Number: 77/143
+     Artist: Wayne England
+
+  Card Name: Undead Warchief
+      Color: B
+       Cost: 2BB
+       Type: Creature — Zombie
+    Pow/Tgh: 1/1
+ Rules Text: Zombie spells you play cost 1 less to play. 
+             Zombies you control get +2/+1. 
+Flavor Text: It has the strength of seven men. In fact, it used 
+             to be seven men. 
+     Rarity: U     Number: 78/143
+     Artist: Greg Hildebrandt
+
+  Card Name: Unspeakable Symbol
+      Color: B
+       Cost: 1BB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Pay 3 life: Put a +1/+1 counter on target creature. 
+Flavor Text: The symbols are spread throughout Aphetto, marking 
+             sites where minions of the Raven Guild and the Cabal 
+             can seek refuge. 
+     Rarity: U     Number: 79/143
+     Artist: Arnie Swekel
+
+  Card Name: Vengeful Dead
+      Color: B
+       Cost: 3B
+       Type: Creature — Zombie
+    Pow/Tgh: 3/2
+ Rules Text: Whenever Vengeful Dead or another Zombie is put into 
+             a graveyard from play, each opponent loses 1 life. 
+Flavor Text: Those who don’t learn from their deaths are destined 
+             to repeat them. 
+     Rarity: C     Number: 80/143
+     Artist: Alex Horley-Orlandelli
+
+  Card Name: Zombie Cutthroat
+      Color: B
+       Cost: 3BB
+       Type: Creature — Zombie
+    Pow/Tgh: 3/4
+ Rules Text: Morph—Pay 5 life. (You may play this face down as a 
+             2/2 creature for 3. Turn it face up any time for its 
+             morph cost.) 
+Flavor Text: The single-mindedness of a zombie, the cunning of an 
+             assassin. 
+     Rarity: C     Number: 81/143
+     Artist: Thomas M. Baxa
+
+  Card Name: Bonethorn Valesk
+      Color: R
+       Cost: 4R
+       Type: Creature — Beast
+    Pow/Tgh: 4/2
+ Rules Text: Whenever a creature is turned face up, Bonethorn Valesk 
+             deals 1 damage to target creature or player. 
+Flavor Text: Barbarians weave its spurs into ceremonial charms to 
+             proclaim their hardiness in battle. 
+     Rarity: C     Number: 82/143
+     Artist: Alan Pollack
+
+  Card Name: Carbonize
+      Color: R
+       Cost: 2R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Carbonize deals 3 damage to target creature or player. 
+             That creature can’t be regenerated this turn. If the 
+             creature would be put into a graveyard this turn, remove 
+             it from the game instead. 
+Flavor Text: 
+     Rarity: U     Number: 83/143
+     Artist: Alex Horley-Orlandelli
+
+  Card Name: Chartooth Cougar
+      Color: R
+       Cost: 5R
+       Type: Creature — Cat Beast
+    Pow/Tgh: 4/4
+ Rules Text: R: Chartooth Cougar gets +1/+0 until end of turn. 
+             Mountaincycling 2 (2, Discard this card from your hand: 
+             Search your library for a mountain card, reveal it, 
+             and put it into your hand. Then shuffle your library.) 
+Flavor Text: 
+     Rarity: C     Number: 84/143
+     Artist: Tony Szczudlo
+
+  Card Name: Decree of Annihilation
+      Color: R
+       Cost: 8RR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Remove all artifacts, creatures, lands, graveyards, 
+             and hands from the game. 
+             Cycling 5RR 
+             When you cycle Decree of Annihilation, destroy all 
+             lands. 
+Flavor Text: 
+     Rarity: R     Number: 85/143
+     Artist: John Avon
+
+  Card Name: Dragon Breath
+      Color: R
+       Cost: 1R
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature has haste. 
+             R: Enchanted creature gets +1/+0 until end of turn. 
+             When a creature with converted mana cost 6 or more 
+             comes into play, you may return Dragon Breath from 
+             your graveyard to play enchanting that creature. 
+Flavor Text: 
+     Rarity: C     Number: 86/143
+     Artist: Greg Staples
+
+  Card Name: Dragon Mage
+      Color: R
+       Cost: 5RR
+       Type: Creature — Dragon Wizard
+    Pow/Tgh: 5/5
+ Rules Text: Flying 
+             Whenever Dragon Mage deals combat damage to a player, 
+             each player discards his or her hand and draws seven 
+             cards. 
+Flavor Text: “You’ll bend to my will—with or without your precious 
+             sanity.” 
+     Rarity: R     Number: 87/143
+     Artist: Matthew D. Wilson
+
+  Card Name: Dragon Tyrant
+      Color: R
+       Cost: 8RR
+       Type: Creature — Dragon
+    Pow/Tgh: 6/6
+ Rules Text: Flying, trample 
+             Double strike (This creature deals both first-strike 
+             and regular combat damage.) 
+             At the beginning of your upkeep, sacrifice Dragon Tyrant 
+             unless you pay RRRR. 
+             R: Dragon Tyrant gets +1/+0 until end of turn. 
+Flavor Text: 
+     Rarity: R     Number: 88/143
+     Artist: Kev Walker
+
+  Card Name: Dragonspeaker Shaman
+      Color: R
+       Cost: 1RR
+       Type: Creature — Barbarian
+    Pow/Tgh: 2/2
+ Rules Text: Dragon spells you play cost 2 less to play. 
+Flavor Text: “We speak the dragons’ language of flame and rage. 
+             They speak our language of fury and honor. Together 
+             we shall weave a tale of destruction without equal.” 
+     Rarity: U     Number: 89/143
+     Artist: Kev Walker
+
+  Card Name: Dragonstorm
+      Color: R
+       Cost: 8R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Search your library for a Dragon card and put it into 
+             play. Then shuffle your library. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn.) 
+Flavor Text: 
+     Rarity: R     Number: 90/143
+     Artist: Kev Walker
+
+  Card Name: Enrage
+      Color: R
+       Cost: XR
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +X/+0 until end of turn. 
+Flavor Text: “You wouldn’t like me when I’m angry.” 
+     Rarity: U     Number: 91/143
+     Artist: Justin Sweet
+
+  Card Name: Extra Arms
+      Color: R
+       Cost: 4R
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Whenever enchanted creature attacks, it deals 2 damage 
+             to target creature or player. 
+Flavor Text: “Perhaps extra heads would have served them better.” 
+             —Foothill guide 
+     Rarity: U     Number: 92/143
+     Artist: Greg Staples
+
+  Card Name: Form of the Dragon
+      Color: R
+       Cost: 4RRR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: At the beginning of your upkeep, Form of the Dragon 
+             deals 5 damage to target creature or player. 
+             At the end of each turn, your life total becomes 5. 
+             Creatures without flying can’t attack you. 
+Flavor Text: 
+     Rarity: R     Number: 93/143
+     Artist: Carl Critchlow
+
+  Card Name: Goblin Brigand
+      Color: R
+       Cost: 1R
+       Type: Creature — Goblin
+    Pow/Tgh: 2/2
+ Rules Text: Goblin Brigand attacks each turn if able. 
+Flavor Text: After the Skirk Ridge collapsed, the goblins erected 
+             a system of ropes and pulleys to hold up what was left. 
+     Rarity: C     Number: 94/143
+     Artist: Arnie Swekel
+
+  Card Name: Goblin Psychopath
+      Color: R
+       Cost: 3R
+       Type: Creature — Goblin Mutant
+    Pow/Tgh: 5/5
+ Rules Text: Whenever Goblin Psychopath attacks or blocks, flip 
+             a coin. If you lose the flip, the next time it would 
+             deal combat damage this turn, it deals that damage 
+             to you instead. 
+Flavor Text: The destruction he causes is nothing next to the chaos 
+             in his mind. 
+     Rarity: U     Number: 95/143
+     Artist: Pete Venters
+
+  Card Name: Goblin War Strike
+      Color: R
+       Cost: R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Goblin War Strike deals damage equal to the number 
+             of Goblins you control to target player. 
+Flavor Text: “Fire, aim, ready!” 
+     Rarity: C     Number: 96/143
+     Artist: Pete Venters
+
+  Card Name: Goblin Warchief
+      Color: R
+       Cost: 1RR
+       Type: Creature — Goblin
+    Pow/Tgh: 2/2
+ Rules Text: Goblin spells you play cost 1 less to play. 
+             Goblins you control have haste. 
+Flavor Text: They poured from the Skirk Ridge like lava, burning 
+             and devouring everything in their path. 
+     Rarity: U     Number: 97/143
+     Artist: Tim Hildebrandt
+
+  Card Name: Grip of Chaos
+      Color: R
+       Cost: 4RR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a spell or ability is put onto the stack, 
+             reselect its target at random if it has a single target. 
+             (Select from among all legal targets.) 
+Flavor Text: When the world is consumed by chaos, the skilled and 
+             the foolish are on equal footing. 
+     Rarity: R     Number: 98/143
+     Artist: Mark Tedin
+
+  Card Name: Misguided Rage
+      Color: R
+       Cost: 2R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player sacrifices a permanent. 
+Flavor Text: Only when the anger passed did Varv realize he had 
+             burned down his home, destroyed his weapons, and killed 
+             his friend Furt. 
+     Rarity: C     Number: 99/143
+     Artist: Michael Sutfin
+
+  Card Name: Pyrostatic Pillar
+      Color: R
+       Cost: 1R
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a player plays a spell with converted mana 
+             cost 3 or less, Pyrostatic Pillar deals 2 damage to 
+             that player. 
+Flavor Text: 
+     Rarity: U     Number: 100/143
+     Artist: Pete Venters
+
+  Card Name: Rock Jockey
+      Color: R
+       Cost: 2R
+       Type: Creature — Goblin
+    Pow/Tgh: 3/3
+ Rules Text: You can’t play Rock Jockey if you played a land this 
+             turn. 
+             You can’t play lands if you played Rock Jockey this 
+             turn. 
+Flavor Text: Goblins don’t know much about physics, but they know 
+             lots about falling and rocks. 
+     Rarity: C     Number: 101/143
+     Artist: Glen Angus
+
+  Card Name: Scattershot
+      Color: R
+       Cost: 2R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Scattershot deals 1 damage to target creature. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn. You may choose new targets 
+             for the copies.) 
+Flavor Text: 
+     Rarity: C     Number: 102/143
+     Artist: Glen Angus
+
+  Card Name: Siege-Gang Commander
+      Color: R
+       Cost: 3RR
+       Type: Creature — Goblin
+    Pow/Tgh: 2/2
+ Rules Text: When Siege-Gang Commander comes into play, put three 
+             1/1 red Goblin creature tokens into play. 
+             1R, Sacrifice a Goblin: Siege-Gang Commander deals 
+             2 damage to target creature or player. 
+Flavor Text: 
+     Rarity: R     Number: 103/143
+     Artist: Christopher Moeller
+
+  Card Name: Skirk Volcanist
+      Color: R
+       Cost: 3R
+       Type: Creature — Goblin
+    Pow/Tgh: 3/1
+ Rules Text: Morph—Sacrifice two mountains. (You may play this face 
+             down as a 2/2 creature for 3. Turn it face up any time 
+             for its morph cost.) 
+             When Skirk Volcanist is turned face up, it deals 3 
+             damage divided as you choose among any number of target 
+             creatures. 
+Flavor Text: 
+     Rarity: U     Number: 104/143
+     Artist: Matt Cavotta
+
+  Card Name: Spark Spray
+      Color: R
+       Cost: R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Spark Spray deals 1 damage to target creature or player. 
+             Cycling R (R, Discard this card from your hand: Draw 
+             a card.) 
+Flavor Text: It’s the only kind of shower goblins will tolerate. 
+     Rarity: C     Number: 105/143
+     Artist: Pete Venters
+
+  Card Name: Sulfuric Vortex
+      Color: R
+       Cost: 1RR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player’s upkeep, Sulfuric 
+             Vortex deals 2 damage to that player. 
+             If a player would gain life, that player gains no life 
+             instead. 
+Flavor Text: 
+     Rarity: R     Number: 106/143
+     Artist: Greg Staples
+
+  Card Name: Torrent of Fire
+      Color: R
+       Cost: 3RR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Torrent of Fire deals damage equal to the highest converted 
+             mana cost among permanents you control to target creature 
+             or player. 
+Flavor Text: Dragon fire melts any instrument designed to measure 
+             it. 
+     Rarity: C     Number: 107/143
+     Artist: Thomas M. Baxa
+
+  Card Name: Uncontrolled Infestation
+      Color: R
+       Cost: 1R
+       Type: Enchant Land 
+    Pow/Tgh: 
+ Rules Text: Uncontrolled Infestation can enchant only a nonbasic 
+             land. 
+             When enchanted land becomes tapped, destroy it. 
+Flavor Text: The grounds of the Riptide Project are now populated 
+             only by slivers, broken beakers, and the lonely screeching 
+             of gulls. 
+     Rarity: C     Number: 108/143
+     Artist: Tony Szczudlo
+
+  Card Name: Accelerated Mutation
+      Color: G
+       Cost: 3GG
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +X/+X until end of turn, where 
+             X is the highest converted mana cost among permanents 
+             you control. 
+Flavor Text: Its food just got a lot smaller and its stomach a lot 
+             bigger. 
+     Rarity: C     Number: 109/143
+     Artist: Edward P. Beard, Jr.
+
+  Card Name: Alpha Status
+      Color: G
+       Cost: 2G
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature gets +2/+2 for each other creature 
+             in play that shares a creature type with it. 
+Flavor Text: The best leaders are made by their followers. 
+     Rarity: U     Number: 110/143
+     Artist: Darrell Riche
+
+  Card Name: Ambush Commander
+      Color: G
+       Cost: 3GG
+       Type: Creature — Elf
+    Pow/Tgh: 2/2
+ Rules Text: Forests you control are 1/1 green Elf creatures that 
+             are still lands. 
+             1G, Sacrifice an Elf: Target creature gets +3/+3 until 
+             end of turn. 
+Flavor Text: 
+     Rarity: R     Number: 111/143
+     Artist: Darrell Riche
+
+  Card Name: Ancient Ooze
+      Color: G
+       Cost: 5GG
+       Type: Creature — Ooze
+    Pow/Tgh: */*
+ Rules Text: Ancient Ooze’s power and toughness are each equal to 
+             the total converted mana cost of other creatures you 
+             control. 
+Flavor Text: The ooze has always been. The ooze will always be. 
+     Rarity: R     Number: 112/143
+     Artist: Erica Gassalasca-Jape
+
+  Card Name: Break Asunder
+      Color: G
+       Cost: 2GG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact or enchantment. 
+             Cycling 2 (2, Discard this card from your hand: Draw 
+             a card.) 
+Flavor Text: “No good will come of this.” 
+     Rarity: C     Number: 113/143
+     Artist: Jim Nelson
+
+  Card Name: Claws of Wirewood
+      Color: G
+       Cost: 3G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Claws of Wirewood deals 3 damage to each creature with 
+             flying and each player. 
+             Cycling 2 (2, Discard this card from your hand: Draw 
+             a card.) 
+Flavor Text: They say the forest has eyes. They never mention its 
+             claws. 
+     Rarity: U     Number: 114/143
+     Artist: Tony Szczudlo
+
+  Card Name: Decree of Savagery
+      Color: G
+       Cost: 7GG
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put four +1/+1 counters on each creature you control. 
+             Cycling 4GG 
+             When you cycle Decree of Savagery, you may put four 
+             +1/+1 counters on target creature. 
+Flavor Text: 
+     Rarity: R     Number: 115/143
+     Artist: Alex Horley-Orlandelli
+
+  Card Name: Divergent Growth
+      Color: G
+       Cost: G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Until end of turn, lands you control gain “T: Add one 
+             mana of any color to your mana pool.” 
+Flavor Text: Nature has forgotten its own rules. 
+     Rarity: C     Number: 116/143
+     Artist: Rob Alexander
+
+  Card Name: Dragon Fangs
+      Color: G
+       Cost: 1G
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Enchanted creature gets +1/+1 and has trample. 
+             When a creature with converted mana cost 6 or more 
+             comes into play, you may return Dragon Fangs from your 
+             graveyard to play enchanting that creature. 
+Flavor Text: 
+     Rarity: C     Number: 117/143
+     Artist: Carl Critchlow
+
+  Card Name: Elvish Aberration
+      Color: G
+       Cost: 5G
+       Type: Creature — Elf Mutant
+    Pow/Tgh: 4/5
+ Rules Text: T: Add GGG to your mana pool. 
+             Forestcycling 2 (2, Discard this card from your hand: 
+             Search your library for a forest card, reveal it, and 
+             put it into your hand. Then shuffle your library.) 
+Flavor Text: 
+     Rarity: U     Number: 118/143
+     Artist: Matt Cavotta
+
+  Card Name: Fierce Empath
+      Color: G
+       Cost: 2G
+       Type: Creature — Elf
+    Pow/Tgh: 1/1
+ Rules Text: When Fierce Empath comes into play, you may search 
+             your library for a creature card with converted mana 
+             cost 6 or more, reveal it, and put it into your hand. 
+             Then shuffle your library. 
+Flavor Text: 
+     Rarity: C     Number: 119/143
+     Artist: Alan Pollack
+
+  Card Name: Forgotten Ancient
+      Color: G
+       Cost: 3G
+       Type: Creature — Elemental
+    Pow/Tgh: 0/3
+ Rules Text: Whenever a player plays a spell, you may put a +1/+1 
+             counter on Forgotten Ancient. 
+             At the beginning of your upkeep, you may move any number 
+             of +1/+1 counters from Forgotten Ancient onto other 
+             creatures. 
+Flavor Text: Its blood is life. Its body is growth. 
+     Rarity: R     Number: 120/143
+     Artist: Mark Tedin
+
+  Card Name: Hunting Pack
+      Color: G
+       Cost: 5GG
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put a 4/4 green Beast creature token into play. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn.) 
+Flavor Text: 
+     Rarity: U     Number: 121/143
+     Artist: Jim Nelson
+
+  Card Name: Krosan Drover
+      Color: G
+       Cost: 3G
+       Type: Creature — Elf
+    Pow/Tgh: 2/2
+ Rules Text: Creature spells you play with converted mana cost 6 
+             or more cost 2 less to play. 
+Flavor Text: “Sit.” 
+     Rarity: C     Number: 122/143
+     Artist: Arnie Swekel
+
+  Card Name: Krosan Warchief
+      Color: G
+       Cost: 2G
+       Type: Creature — Beast
+    Pow/Tgh: 2/2
+ Rules Text: Beast spells you play cost 1 less to play. 
+             1G: Regenerate target Beast. 
+Flavor Text: It turns prey into predator. 
+     Rarity: U     Number: 123/143
+     Artist: Greg Hildebrandt
+
+  Card Name: Kurgadon
+      Color: G
+       Cost: 4G
+       Type: Creature — Beast
+    Pow/Tgh: 3/3
+ Rules Text: Whenever you play a creature spell with converted mana 
+             cost 6 or more, put three +1/+1 counters on Kurgadon. 
+Flavor Text: When it walks through Krosa, trees step aside, leaves 
+             take wing, and the ground shudders. 
+     Rarity: U     Number: 124/143
+     Artist: Carl Critchlow
+
+  Card Name: One with Nature
+      Color: G
+       Cost: G
+       Type: Enchant Creature 
+    Pow/Tgh: 
+ Rules Text: Whenever enchanted creature deals combat damage to 
+             a player, you may search your library for a basic land 
+             card and put that card into play tapped. Then shuffle 
+             your library. 
+Flavor Text: 
+     Rarity: U     Number: 125/143
+     Artist: Daren Bader
+
+  Card Name: Primitive Etchings
+      Color: G
+       Cost: 2GG
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Reveal the first card you draw each turn. Whenever 
+             you reveal a creature card this way, draw a card. 
+Flavor Text: Ancient carvings in the trees of Krosa glow with power 
+             once again. 
+     Rarity: R     Number: 126/143
+     Artist: David Martin
+
+  Card Name: Root Elemental
+      Color: G
+       Cost: 4GG
+       Type: Creature — Elemental
+    Pow/Tgh: 6/5
+ Rules Text: Morph 5GG (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Root Elemental is turned face up, you may put 
+             a creature card from your hand into play. 
+Flavor Text: 
+     Rarity: R     Number: 127/143
+     Artist: Anthony S. Waters
+
+  Card Name: Sprouting Vines
+      Color: G
+       Cost: 2G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Search your library for a basic land card, reveal that 
+             card, and put it into your hand. Then shuffle your 
+             library. 
+             Storm (When you play this spell, copy it for each spell 
+             played before it this turn.) 
+Flavor Text: 
+     Rarity: C     Number: 128/143
+     Artist: John Avon
+
+  Card Name: Titanic Bulvox
+      Color: G
+       Cost: 6GG
+       Type: Creature — Beast
+    Pow/Tgh: 7/4
+ Rules Text: Trample 
+             Morph 4GGG (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+Flavor Text: With natural laws abandoned, excess thrives. 
+     Rarity: C     Number: 129/143
+     Artist: Wayne England
+
+  Card Name: Treetop Scout
+      Color: G
+       Cost: G
+       Type: Creature — Elf
+    Pow/Tgh: 1/1
+ Rules Text: Treetop Scout can’t be blocked except by creatures 
+             with flying. 
+Flavor Text: At home among the swaying, supple branches of the treetops, 
+             some scouts live their entire lives never touching 
+             ground. 
+     Rarity: C     Number: 130/143
+     Artist: Alan Pollack
+
+  Card Name: Upwelling
+      Color: G
+       Cost: 3G
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Mana pools don’t empty at the end of phases or turns. 
+             (This effect stops mana burn.) 
+Flavor Text: Once again, Kamahl felt the full force of the Mirari’s 
+             pull, but he had learned much since the last time. 
+     Rarity: R     Number: 131/143
+     Artist: John Avon
+
+  Card Name: Wirewood Guardian
+      Color: G
+       Cost: 5GG
+       Type: Creature — Elf Mutant
+    Pow/Tgh: 6/6
+ Rules Text: Forestcycling 2 (2, Discard this card from your hand: 
+             Search your library for a forest card, reveal it, and 
+             put it into your hand. Then shuffle your library.) 
+Flavor Text: Tall as a tree and probably related. 
+     Rarity: C     Number: 132/143
+     Artist: Mark Tedin
+
+  Card Name: Wirewood Symbiote
+      Color: G
+       Cost: G
+       Type: Creature — Insect
+    Pow/Tgh: 1/1
+ Rules Text: Return an Elf you control to its owner’s hand: Untap 
+             target creature. Play this ability only once each turn. 
+Flavor Text: It drinks fatigue. 
+     Rarity: U     Number: 133/143
+     Artist: Thomas M. Baxa
+
+  Card Name: Woodcloaker
+      Color: G
+       Cost: 5G
+       Type: Creature — Elf
+    Pow/Tgh: 3/3
+ Rules Text: Morph 2GG (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Woodcloaker is turned face up, target creature 
+             gains trample until end of turn. 
+Flavor Text: 
+     Rarity: C     Number: 134/143
+     Artist: Jim Nelson
+
+  Card Name: Xantid Swarm
+      Color: G
+       Cost: G
+       Type: Creature — Insect
+    Pow/Tgh: 0/1
+ Rules Text: Flying 
+             Whenever Xantid Swarm attacks, defending player can’t 
+             play spells this turn. 
+Flavor Text: When they land on you, all you can think about is tearing 
+             them off. 
+     Rarity: R     Number: 135/143
+     Artist: David Martin
+
+  Card Name: Bladewing the Risen
+      Color: Multicolor
+       Cost: 3BBRR
+       Type: Creature — Dragon Legend
+    Pow/Tgh: 4/4
+ Rules Text: Flying 
+             When Bladewing the Risen comes into play, you may return 
+             target Dragon card from your graveyard to play. 
+             BR: All Dragons get +1/+1 until end of turn. 
+Flavor Text: 
+     Rarity: R     Number: 136/143
+     Artist: Kev Walker
+
+  Card Name: Edgewalker
+      Color: Multicolor
+       Cost: 1WB
+       Type: Creature — Cleric
+    Pow/Tgh: 2/2
+ Rules Text: Cleric spells you play cost WB less to play. This effect 
+             reduces only the amount of colored mana you pay. (For 
+             example, if you play a Cleric with mana cost 1W, it 
+             costs 1 to play.) 
+Flavor Text: 
+     Rarity: U     Number: 137/143
+     Artist: Ben Thompson
+
+  Card Name: Karona, False God
+      Color: Multicolor
+       Cost: 1WUBRG
+       Type: Creature — Legend
+    Pow/Tgh: 5/5
+ Rules Text: Haste 
+             At the beginning of each player’s upkeep, that player 
+             untaps Karona, False God and gains control of it. 
+             Whenever Karona attacks, creatures of the type of your 
+             choice get +3/+3 until end of turn. 
+Flavor Text: 
+     Rarity: R     Number: 138/143
+     Artist: Matthew D. Wilson
+
+  Card Name: Sliver Overlord
+      Color: Multicolor
+       Cost: WUBRG
+       Type: Creature — Sliver Mutant Legend
+    Pow/Tgh: 7/7
+ Rules Text: 3: Search your library for a Sliver card, reveal that 
+             card, and put it into your hand. Then shuffle your 
+             library. 
+             3: Gain control of target Sliver. (This effect doesn’t 
+             end at end of turn.) 
+Flavor Text: The end of evolution. 
+     Rarity: R     Number: 139/143
+     Artist: Tony Szczudlo
+
+  Card Name: Ark of Blight
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T, Sacrifice Ark of Blight: Destroy target land. 
+Flavor Text: When opened, it erases entire landscapes from minds 
+             and maps. 
+     Rarity: U     Number: 140/143
+     Artist: David Martin
+
+  Card Name: Proteus Machine
+      Color: A
+       Cost: 3
+       Type: Artifact Creature 
+    Pow/Tgh: 2/2
+ Rules Text: Morph 0 (You may play this face down as a 2/2 creature 
+             for 3. Turn it face up any time for its morph cost.) 
+             When Proteus Machine is turned face up, its type becomes 
+             the creature type of your choice. (This effect doesn’t 
+             end at end of turn.) 
+Flavor Text: 
+     Rarity: U     Number: 141/143
+     Artist: Greg Staples
+
+  Card Name: Stabilizer
+      Color: A
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Players can’t cycle cards. 
+Flavor Text: “Hold that thought.” 
+             —Pemmin, Riptide survivor 
+     Rarity: R     Number: 142/143
+     Artist: David Martin
+
+  Card Name: Temple of the False God
+      Color: L
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 2 to your mana pool. Play this ability only 
+             if you control five or more lands. 
+Flavor Text: Those who bring nothing to the temple take nothing 
+             away. 
+     Rarity: U     Number: 143/143
+     Artist: Brian Snoddy
+
+Magic: The Gathering - Scourge
+™ & © 1993–2003 Wizards of the Coast, Inc.
+http://www.magicthegathering.com/
+	

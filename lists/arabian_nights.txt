@@ -1,0 +1,885 @@
+Arabian Nights Card List
+Wizards of the Coast, Inc.
+(Released December 1993)
+
+92 Cards Total. Includes multiple art cards (15 Black, 13 Blue, 13 Green,
+13 Red, 15 White, 14 Artifacts, 9 Land; 41 Commons, 51 Uncommons)
+
+Explanation of Rarity: the number after the rarity (e.g.: Common 1),
+means that that card appears that many times on the print sheet. 
+
+The following Card Lists are also available for Magic: The Gathering: 
+Alpha/Beta/Unlimited, Promo Cards, Antiquities, Legends,
+The Dark, Fallen Empires, Revised, 4th Edition, Ice Age, Chronicles,
+Homelands, Alliances, Mirage, Visions, and 5th Edition.
+
+Mana Key: 
+U - Blue, W - White, G - Green, B - Black, R - Red; Numbers - Colorless 
+(Generic) Mana
+
+Note: n/a means "not applicable"
+
+Card Title:	Abu Jafar
+Color:		White
+Card Type:	Summon Leper
+Cost:		W
+Pow/Tgh:	0/1
+Card Text:	If Abu dies without regenerating while participating in an
+		attack or defense, all creatures Abu is blocking or being
+		blocked by are also killed and may not regenerate.
+Artist:		Ken Meyer, Jr.
+Rarity:		Uncommon 3
+
+Card Title:	Aladdin
+Color:		Red
+Card Type:	Summon Aladdin
+Cost:		2RR
+Pow/Tgh:	1/1
+Card Text:	1RR and tap to take control of an artifact from opponent.
+		Artifact is returned when Aladdin is removed from play or
+		when game ends.
+Artist:		Julie Baroh
+Rarity:		Uncommon 2
+
+Card Title:	Aladdin's Lamp
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		10
+Pow/Tgh:	n/a
+Card Text:	X: Instead of drawing a card from the top of your library,
+		draw X cards but choose only one to put in your hand. You
+		must shuffle the leftover cards and put them at the bottom
+		of your library.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 2
+
+Card Title:	Aladdin's Ring
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		8
+Pow/Tgh:	n/a
+Card Text:	8: Do 4 damage to any target.
+Artist:		Dan Frazier
+Rarity:		Uncommon 2
+
+Card Title:	Ali Baba
+Color:		Red
+Card Type:	Summon Ali Baba
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	R: Tap a wall.
+Artist:		Julie Baroh
+Rarity:		Uncommon 3
+
+Card Title:	Ali from Cairo
+Color:		Red
+Card Type:	Summon Ali from Cairo
+Cost:		2RR
+Pow/Tgh:	0/1
+Card Text:	While Ali is in play, damage that would reduce you to less
+		than 1 life lowers you to 1 life. All further damage is
+		prevented.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Army of Allah (2 versions)
+Color:		White
+Card Type:	Instant
+Cost:		1WW
+Pow/Tgh:	n/a
+Card Text:	All attacking creatures gain +2/+0 until end of turn.
+Artist:		Brian Snoddy
+Rarity:		Common 3
+
+Card Title:	Bazaar of Baghdad
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to take two cards from your library, after which you
+		must immediately discard three from your hand to your
+		graveyard. If you don't have three or more cards in your
+		hand, discard your whole hand. No spells may be cast
+		between drawing and discarding cards.
+Artist:		Jeff A. Menges
+Rarity:		Uncommon 3
+
+Card Title:	Bird Maiden (2 versions)
+Color:		Red
+Card Type:	Summon Bird Maiden
+Cost:		2R
+Pow/Tgh:	1/2
+Card Text:	Flying
+Artist:		Kaja Foglio
+Rarity:		Common 2
+
+Card Title:	Bottle of Suleiman
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	1: Flip a coin, with opponent calling heads or tails while
+		coin is in the air. If the flip ends up in opponent's favor,
+		Bottle of Suleiman does 5 damage to you. Otherwise, a 5/5
+		flying Djinn immediately comes into play on your side. Use
+		a counter to represent Djinn. Djinn is treated exactly like a
+		normal artifact creature except that if it leaves play it is
+		removed from the game entirely. No matter how the flip
+		turns out, Bottle of Suleiman is discarded after use.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 2
+
+Card Title:	Brass Man
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		1
+Pow/Tgh:	1/3
+Card Text:	Brass Man does not untap as normal; you must pay 1 during
+		your untap phase to untap it.
+Artist:		Christopher Rush
+Rarity:		Uncommon 3
+
+Card Title:	Camel
+Color:		White
+Card Type:	Summon Camel
+Cost:		W
+Pow/Tgh:	0/1
+Card Text:	Bands
+		All creatures attacking in a band with Camel are immune
+		to damage done by Deserts.
+Artist:		Sandra Everingham
+Rarity:		Common 5
+
+Card Title:	City in a Bottle
+Color:		Artifact
+Card Type:	Continuous Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	All cards from Arabian Nights must be discarded from
+		play, except for City in a Bottle. While City in a Bottle is in
+		play, no further cards from Arabian Nights can be played.
+Artist:		Drew Tucker
+Rarity:		Uncommon 2
+
+Card Title:	City of Brass
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Card Text:	Tap to add 1 mana of any color to your mana pool. You
+		suffer 1 damage whenever City of Brass becomes tapped.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 3
+
+Card Title:	Cuombajj Witches
+Color:		Black
+Card Type:	Summon Witches
+Cost:		BB
+Pow/Tgh:	1/3
+Card Text:	Tap to do 1 damage to any target; opponent may also do 1
+		damage to any target. You choose your target before
+		opponent does, but damage is inflicted simultaneously.
+Artist:		Kaja Foglio
+Rarity:		Common 4
+
+Card Title:	Cyclone
+Color:		Green
+Card Type:	Enchantment
+Cost:		2GG
+Pow/Tgh:	n/a
+Card Text:	Put one chip on Cyclone each round during your upkeep,
+		then pay G for each chip or discard Cyclone. If not discarded,
+		Cyclone immediately does 1 damage per chip to each player
+		and each creature in play.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 3
+
+Card Title:	Dancing Scimitar
+Color:		Artifact
+Card Type:	Artifact Creature
+Cost:		4
+Pow/Tgh:	1/5
+Card Text:	Flying
+Artist:		Anson Maddocks
+Rarity:		Uncommon 2
+
+Card Title:	Dandan
+Color:		Blue
+Card Type:	Summon Dandan
+Cost:		UU
+Pow/Tgh:	4/1
+Card Text:	Dandan cannot attack unless opponent has islands in play.
+		Dandan is destroyed immediately if at any time you have
+		no islands in play.
+Artist:		Drew Tucker
+Rarity:		Common 4
+
+Card Title:	Desert
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana pool or do 1
+		damage to an attacking creature after it deals its damage.
+Artist:		Jesper Myrfors
+Rarity:		Common 11
+
+Card Title:	Desert Nomads
+Color:		Red
+Card Type:	Summon Nomads
+Cost:		2R
+Pow/Tgh:	2/2
+Card Text:	Desertwalk
+		Desert Nomads are immune to damage done by Deserts.
+Artist:		Christopher Rush
+Rarity:		Common 4
+
+Card Title:	Desert Twister
+Color:		Green
+Card Type:	Sorcery
+Cost:		4GG
+Card Text:	Destroy any card in play.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 3
+
+Card Title:	Diamond Valley
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to sacrifice one of your creatures in exchange for a
+		number of life points equal to its toughness. Note that this
+		ability may be used after blocking has been declared.
+Artist:		Brian Snoddy
+Rarity:		Uncommon 2
+
+Card Title:	Drop of Honey
+Color:		Green
+Card Type:	Enchantment
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	During your upkeep, the creature in play with the lowest
+		power is destroyed and cannot be regenerated. If there is a
+		tie you choose which to destroy. Drop of Honey must be
+		discarded if there are no creatures in play.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 2
+
+Card Title:	Ebony Horse
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		3
+Pow/Tgh:	n/a
+Card Text:	2: Remove one of your attacking creatures from combat.
+		Treat this as if the creature never attacked, except that
+		defenders assigned to block it cannot choose to block another
+		creature.
+Artist:		Dameon Willich
+Rarity:		Uncommon 2
+
+Card Title:	El-Hajjaj
+Color:		Black
+Card Type:	Summon El-Hajjaj
+Cost:		1BB
+Pow/Tgh:	1/1
+Card Text:	You gain 1 life for every point of damage El-Hajjaj inflicts.
+Artist:		Dameon Willich
+Rarity:		Uncommon 2
+
+Card Title:	Elephant Graveyard
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana pool or regenerate
+		an Elephant or Mammoth.
+Artist:		Rob Alexander
+Rarity:		Uncommon 2
+
+Card Title:	Erg Raiders (2 versions)
+Color:		Black
+Card Type:	Summon Raiders
+Cost:		1B
+Pow/Tgh:	2/3
+Card Text:	If you do not attack with Raiders, they do 2 damage to you
+		at end of turn. Raiders do no damage to you during the
+		turn in which they are summoned.
+Artist:		Dameon Willich
+Rarity:		Common 3
+
+Card Title:	Erhnam Djinn
+Color:		Green 
+Card Type:	Summon Djinn
+Cost:		3G
+Pow/Tgh:	4/5
+Card Text:	During your upkeep, you must choose one of opponent's
+		non-wall creatures in play. Until your next upkeep, that
+		creature gains the forestwalk ability. If opponent has no
+		creatures, ignore this effect.
+Artist:		Ken Meyer, Jr.
+Rarity:		Uncommon 2
+
+Card Title:	Eye for an Eye
+Color:		White
+Card Type:	Instant
+Cost:		WW
+Pow/Tgh:	n/a
+Card Text:	Can be cast only when a creature or spell does damage to
+		you. Eye for an Eye does an equal amount of damage to the
+		controller of that creature or spell. If some spell or effect
+		reduces the amount of damage you receive, it does not
+		reduce the damage dealt by Eye for an Eye.
+Artist:		Mark Poole
+Rarity:		Uncommon 3
+
+Card Title:	Fishliver Oil (a)
+Color:		Blue
+Card Type:	Enchant Creature
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Target creature gains islandwalk ability.
+Artist:		Anson Maddocks
+Rarity:		Common 3
+
+Card Title:	Fishliver Oil (b)
+Color:		Blue
+Card Type:	Enchant Creature
+Cost:		1U
+Pow/Tgh:	n/a
+Card Text:	Target creature gains islandwalk ability.
+Artist:		Anson Maddocks
+Rarity:		Common 1
+
+Card Title:	Flying Carpet
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	2: Gives one creature flying ability until end of turn.
+		If that creature is destroyed before end of turn, so is Flying
+		Carpet.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 3
+
+Card Title:	Flying Men
+Color:		Blue
+Card Type:	Summon Flying Men
+Cost:		U
+Pow/Tgh:	1/1
+Card Text:	Flying
+Artist:		Christopher Rush
+Rarity:		Common 5
+
+Card Title:	Ghazban Ogre
+Color:		Green
+Card Type:	Summon Ogre
+Cost:		G
+Pow/Tgh:	2/2
+Card Text:	During its current controller's upkeep, the player with the
+		highest life total takes control of Ghazban Ogre.
+Artist:		Jesper Myrfors
+Rarity:		Common 4
+
+Card Title:	Giant Tortoise (a)
+Color:		Blue
+Card Type:	Summon Tortoise
+Cost:		1U
+Pow/Tgh:	1/1
+Card Text:	Giant Tortoise gains +0/+3 while untapped.
+Artist:		Kaja Foglio
+Rarity:		Common 3
+
+Card Title:	Giant Tortoise (b)
+Color:		Blue
+Card Type:	Summon Tortoise
+Cost:		1U
+Pow/Tgh:	1/1
+Card Text:	Giant Tortoise gains +0/+3 while untapped.
+Artist:		Kaja Foglio
+Rarity:		Common 1
+
+Card Title:	Guardian Beast
+Color:		Black
+Card Type:	Summon Guardian
+Cost:		3B
+Pow/Tgh:	2/4
+Card Text:	As long as Guardian Beast is untapped, your non-creature
+		artifacts cannot be further enchanted, destroyed, or taken
+		under someone else's control. If something occurs that
+		would destroy the Guardian Beast and artifacts
+		simultaneously, the Guardian Beast is destroyed but your
+		artifacts are not. If an artifact is enchanted or stolen while
+		Guardian Beast is tapped, it remains so when Guardian
+		Beast becomes untapped.
+Artist:		Ken Meyer, Jr.
+Rarity:		Uncommon 2
+
+Card Title:	Hasran Ogress (2 versions)
+Color:		Black
+Card Type:	Summon Ogre
+Cost:		BB
+Pow/Tgh:	3/2
+Card Text:	Unless you pay 2 each time Hasran Ogress attacks, Hasran
+		Ogress does 3 damage to you.
+Artist:		Dan Frazier
+Rarity:		Common 3
+
+Card Title:	Hurr Jackal
+Color:		Red
+Card Type:	Summon Jackal
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	Tap to prevent a target creature from regenerating for the
+		remainder of the turn.
+Artist:		Drew Tucker
+Rarity:		Common 4
+
+Card Title:	Ifh-Biff Efreet
+Color:		Green
+Card Type:	Summon Efreet
+Cost:		2GG
+Pow/Tgh:	3/3
+Card Text:	Flying
+		While Ifh-Biff Efreet is in play, any player can pay G to have
+		Ifh-Biff Efreet do 1 damage to each player and each flying
+		creature in play. This ability does not tap the Ifh-Biff Efreet,
+		and can be used as soon as it is successfully summoned.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 2
+
+Card Title:	Island Fish Jasconius
+Color:		Blue
+Card Type:	Summon Island Fish
+Cost:		4UUU
+Pow/Tgh:	6/8
+Card Text:	You must pay UUU during your untap phase to untap
+		Island Fish. Island Fish cannot attack unless opponent has
+		islands in play. Island Fish is destroyed immediately if at any
+		time you have no islands in play.
+Artist:		Jesper Myrfors
+Rarity:		Uncommon 2
+
+Card Title:	Island of Wak-Wak
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to reduce target flying creature's power to 0.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 2
+
+Card Title:	Jandor's Ring
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	2: Discard a card you just drew from your library, and draw
+		another card to replace it.
+Artist:		Dan Frazier
+Rarity:		Uncommon 2
+
+Card Title:	Jandor's Saddlebags
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		2
+Pow/Tgh:	n/a
+Card Text:	3: Untap a creature.
+Artist:		Dameon Willich
+Rarity:		Uncommon 2
+
+Card Title:	Jeweled Bird
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		1
+Pow/Tgh:	n/a
+Card Text:	Draw a card, and exchange Jeweled Bird for your
+		contribution to the ante. Your former contribution goes to
+		your graveyard. Remove this card from your deck before
+		playing if you are not playing for ante.
+Artist:		Amy Weber
+Rarity:		Uncommon 3
+
+Card Title:	Jihad
+Color:		White
+Card Type:	Enchantment
+Cost:		WWW
+Pow/Tgh:	n/a
+Card Text:	Choose a color. As long as opponent has cards of this color
+		in play, all white creatures gain +2/+1. Jihad must be
+		discarded immediately if at any time opponent has no cards
+		of this color in play.
+Artist:		Brian Snoddy
+Rarity:		Uncommon 2
+
+Card Title:	Junun Efreet
+Color:		Black
+Card Type:	Summon Efreet
+Cost:		1BB
+Pow/Tgh:	3/3
+Card Text:	Flying
+		You must pay BB during your upkeep or Junœn Efreet is
+		destroyed and may not regenerate.
+Artist:		Christopher Rush
+Rarity:		Uncommon 2
+
+Card Title:	Juzam Djinn
+Color:		Black
+Card Type:	Summon Djinn
+Cost:		2BB
+Pow/Tgh:	5/5
+Card Text:	Juzam Djinn does 1 damage to you during your upkeep.
+Artist:		Mark Tedin 
+Rarity:		Uncommon 2
+
+Card Title:	Khabal Ghoul
+Color:		Black
+Card Type:	Summon Ghoul
+Cost:		2B
+Pow/Tgh:	1/1
+Card Text:	At the end of each turn, put a +1/+1 counter on Khabal
+		Ghoul for each other creature that died during the turn and
+		was not regenerated.
+Artist:		Douglas Shuler
+Rarity:		Uncommon 3
+
+Card Title:	King Suleiman
+Color:		White
+Card Type:	Summon King
+Cost:		1W
+Pow/Tgh:	1/1
+Card Text:	Tap to destroy an Efreet or Djinn.
+Artist:		Mark Poole
+Rarity:		Uncommon 2
+
+Card Title:	Kird Ape
+Color:		Red
+Card Type:	Summon Ape
+Cost:		R
+Pow/Tgh:	1/1
+Card Text:	Kird Ape gains +1/+2 if you have any forests in play.
+Artist:		Ken Meyer, Jr.
+Rarity:		Common 5
+
+Card Title:	Library of Alexandria
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add 1 colorless mana to your mana pool or draw a
+		card from your library; you may use the card-drawing ability
+		only if you have exactly seven cards in your hand.
+Artist:		Mark Poole
+Rarity:		Uncommon 3
+
+Card Title:	Magnetic Mountain
+Color:		Red
+Card Type:	Enchantment
+Cost:		1RR
+Pow/Tgh:	n/a
+Card Text:	Blue creatures do not untap as normal. During their untap
+		phases, players must spend 4 for each blue creature they
+		wish to untap. This cost must be paid in addition to any other
+		untap cost a given blue creature may already require.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 3
+
+Card Title:	Merchant Ship
+Color:		Blue
+Card Type:	Summon Ship
+Cost:		U
+Pow/Tgh:	0/2
+Card Text:	If Merchant Ship attacks and is not blocked, you gain 2 life.
+		Merchant Ship cannot attack unless opponent has islands
+		in play.
+		Merchant Ship is destroyed immediately if at any time you
+		have no islands in play.
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon 3
+
+Card Title:	Metamorphosis
+Color:		Green
+Card Type:	Sorcery
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	Sacrifice a creature of yours in play for an amount of mana
+		equal to its casting cost plus 1. This mana can be of any one
+		color, and can only be used to summon creatures.
+Artist:		Christopher Rush
+Rarity:		Common 4
+
+Card Title:	Mijae Djinn
+Color:		Red
+Card Type:	Summon Djinn
+Cost:		RRR
+Pow/Tgh:	6/3
+Card Text:	If you choose to attack with Mijae Djinn, flip a coin
+		immediately after attack is announced; opponent calls heads
+		or tails while coin is in the air. If the flip ends up in
+		opponent's favor, Mijae Djinn is tapped but does not attack.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 2
+
+Card Title:	Moorish Cavalry (2 versions)
+Color:		White
+Card Type:	Summon Cavalry
+Cost:		2WW
+Pow/Tgh:	3/3
+Card Text:	Trample
+Artist:		Dameon Willich
+Rarity:		Common 4
+
+Card Title:	Mountain
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to add R to your mana pool.
+Artist:		Douglas Shuler
+Rarity:		Common 1
+
+Card Title:	Nafs Asp (2 versions)
+Color:		Green 
+Card Type:	Summon Asp
+Cost:		G
+Pow/Tgh:	1/1
+Card Text:	If Asp inflicts any damage on your opponent, your opponent
+		must spend 1 before the draw phase of his or her next turn
+		or lose an additional 1 life.
+Artist:		Christopher Rush
+Rarity:		Common 3
+
+Card Title:	Oasis
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Pow/Tgh:	n/a
+Card Text:	Tap to prevent 1 damage to any creature
+Artist:		Brian Snoddy
+Rarity:		Uncommon 4
+
+Card Title:	Old Man of the Sea
+Color:		Blue
+Card Type:	Summon Marid
+Cost:		1UU
+Pow/Tgh:	2/3
+Card Text:	Tap to gain control of a creature with power no greater than
+		Old Man's power. If Old Man becomes untapped, you lose
+		control of this creature; you may choose not to untap Old
+		Man as normal. You also lose control of the creature if Old
+		Man dies or if the creature's power becomes greater than Old Man's.
+Artist:		Susan Van Camp
+Rarity:		Uncommon 2
+
+Card Title:	Oubliette (2 versions)
+Color:		Black
+Card Type:	Enchantment
+Cost:		1BB
+Pow/Tgh:	n/a
+Card Text:	Select a creature in play when Oubliette is cast. That creature
+		is considered out of play as long as Oubliette is in play.
+		Hence the creature cannot be the target of spells and cannot
+		receive damage, use special powers, attack, or defend. All
+		counters and enchantments on the creature remain but are
+		also out of play. If Oubliette is removed, creature returns to
+		play tapped.
+Artist:		Douglas Shuler
+Rarity:		Common 2
+
+Card Title:	Piety (2 versions)
+Color:		White
+Card Type:	Instant
+Cost:		2W
+Card Text:	All defending creatures gain +0/+3 until end of turn.
+Artist:		Mark Poole
+Rarity:		Common 3
+
+Card Title:	Pyramids
+Color:		Artifact
+Card Type:	Poly Artifact
+Cost:		6
+Pow/Tgh:	n/a
+Card Text:	2: Prevents a land from being destroyed, or removes an
+		enchantment from any land.
+Artist:		Amy Weber
+Rarity:		Uncommon 2
+
+Card Title:	Repentant Blacksmith
+Color:		White
+Card Type:	Summon Smith
+Cost:		1W
+Pow/Tgh:	1/2
+Card Text:	Protection from red
+Artist:		Drew Tucker
+Rarity:		Uncommon 2
+
+Card Title:	Ring of Ma'ruf
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		5
+Pow/Tgh:	n/a
+Card Text:	5: Instead of drawing a card from the top of your library,
+		select one of your cards from outside the game. This card
+		can be any card you have that you're not using in your deck
+		or that for some reason has left the game. Ring of Ma'ruf is
+		removed from the game entirely after use.
+Artist:		Dan Frazier
+Rarity:		Uncommon 2
+
+Card Title:	Rukh Egg (2 versions)
+Color:		Red
+Card Type:	Summon Egg
+Cost:		3R
+Pow/Tgh:	0/3
+Card Text:	If Rukh Egg goes to the graveyard, a 4/4 red flying creature
+		comes into play on your side at the end of that turn. Use a
+		counter to represent Rukh. Rukh is treated exactly like a
+		normal creature except that if it leaves play it is removed
+		from the game entirely.
+Artist:		Christopher Rush
+Rarity:		Common 3
+
+Card Title:	Sandals of Abdallah
+Color:		Artifact
+Card Type:	Mono Artifact
+Cost:		4
+Pow/Tgh:	n/a
+Card Text:	2: Gives one creature islandwalk ability until end of turn.
+		If that creature is destroyed before end of turn, so are Sandals.
+Artist:		Dan Frazier
+Rarity:		Uncommon 3
+
+Card Title:	Sandstorm
+Color:		Green 
+Card Type:	Instant
+Cost:		G
+Pow/Tgh:	n/a
+Card Text:	All attacking creatures suffer 1 damage.
+Artist:		Brian Snoddy
+Rarity:		Common 4
+
+Card Title:	Serendib Djinn
+Color:		Blue
+Card Type:	Summon Djinn
+Cost:		2UU
+Pow/Tgh:	5/6
+Card Text:	Flying
+		During your upkeep, you must choose one of your own
+		lands and destroy it. If you destroy an island in this manner,
+		Serendib Djinn does 3 damage to you. Serendib Djinn is
+		destroyed immediately if at any time you have no land in
+		play.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 2
+
+Card Title:	Serendib Efreet
+Color:		Blue
+Card Type:	Summon Efreet
+Cost:		2U
+Pow/Tgh:	3/4
+Card Text:	Flying
+		Serendib Efreet does 1 damage to you during your upkeep.
+Artist:		Anson Maddocks
+Rarity:		Uncommon 2
+
+Card Title:	Shahrazad
+Color:		White
+Card Type:	Sorcery
+Cost:		WW
+Pow/Tgh:	n/a
+Card Text:	Players must leave game in progress as it is and use the cards
+		left in their libraries as decks with which to play a subgame
+		of Magic. When subgame is over, players shuffle these cards,
+		return them to libraries, and resume game in progress, with
+		any loser of subgame halving his or her remaining life points,
+		rounding down. Effects that prevent damage may not be used
+		to counter this loss of life. The subgame has no ante; using less
+		than forty cards may be necessary.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 2
+
+Card Title:	Sindbad
+Color:		Blue
+Card Type:	Summon Sindbad
+Cost:		1U
+Pow/Tgh:	1/1
+Card Text:	Tap to draw a card from your library, but discard that card
+		if it is not a land.
+Artist:		Julie Baroh
+Rarity:		Uncommon 3
+
+Card Title:	Singing Tree
+Color:		Green
+Card Type:	Summon Singing Tree
+Cost:		3G
+Pow/Tgh:	0/3
+Card Text:	Tap to reduce an attacking creature's power to 0.
+Artist:		Rob Alexander
+Rarity:		Uncommon 2
+
+Card Title:	Sorceress Queen
+Color:		Black
+Card Type:	Summon Sorceress
+Cost:		1BB
+Pow/Tgh:	1/1
+Card Text:	Tap to make another creature 0/2 until end of turn. Treat
+		this exactly as if the numbers in the lower right of the target
+		card were 0/2. All special characteristics and enchantments
+		on the creature are unaffected.
+Artist:		Kaja Foglio
+Rarity:		Uncommon 3
+
+Card Title:	Stone-Throwing Devils (2 versions)
+Color:		Black
+Card Type:	Summon Devils
+Cost:		B
+Pow/Tgh:	1/1
+Card Text:	First strike
+Artist:		Ken Meyer, Jr.
+Rarity:		Common 3
+
+Card Title:	Unstable Mutation
+Color:		Blue
+Card Type:	Enchant Creature
+Cost:		U
+Pow/Tgh:	n/a
+Card Text:	Target creature gains +3/+3. Each round, put a -1/-1 counter
+		on the creature during its controller's upkeep. These counters
+		remain even if this enchantment is removed before the
+		creature dies.
+Artist:		Douglas Shuler
+Rarity:		Common 5
+
+Card Title:	War Elephant (2 versions)
+Color:		White
+Card Type:	Summon Elephant
+Cost:		3W
+Pow/Tgh:	2/2
+Card Text:	Trample, bands
+Artist:		Kristen Bishop
+Rarity:		Common 3
+
+Card Title:	Wyluli Wolf (2 versions)
+Color:		Green
+Card Type:	Summon Wolf
+Cost:		1G
+Pow/Tgh:	1/1
+Card Text:	Tap to give any creature in play +1/+1 until end of turn.
+Artist:		Susan Van Camp
+Rarity:		Common 4
+
+Card Title:	Ydwen Efreet
+Color:		Red
+Card Type:	Summon Efreet
+Cost:		RRR
+Pow/Tgh:	3/6
+Card Text:	If you choose to block with Ydwen Efreet, flip a coin
+		immediately after defense is announced; opponent calls
+		heads or tails while coin is in the air. If the flip ends up in
+		opponent's favor, Ydwen Efreet cannot block this turn.
+Artist:		Drew Tucker
+Rarity:		Uncommon 2
+
+Copyright 1993 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+Arabian Nights, Antiquities, Legends, The Dark, Fallen Empires, Ice Age,
+and Chronicles, Homelands, Alliances, Mirage, and Visions are trademarks
+of Wizards of the Coast, Inc.

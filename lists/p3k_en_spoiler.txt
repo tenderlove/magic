@@ -1,0 +1,2143 @@
+Portal Three Kingdoms Spoiler List
+Wizards of the Coast, Inc.
+(Released July 6th, 1999)
+
+180 cards total:
+Colors: 33 White, 33 Blue, 33 Green, 33 Black, 33 Red, 15 Land
+Rarity: 55 Rare, 55 Uncommon, 70 Common
+
+Card Title:       Alert Shu Infantry
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     2W
+Pow/Tgh:          2/2
+Card Text:        Attacking doesn't cause Alert Shu Infantry to tap.
+Flavor Text:      Kongming's predecessor helped Liu Bei win the battle of Fancheng by
+                  recognizing and defeating Cao Ren's use of the dreaded "Eight Gold Locks" formation.
+Artist :          Solomon Au Yeung
+Rarity:           U
+Card #            1
+
+Card Title:       Eightfold Maze
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     2W
+Pow/Tgh:          n/a
+Card Text:        Play Eightfold Maze only after you're attacked, before you declare blockers.
+                  Destroy any one attacking creature.
+Flavor Text:
+Artist :          Shang Huitong
+Rarity:           R
+Card #            2
+
+Card Title:       Empty City Ruse
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     W
+Pow/Tgh:          n/a
+Card Text:        Your opponent can't attack on his or her next turn.
+Flavor Text:      Out of time and options, Kongming was forced to bluff at Xicheng. He tricked an
+                  army of 150,000 Wei by leaving the city gates open and calmly playing the zither.
+Artist :          Qu Xin
+Rarity:           U
+Card #            3
+
+Card Title:       False Defeat
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     3W
+Pow/Tgh:          n/a
+Card Text:        Take any one creature card from your graveyard and put that creature into play.
+Flavor Text:      All warfare is based on deception. -Sun Tzu, Art of War
+Artist :          Li Wang
+Rarity:           C
+Card #            4
+
+Card Title:       Flanking Troops
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     2WW
+Pow/Tgh:          2/2
+Card Text:        Following the battle of Redcliffs, both Liu Bei and Sun Quan coveted the province
+                  of Jingzhou. After Sun Quan's troops failed to capture it, Liu Bei's succeeded.
+                  When Flanking Troops attacks, you may tap any one creature. (Tapped creatures can't block.)
+Flavor Text:
+Artist :          Li Wang
+Rarity:           U
+Card #            5
+
+Card Title:       Guan Yu, Sainted Warrior
+Card Color:       White
+Type & Class:     Creature - Legend
+Casting Cost:     3WW
+Pow/Tgh:          3/5
+Card Text:        Horsemanship. When Guan Yu is put into your graveyard from play, you may shuffle Guan Yu
+                  into your library.
+Flavor Text:
+Artist :          Zhao Dafu
+Rarity:           R
+Card #            6
+
+Card Title:       Guan Yu's 1,000-Li March
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     4WW
+Pow/Tgh:          n/a
+Card Text:        Destroy all tapped creatures. (This includes your tapped creatures.)
+Flavor Text:      He covered the ground on a thousand-li horse; With dragon blade he took each pass by force.
+Artist :          Yang Guangmai
+Rarity:           R
+Card #            7
+
+Card Title:       Huang Zhong, Shu General
+Card Color:       White
+Type & Class:     Creature - Legend
+Casting Cost:     2WW
+Pow/Tgh:          2/3
+Card Text:        Huang Zhong can't be blocked by more than one creature each turn.
+Flavor Text:      Virile in war, he kept the north in fear; His prodigies subdued the western sphere.
+Artist :          Quan Xuejun
+Rarity:           R
+Card #            8
+
+Card Title:       Kongming, "Sleeping Dragon"
+Card Color:       White
+Type & Class:     Creature - Legend
+Casting Cost:     2WW
+Pow/Tgh:          2/2
+Card Text:        Such a lord as this-all virtues' height- Had never been, nor ever was again."
+Flavor Text:      All your other creatures get +1/+1 as long as Kongming is in play.
+Artist :          Gao Yan
+Rarity:           R
+Card #            9
+
+Card Title:       Kongming's Contraptions
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     3W
+Pow/Tgh:          2/4
+Card Text:        After you're attacked, before you declare blockers, you may tap Kongming's Contraptions to
+                  have it deal 2 damage to any one attacking creature.
+Flavor Text:
+Artist :          Jiaming
+Rarity:           R
+Card #            10
+
+Card Title:       Liu Bei, Lord of Shu
+Card Color:       White
+Type & Class:     Creature - Legend
+Casting Cost:     3WW
+Pow/Tgh:          2/4
+Card Text:        Horsemanship. As long as you have Guan Yu and/or Zhang Fei in play, Liu Bei gets +2/+2.
+Flavor Text:      Only wisdom and virtue can truly win men's devotion. -Liu Bei
+Artist :          Zhao Dafu
+Rarity:           R
+Card #            11
+
+Card Title:       Loyal Retainers
+Card Color:       White
+Type & Class:     Creature - Advisors
+Casting Cost:     2W
+Pow/Tgh:          1/1
+Card Text:
+Flavor Text:      On your turn, before you attack you may put Loyal Retainers in your graveyard to take any
+                  one Legend card from your graveyard and put that creature into play.
+Artist :          Solomon Au Yeung
+Rarity:           U
+Card #            12
+
+Card Title:       Misfortune's Gain
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     3W
+Pow/Tgh:          n/a
+Card Text:        Destroy any one creature. That creature's owner gains 4 life.
+Flavor Text:      The mourning families of commanders and generals were often given land, valuables, or
+                  money to compensate for their losses.
+Artist :          Jiaming
+Rarity:           C
+Card #            13
+
+Card Title:       Pang Tong, "Young Phoenix"
+Card Color:       White
+Type & Class:     Creature - Legend
+Casting Cost:     1WW
+Pow/Tgh:          1/2
+Card Text:        On your turn, before you attack, you may tap Pang Tong to give any one creature +0/+2
+                  until the end of the turn.
+Flavor Text:      . . .It was Pang Tong's boat-connecting scheme That let Zhou Yu accomplish his great deed.
+Artist :          Li Tie
+Rarity:           R
+Card #            14
+
+Card Title:       Peach Garden Oath
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     W
+Pow/Tgh:          n/a
+Card Text:        For each creature you have in play, you gain 2 life.
+Flavor Text:      We three, though of separate ancestry, join in brotherhood . . . . We dare not hope to be
+                  together always but hereby vow to die the selfsame day. -Peach Garden Oath
+Artist :          Zhao Dafu
+Rarity:           U
+Card #            15
+
+Card Title:       Rally the Troops
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     W
+Pow/Tgh:          n/a
+Card Text:        Play Rally the Troops only after you're attacked, before you declare blockers. Untap all
+                  your creatures.
+Flavor Text:
+Artist :          Shang Huitong
+Rarity:           U
+Card #            16
+
+Card Title:       Ravages of War
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     3W
+Pow/Tgh:          n/a
+Card Text:        Destroy all lands. (This includes your lands.)
+Flavor Text:      Thorn bushes spring up wherever the army has passed. Lean years follow in the wake of a
+                  great war. -Lao Tzu, Tao Te Ching
+Artist :          Fang Yue
+Rarity:           R
+Card #            17
+
+Card Title:       Riding Red Hare
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     2W
+Pow/Tgh:          n/a
+Card Text:        Any one creature gets +3/+3 and gains horsemanship until the end of the turn.
+Flavor Text:      One of the greatest steeds in the empire, Red Hare could travel a thousand li a day and
+                  climb hills as if running on flat ground.
+Artist :          Qi Baocheng
+Rarity:           C
+Card #            18
+
+Card Title:       Shu Cavalry
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     2W
+Pow/Tgh:          2/2
+Card Text:        Horsemanship
+Flavor Text:      In establishing the Shu kingdom, Liu Bei's forces fought against Ma Chao at Chengdu.
+                  Eventually, Ma Chao surrendered and became one of Liu Bei's Tiger Generals.
+Artist :          Li Xiaohua
+Rarity:           C
+Card #            19
+
+Card Title:       Shu Defender
+Card Color:       White
+Type & Class:     Creature - Soldier
+Casting Cost:     2W
+Pow/Tgh:          2/2
+Card Text:        When Shu Defender blocks, it gets +0/+2 until the end of the turn.
+Flavor Text:      Confronting Cao Cao's army at Steepslope Bridge, Zhang Fei bellowed,"I am Zhang Fei of Yan!
+                  Who dares fight me to the death?" Cao Cao's army cowered and fled.
+Artist :          Sun Nan
+Rarity:           C
+Card #            20
+
+Card Title:       Shu Elite Companions
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     4W
+Pow/Tgh:          3/3
+Card Text:        Horsemanship
+Flavor Text:      Throughout the three kingdoms, important generals were often guarded by small groups of
+                  expert soldiers known as "elite companions."
+Artist :          Zhao Dafu
+Rarity:           U
+Card #            21
+
+Card Title:       Shu Elite Infantry
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     3W
+Pow/Tgh:          3/3
+Card Text:
+Flavor Text:      Kongming's first campaign against the Wei kingdom was a rousing success until an arrogant
+                  Shu general, Ma Su, foolishly lost the city of Jieting.
+Artist :          Song Shikai
+Rarity:           C
+Card #            22
+
+Card Title:       Shu Farmer
+Card Color:       White
+Type & Class:     Creature - Farmer
+Casting Cost:     1W
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may tap Shu Farmer to gain 1 life.
+Flavor Text:      The common folk are ceaselessly active. The fields are fertile and the soil productive,
+                  and neither flood nor drought plagues us. -A Shu diplomat
+Artist :          Li Xiaohua
+Rarity:           C
+Card #            23
+
+Card Title:       Shu Foot Soldiers
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     2W
+Pow/Tgh:          2/3
+Card Text:        n/a
+Flavor Text:      Liu Bei lost many men at the battle of Runan because of his lack of strategy. It wasn't
+                  until he met Kongming that he began to truly succeed as a leader.
+Artist :          Xu Tan
+Rarity:           C
+Card #            24
+
+Card Title:       Shu General
+Card Color:       White
+Type & Class:     Creature - Soldier
+Casting Cost:     3W
+Pow/Tgh:          2/2
+Card Text:        Horsemanship. Attacking doesn't cause Shu General to tap.
+Flavor Text:
+Artist :          Li Xiaohua
+Rarity:           U
+Card #            25
+
+Card Title:       Shu Grain Caravan
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     2W
+Pow/Tgh:          2/2
+Card Text:        When Shu Grain Caravan comes into play, you gain 2 life.
+Flavor Text:      Keeping a million-man army fed was no easy task. Grain and rice caravans were the
+                  lifeblood of the empire.
+Artist :          Li Wang
+Rarity:           C
+Card #            26
+
+Card Title:       Shu Soldier-Farmers
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     4W
+Pow/Tgh:          2/4
+Card Text:        When Shu Soldier-Farmers comes into play, you gain 4 life.
+Flavor Text:      During Kongming's campaigns against the Wei, his Shu troops rotated from the battlefront
+                  to the fields every hundred days.
+Artist :          Li Xiaohua
+Rarity:           U
+Card #            27
+
+Card Title:       Vengeance
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     3W
+Pow/Tgh:          n/a
+Card Text:        Destroy any one tapped creature.
+Flavor Text:      Until I've gnawed their flesh and exterminated their clans, my humiliation will not
+                  be effaced. -Liu Bei, on the death of his oath-brother Guan Yu
+Artist :          Solomon Au Yeung
+Rarity:           U
+Card #            28
+
+Card Title:       Virtuous Charge
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     2W
+Pow/Tgh:          n/a
+Card Text:        All your creatures get +1/+1 until the end of the turn.
+Flavor Text:      The empire belongs to no one man but to all in the empire. He who has virtue shall
+                  possess it.
+Artist :          Qu Xin
+Rarity:           C
+Card #            29
+
+Card Title:       Volunteer Militia
+Card Color:       White
+Type & Class:     Creature - Soldiers
+Casting Cost:     W
+Pow/Tgh:          1/2
+Card Text:        n/a
+Flavor Text:      After making the Peach Garden Oath, the three brothers raised an army of 500 youths to
+                  fight the Yellow Scarves rebellion.
+Artist :          Lin Yan
+Rarity:           C
+Card #            30
+
+Card Title:       Warrior's Stand
+Card Color:       White
+Type & Class:     Sorcery
+Casting Cost:     1W
+Pow/Tgh:          n/a
+Card Text:        Play Warrior's Stand only after you're attacked, before you declare blockers. All your
+                  creatures get +2/+2 until the end of the turn.
+Flavor Text:
+Artist :          Zhao Dafu
+Rarity:           U
+Card #            31
+
+Card Title:       Zhang Fei, Fierce Warrior
+Card Color:       White
+Type & Class:     Creature - Legend
+Casting Cost:     4WW
+Pow/Tgh:          4/4
+Card Text:        Horsemanship. Attacking doesn't cause Zhang Fei to tap.
+Flavor Text:      Zhang Fei's uncharacteristic alliance with a defeated Riverlands general, Yan Yan, allowed
+                  Shu forces to advance through forty-five Riverlands strongpoints with no casualties.
+Artist :          Zhao Dafu
+Rarity:           R
+Card #            32
+
+Card Title:       Zhao Zilong, Tiger General
+Card Color:       White
+Type & Class:     Creature - Legend
+Casting Cost:     3WW
+Pow/Tgh:          3/3
+Card Text:        Horsemanship. When Zhao Zilong blocks, it gets +1/+1 until the end of the turn.
+Flavor Text:      Zhao Zilong was a brave and noble warrior. Twice he rescued Liu Bei's son, Liu Shan.
+Artist :          Quan Xuejun
+Rarity:           R
+Card #            33
+
+Card Title:       Balance of Power
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     3UU
+Pow/Tgh:          n/a
+Card Text:        If you have fewer cards in your hand than your opponent does, you draw until you have the
+                  same number. (When you play Balance of Power it doesn't count as in your hand.)
+Flavor Text:
+Artist :          Quan Xuejun
+Rarity:           R
+Card #            34
+
+Card Title:       Borrowing 100,000 Arrows
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     2U
+Pow/Tgh:          n/a
+Card Text:        For each tapped creature your opponent has in play, you draw a card.
+Flavor Text:      Kongming and Lu Su tricked Wei troops into shooting over 100,000 arrows at them to later
+                  use against the Wei at Red Cliffs.
+Artist :          Song Shikai
+Rarity:           U
+Card #            35
+
+Card Title:       Brilliant Plan
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     4U
+Pow/Tgh:          n/a
+Card Text:        Draw three cards.
+Flavor Text:      At Red Cliffs, Kongming and Zhou Yu each wrote his plan for defeating the Wei on the palm
+                  of his hand. They laughed as they both revealed the same word, "Fire."
+Artist :          Song Shikai
+Rarity:           U
+Card #            36
+
+Card Title:       Broken Dam
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     U
+Pow/Tgh:          n/a
+Card Text:        Tap any one or two creatures without horsemanship. (Tapped creatures can't block.)
+Flavor Text:      Using nature to their advantage, wise Three Kingdoms generals often let dammed rivers
+                  loose to destroy their enemies.
+Artist :          Jiang Zhuqing
+Rarity:           C
+Card #            37
+
+Card Title:       Capture of Jingzhou
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     3UU
+Pow/Tgh:          n/a
+Card Text:        You take another turn after this one.
+Flavor Text:      The province of Jingzhou was the fulcrum of the three kingdoms. At separate times it was
+                  coveted and controlled by the Wu, the Shu, and the Wei.
+Artist :          Jack Wei
+Rarity:           R
+Card #            38
+
+Card Title:       Champion's Victory
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     U
+Pow/Tgh:          n/a
+Card Text:        Play Champion's Victory only after you're attacked, before you declare blockers.
+                  Return any one attacking creature to its owner's hand.
+Flavor Text:
+Artist :          Hong Yan
+Rarity:           U
+Card #            39
+
+Card Title:       Council of Advisors
+Card Color:       Blue
+Type & Class:     Creature - Advisors
+Casting Cost:     2U
+Pow/Tgh:          1/1
+Card Text:        When Council of Advisors comes into play from your hand, draw a card.
+Flavor Text:      Sun Quan's long and successful rule in the years 199 to 251 was due to his ability to
+                  choose and foster talented advisors and generals.
+Artist :          Liu Shangying
+Rarity:           U
+Card #            40
+
+Card Title:       Counterintelligence
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     2UU
+Pow/Tgh:          n/a
+Card Text:        Return any one or two creatures to their owner's hand.
+Flavor Text:      Before the battle of Red Cliffs, a supposedly sleeping Zhou Yu allowed his old friend, a
+                  Wei advisor, to steal a planted letter forged as if from Wei's two best admirals.
+Artist :          Wang Feng
+Rarity:           U
+Card #            41
+
+Card Title:       Exhaustion
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     2U
+Pow/Tgh:          n/a
+Card Text:        At the beginning of your opponent's next turn, he or she skips untapping creatures and lands.
+Flavor Text:      Starving and worn, Cao Cao escaped from the battle of Red Cliffs with only 27 of his
+                  original 800,000 men.
+Artist :          Qu Xin
+Rarity:           R
+Card #            42
+
+Card Title:       Extinguish
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     1U
+Pow/Tgh:          n/a
+Card Text:        Play Extinguish only in response to another player playing a sorcery. That sorcery has no
+                  effect, and that player puts it into his or her graveyard.
+Flavor Text:
+Artist :          Ding Songjian
+Rarity:           C
+Card #            43
+
+Card Title:       Forced Retreat
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     2U
+Pow/Tgh:          n/a
+Card Text:        Return any one creature from play to the top of its owner's library.
+Flavor Text:      Leadership, not numbers, determines victory. -A Wu commander, before his 5,000 troops forced
+                  15,000 Wei troops to retreat from Ruxu
+Artist :          Huang Qishi
+Rarity:           C
+Card #            44
+
+Card Title:       Lady Sun
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     1UU
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may tap Lady Sun to return it and any one other
+                  creature to their owners' hands.
+Flavor Text:      Sister to Sun Quan and wife to Liu Bei, Lady Sun often felt her loyalty to both tested.
+Artist :          Miao Aili
+Rarity:           R
+Card #            45
+
+Card Title:       Lu Meng, Wu General
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     3UU
+Pow/Tgh:          4/4
+Card Text:        Horsemanship
+Flavor Text:      As the Wu chief commander, Lu Meng conquered Shu-held Jingzhou in 219 by disguising soldiers
+                  as merchants on boats filled with hiding troops.
+Artist :          Gao Yan
+Rarity:           R
+Card #            46
+
+Card Title:       Lu Su, Wu Advisor
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     3UU
+Pow/Tgh:          1/2
+Card Text:        On your turn, before you attack, you may tap Lu Su to draw a card.
+Flavor Text:      Lu Su served as an intermediary between the Wu and Shu kingdoms until Zhou Yu's death in 210,
+                  when he became Wu's supreme commander.
+Artist :          Zhao Tan
+Rarity:           R
+Card #            47
+
+Card Title:       Lu Xun, Scholar General
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     2UU
+Pow/Tgh:          1/3
+Card Text:        Horsemanship. When Lu Xun successfully damages your opponent, you may draw a card.
+Flavor Text:
+Artist :          Xu Xiaoming
+Rarity:           R
+Card #            48
+
+Card Title:       Mystic Denial
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     1UU
+Pow/Tgh:          n/a
+Card Text:        Play Mystic Denial only in response to another player playing a creature or a sorcery. That
+                  card has no effect, and that player puts it into his or her graveyard.
+Flavor Text:
+Artist :          Kang Yu
+Rarity:           U
+Card #            49
+
+Card Title:       Preemptive Strike
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     1U
+Pow/Tgh:          n/a
+Card Text:        Play Preemptive Strike only in response to another player playing a creature card. That
+                  creature has no effect, and that player puts it into his or her graveyard.
+Flavor Text:
+Artist :          Jiaming
+Rarity:           C
+Card #            50
+
+Card Title:       Red Cliffs Armada
+Card Color:       Blue
+Type & Class:     Creature - Ships
+Casting Cost:     4U
+Pow/Tgh:          5/4
+Card Text:        Red Cliffs Armada can't attack unless the defending player has an island in play.
+Flavor Text:      By the battle of Red Cliffs in the year 208, the Wu kingdom controlled more than 7,000
+                  warships on the Yangtze.
+Artist :          Zhang Jiazhen
+Rarity:           U
+Card #            51
+
+Card Title:       Sage's Knowledge
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     2U
+Pow/Tgh:          n/a
+Card Text:        Return any one sorcery card from your graveyard to your hand.
+Flavor Text:      Those who know do not talk. Those who talk do not know. -Lao Tzu, Tao Te Ching
+Artist :          Ding Songjian
+Rarity:           C
+Card #            52
+
+Card Title:       Strategic Planning
+Card Color:       Blue
+Type & Class:     Sorcery
+Casting Cost:     1U
+Pow/Tgh:          n/a
+Card Text:        Look at the top three cards of your library. Put one of them into your hand and the rest
+                  into your graveyard.
+Flavor Text:      Plans evolved within the tent decide a victory 1,000 li away.
+Artist :          Zhang Jiazhen
+Rarity:           U
+Card #            53
+
+Card Title:       Straw Soldiers
+Card Color:       Blue
+Type & Class:     Creature - Soldiers
+Casting Cost:     1U
+Pow/Tgh:          1/3
+Card Text:        The overnight appearance of miles of "armed" Wu forts at Guangling frightened a much vaster
+                  Wei force into fleeing for their lives.
+Flavor Text:
+Artist :          Cai Tingting
+Rarity:           C
+Card #            54
+
+Card Title:       Sun Ce, Young Conqueror
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     3UU
+Pow/Tgh:          3/3
+Card Text:        Horsemanship.
+                  When Sun Ce comes into play, you may return any one creature from play to its owner's hand.
+Flavor Text:
+Artist :          Yang Guangmai
+Rarity:           R
+Card #            55
+
+Card Title:       Sun Quan, Lord of Wu
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     4UU
+Pow/Tgh:          4/4
+Card Text:        All your creatures gain horsemanship as long as Sun Quan is in play.
+                  (This includes Sun Quan.)
+Flavor Text:      One score and four he reigned, the Southland king:  A dragon coiled, a tiger poised below
+                  the mighty Yangtze.
+Artist :          Xu Xiaoming
+Rarity:           R
+Card #            56
+
+Card Title:       Wu Admiral
+Card Color:       Blue
+Type & Class:     Creature - Soldier
+Casting Cost:     4U
+Pow/Tgh:          3/3
+Card Text:        As long as your opponent has an island in play, Wu Admiral gets +1/+1.
+Flavor Text:      The Wu kingdom's well-trained admirals were integral to the Southlands' victory at Red
+                  Cliffs as well as the kingdom's defense.
+Artist :          Zhang Jiazhen
+Rarity:           U
+Card #            57
+
+Card Title:       Wu Elite Cavalry
+Card Color:       Blue
+Type & Class:     Creature - Soldiers
+Casting Cost:     3U
+Pow/Tgh:          2/3
+Card Text:        Horsemanship
+Flavor Text:      At the second battle of Ruxu, the brave Wu general Gan Ning raided Cao Cao's camp of 400,000
+                  men with only 100 cavalry. Not a single man or horse was lost.
+Artist :          Li Wang
+Rarity:           C
+Card #            58
+
+Card Title:       Wu Infantry
+Card Color:       Blue
+Type & Class:     Creature - Soldiers
+Casting Cost:     1U
+Pow/Tgh:          2/1
+Card Text:        The first battle of Hefei was Sun Quan's last as a field general. From then on he let his
+                  generals command in the field while he directed battle from behind the front lines.
+Flavor Text:
+Artist :          Xu Xiaoming
+Rarity:           C
+Card #            59
+
+Card Title:       Wu Light Cavalry
+Card Color:       Blue
+Type & Class:     Creature - Soldiers
+Casting Cost:     1U
+Pow/Tgh:          1/2
+Card Text:        Horsemanship
+Flavor Text:      A cunning strategist, Cao Ren tricked Zhou Yu by letting him enter Nanjun. Zhou Yu thought
+                  he was capturing the city until Cao Ren's arrows rained down upon him.
+Artist :          Huang Qishi
+Rarity:           C
+Card #            60
+
+Card Title:       Wu Longbowman
+Card Color:       Blue
+Type & Class:     Creature - Soldier
+Casting Cost:     2U
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may tap Wu Longbowman to have it deal 1 damage to any
+                  one creature or player.
+Flavor Text:
+Artist :          Xu Tan
+Rarity:           U
+Card #            61
+
+Card Title:       Wu Scout
+Card Color:       Blue
+Type & Class:     Creature - Soldier
+Casting Cost:     1U
+Pow/Tgh:          1/1
+Card Text:        Horsemanship. When Wu Scout comes into play, look at your opponent's hand.
+Flavor Text:
+Artist :          Jiaming
+Rarity:           C
+Card #            62
+
+Card Title:       Wu Spy
+Card Color:       Blue
+Type & Class:     Creature - Soldier
+Casting Cost:     1U
+Pow/Tgh:          1/1
+Card Text:        When Wu Spy comes into play, look at the top two cards of any player's library. Put one of
+                  them back on the top of that player's library and the other in his or her graveyard.
+Flavor Text:
+Artist :          Zhao Tan
+Rarity:           U
+Card #            63
+
+Card Title:       Wu Warship
+Card Color:       Blue
+Type & Class:     Creature - Ship
+Casting Cost:     2U
+Pow/Tgh:          3/3
+Card Text:        Wu Warship can't attack unless the defending player has an island in play.
+Flavor Text:      Both Wu and Wei warships patrolled the Yangtze River, the natural border between the two
+                  kingdoms.
+Artist :          Jiang Zhuqing
+Rarity:           C
+Card #            64
+
+Card Title:       Zhou Yu, Chief Commander
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     5UU
+Pow/Tgh:          8/8
+Card Text:        Zhou Yu can't attack unless your opponent has an island in play.
+Flavor Text:      After making me, Zhou Yu, did you have to make Kongming? -Zhou Yu crying to heaven on his
+                  deathbed
+Artist :          Xu Xiaoming
+Rarity:           R
+Card #            65
+
+Card Title:       Zhuge Jin, Wu Strategist
+Card Color:       Blue
+Type & Class:     Creature - Legend
+Casting Cost:     1UU
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may tap Zhuge Jin to make any one creature unblockable
+                  this turn.
+Flavor Text:      When Zhuge Jin proposed the marriage of Guan Yu's daughter and Sun Quan's heir, Guan Yu's
+                  arrogant refusal led to disaster.
+Artist :          Song Shikai
+Rarity:           R
+Card #            66
+
+Card Title:       Ambition's Cost
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     3B
+Pow/Tgh:          n/a
+Card Text:        Draw three cards. You lose 3 life.
+Flavor Text:      When you give offense to heaven, to whom can you pray? -Cao Cao, quoting Confucius
+Artist :          Junko Taguchi
+Rarity:           R
+Card #            67
+
+Card Title:       Cao Cao, Lord of Wei
+Card Color:       Black
+Type & Class:     Creature - Legend
+Casting Cost:     3BB
+Pow/Tgh:          3/3
+Card Text:        On your turn, before you attack, you may tap Cao Cao to force your opponent to choose and
+                  discard two cards from his or her hand. (If your opponent has only one card, he or she discards it.)
+Flavor Text:
+Artist :          Gao Jianzhang
+Rarity:           R
+Card #            68
+
+Card Title:       Cao Ren, Wei Commander
+Card Color:       Black
+Type & Class:     Creature - Legend
+Casting Cost:     2BB
+Pow/Tgh:          3/3
+Card Text:        Horsemanship. When Cao Ren comes into play, you lose 3 life.
+Flavor Text:      Cao Cao's cousin, Cao Ren was known throughout the three kingdoms as the fiercest of
+                  warriors.
+Artist :          Junko Taguchi
+Rarity:           R
+Card #            69
+
+Card Title:       Coercion
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     2B
+Pow/Tgh:          n/a
+Card Text:        Look at your opponent's hand and choose a card from it. Your opponent discards that card.
+Flavor Text:      Though he held the title of prime minister, Cao Cao used the emperor's name to exert his own
+                  influence on the empire.
+Artist :          Kang Yu
+Rarity:           U
+Card #            70
+
+Card Title:       Corrupt Court Official
+Card Color:       Black
+Type & Class:     Creature - Advisor
+Casting Cost:     1B
+Pow/Tgh:          1/1
+Card Text:        When Corrupt Court Official comes into play, your opponent chooses and discards a card from
+                  his or her hand. (Ignore this effect if your opponent doesn't have any cards.)
+Flavor Text:
+Artist :          Li Yousong
+Rarity:           U
+Card #            71
+
+Card Title:       Cunning Advisor
+Card Color:       Black
+Type & Class:     Creature - Advisor
+Casting Cost:     3B
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may tap Cunning Advisor to force your opponent to
+                  choose and discard a card from his or her hand.
+Flavor Text:
+Artist :          Gao Jianzhang
+Rarity:           U
+Card #            72
+
+Card Title:       Deception
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     2B
+Pow/Tgh:          n/a
+Card Text:        Your opponent chooses and discards two cards from his or her hand. (If your opponent has
+                  only one card, he or she discards it.)
+Flavor Text:      Believing they wrote the forged letter that had been stolen from Zhou Yu, Cao Cao rashly
+                  executed his two best admirals for treason.
+Artist :          Wang Feng
+Rarity:           C
+Card #            73
+
+Card Title:       Desperate Charge
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     2B
+Pow/Tgh:          n/a
+Card Text:        All your creatures get +2/+0 until the end of the turn.
+Flavor Text:      Lieutenants dishonored, corpses carted home; The general raises troops again to take revenge.
+Artist :          Chen Weidong
+Rarity:           U
+Card #            74
+
+Card Title:       Famine
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     3BB
+Pow/Tgh:          n/a
+Card Text:        Famine deals 3 damage to each creature and player. (This includes your creatures and you.)
+Flavor Text:      But it was a year of dearth. People were reduced to eating leaves of jujube trees. Corpses
+                  were seen everywhere in the countryside.
+Artist :          Sun Nan
+Rarity:           U
+Card #            75
+
+Card Title:       Ghostly Visit
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     2B
+Pow/Tgh:          n/a
+Card Text:        Destroy any one creature that isn't black.
+Flavor Text:      Cao Cao was haunted to death by the ghosts of the empresses and other high courtiers he had
+                  murdered.
+Artist :          Kang Yu
+Rarity:           C
+Card #            76
+
+Card Title:       Imperial Edict
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     1B
+Pow/Tgh:          n/a
+Card Text:        Your opponent chooses one of his or her creatures. Destroy that creature.
+Flavor Text:      Frustrated with Cao Cao's control of the imperial court, Emporer Xian secretly issued an
+                  edict condemning him, using his own blood as ink.
+Artist :          Xu Xiaoming
+Rarity:           C
+Card #            77
+
+Card Title:       Imperial Seal
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     B
+Pow/Tgh:          n/a
+Card Text:        Search your library for any one card. Shuffle your library and put that card on top of it.
+                  You lose 2 life.
+Flavor Text:      If Heaven has placed it in your hands, it means that the throne is destined to be yours.
+Artist :          Li Tie
+Rarity:           R
+Card #            78
+
+Card Title:       Overwhelming Forces
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     6BB
+Pow/Tgh:          n/a
+Card Text:        Destroy all your opponent's creatures. You draw a card for each creature destroyed this way.
+Flavor Text:      By the year 208, Cao Cao commanded more than 1,000 experienced generals and a million
+                  infantry, cavalry, and naval troops.
+Artist :          Gao Yan
+Rarity:           R
+Card #            79
+
+Card Title:       Poison Arrow
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     4BB
+Pow/Tgh:          n/a
+Card Text:        Destroy any one creature that isn't black. You gain 3 life.
+Flavor Text:      In ancient China, not wearing armor could be a fatal mistake. Guan Yu, Zhou Yu, Sun Ce, and
+                  other heros were struck by poison arrows.
+Artist :          Li Tie
+Rarity:           U
+Card #            80
+
+Card Title:       Return to Battle
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     B
+Pow/Tgh:          n/a
+Card Text:        Return any one creature card from your graveyard to your hand.
+Flavor Text:      Swallowing his eye, the valiant Xiahou Dun fought on; But Cao Cao's vanguard, its commander
+                  wounded, could not hold out for long.
+Artist :          Ding Songjian
+Rarity:           C
+Card #            81
+
+Card Title:       Sima Yi, Wei Field Marshal
+Card Color:       Black
+Type & Class:     Creature - Legend
+Casting Cost:     5B
+Pow/Tgh:          */4
+Card Text:        Sima Yi has power equal to the number of swamp cards you have in play.
+                  (This includes both tapped and untapped swamp cards.)
+Flavor Text:      Sima Yi fought for four generations of the Cao family before his own grandson became emperor
+                  and united the three kingdoms.
+Artist :          Gao Yan
+Rarity:           R
+Card #            82
+
+Card Title:       Stolen Grain
+Card Color:       Black
+Type & Class:     Sorcery
+Casting Cost:     4BB
+Pow/Tgh:          n/a
+Card Text:        Stolen Grain deals 5 damage to your opponent. You gain 5 life.
+Flavor Text:      At the battle of Guandu, Cao Cao defeated Yuan Shao by raiding his grain depot, leaving him
+                  with no way to feed his troops.
+Artist :          LHQ
+Rarity:           U
+Card #            83
+
+Card Title:       Stone Catapult
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     4B
+Pow/Tgh:          1/2
+Card Text:        On your turn, before you attack, you may tap Stone Catapult to destroy any one tapped
+                  creature that isn't black.
+Flavor Text:
+Artist :          Shang Huitong
+Rarity:           R
+Card #            84
+
+Card Title:       Wei Ambush Force
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     1B
+Pow/Tgh:          1/1
+Card Text:        When Wei Ambush Force attacks, it gets +2/+0 until the end of the turn.
+Flavor Text:      The battle of Puyang marked the beginning of the end for Lu Bu. He lost the city-and later
+                  his life-to Cao Cao.
+Artist :          Ku Xueming
+Rarity:           C
+Card #            85
+
+Card Title:       Wei Assassins
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     3BB
+Pow/Tgh:          3/2
+Card Text:        When Wei Assassins comes into play, your opponent chooses one of his or her creatures.
+                  Destroy that creature. (Ignore this effect if your opponent has no creatures in play.)
+Flavor Text:
+Artist :          Xu Tan
+Rarity:           U
+Card #            86
+
+Card Title:       Wei Elite Companions
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     4B
+Pow/Tgh:          3/3
+Card Text:        Horsemanship
+Flavor Text:      Cao Cao was more concerned with capabilities than lineage. He excelled at recruiting and
+                  retaining men of talent to serve him.
+Artist :          Li Youliang
+Rarity:           U
+Card #            87
+
+Card Title:       Wei Infantry
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     1B
+Pow/Tgh:          2/1
+Card Text:
+Flavor Text:      Wei won the battle of Hefei when Zhang Liao defeated Sun Quan and then foiled a Wu scheme
+                  to incite rebellion.
+Artist :          LHQ
+Rarity:           C
+Card #            88
+
+Card Title:       Wei Night Raiders
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     2BB
+Pow/Tgh:          2/2
+Card Text:        Horsemanship. When Wei Night Raiders successfully damages your opponent, he or she chooses
+                  and discards a card from his or her hand.
+                  (Ignore this effect if your opponent doesn't have any cards.)
+Flavor Text:
+Artist :          Wang Feng
+Rarity:           U
+Card #            89
+
+Card Title:       Wei Scout
+Card Color:       Black
+Type & Class:     Creature - Soldier
+Casting Cost:     1B
+Pow/Tgh:          1/1
+Card Text:        Horsemanship
+Flavor Text:      He will win who, prepared himself, waits to take the enemy unprepared. -Sun Tzu, Art of War
+Artist :          Jiang Zhuqing
+Rarity:           C
+Card #            90
+
+Card Title:       Wei Strike Force
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     2B
+Pow/Tgh:          2/1
+Card Text:        Horsemanship
+Flavor Text:      At the battle of Chang'an, Ma Chao defeated the two generals Cao Cao sent to guard the pass
+                  but was forced to flee when Cao Cao's trickery turned his own ally against him.
+Artist :          Tang Xiaogu
+Rarity:           C
+Card #            91
+
+Card Title:       Xiahou Dun, the One-Eyed
+Card Color:       Black
+Type & Class:     Creature - Legend
+Casting Cost:     2BB
+Pow/Tgh:          3/2
+Card Text:        Horsemanship. On your turn, before you attack, you may put Xiahou Dun into your graveyard
+                  to return a black card from your graveyard to your hand.
+Flavor Text:
+Artist :          Junko Taguchi
+Rarity:           R
+Card #            92
+
+Card Title:       Xun Yu, Wei Advisor
+Card Color:       Black
+Type & Class:     Creature - Legend
+Casting Cost:     1BB
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may tap Xun Yu to give one of your creatures +2/+0
+                  until the end of the turn.
+Flavor Text:      A splendid talent, admired of all men! His folly lay in serving Cao Cao's power.
+Artist :          Jack Wei
+Rarity:           R
+Card #            93
+
+Card Title:       Young Wei Recruit
+Card Color:       Black
+Type & Class:     Creature - Soldiers
+Casting Cost:     1B
+Pow/Tgh:          2/2
+Card Text:        Young Wei Recruits can't block.
+Flavor Text:      To send the common people to war untrained is to throw them away. -Confucius, The Analects
+Artist :          Li Youliang
+Rarity:           C
+Card #            94
+
+Card Title:       Zhang He, Wei General
+Card Color:       Black
+Type & Class:     Creature - Legend
+Casting Cost:     3BB
+Pow/Tgh:          4/2
+Card Text:        Horsemanship. When Zhang He attacks, all your other creatures get +1/+0 until the end of
+                  the turn.
+Flavor Text:
+Artist :          Jack Wei
+Rarity:           R
+Card #            95
+
+Card Title:       Zhang Liao, Hero of Hefei
+Card Color:       Black
+Type & Class:     Creature - Legend
+Casting Cost:     4BB
+Pow/Tgh:          3/3
+Card Text:        When Zhang Liao successfully damages your opponent, he or she chooses and discard a card
+                  from his or her hand. (Ignore this effect if your opponent doesn't have any cards.)
+Flavor Text:
+Artist :          Li Youliang
+Rarity:           R
+Card #            96
+
+Card Title:       Zodiac Pig
+Card Color:       Black
+Type & Class:     Creature - Pig
+Casting Cost:     3B
+Pow/Tgh:          3/3
+Card Text:        Swampwalk (If defending player has a swamp in play, Zodiac Pig can't be blocked.)
+Flavor Text:      . . . Zhong Hui and Deng Ai next led armies west:
+                  And to the Cao, Han's hills and streams now passed. . . .
+Artist :          Qi Baocheng
+Rarity:           U
+Card #            97
+
+Card Title:       Zodiac Rat
+Card Color:       Black
+Type & Class:     Creature - Rat
+Casting Cost:     B
+Pow/Tgh:          1/1
+Card Text:        Swampwalk (If defending player has a swamp in play, Zodiac Rat can't be blocked.)
+Flavor Text:       . . . Cao Pi, Cao Rui, Fang, Mao, and briefly, Huan -
+                  The Sima took the empire in their turn. . . .
+Artist :          Qi Baocheng
+Rarity:           C
+Card #            98
+
+Card Title:       Zodiac Snake
+Card Color:       Black
+Type & Class:     Creature - Snake
+Casting Cost:     2B
+Pow/Tgh:          2/2
+Card Text:        Swampwalk (If defending player has a swamp in play, Zodiac Snake can't be blocked.)
+Flavor Text:      Thrice Xuande's ardent quest led to Nanyang,
+                  Where Sleeping Dragon unveiled Han's partition: . . .
+Artist :          Qi Baocheng
+Rarity:           C
+Card #            99
+
+Card Title:       Barbarian General
+Card Color:       Red
+Type & Class:     Creature - Soldier
+Casting Cost:     4R
+Pow/Tgh:          3/2
+Card Text:        Horsemanship
+Flavor Text:      Barbarian tribes with their rulers are inferior to Chinese states without them.
+                   -Confucius, The Analects
+Artist :          Kuang Sheng
+Rarity:           U
+Card #            100
+
+Card Title:       Barbarian Horde
+Card Color:       Red
+Type & Class:     Creature - Soldiers
+Casting Cost:     3R
+Pow/Tgh:          3/3
+Card Text:
+Flavor Text:      Only twenty years after the Sima clan united the empire, invading barbarians divided it
+                  again.
+Artist :          Kuang Sheng
+Rarity:           C
+Card #            101
+
+Card Title:       Blaze
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     XR
+Pow/Tgh:          n/a
+Card Text:        Blaze deals X damage to any one creature or player.
+Flavor Text:      Spreading flames illumined cloud and sea: Cao Cao went down; 'twas Zhou Yu's victory.
+Artist :          Qu Xin
+Rarity:           U
+Card #            102
+
+Card Title:       Burning Fields
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     4R
+Pow/Tgh:          n/a
+Card Text:        Burning Fields deals 5 damage to your opponent.
+Flavor Text:      In raiding and plundering, be like fire, in immovability like a mountain.
+                  -Sun Tzu, Art of  War
+Artist :          Yang Hong
+Rarity:           C
+Card #            103
+
+Card Title:       Burning of Xinye
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     4RR
+Pow/Tgh:          n/a
+Card Text:        You destroy four of your lands and your opponent destroys four of his or her lands.
+                  Then Burning of Xinye deals 4 damage to each creature. (This includes your creatures.)
+Flavor Text:
+Artist :          Yang Hong
+Rarity:           R
+Card #            104
+
+Card Title:       Control of the Court
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     1R
+Pow/Tgh:          n/a
+Card Text:        Draw four cards and put them into your hand. Then discard three cards at random from your
+                  hand.
+Flavor Text:      Power-hungry eunuchs, the curse of the dynasty, have thrown the masses of the people into
+                  the depths of misery.
+Artist :          Li Yousong
+Rarity:           U
+Card #            105
+
+Card Title:       Corrupt Eunuchs
+Card Color:       Red
+Type & Class:     Creature - Advisor
+Casting Cost:     3R
+Pow/Tgh:          2/2
+Card Text:        When Corrupt Eunuchs comes into play, it deals 2 damage to any one creature.
+                  (If you're the only one with creatures, deal the damage to one of them.)
+Flavor Text:
+Artist :          Li Yousong
+Rarity:           U
+Card #            106
+
+Card Title:       Desert Sandstorm
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     2R
+Pow/Tgh:          n/a
+Card Text:        Desert Sandstorm deals 1 damage to each creature. (This includes your creatures.)
+Flavor Text:      While pursuing the remnants of Yuan Shao's forces into the Wuhan Desert, Cao Cao was
+                  temporarily turned back by a fierce sandstorm.
+Artist :          Xu Tan
+Rarity:           C
+Card #            107
+
+Card Title:       Diaochan, Artful Beauty
+Card Color:       Red
+Type & Class:     Creature - Legend
+Casting Cost:     3R
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may tap Diaochan to destroy any one creature.
+                  Then, your opponent destroys any one creature of his or her choice.
+Flavor Text:
+Artist :          Miao Aili
+Rarity:           R
+Card #            108
+
+Card Title:       Dong Zhou, the Tyrant
+Card Color:       Red
+Type & Class:     Creature - Legend
+Casting Cost:     4R
+Pow/Tgh:          3/3
+Card Text:        When Dong Zhou comes into play, choose one of your opponent's creatures. That creature
+                  deals damage to him or her equal to its power.
+                  (Ignore this effect if your opponent doesn't have any creatures in play.)
+Flavor Text:
+Artist :          Junichi Inoue
+Rarity:           R
+Card #            109
+
+Card Title:       Eunuchs' Intrigues
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     2R
+Pow/Tgh:          n/a
+Card Text:        Your opponent chooses one of his or her creatures. Only that creature can block this turn.
+Flavor Text:      Taking control of powerful court positions one by one, eunuchs eventually brought on the
+                  fall of the Han dynasty, leading to the chaos of the three kingdoms.
+Artist :          Li Yousong
+Rarity:           U
+Card #            110
+
+Card Title:       Fire Ambush
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     1R
+Pow/Tgh:          n/a
+Card Text:        Fire Ambush deals 3 damage to any one creature or player.
+Flavor Text:      With fire he broke the battle at Bowang . . . . Striking fear deep into Cao Cao's soul,
+                  thus Kongming scored a coup at his debut.
+Artist :          Tang Xiaogu
+Rarity:           C
+Card #            111
+
+Card Title:       Fire Bowman
+Card Color:       Red
+Type & Class:     Creature - Soldier
+Casting Cost:     R
+Pow/Tgh:          1/1
+Card Text:        On your turn, before you attack, you may destroy Fire Bowman to have it deal 1 damage to any
+                  one creature or player.
+Flavor Text:
+Artist :          Cai Tingting
+Rarity:           U
+Card #            112
+
+Card Title:       Imperial Recruiter
+Card Color:       Red
+Type & Class:     Creature - Advisor
+Casting Cost:     2R
+Pow/Tgh:          1/1
+Card Text:        When Imperial Recruiter comes into play, search your library for a creature card with power
+                  no greater than 2, reveal that card, and put it into your hand. Shuffle your library
+                  afterward.
+Flavor Text:
+Artist :          Mitsuaki Sagiri
+Rarity:           U
+Card #            113
+
+Card Title:       Independent Troops
+Card Color:       Red
+Type & Class:     Creature - Soldiers
+Casting Cost:     1R
+Pow/Tgh:          2/1
+Card Text:
+Flavor Text:      The empire, long united, must divide, and long divided, must unite.
+Artist :          Kuang Sheng
+Rarity:           C
+Card #            114
+
+Card Title:       Lu Bu, Master-at-Arms
+Card Color:       Red
+Type & Class:     Creature - Legend
+Casting Cost:     5R
+Pow/Tgh:          4/3
+Card Text:        Horsemanship. Lu Bu is unaffected by summoning sickness.
+Flavor Text:      Dong Zhuo's man, Lu Bu, warrior without peer, Far surpassed the champions of his sphere.
+Artist :          Gao Jianzhang
+Rarity:           R
+Card #            115
+
+Card Title:       Ma Chao, Western Warrior
+Card Color:       Red
+Type & Class:     Creature - Legend
+Casting Cost:     3RR
+Pow/Tgh:          3/3
+Card Text:        Horsemanship. Whenever Ma Chao attacks and no other creatures do, Ma Chao can't be blocked.
+Flavor Text:
+Artist :          Koji
+Rarity:           R
+Card #            116
+
+Card Title:       Mountain Bandit
+Card Color:       Red
+Type & Class:     Creature - Soldier
+Casting Cost:     R
+Pow/Tgh:          1/1
+Card Text:        Mountain Bandit is unaffected by summoning sickness.
+Flavor Text:      Penniless and far from home, many former Yellow Scarves and other soldiers became bandits
+                  to survive.
+Artist :          Xu Xiaoming
+Rarity:           C
+Card #            117
+
+Card Title:       Ravaging Horde
+Card Color:       Red
+Type & Class:     Creature - Soldiers
+Casting Cost:     3RR
+Pow/Tgh:          3/3
+Card Text:        When Ravaging Horde comes into play, destroy any one land.
+Flavor Text:      Upon his return to the capitol after taking soldiers to loot a nearby peaceful town, the
+                  prime minister, Dong Zhou, boasted of it as a victory over bandits.
+Artist :          Liu Jianjian
+Rarity:           U
+Card #            118
+
+Card Title:       Relentless Assault
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     2RR
+Pow/Tgh:          n/a
+Card Text:        Untap all creatures that attacked this turn. You may declare an additional attack this turn.
+Flavor Text:      With only 70,000 men under his command at the battle of Guandu, Cao Cao was able to defeat
+                  Yuan Shao and his 700,000.
+Artist :          He Jiancheng
+Rarity:           R
+Card #            119
+
+Card Title:       Renegade Troops
+Card Color:       Red
+Type & Class:     Creature - Soldiers
+Casting Cost:     4R
+Pow/Tgh:          4/2
+Card Text:        Renegade Troops is unaffected by summoning sickness.
+Flavor Text:      Across the land rebellions seethed and swarmed. As vicious war lords swooped down on all
+                  sides.
+Artist :          Liu Jianjian
+Rarity:           U
+Card #            120
+
+Card Title:       Rockslide Ambush
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     1R
+Pow/Tgh:          n/a
+Card Text:        Rockslide Ambush deals to any one creature damage equal to the number of mountain cards you
+                  have in play. (This includes both tapped and untapped mountain cards.)
+Flavor Text:
+Artist :          Inoue Junichi
+Rarity:           U
+Card #            121
+
+Card Title:       Rolling Earthquake
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     XR
+Pow/Tgh:          n/a
+Card Text:        Rolling Earthquake deals X damage to each player and each creature without horsemanship.
+                  (This includes you and your creatures without horsemanship.)
+Flavor Text:
+Artist :          Yang Hong
+Rarity:           R
+Card #            122
+
+Card Title:       Stone Rain
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     2R
+Pow/Tgh:          n/a
+Card Text:        Destroy any one land.
+Flavor Text:      Soldiers often blocked off the steep mountain passes to ambush enemy troops in western and
+                  central China.
+Artist :          Mitsuaki Sagiri
+Rarity:           C
+Card #            123
+
+Card Title:       Warrior's Oath
+Card Color:       Red
+Type & Class:     Sorcery
+Casting Cost:     RR
+Pow/Tgh:          n/a
+Card Text:        Take another turn after this one. At the end of that turn, you lose the game.
+                  (You don't lose if you've already won.)
+Flavor Text:      If I fail, my head is yours. Warrior's oath common during the Three Kingdoms period
+Artist :          Mitsuaki Sagiri
+Rarity:           R
+Card #            124
+
+Card Title:       Yellow Scarves Cavalry
+Card Color:       Red
+Type & Class:     Creature - Soldiers
+Casting Cost:     1R
+Pow/Tgh:          1/1
+Card Text:        Horsemanship. Yellow Scarves Cavalry can't block.
+Flavor Text:
+Artist :          Chen Weidong
+Rarity:           C
+Card #            125
+
+Card Title:       Yellow Scarves General
+Card Color:       Red
+Type & Class:     Creature - Soldier
+Casting Cost:     3R
+Pow/Tgh:          2/2
+Card Text:        Horsemanship. Yellow Scarves General can't block.
+Flavor Text:      Zhang Jue, leader of the Yellow Scarves rebellion, was a Taoist master and tutored his
+                  soldiers in those arts.
+Artist :          Chen Weidong
+Rarity:           R
+Card #            126
+
+Card Title:       Yellow Scarves Troops
+Card Color:       Red
+Type & Class:     Creature - Soldiers
+Casting Cost:     1R
+Pow/Tgh:          2/2
+Card Text:        Yellow Scarves Troops can't block.
+Flavor Text:      Over 500,000 commoners followed Zhang Jue, General of Heaven, in his attempt to overthrow
+                  the corrupt Han dynasty.
+Artist :          Chen Weidong
+Rarity:           C
+Card #            127
+
+Card Title:       Yuan Shao, the Indecisive
+Card Color:       Red
+Type & Class:     Creature - Legend
+Casting Cost:     4R
+Pow/Tgh:          2/3
+Card Text:        Horsemanship. Each of your creatures can't be blocked by more than one creature each turn as
+                  long as Yuan Shao is in play.
+Flavor Text:
+Artist :          Inoue Junichi
+Rarity:           R
+Card #            128
+
+Card Title:       Yuan Shao's Infantry
+Card Color:       Red
+Type & Class:     Creature - Soldiers
+Casting Cost:     3R
+Pow/Tgh:          2/2
+Card Text:        Whenever Yuan Shao's Infantry attacks and no other creatures do, Yuan Shao's Infantry can't
+                  be blocked.
+Flavor Text:
+Artist :          Lin Yan
+Rarity:           U
+Card #            129
+
+Card Title:       Zodiac Dog
+Card Color:       Red
+Type & Class:     Creature - Dog
+Casting Cost:     2R
+Pow/Tgh:          2/2
+Card Text:        Mountainwalk (If defending player has a mountain in play, Zodiac Dog can't be blocked.)
+Flavor Text:      . . . Jiang Wei alone still strove with might and main: Nine times more he fought the
+                  north-in vain. . . .
+Artist :          Qi Baocheng
+Rarity:           C
+Card #            130
+
+Card Title:       Zodiac Dragon
+Card Color:       Red
+Type & Class:     Creature - Dragon
+Casting Cost:     7RR
+Pow/Tgh:          8/8
+Card Text:        If Zodiac Dragon is put into your graveyard, you may return Zodiac Dragon to your hand.
+Flavor Text:      . . . The kingdoms three are now the stuff of dream,
+                  For men to ponder, past all praise or blame.
+Artist :          Qi Baocheng
+Rarity:           R
+Card #            131
+
+Card Title:       Zodiac Goat
+Card Color:       Red
+Type & Class:     Creature - Goat
+Casting Cost:     R
+Pow/Tgh:          1/1
+Card Text:        Mountainwalk (If defending player has a mountain in play, Zodiac Goat can't be blocked.)
+Flavor Text:      . . . Near death in Baidi, having reigned three years,
+                  Bei sadly placed his son in Kongming's care. . . .
+Artist :          Qi Baocheng
+Rarity:           C
+Card #            132
+
+Card Title:       Borrowing the East Wind
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     XGG
+Pow/Tgh:          n/a
+Card Text:        Borrowing the East Wind deals X damage to each player and each creature with horsemanship.
+                  (This includes you and your creatures with horsemanship.)
+Flavor Text:
+Artist :          Gao Yan
+Rarity:           R
+Card #            133
+
+Card Title:       False Mourning
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     G
+Pow/Tgh:          n/a
+Card Text:        Take any one card from your graveyard and put that card on the top of your library.
+Flavor Text:      Zhou Yu, Sun Ce, and other famous generals feigned their deaths in order to later surprise
+                  their opponents.
+Artist :          Koji
+Rarity:           U
+Card #            134
+
+Card Title:       Forest Bear
+Card Color:       Green
+Type & Class:     Creature - Bear
+Casting Cost:     1G
+Pow/Tgh:          2/2
+Card Text:
+Flavor Text:      Fish and bear paws-one can't have both. -Chinese idiom meaning "you can't have it both ways"
+Artist :          Wang Yuqun
+Rarity:           C
+Card #            135
+
+Card Title:       Heavy Fog
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     1G
+Pow/Tgh:          n/a
+Card Text:        Play Heavy Fog only after you're attacked, before you declare blockers. This turn, all
+                  damage dealt to you by attacking creatures is reduced to 0.
+Flavor Text:
+Artist :          Liu Shangying
+Rarity:           U
+Card #            136
+
+Card Title:       Hua Tuo, Honored Physician
+Card Color:       Green
+Type & Class:     Creature - Legend
+Casting Cost:     1GG
+Pow/Tgh:          1/2
+Card Text:        On your turn, before you attack, you may tap Hua Tuo to put any one creature card from your
+                  graveyard on the top of your library.
+Flavor Text:
+Artist :          Gao Jianzhang
+Rarity:           R
+Card #            137
+
+Card Title:       Hunting Cheetah
+Card Color:       Green
+Type & Class:     Creature - Cheetah
+Casting Cost:     2G
+Pow/Tgh:          2/3
+Card Text:        When Hunting Cheetah successfully damages your opponent, you may search your library for a
+                  forest card, reveal that card, and put it into your hand. Shuffle your library afterward.
+Flavor Text:
+Artist :          Fang Yue
+Rarity:           U
+Card #            138
+
+Card Title:       Lady Zhurong, Warrior Queen
+Card Color:       Green
+Type & Class:     Creature - Legend
+Casting Cost:     4G
+Pow/Tgh:          4/3
+Card Text:        Horsemanship
+Flavor Text:      A man, and such a fool! I, a woman, will fight them for you. -Lady Zhurong to her husband
+                  Meng Huo, before leading an army against the Shu
+Artist :          Miao Aili
+Rarity:           R
+Card #            139
+
+Card Title:       Lone Wolf
+Card Color:       Green
+Type & Class:     Creature - Wolf
+Casting Cost:     2G
+Pow/Tgh:          2/2
+Card Text:        When Lone Wolf attacks and is blocked, you may have it deal its damage to the defending
+                  player instead of to the creatures blocking it.
+Flavor Text:
+Artist :          Yang Jun Kwon
+Rarity:           U
+Card #            140
+
+Card Title:       Marshaling the Troops
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     1G
+Pow/Tgh:          n/a
+Card Text:        Tap any number of your creatures. You gain 4 life for each creature tapped this way.
+                  (Tapped creatures can't block.)
+Flavor Text:
+Artist :          Liu Shangying
+Rarity:           R
+Card #            141
+
+Card Title:       Meng Huo, Barbarian King
+Card Color:       Green
+Type & Class:     Creature - Legend
+Casting Cost:     3GG
+Pow/Tgh:          4/4
+Card Text:        All your other green creatures get +1/+1 as long as Meng Huo is in play.
+Flavor Text:      The stubborn Meng Huo was captured and released by Kongming seven times before finally
+                  surrendering.
+Artist :          Yang Guangmai
+Rarity:           R
+Card #            142
+
+Card Title:       Meng Huo's Horde
+Card Color:       Green
+Type & Class:     Creature - Soldiers
+Casting Cost:     4G
+Pow/Tgh:          4/5
+Card Text:
+Flavor Text:      Through his allies, Meng Huo commanded several hundred thousand troops composed of cavalry,
+                  rattan-armored warriors, infantry, naked men with swords, and wild animals.
+Artist :          Li Tie
+Rarity:           C
+Card #            143
+
+Card Title:       Riding the Dilu Horse
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     2G
+Pow/Tgh:          n/a
+Card Text:        Any one creature gets +2/+2 and gains horsemanship until the end of the turn.
+Flavor Text:      All men have their appointed time; that's something no horse can change. -Liu Bei, after
+                  being told that the Dilu brings its master ill fortune
+Artist :          Hong Yan
+Rarity:           R
+Card #            144
+
+Card Title:       Slashing Tiger
+Card Color:       Green
+Type & Class:     Creature - Tiger
+Casting Cost:     2GG
+Pow/Tgh:          3/3
+Card Text:        When Slashing Tiger attacks and is blocked, it gets +2/+2 until the end of the turn.
+Flavor Text:      Unless you enter the tiger's lair, you cannot get hold of the tiger's cubs.
+                  -Sun Tzu, Art of War
+Artist :          Yang Jun Kwon
+Rarity:           R
+Card #            145
+
+Card Title:       Southern Elephant
+Card Color:       Green
+Type & Class:     Creature - Elephant
+Casting Cost:     3G
+Pow/Tgh:          3/4
+Card Text:
+Flavor Text:      While defending their southern borders, both the Wu and Shu kingdoms fought against the
+                  barbarians' trained elephants.
+Artist :          Wang Yuqun
+Rarity:           C
+Card #            146
+
+Card Title:       Spoils of Victory
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     2G
+Pow/Tgh:          n/a
+Card Text:        Search your library for a plains, island, swamp, mountain, or forest card and put that land
+                  into play. Shuffle your library afterward.
+Flavor Text:
+Artist :          Sun Nan
+Rarity:           U
+Card #            147
+
+Card Title:       Spring of Eternal Peace
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     3GG
+Pow/Tgh:          n/a
+Card Text:        You gain 8 life.
+Flavor Text:      Bathing in this spring could cure ailments of body and mind alike.
+Artist :          Wang Yuqun
+Rarity:           C
+Card #            148
+
+Card Title:       Stalking Tiger
+Card Color:       Green
+Type & Class:     Creature - Tiger
+Casting Cost:     3G
+Pow/Tgh:          3/3
+Card Text:        Stalking Tiger can't be blocked by more than one creature each turn.
+Flavor Text:      Throughout Chinese history, generals have often been referred to as tigers for their
+                  fierceness, strength, and bravery.
+Artist :          Kang Yu
+Rarity:           C
+Card #            149
+
+Card Title:       Taoist Hermit
+Card Color:       Green
+Type & Class:     Creature - Mystic
+Casting Cost:     2G
+Pow/Tgh:          2/2
+Card Text:        Whenever your opponent chooses a creature in play, he or she can't choose Taoist Hermit.
+Flavor Text:      Taoists chose to be hermits for many reasons, but all shared one unchanging goal: to follow
+                  the Tao.
+Artist :          Wang Yuqun
+Rarity:           U
+Card #            150
+
+Card Title:       Taoist Mystic
+Card Color:       Green
+Type & Class:     Creature - Mystic
+Casting Cost:     2G
+Pow/Tgh:          2/2
+Card Text:        Taoist Mystic can't be blocked by creatures with horsemanship.
+Flavor Text:      By appearing in places miles apart at the same time, Zuo Ci exhibited the mystic's ability
+                  to "shrink the land."
+Artist :          Qu Xin
+Rarity:           R
+Card #            151
+
+Card Title:       Taunting Challenge
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     1GG
+Pow/Tgh:          n/a
+Card Text:        Choose any one creature. This turn, all creatures able to block it do so.
+Flavor Text:      Incensed by their opponents' unrelenting taunts, even wise generals were known to rashly
+                  lead their troops into battle-often to disastrous defeats.
+Artist :          Gao Yan
+Rarity:           R
+Card #            152
+
+Card Title:       Three Visits
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     1G
+Pow/Tgh:          n/a
+Card Text:        Search your library for a forest card and put that forest into play. Shuffle your library
+                  afterward.
+Flavor Text:      Trying to meet a worthy man in the wrong way is as bad as closing the door on an invited
+                  guest. -Mencius, a Chinese philosopher
+Artist :          Qu Xin
+Rarity:           C
+Card #            153
+
+Card Title:       Trained Cheetah
+Card Color:       Green
+Type & Class:     Creature - Cheetah
+Casting Cost:     2G
+Pow/Tgh:          2/2
+Card Text:        When Trained Cheetah attacks and is blocked, it gets +1/+1 until the end of the turn.
+Flavor Text:      ...came riding on the winds, charging, with fangs bared and claws flexed.
+Artist :          Fang Yue
+Rarity:           U
+Card #            154
+
+Card Title:       Trained Jackal
+Card Color:       Green
+Type & Class:     Creature - Jackal
+Casting Cost:     G
+Pow/Tgh:          1/2
+Card Text:
+Flavor Text:      To taunt a man into action, call him a coward. To insult him beyond forgiveness, call him
+                  a jackal.
+Artist :          Yang Jun Kwon
+Rarity:           C
+Card #            155
+
+Card Title:       Trip Wire
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     2G
+Pow/Tgh:          n/a
+Card Text:        Destroy any one creature with horsemanship.
+Flavor Text:      Trip wire, hooked poles, and sunken pits were commonly used to unhorse riders during the
+                  Three Kingdoms period.
+Artist :          Hong Yan
+Rarity:           U
+Card #            156
+
+Card Title:       Wielding the Green Dragon
+Card Color:       Green
+Type & Class:     Sorcery
+Casting Cost:     1G
+Pow/Tgh:          n/a
+Card Text:        Any one creature gets +4/+4 until the end of the turn.
+Flavor Text:      Named for the eastern part of the sky, the source of energy and renewal, Guan Yu's
+                  crescent-moon blade weighed over 100 pounds.
+Artist :          Quan Xuejun
+Rarity:           C
+Card #            157
+
+Card Title:       Wolf Pack
+Card Color:       Green
+Type & Class:     Creature - Wolves
+Casting Cost:     6GG
+Pow/Tgh:          7/6
+Card Text:        When Wolf Pack attacks and is blocked, you may have it deal its damage to the defending
+                  player instead of to the creatures blocking it.
+Flavor Text:
+Artist :          Yang Jun Kwon
+Rarity:           R
+Card #            158
+
+Card Title:       Zodiac Horse
+Card Color:       Green
+Type & Class:     Creature - Horse
+Casting Cost:     3G
+Pow/Tgh:          3/3
+Card Text:        Islandwalk (If defending player has an island in play, Zodiac Horse can't be blocked.)
+Flavor Text:      . . . 'First take Jingzhou, next the Riverlands;
+                  On that rich region, base your own royal stand.' . . .
+Artist :          Ai Desheng
+Rarity:           U
+Card #            159
+
+Card Title:       Zodiac Monkey
+Card Color:       Green
+Type & Class:     Creature - Monkey
+Casting Cost:     1G
+Pow/Tgh:          2/1
+Card Text:        Forestwalk (If defending player has a forest in play, Zodiac Monkey can't be blocked.)
+Flavor Text:      . . . By six offensives from the hills of Qi Kongming sought to change Han's destiny. . . .
+Artist :          Ai Desheng
+Rarity:           C
+Card #            160
+
+Card Title:       Zodiac Ox
+Card Color:       Green
+Type & Class:     Creature - Ox
+Casting Cost:     3G
+Pow/Tgh:          3/3
+Card Text:        Swampwalk (If defending player has a swamp in play, Zodiac Ox can't be blocked.)
+Flavor Text:      ...Cao's abdication changed the face of all; No mighty battles marked the Southland's fall...
+Artist :          Ai Desheng
+Rarity:           U
+Card #            161
+
+Card Title:       Zodiac Rabbit
+Card Color:       Green
+Type & Class:     Creature - Rabbit
+Casting Cost:     G
+Pow/Tgh:          1/1
+Card Text:        Forestwalk (If defending player has a forest in play, Zodiac Rabbit can't be blocked.)
+Flavor Text:      ...The world's affairs rush on, an endless stream;
+                  A sky-told fate, infinite in reach, dooms all...
+Artist :          Ai Desheng
+Rarity:           C
+Card #            162
+
+Card Title:       Zodiac Rooster
+Card Color:       Green
+Type & Class:     Creature - Rooster
+Casting Cost:     1G
+Pow/Tgh:          2/1
+Card Text:        Plainswalk (If defending player has a plains in play, Zodiac Rooster can't be blocked.)
+Flavor Text:      . . . But the time of Han had run-could he not tell?
+                  - That night his master star fell past the hills. . . .
+Artist :          Ai Desheng
+Rarity:           C
+Card #            163
+
+Card Title:       Zodiac Tiger
+Card Color:       Green
+Type & Class:     Creature - Tiger
+Casting Cost:     2GG
+Pow/Tgh:          3/4
+Card Text:        Forestwalk (If defending player has a forest in play, Zodiac Tiger can't be blocked.)
+Flavor Text:      . . . Three kings no more-Chenliu, Guiming, Anle. The fiefs and posts must now be
+                  filled anew. . . .
+Artist :          Ai Desheng
+Rarity:           U
+Card #            164
+
+Card Title:       Zuo Ci, the Mocking Sage
+Card Color:       Green
+Type & Class:     Creature - Legend
+Casting Cost:     1GG
+Pow/Tgh:          1/2
+Card Text:        Zuo Ci can't be blocked by creatures with horsemanship. Whenever your opponent chooses a
+                  creature in play, he or she can't choose Zuo Ci.
+Flavor Text:
+Artist :          Wang Yuqun
+Rarity:           R
+Card #            165
+
+Card Title:       Plains
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          He Jiancheng
+Rarity:
+Card #            166
+
+Card Title:       Plains
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          He Jiancheng
+Rarity:
+Card #            167
+
+Card Title:       Plains
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          He Jiancheng
+Rarity:
+Card #            168
+
+Card Title:       Island
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Ku Xueming
+Rarity:
+Card #            169
+
+Card Title:       Island
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Ku Xueming
+Rarity:
+Card #            170
+
+Card Title:       Island
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Ku Xueming
+Rarity:
+Card #            171
+
+Card Title:       Swamp
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Wang Chuxiong
+Rarity:
+Card #            172
+
+Card Title:       Swamp
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Wang Chuxiong
+Rarity:
+Card #            173
+
+Card Title:       Swamp
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Wang Chuxiong
+Rarity:
+Card #            174
+
+Card Title:       Mountain
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Qin Jun
+Rarity:
+Card #            175
+
+Card Title:       Mountain
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Qin Jun
+Rarity:
+Card #            176
+
+Card Title:       Mountain
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Qin Jun
+Rarity:
+Card #            177
+
+Card Title:       Forest
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Ji Yong
+Rarity:
+Card #            178
+
+Card Title:       Forest
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Ji Yong
+Rarity:
+Card #            179
+
+Card Title:       Forest
+Card Color:
+Type & Class:     Land
+Casting Cost:
+Pow/Tgh:
+Card Text:
+Flavor Text:
+Artist :          Ji Yong
+Rarity:
+Card #            180
+
+
+Copyright 1999 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+and Portal Three Kingdoms are trademarks of Wizards of the Coast, Inc.

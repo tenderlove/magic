@@ -1,0 +1,1784 @@
+Nemesis Spoiler List
+Wizards of the Coast, Inc.
+(Released February 8, 2000)
+
+143 Cards Total
+Color: 25 Black, 25 Blue, 25 Green, 25 Red, 25 White, 15 Artifacts, 3 Land
+Rarity: 55 Common, 44 Uncommon, 44 Rare
+
+Card Title:     Angelic Favor
+Card Color:     White
+Casting Cost:   3W
+Type & Class:   Instant
+Card Text:      If you control a plains, you may tap an untapped creature you 
+                control instead of paying Angelic Favor's mana cost. 
+                Play Angelic Favor only during combat. 
+                Put a 4/4 white Angel creature token with flying into play. 
+                Remove it from the game at end of turn.
+Artist:         Paolo Parente
+Rarity:         U
+Card #:         1/143
+
+Card Title:     Avenger en-Dal
+Card Color:     White
+Casting Cost:   1W
+Type & Class:   Creature - Spellshaper
+Card Text:      2W, Tap, Discard a card from your hand: Remove target attacking 
+                creature from the game. Its controller gains life equal to its 
+                toughness.
+Pow/Tgh:	1/1
+Artist:         Ron Spencer
+Rarity:         R
+Card #:         2/143
+
+Card Title:     Blinding Angel
+Card Color:     White
+Casting Cost:   3WW
+Type & Class:   Creature - Angel
+Card Text:      Flying  
+                Whenever Blinding Angel deals combat damage to a player, that 
+                player skips his or her next combat phase.
+Flavor Text:    "Their eyes will shrivel and blacken before faith's true light."
+Pow/Tgh:	2/4
+Artist:         Todd Lockwood
+Rarity:         R
+Card #:         3/143
+
+Card Title:     Chieftain en-Dal
+Card Color:     White
+Casting Cost:   1WW
+Type & Class:   Creature - Knight
+Card Text:      Whenever Chieftain en-Dal attacks, attacking creatures gain 
+                first strike until end of turn.
+Flavor Text:    The clearest commands are practical examples.
+Pow/Tgh:	2/2
+Artist:         Orizio Daniele
+Rarity:         U
+Card #:         4/143
+
+Card Title:     Defender en-Vec
+Card Color:     White
+Casting Cost:   3W
+Type & Class:   Creature - Cleric
+Card Text:      Fading 4 (This creature comes into play with four fade counters 
+                on it. At the beginning of your upkeep, remove a fade counter 
+                from it. If you can't, sacrifice it.) 
+                Remove a fade counter from Defender en-Vec: Prevent the next 2 
+                damage that would be dealt to target creature or player this 
+                turn.
+Pow/Tgh:	2/4
+Artist:         Bradley Williams
+Rarity:         C
+Card #:         5/143
+
+Card Title:     Defiant Falcon
+Card Color:     White
+Casting Cost:   1W
+Type & Class:   Creature - Rebel Bird
+Card Text:      Flying 
+                4, Tap: Search your library for a Rebel card with converted mana 
+                cost 3 or less and put that card into play. Then shuffle your 
+                library.
+Pow/Tgh:	1/1
+Artist:         Heather Hudson
+Rarity:         C
+Card #:         6/143
+
+Card Title:     Defiant Vanguard
+Card Color:     White
+Casting Cost:   2W
+Type & Class:   Creature - Rebel
+Card Text:      When Defiant Vanguard blocks, at end of combat, destroy it and 
+                all creatures it blocked this turn. 
+                5, Tap: Search your library for a Rebel card with converted mana 
+                cost 4 or less and put that card into play. Then shuffle your 
+                library.
+Pow/Tgh:	2/2
+Artist:         Pete Venters
+Rarity:         U
+Card #:         7/143
+
+Card Title:     Fanatical Devotion
+Card Color:     White
+Casting Cost:   2W
+Type & Class:   Enchantment 
+Card Text:      Sacrifice a creature: Regenerate target creature.
+Flavor Text:    The Oracle told Eladamri he would save his people by abandoning 
+                them. His followers adopted that ideal.
+Artist:         Massimilano Frezzato
+Rarity:         C
+Card #:         8/143
+
+Card Title:     Lashknife
+Card Color:     White
+Casting Cost:   1W
+Type & Class:   Enchant Creature
+Card Text:      If you control a plains, you may tap an untapped creature you 
+                control instead of paying Lashknife's mana cost. 
+                Enchanted creature has first strike.
+Flavor Text:    Those it won't scare, it scars.
+Artist:         Hannibal King
+Rarity:         C
+Card #:         9/143
+
+Card Title:     Lawbringer
+Card Color:     White
+Casting Cost:   2W
+Type & Class:   Creature - Rebel
+Card Text:      Tap, Sacrifice Lawbringer: Remove target red creature from the 
+                game.
+Flavor Text:    One injustice starts a thousand riots. One law stops a thousand 
+                crimes.
+                - Lawbringer creed
+Pow/Tgh:	2/2
+Artist:         Matt Cavotta
+Rarity:         C
+Card #:         10/143
+
+Card Title:     Lightbringer
+Card Color:     White
+Casting Cost:   2W
+Type & Class:   Creature - Rebel
+Card Text:      Tap, Sacrifice Lightbringer: Remove target black creature from 
+                the game.
+Flavor Text:    One thought opens a thousand eyes. One sun brings a thousand 
+                dawns. 
+                - Lightbringer creed
+Pow/Tgh:	2/2
+Artist:         Paolo Parente
+Rarity:         C
+Card #:         11/143
+
+Card Title:     Lin Sivvi, Defiant Hero
+Card Color:     White
+Casting Cost:   1WW
+Type & Class:   Creature - Rebel Legend
+Card Text:      X, Tap: Search your library for a Rebel card with converted mana 
+                cost X or less and put that card into play. Then shuffle your 
+                library. 
+                3: Put target Rebel card from your graveyard on the bottom of 
+                your library.
+Pow/Tgh:	1/3
+Artist:         rk post
+Rarity:         R
+Card #:         12/143
+
+Card Title:     Netter en-Dal
+Card Color:     White
+Casting Cost:   W
+Type & Class:   Creature - Spellshaper
+Card Text:      W, Tap, Discard a card from your hand: Target creature can't 
+                attack this turn.
+Flavor Text:    The wizard's vocabulary of mogg profanities increased with every 
+                net she cast.
+Pow/Tgh:	1/1
+Artist:         Matt Cavotta
+Rarity:         C
+Card #:         13/143
+
+Card Title:     Noble Stand
+Card Color:     White
+Casting Cost:   4W
+Type & Class:   Enchantment 
+Card Text:      Whenever a creature you control blocks, you gain 2 life.
+Flavor Text:    Soldiers will always endanger their lives to defend many other 
+                lives.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         U
+Card #:         14/143
+
+Card Title:     Off Balance
+Card Color:     White
+Casting Cost:   W
+Type & Class:   Instant
+Card Text:      Target creature can't attack or block this turn.
+Flavor Text:    A heavy weapon deals plenty of damage -but it does have to hit.
+Artist:         Jeff Miracola
+Rarity:         C
+Card #:         15/143
+
+Card Title:     Oracle's Attendants
+Card Color:     White
+Casting Cost:   3W
+Type & Class:   Creature - Soldier
+Card Text:      Tap: All damage that would be dealt to target creature this turn 
+                by a source of your choice is dealt to Oracle's Attendants 
+                instead.
+Flavor Text:    The future isn't sacred, but its speaker is.
+Pow/Tgh:	1/5
+Artist:         Orizio Daniele
+Rarity:         R
+Card #:         16/143
+
+Card Title:     Parallax Wave
+Card Color:     White
+Casting Cost:   2WW
+Type & Class:   Enchantment
+Card Text:      Fading 5 
+                Remove a fade counter from Parallax Wave: Remove target creature 
+                from the game. 
+                When Parallax Wave leaves play, each player returns to play all 
+                cards he or she owns removed from the game with Parallax Wave.
+Artist:         Greg Staples
+Rarity:         R
+Card #:         17/143
+
+Card Title:     Seal of Cleansing
+Card Color:     White
+Casting Cost:   1W
+Type & Class:   Enchantment
+Card Text:      Sacrifice Seal of Cleansing: Destroy target artifact or 
+                enchantment.
+Flavor Text:    "I am the purifier, the light that clears all shadows." 
+                - Seal inscription
+Artist:         Christopher Moeller
+Rarity:         C
+Card #:         18/143
+
+Card Title:     Silkenfist Fighter
+Card Color:     White
+Casting Cost:   1W
+Type & Class:   Creature - Soldier
+Card Text:      Whenever Silkenfist Fighter becomes blocked, untap it.
+Flavor Text:    Simple wooden staff Made from life, protecting life, Stronger 
+                than cold steel.
+Pow/Tgh:	1/3
+Artist:         Mark Brill
+Rarity:         C
+Card #:         19/143
+
+Card Title:     Silkenfist Order
+Card Color:     White
+Casting Cost:   3WW
+Type & Class:   Creature - Soldier
+Card Text:      Whenever Silkenfist Order becomes blocked, untap it.
+Flavor Text:    Hands weave life and death; Intertwining spirits knit Tapestries
+                and shrouds.
+Pow/Tgh:	3/5
+Artist:         Greg & Tim Hildebrandt
+Rarity:         U
+Card #:         20/143
+
+Card Title:     Sivvi's Ruse
+Card Color:     White
+Casting Cost:   2WW
+Type & Class:   Instant
+Card Text:      If an opponent controls a mountain and you control a plains, you 
+                may play Sivvi's Ruse without paying its mana cost. 
+                Prevent all damage that would be dealt this turn to creatures 
+                you control.
+Artist:         Kev Walker
+Rarity:         U
+Card #:         21/143
+
+Card Title:     Sivvi's Valor
+Card Color:     White
+Casting Cost:   2W
+Type & Class:   Instant
+Card Text:      If you control a plains, you may tap an untapped creature you 
+                control instead of paying the mana cost of Sivvi's Valor. 
+                All damage that would be dealt to target creature this turn 
+                is dealt to you instead.
+Artist:         Jeff Miracola
+Rarity:         R
+Card #:         22/143
+
+Card Title:     Spiritual Asylum
+Card Color:     White
+Casting Cost:   2WW
+Type & Class:   Enchantment
+Card Text:      Creatures and lands you control can't be the target of spells 
+                or abilities.   
+                When a creature you control attacks, sacrifice Spiritual Asylum.
+Flavor Text:    Trapped in safety is still trapped.
+Artist:         Matt Cavotta
+Rarity:         R
+Card #:         23/143
+
+Card Title:     Topple
+Card Color:     White
+Casting Cost:   2W
+Type & Class:   Sorcery
+Card Text:      Remove target creature with the greatest power from the game. 
+                (If two or more creatures are tied for greatest power, target 
+                only one of them.)
+Flavor Text:    "Let all witness the fate of those who defy me." 
+                - Crovax
+Artist:         Daren Bader
+Rarity:         C
+Card #:         24/143
+
+Card Title:     Voice of Truth
+Card Color:     White
+Casting Cost:   3W
+Type & Class:   Creature - Angel
+Card Text:      Flying, protection from white
+Flavor Text:    "Above them all is Truth, and Truth must be set free. If the 
+                wings of Truth are clipped, the voices will fall silent." 
+                Song of All, canto 167
+Pow/Tgh:	2/2
+Artist:         rk post
+Rarity:         U
+Card #:         25/143
+
+Card Title:	Accumulated Knowledge
+Card Color:	Blue	
+Type & Class:	Instant
+Casting Cost:	1U
+Card Text:	Draw a card, then draw cards equal to the number of Accumulated 
+                Knowledge cards in all graveyards.
+Flavor Text:	"I have seen and heard much here. There are secrets within 
+                secrets. 
+                Let me show you." 
+                - Takara, to Eladamri
+Artists:	Randy Gallegos
+Rarity:		C
+Card #:		26/143
+
+Card Title:     Æther Barrier
+Card Color:     Blue
+Casting Cost:   2U
+Type & Class:   Enchantment
+Card Text:      Whenever a player plays a creature spell, that player sacrifices 
+                a permanent unless he or she pays 1.
+Flavor Text:    "Creatures fade in and out of existence. It's an unfortunate side 
+                effect. The losses are tolerable." 
+                - Belbe
+Artist:         David Martin
+Rarity:         R
+Card #:         27/143
+
+Card Title:     Air Bladder
+Card Color:     Blue
+Casting Cost:   U
+Type & Class:   Enchant Creature
+Card Text:      Enchanted creature has flying. Enchanted creature can block only 
+                creatures with flying.
+Flavor Text:    Random mutations among Rootwater merfolk were common - and 
+                disturbing.
+Artist:         Donato Giancola
+Rarity:         C
+Card #:         28/143
+
+Card Title:     Cloudskate
+Card Color:     Blue
+Casting Cost:   1U
+Type & Class:   Creature - Illusion
+Card Text:      Flying  
+                Fading 3 (This creature comes into play with three fade counters 
+                on it. At the beginning of your upkeep, remove a fade counter 
+                from it. If you can't, sacrifice it.)
+Pow/Tgh:	2/2
+Artist:         Carl Critchlow
+Rarity:         C
+Card #:         29/143
+
+Card Title:     Daze
+Card Color:     Blue
+Casting Cost:   1U
+Type & Class:   Instant
+Card Text:      You may return an island you control to its owner's hand instead 
+                of paying Daze's mana cost. 
+                Counter target spell unless its controller pays 1.
+Artist:         Matthew D. Wilson
+Rarity:         C
+Card #:         30/143
+
+Card Title:     Dominate
+Card Color:     Blue
+Casting Cost:   X1UU
+Type & Class:   Instant 
+Card Text:      Gain control of target creature with converted mana cost X or 
+                less. (This spell's effect doesn't end at end of turn.)
+Flavor Text:    "I've come to reclaim what is mine. And you, Greven, are mine." 
+                - Volrath
+Artist:         Scott Hampton
+Rarity:         U
+Card #:         31/143
+
+Card Title:     Ensnare
+Card Color:     Blue
+Casting Cost:   3U
+Type & Class:   Instant
+Card Text:      You may return two islands you control to their owner's hand 
+                instead of paying Ensnare's mana cost. 
+                Tap all creatures.
+Flavor Text:    Rootwater has become as dangerous to its denizens as to its 
+                enemies.
+Artist:         Gao Yan
+Rarity:         U
+Card #:         32/143
+
+Card Title:     Infiltrate
+Card Color:     Blue
+Casting Cost:   U
+Type & Class:   Instant
+Card Text:      Target creature is unblockable this turn.
+Flavor Text:    Getting in was the easy part. Getting out proved to be more 
+                difficult.
+Artist:         Nelson DeCastro
+Rarity:         C
+Card #:         33/143
+
+Card Title:     Jolting Merfolk
+Card Color:     Blue
+Casting Cost:   2UU
+Type & Class:   Creature - Merfolk
+Card Text:      Fading 4 (This creature comes into play with four fade counters 
+                on it. At the beginning of your upkeep, remove a fade counter 
+                from it. If you can't, sacrifice it.) 
+                Remove a fade counter from Jolting Merfolk: Tap target creature.
+Pow/Tgh:	2/2
+Artist:         Glen Angus
+Rarity:         U
+Card #:         34/143
+
+Card Title:     Oraxid
+Card Color:     Blue
+Casting Cost:   3U
+Type & Class:   Creature - Beast
+Card Text:      Protection from red
+Flavor Text:    "I'm constantly amazed by the tenacity of living creatures on 
+                this plane. Even 
+                in the stronghold's white-hot core, life persists." 
+                - Ertai
+Pow/Tgh:	2/3
+Artist:         Dave Dorman
+Rarity:         C
+Card #:         35/143
+
+Card Title:     Pale Moon
+Card Color:     Blue
+Casting Cost:   1U
+Type & Class:   Instant
+Card Text:      Until end of turn, if a player taps a nonbasic land for mana, 
+                it produces colorless mana instead of its normal type.
+Flavor Text:    Denizens of Rath had never seen the moon before. It was a 
+                symbol of change, not constancy.
+Artist:         Pete Venters
+Rarity:         R
+Card #:         36/143
+
+Card Title:     Parallax Tide
+Card Color:     Blue
+Casting Cost:   2UU
+Type & Class:   Enchantment
+Card Text:      Fading 5 
+                Remove a fade counter from Parallax Tide: Remove target land 
+                from the game. 
+                When Parallax Tide leaves play, each player returns to play 
+                all cards he or she owns removed from the game with Parallax 
+                Tide.
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         37/143
+
+Card Title:     Rising Waters
+Card Color:     Blue
+Casting Cost:   3U
+Type & Class:   Enchantment  
+Card Text:      Lands don't untap during their controllers' untap steps. 
+                At the beginning of each player's upkeep, that player untaps 
+                a land he or she controls.
+Flavor Text:    Rising waters, sinking hope.
+Artist:         Scott M. Fischer
+Rarity:         R
+Card #:         38/143
+
+Card Title:     Rootwater Commando
+Card Color:     Blue
+Casting Cost:   2U
+Type & Class:   Creature - Merfolk
+Card Text:      Islandwalk (This creature is unblockable as long as defending 
+                player controls an island.)
+Flavor Text:    Rootwater merfolk are seldom seen these days, but elf corpses 
+                are as numerous as ever.
+Pow/Tgh:	2/2
+Artist:         Mark Tedin
+Rarity:         C
+Card #:         39/143
+
+Card Title:     Rootwater Thief
+Card Color:     Blue
+Casting Cost:   1U
+Type & Class:   Creature - Merfolk
+Card Text:      U: Rootwater Thief gains flying until end of turn. 
+                Whenever Rootwater Thief deals combat damage to a player, you 
+                may pay 2. If you do, search that player's library for a card 
+                and remove that card from the game, then the player shuffles 
+                his or her library.
+Pow/Tgh:	1/2
+Artist:         Ron Spears
+Rarity:         R
+Card #:         40/143
+
+Card Title:     Seahunter
+Card Color:     Blue
+Casting Cost:   2UU
+Type & Class:   Creature - Mercenary
+Card Text:      3, Tap: Search your library for a Merfolk card and put that 
+                card into play. Then shuffle your library.
+Flavor Text:    "They can't feel pain. They just wiggle 'cause they're scared."
+Pow/Tgh:	2/2
+Artist:         Heather Hudson
+Rarity:         R
+Card #:         41/143
+
+Card Title:     Seal of Removal
+Card Color:     Blue
+Casting Cost:   U
+Type & Class:   Enchantment
+Card Text:      Sacrifice Seal of Removal: Return target creature to its owner's 
+                hand.
+Flavor Text:    "I am the unraveler, the loosened thread that will not hold." 
+                - Seal inscription
+Artist:         Christopher Moeller
+Rarity:         C
+Card #:         42/143
+
+Card Title:     Sliptide Serpent
+Card Color:     Blue
+Casting Cost:   4UU
+Type & Class:   Creature - Serpent
+Card Text:      3U: Return Sliptide Serpent to its owner's hand.
+Flavor Text:    It's futile to fight something you can see only in the corner 
+                of your eye.
+Pow/Tgh:	4/4
+Artist:         Daren Bader
+Rarity:         R
+Card #:         43/143
+
+Card Title:     Sneaky Homunculus
+Card Color:     Blue
+Casting Cost:   1U
+Type & Class:   Creature - Illusion
+Card Text:      Sneaky Homunculus can't block or be blocked by creatures with 
+                power 2 or greater.
+Flavor Text:    Keep watch only for the giants and you'll be eaten by the ants.
+Pow/Tgh:	1/1
+Artist:         Scott M. Fischer
+Rarity:         C
+Card #:         44/143
+
+Card Title:     Stronghold Biologist
+Card Color:     Blue
+Casting Cost:   2U
+Type & Class:   Creature - Spellshaper
+Card Text:      UU, Tap, Discard a card from your hand: Counter target creature 
+                spell.
+Flavor Text:    He twists the laws of nature until they scream.
+Pow/Tgh:	1/1
+Artist:         Terese Nielsen
+Rarity:         U
+Card #:         45/143
+
+Card Title:     Stronghold Machinist
+Card Color:     Blue
+Casting Cost:   2U
+Type & Class:   Creature - Spellshaper
+Card Text:      UU, Tap, Discard a card from your hand: Counter target 
+                noncreature spell.
+Flavor Text:    She stretches the laws of physics until they snap.
+Pow/Tgh:	1/1
+Artist:         Terese Nielsen
+Rarity:         U
+Card #:         46/143
+
+Card Title:     Stronghold Zeppelin
+Card Color:     Blue
+Casting Cost:   2UU
+Type & Class:   Creature - Ship
+Card Text:      Flying 
+                Stronghold Zeppelin can block only creatures with flying.
+Flavor Text:    As long as the stronghold controlled the sky, the rebels 
+                were doomed.
+Pow/Tgh:	3/3
+Artist:         Arnie Swekel
+Rarity:         U
+Card #:         47/143
+
+Card Title:     Submerge
+Card Color:     Blue
+Casting Cost:   4U
+Type & Class:   Instant
+Card Text:      If an opponent controls a forest and you control an island, 
+                you may play Submerge without paying its mana cost.  
+                Put target creature on top of its owner's library.
+Artist:         Mark Romanoski
+Rarity:         U
+Card #:         48/143
+
+Card Title:     Trickster Mage
+Card Color:     Blue
+Casting Cost:   U
+Type & Class:   Creature - Spellshaper
+Card Text:      U, Tap, Discard a card from your hand: Tap or untap target 
+                artifact, creature, or land.
+Flavor Text:    "If it ain't broke, I'll break it. If it is broke, I'll fix 
+                it."
+Pow/Tgh:	1/1
+Artist:         Alan Rabinowitz
+Rarity:         C
+Card #:         49/143
+
+Card Title:     Wandering Eye
+Card Color:     Blue
+Casting Cost:   2U
+Type & Class:   Creature - Illusion
+Card Text:      Flying  
+                All players play with their hands revealed.
+Flavor Text:    The evincar has many ways of keeping track of his subjects.
+Pow/Tgh:	1/3
+Artist:         Sam Wood
+Rarity:         C
+Card #:         50/143
+
+Card Title:     Ascendant Evincar
+Card Color:     Black
+Casting Cost:   4BB
+Type & Class:   Creature - Legend
+Card Text:      Flying 
+                Other black creatures get +1/+1. 
+                Nonblack creatures get -1/-1.
+Flavor Text:    "Things are going to change around here." 
+                - Crovax
+Pow/Tgh:	3/3
+Artist:         Mark Zug
+Rarity:         R
+Card #:         51/143
+
+Card Title:     Battlefield Percher
+Card Color:     Black
+Casting Cost:   3BB
+Type & Class:   Creature - Bird
+Card Text:      Flying  
+                Battlefield Percher can block only creatures with flying.  
+                1B: Battlefield Percher gets +1/+1 until end of turn.
+Pow/Tgh:	2/2
+Artist:         Edward P. Beard, Jr.
+Rarity:         U
+Card #:         52/143
+
+Card Title:     Belbe's Percher
+Card Color:     Black
+Casting Cost:   2B
+Type & Class:   Creature - Bird
+Card Text:      Flying  
+                Belbe's Percher can block only creatures with flying.
+Flavor Text:    Long and powerful, these birds were used to carry messages 
+                to and from the evincar.
+Pow/Tgh:	2/2
+Artist:         Edward P. Beard, Jr.
+Rarity:         C
+Card #:         53/143
+
+Card Title:     Carrion Wall
+Card Color:     Black
+Casting Cost:   1BB
+Type & Class:   Creature - Wall
+Card Text:      (Walls can't attack.)
+                1B: Regenerate Carrion Wall.
+Flavor Text:    A wall built from the bodies of the enemy will never lack 
+                building material in times of war.
+Pow/Tgh:	3/2
+Artist:         Tony Szczudlo
+Rarity:         U
+Card #:         54/143
+
+Card Title:     Dark Triumph
+Card Color:     Black
+Casting Cost:   4B
+Type & Class:   Instant
+Card Text:      If you control a swamp, you may sacrifice a creature instead 
+                of paying Dark Triumph's mana cost.  
+                Creatures you control get +2/+0 until end of turn.
+Flavor Text:    All that's left is the coronation.
+Artist:         Adam Rex
+Rarity:         U
+Card #:         55/143
+
+Card Title:     Death Pit Offering
+Card Color:     Black
+Casting Cost:   2BB
+Type & Class:   Enchantment
+Card Text:      As Death Pit Offering comes into play, sacrifice all creatures 
+                you control. 
+                Creatures you control get +2/+2.
+Flavor Text:    "Kill them all and feed them to the new recruits." 
+                - Crovax
+Artist:         Pete Venters
+Rarity:         R
+Card #:         56/143
+
+Card Title:     Divining Witch
+Card Color:     Black
+Casting Cost:   1B
+Type & Class:   Creature - Spellshaper
+Card Text:      1B, Tap, Discard a card from your hand: Name a card. Remove 
+                the top six cards of your library from the game. 
+                Reveal cards from the top of your library until you reveal 
+                the named card, then put that card into your hand. Remove 
+                all other cards revealed this way from the game.
+Pow/Tgh:	1/1
+Artist:         Donato Giancola
+Rarity:         R
+Card #:         57/143
+
+Card Title:     Massacre
+Card Color:     Black
+Casting Cost:   2BB
+Type & Class:   Sorcery 
+Card Text:      If an opponent controls a plains and you control a swamp, 
+                you may play Massacre without paying its mana cost. 
+                All creatures get -2/-2 until end of turn.
+Artist:         Pete Venters
+Rarity:         U
+Card #:         58/143
+
+Card Title:     Mind Slash
+Card Color:     Black
+Casting Cost:   1BB
+Type & Class:   Enchantment
+Card Text:      B, Sacrifice a creature: Look at target opponent's hand 
+                and choose a card from it. That player discards that card. 
+                Play this ability only if you could play a sorcery.
+Flavor Text:    "I can't think with all that screaming."
+Artist:         Adam Rex
+Rarity:         U
+Card #:         59/143
+
+Card Title:     Mind Swords
+Card Color:     Black
+Casting Cost:   1B
+Type & Class:   Sorcery
+Card Text:      If you control a swamp, you may sacrifice a creature instead 
+                of paying Mind Swords's mana cost. 
+                Each player removes two cards in his or her hand from the game.
+Artist:         Daren Bader
+Rarity:         C
+Card #:         60/143
+
+Card Title:     Murderous Betrayal
+Card Color:     Black
+Casting Cost:   BBB
+Type & Class:   Enchantment 
+Card Text:      BB, Pay half your life rounded up: Destroy target nonblack 
+                creature. It can't be regenerated.
+Flavor Text:    In darkness, the assassin sneaked into the village and 
+                destroyed what Eladamri loved most: his daughter.
+Artist:         Randy Gallegos
+Rarity:         R
+Card #:         61/143
+
+Card Title:     Parallax Dementia
+Card Color:     Black
+Casting Cost:   1B
+Type & Class:   Enchant Creature
+Card Text:      Fading 1 (This enchantment comes into play with one fade 
+                counter on it. At the beginning of your upkeep, remove a 
+                fade counter from it. If you can't, sacrifice it.)
+                Enchanted creature gets +3/+2. 
+                When Parallax Dementia leaves play, destroy enchanted 
+                creature. That creature can't be regenerated.
+Artist:         Eric Peterson
+Rarity:         C
+Card #:         62/143
+
+Card Title:     Parallax Nexus
+Card Color:     Black
+Casting Cost:   2B
+Type & Class:   Enchantment
+Card Text:      Fading 5 
+                Remove a fade counter from Parallax Nexus: Target opponent 
+                removes a card in his or her hand from the game. Play this 
+                ability only if you could play a sorcery. 
+                When Parallax Nexus leaves play, each player returns to his 
+                or her hand all cards he or she owns removed from the game 
+                with Parallax Nexus.
+Artist:         Greg Staples
+Rarity:         R
+Card #:         63/143
+
+Card Title:     Phyrexian Driver
+Card Color:     Black
+Casting Cost:   2B
+Type & Class:   Creature - Mercenary
+Card Text:      When Phyrexian Driver comes into play, all other Mercenaries 
+                get +1/+1 until end of turn.
+Flavor Text:    Although the abuse was initially effective, the troops soon 
+                became numb to it.
+Pow/Tgh:	1/1
+Artist:         Chippy
+Rarity:         C
+Card #:         64/143
+
+Card Title:     Phyrexian Prowler
+Card Color:     Black
+Casting Cost:   3B
+Type & Class:   Creature - Mercenary
+Card Text:      Fading 3 (This creature comes into play with three fade 
+                counters on it. At the beginning of your upkeep, remove a 
+                fade counter from it. If you can't, sacrifice it.)
+                Remove a fade counter from Phyrexian Prowler: Phyrexian 
+                Prowler gets +1/+1 until end of turn.
+Pow/Tgh:	3/3
+Artist:         Mark Zug
+Rarity:         U
+Card #:         65/143
+
+Card Title:     Plague Witch
+Card Color:     Black
+Casting Cost:   1B
+Type & Class:   Creature - Spellshaper
+Card Text:      B, Tap, Discard a card from your hand: Target creature 
+                gets -1/-1 until end of turn.
+Flavor Text:    "I can ail what cures you."
+Pow/Tgh:	1/1
+Artist:         Nelson DeCastro
+Rarity:         C
+Card #:         66/143
+
+Card Title:     Rathi Assassin
+Card Color:     Black
+Casting Cost:   2BB
+Type & Class:   Creature - Mercenary
+Card Text:      1BB, Tap: Destroy target tapped nonblack creature. 
+                3, Tap: Search your library for a Mercenary card with 
+                converted mana cost 3 or less and put that card into play. 
+                Then shuffle your library.
+Pow/Tgh:	2/2
+Artist:         Dana Knutson
+Rarity:         R
+Card #:         67/143
+
+Card Title:     Rathi Fiend
+Card Color:     Black
+Casting Cost:   3B
+Type & Class:   Creature - Mercenary
+Card Text:      When Rathi Fiend comes into play, each player loses 3 life. 
+                3, Tap: Search your library for a Mercenary card with converted 
+                mana cost 3 or less and put that card into play. Then shuffle 
+                your library.
+Pow/Tgh:	2/2
+Artist:         Mark Tedin
+Rarity:         U
+Card #:         68/143
+
+Card Title:     Rathi Intimidator
+Card Color:     Black
+Casting Cost:   1BB
+Type & Class:   Creature - Mercenary
+Card Text:      Rathi Intimidator can't be blocked except by artifact creatures 
+                and black creatures. 
+                2, Tap: Search your library for a Mercenary card with converted 
+                mana cost 2 or less and put that card into play. Then shuffle 
+                your library.
+Pow/Tgh:	2/1
+Artist:         Mike Ploog
+Rarity:         C
+Card #:         69/143
+
+Card Title:     Seal of Doom
+Card Color:     Black
+Casting Cost:   2B
+Type & Class:   Enchantment
+Card Text:      Sacrifice Seal of Doom: Destroy target nonblack creature. It 
+                can't be regenerated.
+Flavor Text:    "I am the banisher, the ill will that snuffs the final candle." 
+                - Seal inscription
+Artist:         Christopher Moeller
+Rarity:         C
+Card #:         70/143
+
+Card Title:     Spineless Thug
+Card Color:     Black
+Casting Cost:   1B
+Type & Class:   Creature - Mercenary
+Card Text:      Spineless Thug can't block.
+Flavor Text:    These troops are only as strong as the evincar's control.
+Pow/Tgh:	2/2
+Artist:         Matthew D. Wilson
+Rarity:         C
+Card #:         71/143
+
+Card Title:     Spiteful Bully
+Card Color:     Black
+Casting Cost:   1B
+Type & Class:   Creature - Mercenary
+Card Text:      At the beginning of your upkeep, Spiteful Bully deals 3 
+                damage to target creature you control.
+Flavor Text:    Like most creatures bent on total destruction, they rarely 
+                bother to double-check their targets.
+Pow/Tgh:	3/3
+Artist:         Chippy
+Rarity:         C
+Card #:         72/143
+
+Card Title:     Stronghold Discipline
+Card Color:     Black
+Casting Cost:   2BB
+Type & Class:   Sorcery 
+Card Text:      Each player loses 1 life for each creature he or she controls.
+Flavor Text:    "Crovax never passes up an opportunity to cause widespread 
+                misery." 
+                - Belbe
+Artist:         Li Tie
+Rarity:         C
+Card #:         73/143
+
+Card Title:     Vicious Hunger
+Card Color:     Black
+Casting Cost:   BB
+Type & Class:   Sorcery
+Card Text:      Vicious Hunger deals 2 damage to target creature. You gain 2 
+                life.
+Flavor Text:    "Blood is foul, the flesh dross. My ascendance thirsts for life 
+                itself." 
+                - Crovax
+Artist:         Massimilano Frezzato
+Rarity:         C
+Card #:         74/143
+
+Card Title:     Volrath the Fallen
+Card Color:     Black
+Casting Cost:   3BBB
+Type & Class:   Creature - Legend
+Card Text:      1B, Discard a creature card from your hand: Volrath the Fallen 
+                gets +X/+X until end of turn, where X is the discarded card's 
+                converted mana cost.
+Flavor Text:    "I stepped out. I did not step down."
+Pow/Tgh:	6/4
+Artist:         Kev Walker
+Rarity:         R
+Card #:         75/143
+
+Card Title:     Ancient Hydra
+Card Color:     Red
+Casting Cost:   4R
+Type & Class:   Creature - Hydra
+Card Text:      Fading 5 (This creature comes into play with five fade counters 
+                on it. At the beginning of your upkeep, remove a fade counter 
+                from it. If you can't, sacrifice it.) 1, Remove a fade counter 
+                from Ancient Hydra: Ancient Hydra deals 1 damage to target 
+                creature or player.
+Pow/Tgh:	5/1
+Artist:         Scott M. Fischer
+Rarity:         U
+Card #:         76/143
+
+Card Title:     Arc Mage
+Card Color:     Red
+Casting Cost:   2R
+Type & Class:   Creature - Spellshaper
+Card Text:      2R, T, Discard a card from your hand: Arc Mage deals 2 damage 
+                divided as you choose among any number of target creatures 
+                and/or players.
+Pow/Tgh:	2/2
+Artist:         Terese Nielsen
+Rarity:         U
+Card #:         77/143
+
+Card Title:     Bola Warrior
+Card Color:     Red
+Casting Cost:   1R
+Type & Class:   Creature - Spellshaper
+Card Text:      R, Tap, Discard a card from your hand: Target creature can't 
+                block this turn.
+Flavor Text:    The ingredients for panic include equal parts danger, 
+                uncertainty, and helplessness.
+Pow/Tgh:	1/1
+Artist:         Adam Rex
+Rarity:         C
+Card #:         78/143
+
+Card Title:     Downhill Charge
+Card Color:     Red
+Casting Cost:   2R
+Type & Class:   Instant
+Card Text:      You may sacrifice a mountain instead of paying Downhill 
+                Charge's mana cost. 
+                Target creature gets +X/+0 until end of turn, where X is 
+                the number of mountains you control.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         C
+Card #:         79/143
+
+Card Title:     Flame Rift
+1Card Color:    Red 
+Casting Cost:   R
+Type & Class:   Sorcery
+Card Text:      Flame Rift deals 4 damage to each player.
+Flavor Text:    Crovax hungered for power, and the stronghold devoured 
+                the sky.
+Artist:         Ben Thompson
+Rarity:         C
+Card #:         80/143
+
+Card Title:     Flowstone Crusher
+Card Color:     Red
+Casting Cost:   3RR
+Type & Class:   Creature - Beast
+Card Text:      R: Flowstone Crusher gets +1/-1 until end of turn.
+Flavor Text:    "Someone must have done something very bad to make a 
+                rock that angry." 
+                - Rebel scout
+Pow/Tgh:	4/4
+Artist:         Ben Thompson
+Rarity:         C
+Card #:         81/143
+
+Card Title:     Flowstone Overseer
+Card Color:     Red
+Casting Cost:   2RRR
+Type & Class:   Creature - Beast
+Card Text:      RR: Target creature gets +1/-1 until end of turn.
+Flavor Text:    The rebels couldn't see where the roar was coming from. 
+                Then they saw it was coming from everywhere.
+Pow/Tgh:	4/4
+Artist:         Andrew Goldhawk
+Rarity:         R
+Card #:         82/143
+
+Card Title:     Flowstone Slide
+Card Color:     Red
+Casting Cost:   X2RR
+Type & Class:   Sorcery
+Card Text:      All creatures get +X/-X until end of turn.
+Flavor Text:    It may look like soil, but its nature is malice.
+Artist:         Chippy
+Rarity:         R
+Card #:         83/143
+
+Card Title:     Flowstone Strike
+Card Color:     Red
+Casting Cost:   1R
+Type & Class:   Instant
+Card Text:      Target creature gets +1/-1 and gains haste until end of turn. 
+                (It may attack and Tap the turn it comes under your control.)
+Flavor Text:    Aggression exacts its toll.
+Artist:         Mike Ploog
+Rarity:         C
+Card #:         84/143
+
+Card Title:     Flowstone Surge
+Card Color:     Red
+Casting Cost:   1R
+Type & Class:   Enchantment
+Card Text:      Creatures you control get +1/-1.
+Flavor Text:    The army was never at a loss for weapons; Crovax was their 
+                forge.
+Artist:         Scott Hampton
+Rarity:         U
+Card #:         85/143
+
+Card Title:     Flowstone Wall
+Card Color:     Red
+Casting Cost:   2R
+Type & Class:   Creature - Wall
+Card Text:      (Walls can't attack.) 
+                R: Flowstone Wall gets +1/-1 until end of turn.
+Flavor Text:    The rebels assaulted the wall, never suspecting the wall 
+                would assault back.
+Pow/Tgh:	0/6
+Artist:         Jeff Miracola
+Rarity:         C
+Card #:         86/143
+
+Card Title:     Laccolith Grunt
+Card Color:     Red
+Casting Cost:   2R
+Type & Class:   Creature - Beast
+Card Text:      Whenever Laccolith Grunt becomes blocked, you may have it 
+                deal damage equal to its power to target creature. If you do, 
+                Laccolith Grunt deals no combat damage this turn.
+Flavor Text:    They leave a trail of ash and sorrow.
+Pow/Tgh:	2/2
+Artist:         Arnie Swekel
+Rarity:         C
+Card #:         87/143
+
+Card Title:     Laccolith Rig
+Card Color:     Red
+Casting Cost:   R
+Type & Class:   Enchant Creature
+Card Text:      Whenever enchanted creature becomes blocked, you may have 
+                it deal damage equal to its power to target creature. If 
+                you do, enchanted creature deals no combat damage this turn.
+Artist:         Massimilano Frezzato
+Rarity:         C
+Card #:         88/143
+
+Card Title:     Laccolith Titan
+Card Color:     Red
+Casting Cost:   5RR
+Type & Class:   Creature - Beast
+Card Text:      Whenever Laccolith Titan becomes blocked, you may have it 
+                deal damage equal to its power to target creature. If you 
+                do, Laccolith Titan deals no combat damage this turn.
+Flavor Text:    Proximity guarantees injury or death.
+Pow/Tgh:	6/6
+Artist:         Tony Szczudlo
+Rarity:         R
+Card #:         89/143
+
+Card Title:     Laccolith Warrior
+Card Color:     Red
+Casting Cost:   2RR
+Type & Class:   Creature - Beast
+Card Text:      Whenever Laccolith Warrior becomes blocked, you may have 
+                it deal damage equal to its power to target creature. If 
+                you do, Laccolith Warrior deals no combat damage this turn.
+Flavor Text:    The screams are brief. The silence lingers.
+Pow/Tgh:	3/3
+Artist:         Mark Zug
+Rarity:         U
+Card #:         90/143
+
+Card Title:     Laccolith Whelp
+Card Color:     Red
+Casting Cost:   R
+Type & Class:   Creature - Beast
+Card Text:      Whenever Laccolith Whelp becomes blocked, you may have it 
+                deal damage equal to its power to target creature. If you 
+                do, Laccolith Whelp deals no combat damage this turn.
+Flavor Text:    They don't feed; they stoke.
+Pow/Tgh:	1/1
+Artist:         Dave Dorman
+Rarity:         C
+Card #:         91/143
+
+Card Title:     Mana Cache
+Card Color:     Red
+Casting Cost:   1RR
+Type & Class:   Enchantment
+Card Text:      At the end of each player's turn, put a charge counter on 
+                Mana Cache for each untapped land that player controls. 
+                Remove a charge counter from Mana Cache: Add one colorless 
+                mana to your mana pool. 
+                Any player may play this ability but only during his or 
+                her turn before the end phase.
+Artist:         rk post
+Rarity:         R
+Card #:         92/143
+
+Card Title:     Mogg Alarm
+Card Color:     Red
+Casting Cost:   1RR
+Type & Class:   Sorcery
+Card Text:      You may sacrifice two mountains instead of paying Mogg 
+                Alarm's mana cost.  
+                Put two 1/1 red Goblin creature tokens into play.
+Flavor Text:    They make mountains into mogg holes.
+Artist:         Dave Dorman
+Rarity:         U
+Card #:         93/143
+
+Card Title:     Mogg Salvage
+Card Color:     Red
+Casting Cost:   2R
+Type & Class:   Instant
+Card Text:      If an opponent controls an island and you control a mountain, 
+                you may play Mogg Salvage without paying its mana cost. 
+                Destroy target artifact.
+Flavor Text:    Three moggs, one treasure, too bad.
+Artist:         Paolo Parente
+Rarity:         U
+Card #:         94/143
+
+Card Title:     Mogg Toady
+Card Color:     Red
+Casting Cost:   1R
+Type & Class:   Creature - Goblin
+Card Text:      Mogg Toady can't attack unless you control more creatures 
+                than defending player. 
+                Mogg Toady can't block unless you control more creatures 
+                than attacking player.
+Pow/Tgh:	2/2
+Artist:         Mike Ploog
+Rarity:         C
+Card #:         95/143
+
+Card Title:     Moggcatcher
+Card Color:     Red
+Casting Cost:   2RR
+Type & Class:   Creature - Mercenary
+Card Text:      3, Tap: Search your library for a Goblin card and put that 
+                card into play. Then shuffle your library.
+Flavor Text:    "They're not worth much, but they're easy to catch."
+Pow/Tgh:	2/2
+Artist:         Pete Venters
+Rarity:         R
+Card #:         96/143
+
+Card Title:     Rupture
+Card Color:     Red
+Casting Cost:   2R
+Type & Class:   Sorcery 
+Card Text:      Sacrifice a creature. Rupture deals damage equal to that 
+                creature's power to each creature without flying and each player.
+Flavor Text:    All creatures have an inner fire. Releasing it can be dangerous.
+Artist:         Gao Yan
+Rarity:         U
+Card #:         97/143
+
+Card Title:     Seal of Fire
+Card Color:     Red
+Casting Cost:   R
+Type & Class:   Enchantment
+Card Text:      Sacrifice Seal of Fire: Seal of Fire deals 2 damage to target 
+                creature or player.
+Flavor Text:    "I am the romancer, the passion that consumes the flesh." 
+                - Seal inscription
+Artist:         Christopher Moeller
+Rarity:         C
+Card #:         98/143
+
+Card Title:     Shrieking Mogg
+Card Color:     Red
+Casting Cost:   1R
+Type & Class:   Creature - Goblin
+Card Text:      Haste (This creature may attack and Tap the turn it comes 
+                under your control.)
+                When Shrieking Mogg comes into play, tap all other creatures.
+Flavor Text:    You have to admire its enthusiasm.
+Pow/Tgh:	1/1
+Artist:         Dan Frazier
+Rarity:         R
+Card #:         99/143
+
+Card Title:     Stronghold Gambit
+Card Color:     Red
+Casting Cost:   1R
+Type & Class:   Sorcery
+Card Text:      Each player chooses a card in his or her hand. Then each 
+                player reveals his or her chosen card. The owner of the 
+                creature card revealed this way with the lowest converted 
+                mana cost puts that card into play. If two or more creature 
+                cards are tied for lowest cost, those cards are put into play.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         R
+Card #:         100/143
+
+Card Title:     Animate Land
+Card Color:     Green
+Casting Cost:   G
+Type & Class:   Instant
+Card Text:      Until end of turn, target land is a 3/3 creature that's still 
+                a land.
+Flavor Text:    Irony is getting walked on by the earth instead of the other 
+                way around.
+Artist:         Rebecca Guay
+Rarity:         U
+Card #:         101/143
+
+Card Title:     Blastoderm
+Card Color:     Green
+Casting Cost:   2GG
+Type & Class:   Creature - Beast
+Card Text:      Fading 3 (This creature comes into play with three fade 
+                counters on it. At the beginning of your upkeep, remove a 
+                fade counter from it. If you can't, sacrifice it.) 
+                Blastoderm can't be the target of spells or abilities.
+Pow/Tgh:	5/5
+Artist:         Eric Peterson
+Rarity:         C
+Card #:         102/143
+
+Card Title:     Coiling Woodworm
+Card Color:     Green
+Casting Cost:   2G
+Type & Class:   Creature - Insect
+Card Text:      Coiling Woodworm's power is equal to the number of forests 
+                in play.
+Flavor Text:    Only the elves know where the woods end and the woodworm 
+                begins.
+Pow/Tgh:	*/1
+Artist:         David Martin
+Rarity:         U
+Card #:         103/143
+
+Card Title:     Fog Patch
+Card Color:     Green
+Casting Cost:   1G
+Type & Class:   Instant 
+Card Text:      Play Fog Patch only during the declare blockers step. 
+                Attacking creatures become blocked. (This spell works on 
+                unblockable creatures.)
+Flavor Text:    Realizing they weren't getting past the fog, the elves did 
+                the only thing they could do: wait.
+Artist:         Rebecca Guay
+Rarity:         C
+Card #:         104/143
+
+Card Title:     Harvest Mage
+Card Color:     Green
+Casting Cost:   G
+Type & Class:   Creature - Spellshaper
+Card Text:      G, Tap, Discard a card from your hand: Until end of turn, 
+                if you tap a land for mana, it produces one mana of any 
+                color instead of its normal type and amount.
+Flavor Text:    "Why should one limit oneself to the resources at hand?"
+Pow/Tgh:	1/1
+Artist:         Dan Frazier
+Rarity:         C
+Card #:         105/143
+
+Card Title:     Mossdog
+Card Color:     Green
+Casting Cost:   G
+Type & Class:   Creature - Hound
+Card Text:      Whenever Mossdog becomes the target of a spell or ability 
+                an opponent controls, put a +1/+1 counter on Mossdog.
+Flavor Text:    The more you look at it, the more dangerous it becomes.
+Pow/Tgh:	1/1
+Artist:         Matt Cavotta
+Rarity:         C
+Card #:         106/143
+
+Card Title:     Nesting Wurm
+Card Color:     Green
+Casting Cost:   4GG
+Type & Class:   Creature - Wurm
+Card Text:      Trample 
+                When Nesting Wurm comes into play, you may search your 
+                library for up to three Nesting Wurm cards, reveal them, 
+                and put them into your hand. If you do, shuffle your library.
+Pow/Tgh:	4/3
+Artist:         rk post
+Rarity:         U
+Card #:         107/143
+
+Card Title:     Overlaid Terrain
+Card Color:     Green
+Casting Cost:   2GG
+Type & Class:   Enchantment
+Card Text:      As Overlaid Terrain comes into play, sacrifice all lands 
+                you control. 
+                Lands you control have "Tap: Add two mana of any color to 
+                your mana pool."
+Flavor Text:    One must reap before one can sow.
+Artist:         DiTerlizzi
+Rarity:         R
+Card #:         108/143
+
+Card Title:     Pack Hunt
+Card Color:     Green
+Casting Cost:   3G
+Type & Class:   Sorcery
+Card Text:      Search your library for up to three copies of target creature, 
+                reveal them, and put them into your hand. Then shuffle your 
+                library.
+Flavor Text:    The one you see is just a diversion.
+Artist:         Sam Wood
+Rarity:         R
+Card #:         109/143
+
+Card Title:     Refreshing Rain
+Card Color:     Green
+Casting Cost:   3G
+Type & Class:   Instant
+Card Text:      If an opponent controls a swamp and you control a forest, you 
+                may play Refreshing Rain without paying its mana cost. 
+                Target player gains 6 life.
+Artist:         Don Hazeltine
+Rarity:         U
+Card #:         110/143
+
+Card Title:     Reverent Silence
+Card Color:     Green
+Casting Cost:   3G
+Type & Class:   Sorcery
+Card Text:      If you control a forest, you may have each other player gain 
+                6 life instead of paying Reverent Silence's mana cost. 
+                Destroy all enchantments.
+Artist:         Don Hazeltine
+Rarity:         C
+Card #:         111/143
+
+Card Title:     Rhox
+Card Color:     Green
+Casting Cost:   4GG
+Type & Class:   Creature - Beast
+Card Text:      You may have Rhox deal combat damage to defending player as 
+                though it weren't blocked. 
+                2G: Regenerate Rhox.
+Pow/Tgh:	5/5
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         112/143
+
+Card Title:     Saproling Burst
+Card Color:     Green
+Casting Cost:   4G
+Type & Class:   Enchantment
+Card Text:      Fading 7 
+                Remove a fade counter from Saproling Burst: Put a green 
+                Saproling creature token into play. It has "This creature's 
+                power and toughness are each equal to the number of fade 
+                counters on Saproling Burst." 
+                When Saproling Burst leaves play, destroy all tokens put 
+                into play with Saproling Burst. They can't be regenerated.
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         113/143
+
+Card Title:     Saproling Cluster
+Card Color:     Green
+Casting Cost:   1G
+Type & Class:   Enchantment
+Card Text:      1, Discard a card from your hand: Put a 1/1 green Saproling 
+                creature token into play. Any player may play this ability.
+Artist:         Matt Cavotta
+Rarity:         R
+Card #:         114/143
+
+Card Title:     Seal of Strength
+Card Color:     Green
+Casting Cost:   G
+Type & Class:   Enchantment
+Card Text:      Sacrifice Seal of Strength: Target creature gets +3/+3 until 
+                end of turn.
+Flavor Text:    "I am the feeder, the morsel that revives the starving." 
+                - Seal inscription
+Artist:         Christopher Moeller
+Rarity:         C
+Card #:         115/143
+
+Card Title:     Skyshroud Behemoth
+Card Color:     Green
+Casting Cost:   5GG
+Type & Class:   Creature - Beast
+Card Text:      Fading 2 (This creature comes into play with two fade counters 
+                on it. At the beginning of your upkeep, remove a fade counter 
+                from it. If you can't, sacrifice it.)
+                Skyshroud Behemoth comes into play tapped.
+Pow/Tgh:	10/10
+Artist:         Eric Peterson
+Rarity:         R
+Card #:         116/143
+
+Card Title:     Skyshroud Claim
+Card Color:     Green
+Casting Cost:   3G
+Type & Class:   Sorcery
+Card Text:      Search your library for up to two forest cards and put them 
+                into play. Then shuffle your library.
+Flavor Text:    The forest's constant struggle is to keep the spreading 
+                flowstone at bay.
+Artist:         Mark Romanoski
+Rarity:         C
+Card #:         117/143
+
+Card Title:     Skyshroud Cutter
+Card Color:     Green
+Casting Cost:   3G
+Type & Class:   Creature - Beast
+Card Text:      If you control a forest, you may have each other player gain 
+                5 life instead of paying Skyshroud Cutter's mana cost.
+Pow/Tgh:	2/2
+Artist:         Tony Szczudlo
+Rarity:         C
+Card #:         118/143
+
+Card Title:     Skyshroud Poacher
+Card Color:     Green
+Casting Cost:   2GG
+Type & Class:   Creature - Rebel
+Card Text:      3, Tap: Search your library for an Elf card and put that card 
+                into play. Then shuffle your library.
+Flavor Text:    "It's OK. They're just elves."
+Pow/Tgh:	2/2
+Artist:         Ron Spencer
+Rarity:         R
+Card #:         119/143
+
+Card Title:     Skyshroud Ridgeback
+Card Color:     Green
+Casting Cost:   G
+Type & Class:   Creature - Beast
+Card Text:      Fading 2 (This creature comes into play with two fade counters 
+                on it. At the beginning of your upkeep, remove a fade counter 
+                from it. If you can't, sacrifice it.)
+Pow/Tgh:	2/3
+Artist:         Carl Critchlow
+Rarity:         C
+Card #:         120/143
+
+Card Title:     Skyshroud Sentinel
+Card Color:     Green
+Casting Cost:   2G
+Type & Class:   Creature - Elf
+Card Text:      When Skyshroud Sentinel comes into play, you may search your 
+                library for up to three Skyshroud Sentinel cards, reveal them, 
+                and put them into your hand. If you do, shuffle your library.
+Pow/Tgh:	1/1
+Artist:         Randy Gallegos
+Rarity:         C
+Card #:         121/143
+
+Card Title:     Stampede Driver
+Card Color:     Green
+Casting Cost:   G
+Type & Class:   Creature - Spellshaper
+Card Text:      1G, Tap, Discard a card from your hand: Creatures you control 
+                get +1/+1 and gain trample until end of turn.
+Flavor Text:    "The thunder of hooves is music to my ears."
+Pow/Tgh:	1/1
+Artist:         Ron Spears
+Rarity:         U
+Card #:         122/143
+
+Card Title:     Treetop Bracers
+Card Color:     Green
+Casting Cost:   1G
+Type & Class:   Enchant Creature
+Card Text:      Enchanted creature gets +1/+1 and can be blocked only by 
+                creatures with flying.
+Flavor Text:    Gravity is truly what you make of it.
+Artist:         Heather Hudson
+Rarity:         C
+Card #:         123/143
+
+Card Title:     Wild Mammoth
+Card Color:     Green
+Casting Cost:   2G
+Type & Class:   Creature - Elephant
+Card Text:      At the beginning of your upkeep, if a player controls more 
+                creatures than any other, that player gains control of Wild 
+                Mammoth.
+Flavor Text:    "Sit. Heel! Down! HELP!"
+Pow/Tgh:	3/4
+Artist:         Bradley Williams
+Rarity:         U
+Card #:         124/143
+
+Card Title:     Woodripper
+Card Color:     Green
+Casting Cost:   3GG
+Type & Class:   Creature - Beast
+Card Text:      Fading 3 (This creature comes into play with three fade 
+                counters on it. At the beginning of your upkeep, remove a 
+                fade counter from it. If you can't, sacrifice it.)
+                1, Remove a fade counter from Woodripper: Destroy target 
+                artifact.
+Pow/Tgh:	4/6
+Artist:         Alan Pollack
+Rarity:         U
+Card #:         125/143
+
+Card Title:     Belbe's Armor
+Card Color:     Artifact
+Casting Cost:   3
+Type & Class:   Artifact
+Card Text:      X, Tap: Target creature gets -X/+X until end of turn.
+Flavor Text:    It protects her from the ravages of Phyrexia and the savages 
+                of Rath.
+Artist:         D. Alexander Gregory
+Rarity:         U
+Card #:         126/143
+
+Card Title:     Belbe's Portal
+Card Color:     Artifact
+Casting Cost:   5
+Type & Class:   Artifact 
+Card Text:      As Belbe's Portal comes into play, choose a creature type. 
+                3, Tap: Put a creature card of the chosen type from your hand 
+                into play.
+Flavor Text:    The fight will continue on a new battlefield.
+Artist:         Mark Tedin
+Rarity:         R
+Card #:         127/143
+
+Card Title:     Complex Automaton
+Card Color:     Artifact
+Casting Cost:   4
+Type & Class:   Artifact Creature - Golem
+Card Text:      At the beginning of your upkeep, if you control seven or more 
+                permanents, return Complex Automaton to its owner's hand.
+Flavor Text:    "This wasteful design cannot possibly be Phyrexian." 
+                - Belbe
+Pow/Tgh:	4/4
+Artist:         Dana Knutson
+Rarity:         R
+Card #:         128/143
+
+Card Title:     Eye of Yawgmoth
+Card Color:     Artifact
+Casting Cost:   3
+Type & Class:   Artifact
+Card Text:      3, Tap, Sacrifice a creature: Reveal cards from the top of your 
+                library equal to the sacrificed creature's power. Put one into 
+                your hand and remove the rest from the game.
+Artist:         DiTerlizzi
+Rarity:         R
+Card #:         129/143
+
+Card Title:     Flint Golem
+Card Color:     Artifact
+Casting Cost:   4
+Type & Class:   Artifact Creature - Golem
+Card Text:      Whenever Flint Golem becomes blocked, defending player puts the 
+                top three cards of his or her library into his or her graveyard.
+Pow/Tgh:	2/3
+Artist:         Lou Harrison
+Rarity:         U
+Card #:         130/143
+
+Card Title:     Flowstone Armor
+Card Color:     Artifact
+Casting Cost:   3
+Type & Class:   Artifact 
+Card Text:      You may choose not to untap Flowstone Armor during your untap 
+                step.  
+                3, Tap: Target creature gets +1/-1 as long as Flowstone Armor 
+                remains tapped.
+Artist:         Paolo Parente
+Rarity:         U
+Card #:         131/143
+
+Card Title:     Flowstone Thopter
+Card Color:     Artifact
+Casting Cost:   7
+Type & Class:   Artifact Creature
+Card Text:      1: Flowstone Thopter gets +1/-1 and gains flying until end 
+                of turn.
+Flavor Text:    Airborne flowstone isn't less dangerous, only less common.
+Pow/Tgh:	4/4
+Artist:         Mike Ploog
+Rarity:         U
+Card #:         132/143
+
+Card Title:     Kill Switch
+Card Color:     Artifact
+Casting Cost:   3
+Type & Class:   Artifact
+Card Text:      2, Tap: Tap all other artifacts. They don't untap during 
+                their controllers' 
+                untap steps as long as Kill Switch remains tapped.
+Flavor Text:    Success is largely a matter of knowing which lever to pull.
+Artist:         Brian Snoddy
+Rarity:         R
+Card #:         133/143
+
+Card Title:     Parallax Inhibitor
+Card Color:     Artifact
+Casting Cost:   2
+Type & Class:   Artifact
+Card Text:      1, Tap, Sacrifice Parallax Inhibitor: Put a fade counter on 
+                each permanent with fading you control.
+Flavor Text:    "The best I can offer is a temporary reprieve." 
+                - Belbe
+Artist:         Greg Staples
+Rarity:         R
+Card #:         134/143
+
+Card Title:     Predator, Flagship
+Card Color:     Artifact
+Casting Cost:   5
+Type & Class:   Legendary Artifact
+Card Text:      2: Target creature gains flying until end of turn. 
+                5, Tap: Destroy target creature with flying.
+Flavor Text:    "The scourge of Skyshroud is airborne once more." 
+                - Oracle en-Vec
+Artist:         Mark Tedin
+Rarity:         R
+Card #:         135/143
+
+Card Title:     Rackling
+Card Color:     Artifact
+Casting Cost:   4
+Type & Class:   Artifact Creature
+Card Text:      At the beginning of each opponent's upkeep, Rackling deals 
+                X damage to that player, where X is the number of cards in 
+                his or her hand fewer than three.
+Flavor Text:    "This may hurt a little."
+Pow/Tgh:	2/2
+Artist:         D. Alexander Gregory
+Rarity:         U
+Card #:         136/143
+
+Card Title:     Rejuvenation Chamber
+Card Color:     Artifact
+Casting Cost:   3
+Type & Class:   Artifact
+Card Text:      Fading 2 (This artifact comes into play with two fade 
+                counters on it. At the beginning of your upkeep, remove a 
+                fade counter from it. If you can't, sacrifice it.) 
+		Tap: You gain 2 life.
+Artist:         Alan Pollack
+Rarity:         U
+Card #:         137/143
+
+Card Title:     Rusting Golem
+Card Color:     Artifact
+Casting Cost:   4
+Type & Class:   Artifact Creature - Golem
+Card Text:      Fading 5 (This creature comes into play with five fade 
+                counters on it. At the beginning of your upkeep, remove a 
+                fade counter from it. If you can't, sacrifice it.) 
+                Rusting Golem's power and toughness are each equal to the 
+                number of fade counters on it.
+Pow/Tgh:	*/*
+Artist:         Greg Staples
+Rarity:         U
+Card #:         138/143
+
+Card Title:     Tangle Wire
+Card Color:     Artifact
+Casting Cost:   3
+Type & Class:   Artifact
+Card Text:      Fading 4 (This artifact comes into play with four fade 
+                counters on it. At the beginning of your upkeep, remove a 
+                fade counter from it. If you can't, sacrifice it.)
+                At the beginning of each player's upkeep, that player 
+                taps an untapped artifact, creature, or land he or she 
+                controls for each fade counter on Tangle Wire.
+Artist:         Glen Angus
+Rarity:         R
+Card #:         139/143
+
+Card Title:     Viseling
+Card Color:     Artifact
+Casting Cost:   4
+Type & Class:   Artifact Creature
+Card Text:      At the beginning of each opponent's upkeep, Viseling deals 
+                X damage to that player, where X is the number of cards in 
+                his or her hand minus four.
+Flavor Text:    "This may hurt a lot."
+Pow/Tgh:	2/2
+Artist:         Kev Walker
+Rarity:         U
+Card #:         140/143
+
+Card Title:     Kor Haven
+Card Color:     Land
+Type & Class:   Legendary Land
+Card Text:      Tap: Add one colorless mana to your mana pool. 
+                1W, Tap: Prevent all combat damage that would be dealt by 
+                target attacking creature this turn.
+Artist:         Darrell Riche
+Rarity:         R
+Card #:         141/143
+
+Card Title:     Rath's Edge
+Card Color:     Land
+Type & Class:   Legendary Land
+Card Text:      Tap: Add one colorless mana to your mana pool. 
+                4, Tap, Sacrifice a land: Rath's Edge deals 1 damage to target 
+                creature or player.
+Artist:         Ron Spencer
+Rarity:         R
+Card #:         142/143
+
+Card Title:     Terrain Generator
+Card Color:     Land
+Type & Class:   Land 
+Card Text:      Tap: Add one colorless mana to your mana pool. 
+                2, Tap: Put a basic land card from your hand into play tapped.
+Artist:         Alan Pollack
+Rarity:         U
+Card #:         143/143
+
+Copyright 2000 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: The Gathering, 
+and Nemesis are trademarks of Wizards of the Coast, Inc.

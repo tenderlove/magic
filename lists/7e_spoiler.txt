@@ -1,0 +1,4180 @@
+Seventh Edition Spoiler List
+Wizards of the Coast, Inc.
+(Released April 11, 2001)
+
+350 Cards Total
+Color: 57 Black, 57 Blue, 57 Green, 57 Red, 57 White,
+26 Land, 39 Artifact
+Rarity: 110 Common, 110 Uncommon, 110 Rare, 20 Basic Land
+
+
+Card Name:      Angelic Page
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Creature - Spirit
+Pow/Tou:        1/1
+Card Text:      Flying. Tap: Target attacking or blocking creature gets +1/+1 until
+		end of turn.
+Flavor Text:    If only every message were as perfect as its messenger.
+Artist:         Marc Fishman
+Rarity:         C
+Card #:         1/350
+
+Card Name:      Ardent Militia
+Card Color:     White
+Mana Cost:      4W
+Type & Class:   Creature - Soldier
+Pow/Tou:        2/5
+Card Text:      Attacking doesn't cause Ardent Militia to tap.
+Flavor Text:    Knights fight for honor and mercenaries fight for gold. The 
+		militia fights for hearth and home.
+Artist:         Paolo Parente
+Rarity:         U
+Card #:         2/350
+
+Card Name:      Blessed Reversal
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      You gain 3 life for each creature attacking you.
+Flavor Text:    "A battle's outcome is never certain." -The Southern Paladin
+Artist:         Christopher Moeller
+Rarity:         R
+Card #:         3/350
+
+Card Name:      Breath of Life
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Return target creature card from your graveyard to play.
+Flavor Text:    "Nothing can stop the power of life-not even death." -Onean cleric
+Artist:         Roger Raupp
+Rarity:         U
+Card #:         4/350
+
+Card Name:      Castle
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Untapped creatures you control get +0/+2.
+Flavor Text:    ". . . Our castle's strength Will laugh a siege to scorn." 
+		-William Shakespeare, Macbeth
+Artist:         Edward Beard, Jr.
+Rarity:         U
+Card #:         5/350
+
+Card Name:      Circle of Protection: Black
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      1: The next time a black source of your choice would deal damage 
+		to you this turn, prevent that damage.
+Flavor Text:
+Artist:         Mark Romanoski
+Rarity:         C
+Card #:         6/350
+
+Card Name:      Circle of Protection: Blue
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      1: The next time a blue source of your choice would deal damage
+		to you this turn, prevent that damage.
+Flavor Text:
+Artist:         Greg & Tim Hildebrandt
+Rarity:         C
+Card #:         7/350
+
+Card Name:      Circle of Protection: Green
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      1: The next time a green source of your choice would deal damage
+		to you this turn, prevent that damage.
+Flavor Text:
+Artist:         Alan Pollack
+Rarity:         C
+Card #:         8/350
+
+Card Name:      Circle of Protection: Red
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      1: The next time a red source of your choice would deal damage to
+		you this turn, prevent that damage.
+Flavor Text:
+Artist:         Gary Ruddell
+Rarity:         C
+Card #:         9/350
+
+Card Name:      Circle of Protection: White
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      1: The next time a white source of your choice would deal damage
+		to you this turn, prevent that damage.
+Flavor Text:
+Artist:         Darrell Riche
+Rarity:         C
+Card #:         10/350
+
+Card Name:      Cloudchaser Eagle
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Creature - Bird
+Pow/Tou:        2/2
+Card Text:      Flying. When Cloudchaser Eagle comes into play, destroy target 
+		enchantment.
+Flavor Text:    Most eagles hunt small animals. The cloudchasers hunt magic.
+Artist:         Aaron Boyd
+Rarity:         C
+Card #:         11/350
+
+Card Name:      Crossbow Infantry
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Creature - Soldier
+Pow/Tou:        1/1
+Card Text:      Tap: Crossbow Infantry deals 1 damage to target attacking or 
+		blocking creature.
+Flavor Text:    Twang. You're dead.
+Artist:         James Bernardin
+Rarity:         C
+Card #:         12/350
+
+Card Name:      Disenchant
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Destroy target artifact or enchantment.
+Flavor Text:
+Artist:         Andrew Goldhawk
+Rarity:         C
+Card #:         13/350
+
+Card Name:      Eager Cadet
+Card Color:     White
+Mana Cost:      W
+Type & Class:   Creature - Soldier
+Pow/Tou:        1/1
+Card Text:
+Flavor Text:    "Training? Seeing my crops burnt to cinders was all the 
+		'training' I needed."
+Artist:         Greg & Tim Hildebrandt
+Rarity:         C
+Card #:         14/350
+
+Card Name:      Elite Archers
+Card Color:     White
+Mana Cost:      5W
+Type & Class:   Creature - Soldier
+Pow/Tou:        3/3
+Card Text:      Tap: Elite Archers deals 3 damage to target attacking or blocking 
+		creature.
+Flavor Text:    They fletch their arrows with the feathers of angels.
+Artist:         Daniel Frazier
+Rarity:         R
+Card #:         15/350
+
+Card Name:      Gerrard's Wisdom
+Card Color:     White
+Mana Cost:      2WW
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      You gain 2 life for each card in your hand.
+Flavor Text:    A picture is worth a thousand swords.
+Artist:         Donato Giancola
+Rarity:         U
+Card #:         16/350
+
+Card Name:      Glorious Anthem
+Card Color:     White
+Mana Cost:      1WW
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Creatures you control get +1/+1.
+Flavor Text:    "North and South meet and angels sing. Voices resound with a 
+		righteous ring." -"The Ballad of the Paladins"
+Artist:         Terese Nielsen
+Rarity:         R
+Card #:         17/350
+
+Card Name:      Healing Salve
+Card Color:     White
+Mana Cost:      W
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Choose one - Target player gains 3 life; or prevent the next 3 
+		damage that would be dealt to target creature or player this turn.
+Flavor Text:
+Artist:         Greg & Tim Hildebrandt
+Rarity:         C
+Card #:         18/350
+
+Card Name:      Heavy Ballista
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Creature - Soldier
+Pow/Tou:        2/3
+Card Text:      Tap: Heavy Ballista deals 2 damage to target attacking or blocking
+		creature.
+Flavor Text:    "Soldiers wear down and enemies collapse-but the ballista never 
+		tires." -Ballista captain
+Artist:         Brian Snoddy
+Rarity:         U
+Card #:         19/350
+
+Card Name:      Holy Strength
+Card Color:     White
+Mana Cost:      W
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature gets +1/+2.
+Flavor Text:
+Artist:         Scott Fischer
+Rarity:         C
+Card #:         20/350
+
+Card Name:      Honor Guard
+Card Color:     White
+Mana Cost:      W
+Type & Class:   Creature - Soldier
+Pow/Tou:        1/1
+Card Text:      W: Honor Guard gets +0/+1 until end of turn.
+Flavor Text:    The strength of one. The courage of ten.
+Artist:         Mark Zug
+Rarity:         C
+Card #:         21/350
+
+Card Name:      Intrepid Hero
+Card Color:     White
+Mana Cost:      2W
+Type & Class:   Creature - Soldier
+Pow/Tou:        1/1
+Card Text:      Tap: Destroy target creature with power 4 or greater.
+Flavor Text:    A fool knows no fear. A hero shows no fear.
+Artist:         Mike Ploog
+Rarity:         R
+Card #:         22/350
+
+Card Name:      Kjeldoran Royal Guard
+Card Color:     White
+Mana Cost:      3WW
+Type & Class:   Creature - Soldier
+Pow/Tou:        2/5
+Card Text:      Tap: All combat damage that unblocked creatures would deal to you 
+		this turn is dealt to Kjeldoran Royal Guard instead.
+Flavor Text:    "Honorable in battle, generous in death. -Motto of the Kjeldoran 
+		Royal Guard"
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         23/350
+
+Card Name:      Knight Errant
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Creature - Knight
+Pow/Tou:        2/2
+Card Text:
+Flavor Text:    Knights are quick to pledge their loyalty and even quicker to 
+		charge into battle.
+Artist:         Matt Wilson
+Rarity:         C
+Card #:         24/350
+
+Card Name:      Knighthood
+Card Color:     White
+Mana Cost:      2W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Creatures you control have first strike.
+Flavor Text:    Kings don't make knights. Actions do.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         U
+Card #:         25/350
+
+Card Name:      Longbow Archer
+Card Color:     White
+Mana Cost:      WW
+Type & Class:   Creature - Soldier
+Pow/Tou:        2/2
+Card Text:      First strike Longbow Archer may block as though it had flying.
+Flavor Text:    Some say they have the blood of hawks running through their veins.
+Artist:         Ray Lago
+Rarity:         U
+Card #:         26/350
+
+Card Name:      Master Healer
+Card Color:     White
+Mana Cost:      4W
+Type & Class:   Creature - Cleric
+Pow/Tou:        1/4
+Card Text:      Tap: Prevent the next 4 damage that would be dealt to target 
+		creature or player this turn.
+Flavor Text:    Her heart holds the pain of every soldier she's ever healed.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         R
+Card #:         27/350
+
+Card Name:      Northern Paladin
+Card Color:     White
+Mana Cost:      2WW
+Type & Class:   Creature - Knight
+Pow/Tou:        3/3
+Card Text:      WW, Tap: Destroy target black permanent.
+Flavor Text:    "How smooth his face, how sure his thoughts. I look forward to 
+		breaking his mighty will." -The Eastern Paladin
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         28/350
+
+Card Name:      Pacifism
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature can't attack or block.
+Flavor Text:    Without warriors there can be no war.
+Artist:         Eric Peterson
+Rarity:         C
+Card #:         29/350
+
+Card Name:      Pariah
+Card Color:     White
+Mana Cost:      2W
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      All damage that would be dealt to you is dealt to enchanted 
+		creature instead.
+Flavor Text:    A valiant knight's life has no meaning without honor.
+Artist:         Scott Fischer
+Rarity:         R
+Card #:         30/350
+
+Card Name:      Purify
+Card Color:     White
+Mana Cost:      3WW
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy all artifacts and enchantments.
+Flavor Text:    "We have no need for these trinkets. We need only the strength 
+		of our swords and the virtue of our hearts." -The Northern Paladin
+Artist:         Doug Chaffee
+Rarity:         R
+Card #:         31/350
+
+Card Name:      Razorfoot Griffin
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Creature - Griffin
+Pow/Tou:        2/2
+Card Text:      Flying, first strike
+Flavor Text:    "Like a meteor, it strikes from above without warning. Unlike a 
+		meteor, it then carries you off and eats you."
+Artist:         Pete Venters
+Rarity:         C
+Card #:         32/350
+
+Card Name:      Reprisal
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Destroy target creature with power 4 or greater. It can't be 
+		regenerated.
+Flavor Text:    "Fear this no more!"
+Artist:         Ciruelo Cabral
+Rarity:         U
+Card #:         33/350
+
+Card Name:      Reverse Damage
+Card Color:     White
+Mana Cost:      1WW
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      The next time a source of your choice would deal damage to you 
+		this turn, prevent that damage. You gain that much life.
+Flavor Text:    "Weapons usually bring death. Today, mine will bring life."
+Artist:         Eric Peterson
+Rarity:         R
+Card #:         34/350
+
+Card Name:      Rolling Stones
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Walls may attack as though they weren't Walls.
+Flavor Text:    "We spent three weeks trying to knock that wall down. Now it's 
+		knocking us down." -Onean sergeant
+Artist:         Don Hazeltine
+Rarity:         R
+Card #:         35/350
+
+Card Name:      Sacred Ground
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a spell or ability an opponent controls puts a land into 
+		your graveyard from play, return that land to play.
+Flavor Text:    The land will never betray those who gave their lives for it.
+Artist:         Gary Ruddell
+Rarity:         R
+Card #:         36/350
+
+Card Name:      Sacred Nectar
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      You gain 4 life.
+Flavor Text:    "For he on honey-dew hath fed, And drunk the milk of Paradise." 
+		-Samuel Taylor Coleridge, "Kubla Khan"
+Artist:         Dana Knutson
+Rarity:         C
+Card #:         37/350
+
+Card Name:      Samite Healer
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Creature - Cleric
+Pow/Tou:        1/1
+Card Text:      Tap: Prevent the next 1 damage that would be dealt to target 
+		creature or player this turn.
+Flavor Text:    Why does a Samite heal? You might as well ask why a bird flies.
+Artist:         Anson Maddocks
+Rarity:         C
+Card #:         38/350
+
+Card Name:      Sanctimony
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever an opponent taps a mountain for mana, you may gain 1 life.
+Flavor Text:    "The peasants labor for my profit. I approve."
+Artist:         Patrick Faricy
+Rarity:         U
+Card #:         39/350
+
+Card Name:      Seasoned Marshal
+Card Color:     White
+Mana Cost:      2WW
+Type & Class:   Creature - Soldier
+Pow/Tou:        2/2
+Card Text:      Whenever Seasoned Marshal attacks, you may tap target creature.
+Flavor Text:    "He reads the battlefield like a map, always seeking the shortest 
+		route to victory."
+Artist:         Edward Beard, Jr.
+Rarity:         U
+Card #:         40/350
+
+Card Name:      Serra Advocate
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Creature - Angel
+Pow/Tou:        2/2
+Card Text:      Flying. Tap: Target attacking or blocking creature gets +2/+2 
+		until end of turn.
+Flavor Text:    An angel's blessing prepares a soldier for war better than a 
+		thousand military drills.
+Artist:         Matt Wilson
+Rarity:         U
+Card #:         41/350
+
+Card Name:      Serra Angel
+Card Color:     White
+Mana Cost:      3WW
+Type & Class:   Creature - Angel
+Pow/Tou:        4/4
+Card Text:      Flying. Attacking doesn't cause Serra Angel to tap.
+Flavor Text:    Her sword sings more beautifully than any choir.
+Artist:         Mark Zug
+Rarity:         R
+Card #:         42/350
+
+Card Name:      Serra's Embrace
+Card Color:     White
+Mana Cost:      2WW
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature gets +2/+2, has flying, and attacking doesn't 
+		cause it to tap.
+Flavor Text:    "With one breath, the newborn angel took to the air . . . and the 
+		world sighed." -The Book of Serra
+Artist:         Ciruelo Cabral
+Rarity:         U
+Card #:         43/350
+
+Card Name:      Shield Wall
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Creatures you control get +0/+2 until end of turn.
+Flavor Text:    "If not for the wizard, we'd all be dead now. 'Course, it was him 
+		that started all this in the first place."  -Onean veteran
+Artist:         Adam Rex
+Rarity:         C
+Card #:         44/350
+
+Card Name:      Skyshroud Falcon
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Creature - Bird
+Pow/Tou:        1/1
+Card Text:      Flying. Attacking doesn't cause Skyshroud Falcon to tap.
+Flavor Text:    The earliest mystics believed that the falcon slit the sky to let 
+		the light break through.
+Artist:         Anson Maddocks
+Rarity:         C
+Card #:         45/350
+
+Card Name:      Southern Paladin
+Card Color:     White
+Mana Cost:      2WW
+Type & Class:   Creature - Knight
+Pow/Tou:        3/3
+Card Text:      WW, Tap: Destroy target red permanent.
+Flavor Text:    "How can anyone fight so much yet enjoy it so little?" 
+		-The Western Paladin
+Artist:         Greg Staples
+Rarity:         R
+Card #:         46/350
+
+Card Name:      Spirit Link
+Card Color:     White
+Mana Cost:      W
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Whenever enchanted creature deals damage, you gain that much life.
+Flavor Text:    The noble paladins draw strength from the courage of others.
+Artist:         Daren Bader
+Rarity:         U
+Card #:         47/350
+
+Card Name:      Standing Troops
+Card Color:     White
+Mana Cost:      2W
+Type & Class:   Creature - Soldier
+Pow/Tou:        1/4
+Card Text:      Attacking doesn't cause Standing Troops to tap.
+Flavor Text:    They fight so closely together a mouse couldn't slip past their 
+		guard.
+Artist:         Gary Ruddell
+Rarity:         C
+Card #:         48/350
+
+Card Name:      Starlight
+Card Color:     White
+Mana Cost:      1W
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      You gain 3 life for each black creature target opponent controls.
+Flavor Text:    "Even in the darkest night  Stars and angels still shine bright."
+		-Onean children's rhyme
+Artist:         Brian Despain
+Rarity:         U
+Card #:         49/350
+
+Card Name:      Staunch Defenders
+Card Color:     White
+Mana Cost:      3WW
+Type & Class:   Creature - Soldier
+Pow/Tou:        3/4
+Card Text:      When Staunch Defenders comes into play, you gain 4 life.
+Flavor Text:    "The key to winning any fight is simply staying alive."  
+		-The Southern Paladin
+Artist:         Tristan Elwell
+Rarity:         U
+Card #:         50/350
+
+Card Name:      Sunweb
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Creature - Wall
+Pow/Tou:        5/6
+Card Text:      (Walls can't attack.) Flying. Sunweb can't block creatures with 
+		power 2 or less.
+Flavor Text:    Sometimes the wings of fallen dragons refuse to give up the sky.
+Artist:         Greg Staples
+Rarity:         R
+Card #:         51/350
+
+Card Name:      Sustainer of the Realm
+Card Color:     White
+Mana Cost:      2WW
+Type & Class:   Creature - Angel
+Pow/Tou:        2/3
+Card Text:      Flying. Whenever Sustainer of the Realm blocks, it gets +0/+2 
+		until end of turn.
+Flavor Text:    "You may break her shield, but you'll never break her spirit."
+Artist:         Mark Zug
+Rarity:         U
+Card #:         52/350
+
+Card Name:      Venerable Monk
+Card Color:     White
+Mana Cost:      2W
+Type & Class:   Creature - Cleric
+Pow/Tou:        2/2
+Card Text:      When Venerable Monk comes into play, you gain 2 life.
+Flavor Text:    "I rely not so much on the wisdom of age as on the overconfidence 
+		of youth."
+Artist:         Mark Brill
+Rarity:         C
+Card #:         53/350
+
+Card Name:      Vengeance
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy target tapped creature.
+Flavor Text:    "It is the duty of the strong to oppose any who threaten the weak."
+		-The Southern Paladin
+Artist:         Paolo Parente
+Rarity:         U
+Card #:         54/350
+
+Card Name:      Wall of Swords
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Creature - Wall
+Pow/Tou:        3/5
+Card Text:      (Walls can't attack.) Flying
+Flavor Text:    "Sharper than wind, lighter than air."
+Artist:         Hannibal King
+Rarity:         U
+Card #:         55/350
+
+Card Name:      Worship
+Card Color:     White
+Mana Cost:      3W
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      If you control a creature, damage that would reduce your life 
+		total to less than 1 reduces it to 1 instead.
+Flavor Text:    "Believe in the ideal, not the idol." -Serra
+Artist:         Randy Post
+Rarity:         R
+Card #:         56/350
+
+Card Name:      Wrath of God
+Card Color:     White
+Mana Cost:      2WW
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy all creatures. They can't be regenerated.
+Flavor Text:
+Artist:         Kevin Walker
+Rarity:         R
+Card #:         57/350
+
+Card Name:      Air Elemental
+Card Color:     Blue
+Mana Cost:      3UU
+Type & Class:   Creature - Elemental
+Pow/Tou:        4/4
+Card Text:      Flying
+Flavor Text:    Where psycho meets cyclone.
+Artist:         Wayne England
+Rarity:         U
+Card #:         58/350
+
+Card Name:      Ancestral Memories
+Card Color:     Blue
+Mana Cost:      2UUU
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Look at the top seven cards of your library. Put two of them into 
+		your hand and the rest into your graveyard.
+Flavor Text:    "It's a poor sort of memory that only works backwards." 
+		-Lewis Carroll, Through the Looking Glass
+Artist:         Rebecca Guay
+Rarity:         R
+Card #:         59/350
+
+Card Name:      Arcane Laboratory
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Each player can't play more than one spell each turn.
+Flavor Text:    "Too many wizards spoil the spell, but too many spells spoil the 
+		wizard. -Sign on entry to arcane lab "
+Artist:         Brian Snoddy
+Rarity:         U
+Card #:         60/350
+
+Card Name:      Archivist
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Creature - Wizard
+Pow/Tou:        1/1
+Card Text:      Tap: Draw a card.
+Flavor Text:    "Knowledge is a feast for the mind. Savor every swallow."
+Artist:         Donato Giancola
+Rarity:         R
+Card #:         61/350
+
+Card Name:      Baleful Stare
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target opponent reveals his or her hand. You draw a card for each
+		mountain and red card in it.
+Flavor Text:    He can drown you in his eyes.
+Artist:         Eric Peterson
+Rarity:         U
+Card #:         62/350
+
+Card Name:      Benthic Behemoth
+Card Color:     Blue
+Mana Cost:      5UUU
+Type & Class:   Creature - Serpent
+Pow/Tou:        7/6
+Card Text:      Islandwalk (This creature is unblockable as long as defending 
+		player controls an island.)
+Flavor Text:    "The sea has many secrets, but some are too big to be kept."
+Artist:         Heather Hudson
+Rarity:         R
+Card #:         63/350
+
+Card Name:      Boomerang
+Card Color:     Blue
+Mana Cost:      UU
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Return target permanent to its owner's hand.
+Flavor Text:    "Returne from whence ye came...." 
+		-Edmund Spenser, The Faerie Queene
+Artist:         Rebecca Guay
+Rarity:         C
+Card #:         64/350
+
+Card Name:      Confiscate
+Card Color:     Blue
+Mana Cost:      4UU
+Type & Class:   Enchant Permanent
+Pow/Tou:
+Card Text:      You control enchanted permanent.
+Flavor Text:    "The surface world contains nothing I cannot take." 
+		-The Lord of Atlantis
+Artist:         Christopher Moeller
+Rarity:         U
+Card #:         65/350
+
+Card Name:      Coral Merfolk
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Creature - Merfolk
+Pow/Tou:        2/1
+Card Text:
+Flavor Text:    "The coral merfolk delight in wrestling with their foes, skinning
+		them alive on the razor-sharp edges of their reef."
+Artist:         Rebecca Guay
+Rarity:         C
+Card #:         66/350
+
+Card Name:      Counterspell
+Card Color:     Blue
+Mana Cost:      UU
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Counter target spell.
+Flavor Text:
+Artist:         Mark Romanoski
+Rarity:         C
+Card #:         67/350
+
+Card Name:      Daring Apprentice
+Card Color:     Blue
+Mana Cost:      1UU
+Type & Class:   Creature - Wizard
+Pow/Tou:        1/1
+Card Text:      Tap, Sacrifice Daring Apprentice: Counter target spell.
+Flavor Text:    "I've seen my master do this a hundred times. How hard can it be?"
+Artist:         Orizio Daniele
+Rarity:         R
+Card #:         68/350
+
+Card Name:      Deflection
+Card Color:     Blue
+Mana Cost:      3U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Change the target of target spell with a single target.
+Flavor Text:    "You've thrown your net at the wrong fish." -The Lord of Atlantis
+Artist:         Jeff Easley
+Rarity:         R
+Card #:         69/350
+
+Card Name:      Delusions of Mediocrity
+Card Color:     Blue
+Mana Cost:      3U
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      When Delusions of Mediocrity comes into play, you gain 10 life.
+		When Delusions of Mediocrity leaves play, you lose 10 life.
+Flavor Text:    When nothing but second best will do.
+Artist:         Terese Nielsen
+Rarity:         R
+Card #:         70/350
+
+Card Name:      Equilibrium
+Card Color:     Blue
+Mana Cost:      1UU
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever you play a creature spell, you may pay 1. If you do, 
+		return target creature to its owner's hand.
+Flavor Text:    Seek balance in all things-as long as the scales are weighted in 
+		your favor.  -Vodalian saying
+Artist:         Don Hazeltine
+Rarity:         R
+Card #:         71/350
+
+Card Name:      Evacuation
+Card Color:     Blue
+Mana Cost:      3UU
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Return all creatures to their owners' hands.
+Flavor Text:    "How many people can you save in that thing?"  "All of them," 
+		replied the mage with a smile.
+Artist:         Darrell Riche
+Rarity:         R
+Card #:         72/350
+
+Card Name:      Fighting Drake
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Creature - Drake
+Pow/Tou:        2/4
+Card Text:      Flying
+Flavor Text:    Scholars in their ivory towers call them "sharks of the sky." 
+		Scholars on the road don't call them at all.
+Artist:         Matt Cavotta
+Rarity:         U
+Card #:         73/350
+
+Card Name:      Fleeting Image
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Creature - Illusion
+Pow/Tou:        2/1
+Card Text:      Flying. 1U: Return Fleeting Image to its owner's hand.
+Flavor Text:    "It was as if we fought a shadow." -Onean soldier
+Artist:         Dave Dorman
+Rarity:         R
+Card #:         74/350
+
+Card Name:      Flight
+Card Color:     Blue
+Mana Cost:      U
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature has flying.
+Flavor Text:
+Artist:         Brad Williams
+Rarity:         C
+Card #:         75/350
+
+Card Name:      Force Spike
+Card Color:     Blue
+Mana Cost:      U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Counter target spell unless its controller pays 1.
+Flavor Text:    "I don't think so."
+Artist:         Nelson DeCastro
+Rarity:         C
+Card #:         76/350
+
+Card Name:      Giant Octopus
+Card Color:     Blue
+Mana Cost:      3U
+Type & Class:   Creature - Octopus
+Pow/Tou:        3/3
+Card Text:
+Flavor Text:    The only thing that flows faster than water is fear.
+Artist:         Heather Hudson
+Rarity:         C
+Card #:         77/350
+
+Card Name:      Glacial Wall
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Creature - Wall
+Pow/Tou:        0/7
+Card Text:      (Walls can't attack.)
+Flavor Text:    Like arguing with ice -Vodalian expression meaning "wasting your 
+		time"
+Artist:         Heather Hudson
+Rarity:         U
+Card #:         78/350
+
+Card Name:      Hibernation
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Return all green permanents to their owners' hands.
+Flavor Text:    The deep sleep of winter is not always restful.
+Artist:         Matt Cavotta
+Rarity:         U
+Card #:         79/350
+
+Card Name:      Horned Turtle
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Creature - Turtle
+Pow/Tou:        1/4
+Card Text:
+Flavor Text:    It doesn't like having visitors... unless it's having them for 
+		lunch.
+Artist:         Edward Beard, Jr.
+Rarity:         C
+Card #:         80/350
+
+Card Name:      Inspiration
+Card Color:     Blue
+Mana Cost:      3U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Target player draws two cards.
+Flavor Text:
+Artist:         Matt Cavotta
+Rarity:         C
+Card #:         81/350
+
+Card Name:      Levitation
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Creatures you control have flying.
+Flavor Text:    "We'll be easy targets if we remain on the ground. Let's take the 
+		fight to them."
+Artist:         John Matson
+Rarity:         U
+Card #:         82/350
+
+Card Name:      Lord of Atlantis
+Card Color:     Blue
+Mana Cost:      UU
+Type & Class:   Creature - Lord
+Pow/Tou:        2/2
+Card Text:      All Merfolk get +1/+1 and have islandwalk. (They're unblockable 
+		as long as defending player controls an island.)
+Flavor Text:    "A master of tactics, the Lord of Atlantis makes his people bold 
+		in battle merely by arriving to lead them."
+Artist:         Greg Staples
+Rarity:         R
+Card #:         83/350
+
+Card Name:      Mahamoti Djinn
+Card Color:     Blue
+Mana Cost:      4UU
+Type & Class:   Creature - Djinn
+Pow/Tou:        5/6
+Card Text:      Flying
+Flavor Text:    "Of royal blood among the spirits of the air, the Mahamoti djinn 
+		rides on the wings of the winds. As dangerous in the gambling 
+		hall as he is in battle, he is a master of trickery and 
+		misdirection."
+Artist:         Eric Peterson
+Rarity:         R
+Card #:         84/350
+
+Card Name:      Mana Breach
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a player plays a spell, that player returns a land he or 
+		she controls to its owner's hand.
+Flavor Text:    The mana that binds the world together can also tear it apart.
+Artist:         Gary Ruddell
+Rarity:         U
+Card #:         85/350
+
+Card Name:      Mana Short
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Tap all lands target player controls and empty his or her 
+		mana pool.
+Flavor Text:    "Remove their power, and their will to fight will follow." 
+		-Tolarian wizard
+Artist:         Greg Staples
+Rarity:         R
+Card #:         86/350
+
+Card Name:      Mawcor
+Card Color:     Blue
+Mana Cost:      3UU
+Type & Class:   Creature - Beast
+Pow/Tou:        3/3
+Card Text:      Flying. Tap: Mawcor deals 1 damage to target creature or player.
+Flavor Text:    Neither head holds a brain-that's located somewhere in the 
+		chest-but four eyes aim much better than two.
+Artist:         Kevin Walker
+Rarity:         R
+Card #:         87/350
+
+Card Name:      Memory Lapse
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Counter target spell. Put it on top of its owner's library 
+		instead of into that player's graveyard.
+Flavor Text:    "Eri phar phesta . . . um, phistor . . . er, phistara . . ."
+Artist:         Tristan Elwell
+Rarity:         C
+Card #:         88/350
+
+Card Name:      Merfolk Looter
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Creature - Merfolk
+Pow/Tou:        1/1
+Card Text:      Tap: Draw a card, then discard a card from your hand.
+Flavor Text:    "When you sink a lot of ships, it's easy to find sunken treasure."
+Artist:         Tristan Elwell
+Rarity:         U
+Card #:         89/350
+
+Card Name:      Merfolk of the Pearl Trident
+Card Color:     Blue
+Mana Cost:      U
+Type & Class:   Creature - Merfolk
+Pow/Tou:        1/1
+Card Text:
+Flavor Text:    "The paladins would be wise not to forget about the Pearl Trident.
+		The merfolk warriors have turned the tide of more than one human 
+		war... and I have no doubt they shall do so again." -Onean scholar
+Artist:         Ray Lago
+Rarity:         C
+Card #:         90/350
+
+Card Name:      Opportunity
+Card Color:     Blue
+Mana Cost:      4UU
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Target player draws four cards.
+Flavor Text:    Little things like morals shouldn't hinder one's ambition. 
+		-Pirate creed
+Artist:         Patrick Faricy
+Rarity:         U
+Card #:         91/350
+
+Card Name:      Opposition
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Tap an untapped creature you control: Tap target artifact, 
+		creature, or land.
+Flavor Text:    Exhausting a wizard can be exhausting work.
+Artist:         Mark Brill
+Rarity:         R
+Card #:         92/350
+
+Card Name:      Phantom Warrior
+Card Color:     Blue
+Mana Cost:      1UU
+Type & Class:   Creature - Illusion
+Pow/Tou:        2/2
+Card Text:      Phantom Warrior is unblockable.
+Flavor Text:    It can pass through solid matter-but that doesn't mean it's harmless.
+Artist:         Greg Staples
+Rarity:         U
+Card #:         93/350
+
+Card Name:      Prodigal Sorcerer
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Creature - Wizard
+Pow/Tou:        1/1
+Card Text:      Tap: Prodigal Sorcerer deals 1 damage to target creature or player.
+Flavor Text:    He wastes his amazing talents on proving how amazing he really is.
+Artist:         Anthony Szczudlo
+Rarity:         C
+Card #:         94/350
+
+Card Name:      Remove Soul
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Counter target creature spell.
+Flavor Text:
+Artist:         Adam Rex
+Rarity:         C
+Card #:         95/350
+
+Card Name:      Sage Owl
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Creature - Bird
+Pow/Tou:        1/1
+Card Text:      Flying. When Sage Owl comes into play, look at the top four cards
+		of your library, then put them back in any order.
+Flavor Text:
+Artist:         Mark Brill
+Rarity:         C
+Card #:         96/350
+
+Card Name:      Sea Monster
+Card Color:     Blue
+Mana Cost:      4UU
+Type & Class:   Creature - Serpent
+Pow/Tou:        6/6
+Card Text:      Sea Monster can't attack unless defending player controls an 
+		island.
+Flavor Text:    "Abandon ship!"
+Artist:         John Howe
+Rarity:         C
+Card #:         97/350
+
+Card Name:      Sleight of Hand
+Card Color:     Blue
+Mana Cost:      U
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Look at the top two cards of your library. Put one of them into 
+		your hand and the other on the bottom of your library.
+Flavor Text:    "Most people believe magic is only a trick. Why change their 
+		minds?"
+Artist:         Christopher Moeller
+Rarity:         C
+Card #:         98/350
+
+Card Name:      Steal Artifact
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Enchant Artifact
+Pow/Tou:
+Card Text:      You control enchanted artifact.
+Flavor Text:
+Artist:         Peter Bollinger
+Rarity:         U
+Card #:         99/350
+
+Card Name:      Storm Crow
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Creature - Bird
+Pow/Tou:        1/2
+Card Text:      Flying
+Flavor Text:    "Storm crow descending, winter unending. Storm crow departing, 
+		summer is starting."
+Artist:         John Matson
+Rarity:         C
+Card #:         100/350
+
+Card Name:      Telepathic Spies
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Creature - Wizard
+Pow/Tou:        2/2
+Card Text:      "When Telepathic Spies comes into play, look at target opponent's 
+		hand."
+Flavor Text:    Most spies sneak into enemy camps. These spies sneak into enemy 
+		minds.
+Artist:         Jim Nelson
+Rarity:         C
+Card #:         101/350
+
+Card Name:      Telepathy
+Card Color:     Blue
+Mana Cost:      U
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Your opponents play with their hands revealed.
+Flavor Text:    "Secrets? What secrets?"
+Artist:         Mark Tedin
+Rarity:         U
+Card #:         102/350
+
+Card Name:      Temporal Adept
+Card Color:     Blue
+Mana Cost:      1UU
+Type & Class:   Creature - Wizard
+Pow/Tou:        1/1
+Card Text:      UUU, Tap: Return target permanent to its owner's hand.
+Flavor Text:    "Of course she's at the head of her class. All of her classmates
+		have disappeared." -Tolarian renegade
+Artist:         Roger Raupp
+Rarity:         R
+Card #:         103/350
+
+Card Name:      Thieving Magpie
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Creature - Bird
+Pow/Tou:        1/3
+Card Text:      Flying. Whenever Thieving Magpie deals damage to an opponent, you 
+		draw a card.
+Flavor Text:    Other birds collect twigs for their nests. Magpies steal jewels 
+		for theirs.
+Artist:         Christopher Moeller
+Rarity:         U
+Card #:         104/350
+
+Card Name:      Tolarian Winds
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Discard your hand, then draw that many cards.
+Flavor Text:    Why not ask the winds?  -Tolarian expression meaning "Who knows?"
+Artist:         BB Petillo
+Rarity:         C
+Card #:         105/350
+
+Card Name:      Treasure Trove
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      2UU: Draw a card.
+Flavor Text:    "Nope, there's nothing here either. You guys go on ahead, I'll 
+		catch up in a minute. . . . Whoo hoo!"
+Artist:         Brian Despain
+Rarity:         U
+Card #:         106/350
+
+Card Name:      Twiddle
+Card Color:     Blue
+Mana Cost:      U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Tap or untap target artifact, creature, or land.
+Flavor Text:
+Artist:         Rebecca Guay
+Rarity:         C
+Card #:         107/350
+
+Card Name:      Unsummon
+Card Color:     Blue
+Mana Cost:      U
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Return target creature to its owner's hand.
+Flavor Text:
+Artist:         Ron Spencer
+Rarity:         C
+Card #:         108/350
+
+Card Name:      Vigilant Drake
+Card Color:     Blue
+Mana Cost:      4U
+Type & Class:   Creature - Drake
+Pow/Tou:        3/3
+Card Text:      Flying. 2U: Untap Vigilant Drake
+Flavor Text:    It can stay aloft for weeks with little or no sleep.
+Artist:         Dave Dorman
+Rarity:         C
+Card #:         109/350
+
+Card Name:      Vizzerdrix
+Card Color:     Blue
+Mana Cost:      6U
+Type & Class:   Creature - Beast
+Pow/Tou:        6/6
+Card Text:
+Flavor Text:    A bored wizard once created a vizzerdrix out of a bunny and a 
+		piranha. He never made that mistake again.
+Artist:         Dave Dorman
+Rarity:         R
+Card #:         110/350
+
+Card Name:      Wall of Air
+Card Color:     Blue
+Mana Cost:      1UU
+Type & Class:   Creature - Wall
+Pow/Tou:        1/5
+Card Text:      (Walls can't attack.) Flying
+Flavor Text:    "Let the air itself protect you, for it is everywhere." 
+		-Master wizard
+Artist:         John Avon
+Rarity:         U
+Card #:         111/350
+
+Card Name:      Wall of Wonder
+Card Color:     Blue
+Mana Cost:      2UU
+Type & Class:   Creature - Wall
+Pow/Tou:        1/5
+Card Text:      (Walls can't attack.) 2UU: Wall of Wonder gets +4/-4 until end of
+		turn and may attack this turn as though it weren't a Wall.
+Flavor Text:    They wondered at the size of it. It wondered which to eat first.
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         112/350
+
+Card Name:      Wind Dancer
+Card Color:     Blue
+Mana Cost:      1U
+Type & Class:   Creature - Faerie
+Pow/Tou:        1/1
+Card Text:      Flying. Tap: Target creature gains Flying. until end of turn.
+Flavor Text:    The sky is her stage.
+Artist:         Rob Alexander
+Rarity:         U
+Card #:         113/350
+
+Card Name:      Wind Drake
+Card Color:     Blue
+Mana Cost:      2U
+Type & Class:   Creature - Drake
+Pow/Tou:        2/2
+Card Text:      Flying
+Flavor Text:    "But high she shoots through air and light, Above all low delay,
+		Where nothing earthly bounds her flight, Nor shadow dims her way.
+		-Thomas Moore, "Oh that I had Wings"
+Artist:         Tom Wänerstrand
+Rarity:         C
+Card #:         114/350
+
+Card Name:      Abyssal Horror
+Card Color:     Black
+Mana Cost:      4BB
+Type & Class:   Creature - Horror
+Pow/Tou:        2/2
+Card Text:      Flying. When Abyssal Horror comes into play, target player 
+		discards two cards from his or her hand.
+Flavor Text:    "I dreamt of it once. Now I fear it dreams of me."
+		-Tolarian scholar
+Artist:         Daren Bader
+Rarity:         R
+Card #:         115/350
+
+Card Name:      Abyssal Specter
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Creature - Specter
+Pow/Tou:        2/3
+Card Text:      Flying. Whenever Abyssal Specter deals damage to a player, that 
+		player discards a card from his or her hand.
+Flavor Text:    To gaze under its hood is to invite death.
+Artist:         Michael Sutfin
+Rarity:         U
+Card #:         116/350
+
+Card Name:      Agonizing Memories
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Look at target player's hand and choose two cards from it. Put 
+		them on top of that player's library in any order.
+Flavor Text:    "I think little of the foes I've slain. But I'm haunted by the 
+		friends I've sent to die." -The Southern Paladin
+Artist:         Adam Rex
+Rarity:         U
+Card #:         117/350
+
+Card Name:      Befoul
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy target land or nonblack creature. It can't be regenerated.
+Flavor Text:    The bog's touch means death to all but the darkest of hearts.
+Artist:         Ciruelo Cabral
+Rarity:         U
+Card #:         118/350
+
+Card Name:      Bellowing Fiend
+Card Color:     Black
+Mana Cost:      4B
+Type & Class:   Creature - Spirit
+Pow/Tou:        3/3
+Card Text:      Flying. Whenever Bellowing Fiend deals damage to a creature, 
+		Bellowing Fiend deals 3 damage to that creature's controller and 
+		3 damage to you.
+Flavor Text:
+Artist:         Brian "Chippy" Dugan
+Rarity:         R
+Card #:         119/350
+
+Card Name:      Bereavement
+Card Color:     Black
+Mana Cost:      1B
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a green creature is put into a graveyard from play, its 
+		controller discards a card from his or her hand.
+Flavor Text:    Grief is a razor that slices the soul.
+Artist:         Marc Fishman
+Rarity:         U
+Card #:         120/350
+
+Card Name:      Blood Pet
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Creature - Thrull
+Pow/Tou:        1/1
+Card Text:      Sacrifice Blood Pet: Add B to your mana pool.
+Flavor Text:    No thrull has ever been burdened with a long life.
+Artist:         Heather Hudson
+Rarity:         C
+Card #:         121/350
+
+Card Name:      Bog Imp
+Card Color:     Black
+Mana Cost:      1B
+Type & Class:   Creature - Imp
+Pow/Tou:        1/1
+Card Text:      Flying
+Flavor Text:    Think of it as a butcher knife with wings.
+Artist:         Carl Critchlow
+Rarity:         C
+Card #:         122/350
+
+Card Name:      Bog Wraith
+Card Color:     Black
+Mana Cost:      3B
+Type & Class:   Creature - Wraith
+Pow/Tou:        3/3
+Card Text:      Swampwalk (This creature is unblockable as long as defending 
+		player controls a swamp.)
+Flavor Text:    The bodies of its victims are the only tracks it leaves.
+Artist:         Dave Dorman
+Rarity:         U
+Card #:         123/350
+
+Card Name:      Corrupt
+Card Color:     Black
+Mana Cost:      5B
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Corrupt deals damage equal to the number of swamps you control 
+		to target creature or player. You gain life equal to the damage 
+		dealt this way.
+Flavor Text:
+Artist:         Scott Fischer
+Rarity:         C
+Card #:         124/350
+
+Card Name:      Crypt Rats
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Creature - Rat
+Pow/Tou:        1/1
+Card Text:      X: Crypt Rats deals X damage to each creature and each player. 
+		Spend only black mana this way.
+Flavor Text:    Beware anything born among the dead. -Tolarian saying
+Artist:         Matt Cavotta
+Rarity:         U
+Card #:         125/350
+
+Card Name:      Dakmor Lancer
+Card Color:     Black
+Mana Cost:      4BB
+Type & Class:   Creature - Knight
+Pow/Tou:        3/3
+Card Text:      When Dakmor Lancer comes into play, destroy target nonblack 
+		creature.
+Flavor Text:    The darkness of his shield reflects the inky blackness of his soul.
+Artist:         Luca Zontini
+Rarity:         U
+Card #:         126/350
+
+Card Name:      Dark Banishing
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Destroy target nonblack creature. It can't be regenerated.
+Flavor Text:    "Hence 'banishèd' is banished from the world, / And the world's 
+		exile is death." -William Shakespeare, Romeo and Juliet"
+Artist:         Rebecca Guay
+Rarity:         C
+Card #:         127/350
+
+Card Name:      Darkest Hour
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      All creatures are black.
+Flavor Text:    The eclipse made it clear whose side the sky was on.
+Artist:         Ciruelo Cabral
+Rarity:         R
+Card #:         128/350
+
+Card Name:      Dregs of Sorrow
+Card Color:     Black
+Mana Cost:      X4B
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy X target nonblack creatures. Draw X cards.
+Flavor Text:    "We live for a thousand years. The death of even one brings 
+		untold sorrow." -Elvish elder
+Artist:         Massimilano Frezzato
+Rarity:         R
+Card #:         129/350
+
+Card Name:      Drudge Skeletons
+Card Color:     Black
+Mana Cost:      1B
+Type & Class:   Creature - Skeleton
+Pow/Tou:        1/1
+Card Text:      B: Regenerate Drudge Skeletons.
+Flavor Text:    "The dead make good soldiers. They can't disBey orders, they 
+		never surrender, and they don't stop fighting when a random body 
+		part falls off." -Nevinyrral, Necromancer's Handbook
+Artist:         Jim Nelson
+Rarity:         C
+Card #:         130/350
+
+Card Name:      Duress
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target opponent reveals his or her hand. Choose a noncreature, 
+		nonland card from it. That player discards that card.
+Flavor Text:    "Change your mind, or I'll change it for you."
+Artist:         Pete Venters
+Rarity:         C
+Card #:         131/350
+
+Card Name:      Eastern Paladin
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Creature - Knight
+Pow/Tou:        3/3
+Card Text:      BB, Tap: Destroy target green creature.
+Flavor Text:    "There is no worse enemy. His passion for death doesn't just 
+		border on insanity, it wallows in it." -The Southern Paladin
+Artist:         Kevin Walker
+Rarity:         R
+Card #:         132/350
+
+Card Name:      Engineered Plague
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      As Engineered Plague comes into play, choose a creature type. 
+		All creatures of the chosen type get -1/-1.
+Flavor Text:    A single germ can kill more soldiers than ten thousand blades.
+Artist:         Andrew Goldhawk
+Rarity:         U
+Card #:         133/350
+
+Card Name:      Fallen Angel
+Card Color:     Black
+Mana Cost:      3BB
+Type & Class:   Creature - Angel
+Pow/Tou:        3/3
+Card Text:      Flying. Sacrifice a creature: Fallen Angel gets +2/+1 until end 
+		of turn.
+Flavor Text:    "Why do you weep for the dead? I rejoice, for they have died for 
+		me." -Fallen angel, to Serra
+Artist:         Arnie Swekel
+Rarity:         R
+Card #:         134/350
+
+Card Name:      Fear
+Card Color:     Black
+Mana Cost:      BB
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature can't be blocked except by artifact creatures 
+		and/or black creatures.
+Flavor Text:    "Booga booga booga!"
+Artist:         Adam Rex
+Rarity:         C
+Card #:         135/350
+
+Card Name:      Foul Imp
+Card Color:     Black
+Mana Cost:      BB
+Type & Class:   Creature - Imp
+Pow/Tou:        2/2
+Card Text:      Flying. When Foul Imp comes into play, you lose 2 life.
+Flavor Text:    The villagers call it "winged stench."
+Artist:         Kevin Walker
+Rarity:         U
+Card #:         136/350
+
+Card Name:      Fugue
+Card Color:     Black
+Mana Cost:      3BB
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target player discards three cards from his or her hand.
+Flavor Text:    "It's hard to keep our own troops from fleeing when he's like 
+		this. How can our foes possibly stand against him?" 
+		-Field marshal for the Eastern Paladin
+Artist:         Alan Pollack
+Rarity:         U
+Card #:         137/350
+
+Card Name:      Giant Cockroach
+Card Color:     Black
+Mana Cost:      3B
+Type & Class:   Creature - Insect
+Pow/Tou:        4/2
+Card Text:
+Flavor Text:    "Toren had stepped on a lot of bugs during his life, so he 
+		couldn't help feeling embarrassed when a bug stepped on him."
+Artist:         John Matson
+Rarity:         C
+Card #:         138/350
+
+Card Name:      Gravedigger
+Card Color:     Black
+Mana Cost:      3B
+Type & Class:   Creature - Zombie
+Pow/Tou:        2/2
+Card Text:      When Gravedigger comes into play, you may return target creature 
+		card from your graveyard to your hand.
+Flavor Text:    A full coffin is like a full coffer-both are attractive to 
+		thieves.
+Artist:         James Bernardin
+Rarity:         C
+Card #:         139/350
+
+Card Name:      Greed
+Card Color:     Black
+Mana Cost:      3B
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      B, Pay 2 life: Draw a card.
+Flavor Text:    "An advisor once asked the Western Paladin how much gold would be 
+		enough. "I have no need of fools who can imagine 'enough,'" 
+		he told the advisor's corpse."
+Artist:         Peter Bollinger
+Rarity:         R
+Card #:         140/350
+
+Card Name:      Hollow Dogs
+Card Color:     Black
+Mana Cost:      4B
+Type & Class:   Creature - Hound
+Pow/Tou:        3/3
+Card Text:      Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.
+Flavor Text:    A hollow dog is never empty. It is filled with thirst for the hunt.
+Artist:         Arnie Swekel
+Rarity:         C
+Card #:         141/350
+
+Card Name:      Howl from Beyond
+Card Color:     Black
+Mana Cost:      XB
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Target creature gets +X/+0 until end of turn.
+Flavor Text:    "Whether it howls for hunger or for joy, you're in trouble just 
+		the same."
+Artist:         Dave Dorman
+Rarity:         C
+Card #:         142/350
+
+Card Name:      Infernal Contract
+Card Color:     Black
+Mana Cost:      BBB
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Draw four cards. You lose half your life, rounded up.
+Flavor Text:    "East and West meet and angels cry. Unholy power darkens the sky."
+		-"The Ballad of the Paladins"
+Artist:         Pete Venters
+Rarity:         R
+Card #:         143/350
+
+Card Name:      Leshrac's Rite
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature has swampwalk. (It's unblockable as long as 
+		defending player controls a swamp.)
+Flavor Text:    "Brackish water, dark and blind Heed my will, to you I bind." 
+		-Opening passage of Leshrac's Rite
+Artist:         Randy Post
+Rarity:         U
+Card #:         144/350
+
+Card Name:      Looming Shade
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Creature - Shade
+Pow/Tou:        1/1
+Card Text:      B: Looming Shade gets +1/+1 until end of turn.
+Flavor Text:    "On darkness feeding, in nightmares breeding."
+Artist:         Kevin Walker
+Rarity:         C
+Card #:         145/350
+
+Card Name:      Megrim
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever an opponent discards a card, Megrim deals 2 damage to 
+		that player.
+Flavor Text:    Memories cut from the mind can cut right back.
+Artist:         Peter Bollinger
+Rarity:         U
+Card #:         146/350
+
+Card Name:      Mind Rot
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target player discards two cards from his or her hand.
+Flavor Text:    What wizards fear most is losing their minds.
+Artist:         Adam Rex
+Rarity:         C
+Card #:         147/350
+
+Card Name:      Nausea
+Card Color:     Black
+Mana Cost:      1B
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      All creatures get -1/-1 until end of turn.
+Flavor Text:    "No fear. No sense. And soon, no lunch."
+Artist:         James Bernardin
+Rarity:         C
+Card #:         148/350
+
+Card Name:      Necrologia
+Card Color:     Black
+Mana Cost:      3BB
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Play Necrologia only during your end of turn step. As an 
+		additional cost to play Necrologia, pay any amount of life. Draw 
+		cards equal to the life paid this way.
+Flavor Text:
+Artist:         Scott Fischer
+Rarity:         U
+Card #:         149/350
+
+Card Name:      Nightmare
+Card Color:     Black
+Mana Cost:      5B
+Type & Class:   Creature - Nightmare
+Pow/Tou:        */*
+Card Text:      Flying. Nightmare's power and toughness are each equal to the 
+		number of swamps you control.
+Flavor Text:    The thunder of its hooves beats dreams into despair.
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         150/350
+
+Card Name:      Nocturnal Raid
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Black creatures get +2/+0 until end of turn.
+Flavor Text:    The Eastern Paladin doesn't attack at night for the tactical 
+		advantage. He does it for the sheer joy of fighting beneath the 
+		moon.
+Artist:         Pete Venters
+Rarity:         U
+Card #:         151/350
+
+Card Name:      Oppression
+Card Color:     Black
+Mana Cost:      1BB
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a player plays a spell, that player discards a card from
+		his or her hand.
+Flavor Text:    "Defeating an enemy is not nearly as satisfying as watching one 
+		suffer." -The Western Paladin
+Artist:         Alex Horley
+Rarity:         R
+Card #:         152/350
+
+Card Name:      Ostracize
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target opponent reveals his or her hand. Choose a creature card 
+		from it. That player discards that card.
+Flavor Text:    "You won't be needing this."
+Artist:         Hannibal King
+Rarity:         C
+Card #:         153/350
+
+Card Name:      Persecute
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Choose a color. Target player reveals his or her hand and 
+		discards all cards of that color from it.
+Flavor Text:    "I want every last one of these tree-hugging, earth-loving, 
+		pointy-eared weaklings out of here. Now!"
+Artist:         Luca Zontini
+Rarity:         R
+Card #:         154/350
+
+Card Name:      Plague Beetle
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Creature - Insect
+Pow/Tou:        1/1
+Card Text:      Swampwalk (This creature is unblockable as long as defending 
+		player controls a swamp.)
+Flavor Text:    No one knows whether they were named for the diseases they carry 
+		or for the speed at which they multiply.
+Artist:         Matt Cavotta
+Rarity:         C
+Card #:         155/350
+
+Card Name:      Rag Man
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Creature - Minion
+Pow/Tou:        2/1
+Card Text:      BBB, Tap: Target opponent reveals his or her hand and discards a 
+		creature card at random from it. Play this ability only during
+		your turn.
+Flavor Text:    He hunts what might have been.
+Artist:         Scott Fischer
+Rarity:         R
+Card #:         156/350
+
+Card Name:      Raise Dead
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Return target creature card from your graveyard to your hand.
+Flavor Text:    The earth cannot hold that which magic commands.
+Artist:         Carl Critchlow
+Rarity:         C
+Card #:         157/350
+
+Card Name:      Razortooth Rats
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Creature - Rat
+Pow/Tou:        2/1
+Card Text:      Razortooth Rats can't be blocked except by artifact creatures 
+		and/or black creatures.
+Flavor Text:    "They'll chew through armor, flesh, and bone. They'll even chew 
+		through each other if they're hungry enough."
+Artist:         Carl Critchlow
+Rarity:         C
+Card #:         158/350
+
+Card Name:      Reprocess
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Sacrifice any number of artifacts, creatures, and/or lands. Draw 
+		a card for each permanent sacrificed this way.
+Flavor Text:    The battle's end is the meal's beginning.
+Artist:         John Howe
+Rarity:         R
+Card #:         159/350
+
+Card Name:      Revenant
+Card Color:     Black
+Mana Cost:      4B
+Type & Class:   Creature - Spirit
+Pow/Tou:        */*
+Card Text:      Flying. Revenant's power and toughness are each equal to the 
+		number of creature cards in your graveyard.
+Flavor Text:    It eats death and drinks pain.
+Artist:         Andrew Goldhawk
+Rarity:         R
+Card #:         160/350
+
+Card Name:      Scathe Zombies
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Creature - Zombie
+Pow/Tou:        2/2
+Card Text:
+Flavor Text:    "They groaned, they stirred, they all uprose, Nor spake, nor 
+		moved their eyes; It had been strange, even in a dream, To have 
+		seen those dead men rise." -Samuel Taylor Coleridge, 
+		"The Rime of the Ancient Mariner"
+Artist:         Kevin Walker
+Rarity:         C
+Card #:         161/350
+
+Card Name:      Serpent Warrior
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Creature - Soldier
+Pow/Tou:        3/3
+Card Text:      When Serpent Warrior comes into play, you lose 3 life.
+Flavor Text:    They're the fiercest of all the Western Paladin's soldiers. 
+		They're also the most fiercely loyal-but that loyalty comes at a 
+		price.
+Artist:         Eric Peterson
+Rarity:         C
+Card #:         162/350
+
+Card Name:      Soul Feast
+Card Color:     Black
+Mana Cost:      3BB
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target player loses 4 life and you gain 4 life.
+Flavor Text:    You are who you eat.
+Artist:         Adam Rex
+Rarity:         U
+Card #:         163/350
+
+Card Name:      Spineless Thug
+Card Color:     Black
+Mana Cost:      1B
+Type & Class:   Creature - Mercenary
+Pow/Tou:        2/2
+Card Text:      Spineless Thug can't block.
+Flavor Text:    "What it lacks in backbone, it makes up for in cruelty."
+Artist:         Alan Pollack
+Rarity:         C
+Card #:         164/350
+
+Card Name:      Strands of Night
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      BB, Pay 2 life, Sacrifice a swamp: Return target creature card 
+		from your graveyard to play.
+Flavor Text:    "When the strands call, only the dead answer."
+Artist:         Glen Angus
+Rarity:         U
+Card #:         165/350
+
+Card Name:      Stronghold Assassin
+Card Color:     Black
+Mana Cost:      1BB
+Type & Class:   Creature - Assassin
+Pow/Tou:        2/1
+Card Text:      Tap, Sacrifice a creature: Destroy target nonblack creature.
+Flavor Text:    The assassin sees only throats and hears only heartbeats.
+Artist:         Ron Walotsky
+Rarity:         R
+Card #:         166/350
+
+Card Name:      Tainted Æther
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a creature comes into play, its controller sacrifices a 
+		creature or land.
+Flavor Text:    Pockets of Æther can be so foul they melt flesh from bone.
+Artist:         Ciruelo Cabral
+Rarity:         R
+Card #:         167/350
+
+Card Name:      Unholy Strength
+Card Color:     Black
+Mana Cost:      B
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature gets +2/+1.
+Flavor Text:    "I don't feel any different."
+Artist:         Gary Ruddell
+Rarity:         C
+Card #:         168/350
+
+Card Name:      Wall of Bone
+Card Color:     Black
+Mana Cost:      2B
+Type & Class:   Creature - Wall
+Pow/Tou:        1/4
+Card Text:      (Walls can't attack.) B: Regenerate Wall of Bone.
+Flavor Text:    "A skeletal wall, strengthened by the souls of traitors, rings 
+		the city of the Eastern Paladin."
+Artist:         Alan Pollack
+Rarity:         U
+Card #:         169/350
+
+Card Name:      Western Paladin
+Card Color:     Black
+Mana Cost:      2BB
+Type & Class:   Creature - Knight
+Pow/Tou:        3/3
+Card Text:      BB, Tap: Destroy target white creature.
+Flavor Text:    "Expect nothing but scorn, flattery, and lies. And never turn 
+		your back on him."  -The Northern Paladin
+Artist:         Paolo Parente
+Rarity:         R
+Card #:         170/350
+
+Card Name:      Yawgmoth's Edict
+Card Color:     Black
+Mana Cost:      1B
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever an opponent plays a white spell, that player loses 1 
+		life and you gain 1 life.
+Flavor Text:    The warping of bodies and souls has become the heart of 
+		Yawgmoth's existence.
+Artist:         Donato Giancola
+Rarity:         U
+Card #:         171/350
+
+Card Name:      Æther Flash
+Card Color:     Red
+Mana Cost:      2RR
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a creature comes into play, Æther Flash deals 2 damage 
+		to it.
+Flavor Text:    "As the foul beast appeared, arcane lightning crackled around it."
+Artist:         Wayne England
+Rarity:         U
+Card #:         172/350
+
+Card Name:      Balduvian Barbarians
+Card Color:     Red
+Mana Cost:      1RR
+Type & Class:   Creature - Barbarian
+Pow/Tou:        3/2
+Card Text:
+Flavor Text:    "From the snowy slopes of Kaelor, To the canyons of Bandu,  
+		We drink and fight and feast and die As we were born to do."
+		-Balduvian tavern song
+Artist:         Jim Nelson
+Rarity:         C
+Card #:         173/350
+
+Card Name:      Bedlam
+Card Color:     Red
+Mana Cost:      2RR
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Creatures can't block.
+Flavor Text:    The generals were dead. The battle plans were forgotten. It was 
+		everyone for themselves.
+Artist:         Ron Spencer
+Rarity:         R
+Card #:         174/350
+
+Card Name:      Blaze
+Card Color:     Red
+Mana Cost:      XR
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Blaze deals X damage to target creature or player.
+Flavor Text:    Fire never dies alone.
+Artist:         Alex Horley
+Rarity:         U
+Card #:         175/350
+
+Card Name:      Bloodshot Cyclops
+Card Color:     Red
+Mana Cost:      5R
+Type & Class:   Creature - Giant
+Pow/Tou:        4/4
+Card Text:      Tap, Sacrifice a creature: Bloodshot Cyclops deals damage equal 
+		to the sacrificed creature's power to target creature or player.
+Flavor Text:    "After their first encounter, the goblins named him Chuck."
+Artist:         Daren Bader
+Rarity:         R
+Card #:         176/350
+
+Card Name:      Boil
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Destroy all islands.
+Flavor Text:    "It is a slaughter, the death of a sea. Never speak of it again."
+		-The Lord of Atlantis
+Artist:         Christopher Moeller
+Rarity:         U
+Card #:         177/350
+
+Card Name:      Crimson Hellkite
+Card Color:     Red
+Mana Cost:      6RRR
+Type & Class:   Creature - Dragon
+Pow/Tou:        6/6
+Card Text:      Flying. X, Tap: Crimson Hellkite deals X damage to target 
+		creature. Spend only red mana this way.
+Flavor Text:    "The hellkites are artists with flames, painting the world with 
+		fire."
+Artist:         Carl Critchlow
+Rarity:         R
+Card #:         178/350
+
+Card Name:      Disorder
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Disorder deals 2 damage to each white creature and each player 
+		who controls a white creature.
+Flavor Text:    "Fire hurts them almost as much as the chaos that follows. 
+		Almost." -The Western Paladin
+Artist:         Glen Angus
+Rarity:         U
+Card #:         179/350
+
+Card Name:      Earthquake
+Card Color:     Red
+Mana Cost:      XR
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Earthquake deals X damage to each creature without Flying and 
+		each player.
+Flavor Text:
+Artist:         Franz Vohwinkel
+Rarity:         R
+Card #:         180/350
+
+Card Name:      Fervor
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Creatures you control have haste. (They may attack and Tap the 
+		turn they come under your control.)
+Flavor Text:    The intensity of their glare was soon surpassed by the intensity 
+		of their attack.
+Artist:         Wayne England
+Rarity:         R
+Card #:         181/350
+
+Card Name:      Final Fortune
+Card Color:     Red
+Mana Cost:      RR
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Take an extra turn after this one. At the end of that turn, 
+		you lose the game.
+Flavor Text:    A reward is worthless if you aren't around to enjoy it.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         R
+Card #:         182/350
+
+Card Name:      Fire Elemental
+Card Color:     Red
+Mana Cost:      3RR
+Type & Class:   Creature - Elemental
+Pow/Tou:        5/4
+Card Text:
+Flavor Text:    It treads on feet of coals and strikes with the force of a volcano.
+Artist:         Doug Shuler
+Rarity:         U
+Card #:         183/350
+
+Card Name:      Ghitu Fire-Eater
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Creature - Nomad
+Pow/Tou:        2/2
+Card Text:      Tap, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage 
+		equal to its power to target creature or player.
+Flavor Text:    "The Ghitu believe their race was born of fire, and it's an 
+		honor to return to it."
+Artist:         Eric Peterson
+Rarity:         U
+Card #:         184/350
+
+Card Name:      Goblin Chariot
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Creature - Goblin
+Pow/Tou:        2/2
+Card Text:      Haste (This creature may attack and Tap the turn it comes under 
+		your control.)
+Flavor Text:    The hardest part of his training is learning not to eat the boar.
+Artist:         John Howe
+Rarity:         C
+Card #:         185/350
+
+Card Name:      Goblin Digging Team
+Card Color:     Red
+Mana Cost:      R
+Type & Class:   Creature - Goblin
+Pow/Tou:        1/1
+Card Text:      Tap, Sacrifice Goblin Digging Team: Destroy target Wall.
+Flavor Text:    "Dig. Dig. Dig. Dig. Dig. Dig. Die!" -Goblin chant
+Artist:         Ben Thompson
+Rarity:         C
+Card #:         186/350
+
+Card Name:      Goblin Elite Infantry
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Creature - Goblin
+Pow/Tou:        2/2
+Card Text:      Whenever Goblin Elite Infantry blocks or becomes blocked, 
+		it gets -1/-1 until end of turn.
+Flavor Text:    We're elite. You're not. -Infantry motto
+Artist:         Daren Bader
+Rarity:         C
+Card #:         187/350
+
+Card Name:      Goblin Gardener
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Creature - Goblin
+Pow/Tou:        2/1
+Card Text:      When Goblin Gardener is put into a graveyard from play, destroy 
+		target land.
+Flavor Text:    Years of attempts have brought the goblins no closer to growing a 
+		sausage tree.
+Artist:         Jerry Tiritilli
+Rarity:         C
+Card #:         188/350
+
+Card Name:      Goblin Glider
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Creature - Goblin
+Pow/Tou:        1/1
+Card Text:      Flying. Goblin Glider can't block.
+Flavor Text:    "What's got two arms, one wing, and no brains?" -Ghitu riddle
+Artist:         Patrick Faricy
+Rarity:         U
+Card #:         189/350
+
+Card Name:      Goblin King
+Card Color:     Red
+Mana Cost:      1RR
+Type & Class:   Creature - Lord
+Pow/Tou:        2/2
+Card Text:      All Goblins get +1/+1 and have mountainwalk. (They're unblockable 
+		as long as defending player controls a mountain.)
+Flavor Text:    "To be king, Numsgil did in Blog, who did in Unkful, who did in 
+		Viddle, who did in Loll, who did in Alrok. . . ."
+Artist:         Ron Spears
+Rarity:         R
+Card #:         190/350
+
+Card Name:      Goblin Matron
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Creature - Goblin
+Pow/Tou:        1/1
+Card Text:      When Goblin Matron comes into play, you may search your library 
+		for a Goblin card. If you do, reveal that card and put it into 
+		your hand. Then shuffle your library.
+Flavor Text:
+Artist:         Daniel Frazier
+Rarity:         U
+Card #:         191/350
+
+Card Name:      Goblin Raider
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Creature - Goblin
+Pow/Tou:        2/2
+Card Text:      Goblin Raider can't block.
+Flavor Text:    He's smart for a goblin. He can do two things: hit and run.
+Artist:         Arnie Swekel
+Rarity:         C
+Card #:         192/350
+
+Card Name:      Goblin Spelunkers
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Creature - Goblin
+Pow/Tou:        2/2
+Card Text:      Mountainwalk (This creature is unblockable as long as defending 
+		player controls a mountain.)
+Flavor Text:    Goblins prefer caves to just about anything else. Caves prefer 
+		just about anything else to goblins.
+Artist:         Matt Cavotta
+Rarity:         C
+Card #:         193/350
+
+Card Name:      Goblin War Drums
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Each creature you control can't be blocked except by two or more 
+		creatures.
+Flavor Text:    The goblin idea of music is to hit something with a stick.
+Artist:         Peter Bollinger
+Rarity:         U
+Card #:         194/350
+
+Card Name:      Granite Grip
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature gets +1/+0 for each mountain you control.
+Flavor Text:    "Let me introduce you to Rocky."
+Artist:         Ray Lago
+Rarity:         C
+Card #:         195/350
+
+Card Name:      Hill Giant
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Creature - Giant
+Pow/Tou:        3/3
+Card Text:
+Flavor Text:    "Hill giants are mostly just big. Of course, that does count for 
+		a lot."
+Artist:         Orizio Daniele
+Rarity:         C
+Card #:         196/350
+
+Card Name:      Impatience
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      At the end of each player's turn, if that player didn't play a 
+		spell that turn, Impatience deals 2 damage to him or her.
+Flavor Text:    "I'm going to count to three. Three."
+Artist:         Kunio Hagio
+Rarity:         R
+Card #:         197/350
+
+Card Name:      Inferno
+Card Color:     Red
+Mana Cost:      5RR
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Inferno deals 6 damage to each creature and each player.
+Flavor Text:    "Some have said there is no subtlety to destruction. You know 
+		what? They're dead." -Wandering mage
+Artist:         Don Hazeltine
+Rarity:         R
+Card #:         198/350
+
+Card Name:      Lava Axe
+Card Color:     Red
+Mana Cost:      4R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Lava Axe deals 5 damage to target player.
+Flavor Text:    "Catch!"
+Artist:         Ray Lago
+Rarity:         C
+Card #:         199/350
+
+Card Name:      Lightning Blast
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Lightning Blast deals 4 damage to target creature or player.
+Flavor Text:    "I'll climb down soon. Don't worry, it's just a thundersto-"
+		-Former elvish scout
+Artist:         Ron Spencer
+Rarity:         C
+Card #:         200/350
+
+Card Name:      Lightning Elemental
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Creature - Elemental
+Pow/Tou:        4/1
+Card Text:      Haste (This creature may attack and Tap the turn it comes under 
+		your control.)
+Flavor Text:    "A flash of the lightning, a break of the wave, He passes from 
+		life to his rest in the grave." -William Knox, "Mortality"
+Artist:         Kevin Walker
+Rarity:         C
+Card #:         201/350
+
+Card Name:      Mana Clash
+Card Color:     Red
+Mana Cost:      R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      You and target opponent each flip a coin. Mana Clash deals 1 
+		damage to each player whose coin comes up tails. Repeat this 
+		process until both players' coins come up heads on the same flip.
+Flavor Text:
+Artist:         Larry Elmore
+Rarity:         R
+Card #:         202/350
+
+Card Name:      Ogre Taskmaster
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Creature - Ogre
+Pow/Tou:        4/3
+Card Text:      Ogre Taskmaster can't block.
+Flavor Text:    Ogres learn how to smash stuff even before they learn how to walk.
+Artist:         Jeff Easley
+Rarity:         U
+Card #:         203/350
+
+Card Name:      Okk
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Creature - Goblin
+Pow/Tou:        4/4
+Card Text:      Okk can't attack unless a creature with greater power also attacks. 
+		Okk can't block unless a creature with greater power also blocks.
+Flavor Text:
+Artist:         Peter Bollinger
+Rarity:         R
+Card #:         204/350
+
+Card Name:      Orcish Artillery
+Card Color:     Red
+Mana Cost:      1RR
+Type & Class:   Creature - Orc
+Pow/Tou:        1/3
+Card Text:      Tap: Orcish Artillery deals 2 damage to target creature or player 
+		and 3 damage to you.
+Flavor Text:    "Ready . . . aim . . . fire!" "Ow!"
+Artist:         Daniel Frazier
+Rarity:         U
+Card #:         205/350
+
+Card Name:      Orcish Oriflamme
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Attacking creatures you control get +1/+0.
+Flavor Text:
+Artist:         Ben Thompson
+Rarity:         U
+Card #:         206/350
+
+Card Name:      Pillage
+Card Color:     Red
+Mana Cost:      1RR
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy target artifact or land. It can't be regenerated.
+Flavor Text:    "Burn their homes. Salt their lands. Nothing survives."
+		-The Western Paladin
+Artist:         Brad Williams
+Rarity:         U
+Card #:         207/350
+
+Card Name:      Pygmy Pyrosaur
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Creature - Lizard
+Pow/Tou:        1/1
+Card Text:      Pygmy Pyrosaur can't block. R: Pygmy Pyrosaur gets +1/+0 until 
+		end of turn.
+Flavor Text:    Do not judge a lizard by its size. -Ghitu proverb
+Artist:         Daniel Frazier
+Rarity:         C
+Card #:         208/350
+
+Card Name:      Pyroclasm
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Pyroclasm deals 2 damage to each creature.
+Flavor Text:    "When the air burns, only death breathes deep." -Bogardan mage
+Artist:         Monte Moore
+Rarity:         U
+Card #:         209/350
+
+Card Name:      Pyrotechnics
+Card Color:     Red
+Mana Cost:      4R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Pyrotechnics deals 4 damage divided as you choose among any 
+		number of target creatures and/or players.
+Flavor Text:    "Who says lightning never strikes twice?" -Storm shaman
+Artist:         John Avon
+Rarity:         U
+Card #:         210/350
+
+Card Name:      Raging Goblin
+Card Color:     Red
+Mana Cost:      R
+Type & Class:   Creature - Goblin
+Pow/Tou:        1/1
+Card Text:      Haste (This creature may attack and Tap the turn it comes under 
+		your control.)
+Flavor Text:    "He raged at the world, at his family, at his life. But mostly he 
+		just raged."
+Artist:         Peter Bollinger
+Rarity:         C
+Card #:         211/350
+
+Card Name:      Reckless Embermage
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Creature - Wizard
+Pow/Tou:        2/2
+Card Text:      1R: Reckless Embermage deals 1 damage to target creature or 
+		player and 1 damage to itself.
+Flavor Text:    Those who play with fire are bound to get burned.
+Artist:         BB Petillo
+Rarity:         R
+Card #:         212/350
+
+Card Name:      Reflexes
+Card Color:     Red
+Mana Cost:      R
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature has first strike.
+Flavor Text:    "Be as fast as lightning, and you will be just as deadly." 
+		-Combat trainer"
+Artist:         Donato Giancola
+Rarity:         C
+Card #:         213/350
+
+Card Name:      Relentless Assault
+Card Color:     Red
+Mana Cost:      2RR
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Untap all creatures that attacked this turn. You get an 
+		additional combat phase followed by an additional main phase 
+		this turn.
+Flavor Text:    "Mercy? Mercy is for the playground, not the battleground."
+Artist:         Greg & Tim Hildebrandt
+Rarity:         R
+Card #:         214/350
+
+Card Name:      Sabretooth Tiger
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Creature - Cat
+Pow/Tou:        2/1
+Card Text:      First strike
+Flavor Text:    "Here, kitty kitty. Here, kitty kitty. Aaaaugh!"
+Artist:         Monte Moore
+Rarity:         C
+Card #:         215/350
+
+Card Name:      Seismic Assault
+Card Color:     Red
+Mana Cost:      RRR
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Discard a land card from your hand: Seismic Assault deals 2 
+		damage to target creature or player.
+Flavor Text:    Earth arms itself with fire.
+Artist:         Greg Staples
+Rarity:         R
+Card #:         216/350
+
+Card Name:      Shatter
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Destroy target artifact.
+Flavor Text:
+Artist:         Michael Koelsch
+Rarity:         C
+Card #:         217/350
+
+Card Name:      Shivan Dragon
+Card Color:     Red
+Mana Cost:      4RR
+Type & Class:   Creature - Dragon
+Pow/Tou:        5/5
+Card Text:      Flying. R: Shivan Dragon gets +1/+0 until end of turn.
+Flavor Text:    The undisputed master of the mountains of Shiv.
+Artist:         Donato Giancola
+Rarity:         R
+Card #:         218/350
+
+Card Name:      Shock
+Card Color:     Red
+Mana Cost:      R
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Shock deals 2 damage to target creature or player.
+Flavor Text:
+Artist:         Mike Sass
+Rarity:         C
+Card #:         219/350
+
+Card Name:      Spitting Earth
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Spitting Earth deals damage equal to the number of mountains you 
+		control to target creature.
+Flavor Text:    "We were ready for an attack from the front, sides, or back-but 
+		the mage hit us from below." -Veteran soldier
+Artist:         Michael Koelsch
+Rarity:         C
+Card #:         220/350
+
+Card Name:      Stone Rain
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy target land.
+Flavor Text:
+Artist:         Anthony Szczudlo
+Rarity:         C
+Card #:         221/350
+
+Card Name:      Storm Shaman
+Card Color:     Red
+Mana Cost:      2R
+Type & Class:   Creature - Cleric
+Pow/Tou:        0/4
+Card Text:      R: Storm Shaman gets +1/+0 until end of turn.
+Flavor Text:    "She speaks with the voice of the winds, and the earth trembles."
+Artist:         D.J. Cleland-Hura
+Rarity:         U
+Card #:         222/350
+
+Card Name:      Sudden Impact
+Card Color:     Red
+Mana Cost:      3R
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Sudden Impact deals damage equal to the number of cards in target
+		player's hand to that player.
+Flavor Text:    Caught red-handed.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         U
+Card #:         223/350
+
+Card Name:      Trained Orgg
+Card Color:     Red
+Mana Cost:      6R
+Type & Class:   Creature - Beast
+Pow/Tou:        6/6
+Card Text:
+Flavor Text:    "That arm's for bashin'. That one's for smashin'. That one's for 
+		scratchin'. And that one . . . I don't know what that one's for."
+		-Orgg trainer
+Artist:         Alex Horley
+Rarity:         R
+Card #:         224/350
+
+Card Name:      Tremor
+Card Color:     Red
+Mana Cost:      R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Tremor deals 1 damage to each creature without flying.
+Flavor Text:    Where do you run when the earth becomes your enemy?
+Artist:         Michael Koelsch
+Rarity:         C
+Card #:         225/350
+
+Card Name:      Volcanic Hammer
+Card Color:     Red
+Mana Cost:      1R
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Volcanic Hammer deals 3 damage to target creature or player.
+Flavor Text:    Fire finds its form in the heat of the forge.
+Artist:         Ben Thompson
+Rarity:         C
+Card #:         226/350
+
+Card Name:      Wall of Fire
+Card Color:     Red
+Mana Cost:      1RR
+Type & Class:   Creature - Wall
+Pow/Tou:        0/5
+Card Text:      (Walls can't attack.) R: Wall of Fire gets +1/+0 until end of turn.
+Flavor Text:    The erupting flames work as both barrier and weapon.
+Artist:         Ron Spencer
+Rarity:         U
+Card #:         227/350
+
+Card Name:      Wildfire
+Card Color:     Red
+Mana Cost:      4RR
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Each player sacrifices four lands. Wildfire deals 4 damage to 
+		each creature.
+Flavor Text:    "Fire is always at the top of the food chain, and it has a big 
+		appetite."
+Artist:         Ron Spencer
+Rarity:         R
+Card #:         228/350
+
+Card Name:      Anaconda
+Card Color:     Green
+Mana Cost:      3G
+Type & Class:   Creature - Snake
+Pow/Tou:        3/3
+Card Text:      Swampwalk (This creature is unblockable as long as defending 
+		player controls a swamp.)
+Flavor Text:    You'll never find an anaconda in a swamp. It will always find you 
+		first.
+Artist:         John Gallagher
+Rarity:         U
+Card #:         229/350
+
+Card Name:      Ancient Silverback
+Card Color:     Green
+Mana Cost:      4GG
+Type & Class:   Creature - Ape
+Pow/Tou:        6/5
+Card Text:      G: Regenerate Ancient Silverback.
+Flavor Text:    The Phyrexian killing machines couldn't have known the 
+		seriousness of their mistake in wounding the ape-they'd never 
+		seen it angry.
+Artist:         Scott Fischer
+Rarity:         R
+Card #:         230/350
+
+Card Name:      Birds of Paradise
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Creature - Bird
+Pow/Tou:        0/1
+Card Text:      Flying. Tap: Add one mana of any color to your mana pool.
+Flavor Text:
+Artist:         Edward Beard, Jr.
+Rarity:         R
+Card #:         231/350
+
+Card Name:      Blanchwood Armor
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      Enchanted creature gets +1/+1 for each forest you control.
+Flavor Text:    "There's never been a dwarven smith who could match the marvels 
+		that Gaea herself forges." -The Elvish Champion
+Artist:         Paolo Parente
+Rarity:         U
+Card #:         232/350
+
+Card Name:      Bull Hippo
+Card Color:     Green
+Mana Cost:      3G
+Type & Class:   Creature - Hippo
+Pow/Tou:        3/3
+Card Text:      Islandwalk (This creature is unblockable as long as defending 
+		player controls an island.)
+Flavor Text:    "The merfolk may rule the waters, but hippos have never had much 
+		respect for authority."
+Artist:         Heather Hudson
+Rarity:         U
+Card #:         233/350
+
+Card Name:      Canopy Spider
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Creature - Spider
+Pow/Tou:        1/3
+Card Text:      Canopy Spider may block as though it had flying.
+Flavor Text:    It keeps the upper reaches of the forest free of every menace... 
+		except for the spider itself.
+Artist:         Mike Raabe
+Rarity:         C
+Card #:         234/350
+
+Card Name:      Compost
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a black card is put into an opponent's graveyard, you 
+		may draw a card.
+Flavor Text:    A fruit must rot before its seed can sprout.  -Yavimaya saying
+Artist:         Marc Fishman
+Rarity:         U
+Card #:         235/350
+
+Card Name:      Creeping Mold
+Card Color:     Green
+Mana Cost:      2GG
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy target artifact, enchantment, or land.
+Flavor Text:    Mold crept over the walls and into every crevice until the 
+		gleaming white stone strained and burst.
+Artist:         Gary Ruddell
+Rarity:         U
+Card #:         236/350
+
+Card Name:      Early Harvest
+Card Color:     Green
+Mana Cost:      1GG
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Target player untaps all basic lands he or she controls.
+Flavor Text:    "Give it a week and it will feed an army."
+Artist:         Heather Hudson
+Rarity:         R
+Card #:         237/350
+
+Card Name:      Elder Druid
+Card Color:     Green
+Mana Cost:      3G
+Type & Class:   Creature - Cleric
+Pow/Tou:        2/2
+Card Text:      3G, Tap: Tap or untap target artifact, creature, or land.
+Flavor Text:    "I may seem wise to you, but I'm merely a sapling among mighty 
+		oaks."
+Artist:         Alan Pollack
+Rarity:         R
+Card #:         238/350
+
+Card Name:      Elvish Archers
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Creature - Elf
+Pow/Tou:        2/1
+Card Text:      First strike
+Flavor Text:    The archers have a reputation for attacking without warning. 
+		They claim that the first arrow is the warning.
+Artist:         Doug Chaffee
+Rarity:         R
+Card #:         239/350
+
+Card Name:      Elvish Champion
+Card Color:     Green
+Mana Cost:      1GG
+Type & Class:   Creature - Lord
+Pow/Tou:        2/2
+Card Text:      All Elves get +1/+1 and have forestwalk. (They're unblockable as 
+		long as defending player controls a forest.)
+Flavor Text:    "For what are leaves but countless blades  To fight a countless 
+		foe on high."  -Elvish hymn
+Artist:         Paolo Parente
+Rarity:         R
+Card #:         240/350
+
+Card Name:      Elvish Lyrist
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Creature - Elf
+Pow/Tou:        1/1
+Card Text:      G, Tap, Sacrifice Elvish Lyrist: Destroy target enchantment.
+Flavor Text:    "To an elf, magic and music are the same."
+Artist:         Michael Koelsch
+Rarity:         U
+Card #:         241/350
+
+Card Name:      Elvish Piper
+Card Color:     Green
+Mana Cost:      3G
+Type & Class:   Creature - Elf
+Pow/Tou:        1/1
+Card Text:      G, Tap: Put a creature card from your hand into play.
+Flavor Text:    "From Gaea grew the world, and the world was silent. From 
+		Gaea grew the world's elves, and the world was silent no more. 
+		-Elvish teaching"
+Artist:         Tristan Elwell
+Rarity:         R
+Card #:         242/350
+
+Card Name:      Familiar Ground
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Each creature you control can't be blocked by more than one 
+		creature.
+Flavor Text:    "More than any other battlefield, the forest gives the advantage 
+		to those who know it best."
+Artist:         Tom Gianni
+Rarity:         U
+Card #:         243/350
+
+Card Name:      Femeref Archers
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Creature - Soldier
+Pow/Tou:        2/2
+Card Text:      Tap: Femeref Archers deals 4 damage to target attacking creature 
+		with flying.
+Flavor Text:    "Bet you can't put it through the eye." "Left or right?"
+Artist:         Gary Ruddell
+Rarity:         U
+Card #:         244/350
+
+Card Name:      Fog
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Prevent all combat damage that would be dealt this turn.
+Flavor Text:
+Artist:         Arnie Swekel
+Rarity:         C
+Card #:         245/350
+
+Card Name:      Fyndhorn Elder
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Creature - Elf
+Pow/Tou:        1/1
+Card Text:      Tap: Add GG to your mana pool.
+Flavor Text:    "It is useful to be able to speak to the trees. But it is truly 
+		wondrous to be able to listen to them."
+Artist:         Greg Staples
+Rarity:         U
+Card #:         246/350
+
+Card Name:      Gang of Elk
+Card Color:     Green
+Mana Cost:      5G
+Type & Class:   Creature - Beast
+Pow/Tou:        5/4
+Card Text:      Whenever Gang of Elk becomes blocked, it gets +2/+2 until end of 
+		turn for each creature blocking it.
+Flavor Text:    "I felt the ground shake, so I hid in my tent until the 
+		earthquake passed. It passed all right, and it left hoofprints."
+		-Femeref explorer"
+Artist:         Tom Gianni
+Rarity:         U
+Card #:         247/350
+
+Card Name:      Giant Growth
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Target creature gets +3/+3 until end of turn.
+Flavor Text:
+Artist:         Terese Nielsen
+Rarity:         C
+Card #:         248/350
+
+Card Name:      Giant Spider
+Card Color:     Green
+Mana Cost:      3G
+Type & Class:   Creature - Spider
+Pow/Tou:        2/4
+Card Text:      Giant Spider may block as though it had flying.
+Flavor Text:    Watching the spider's web -Llanowar expression meaning 
+		"focusing on the wrong thing"
+Artist:         Ray Lago
+Rarity:         C
+Card #:         249/350
+
+Card Name:      Gorilla Chieftain
+Card Color:     Green
+Mana Cost:      2GG
+Type & Class:   Creature - Ape
+Pow/Tou:        3/3
+Card Text:      1G: Regenerate Gorilla Chieftain.
+Flavor Text:    A gorilla chief must always be prepared to defend his crown. 
+		This leads to some pretty tough apes.
+Artist:         Carl Critchlow
+Rarity:         C
+Card #:         250/350
+
+Card Name:      Grizzly Bears
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Creature - Bear
+Pow/Tou:        2/2
+Card Text:
+Flavor Text:    "They've got claws as long as your arm. And they're grouchy. 
+		Really, really grouchy."
+Artist:         D.J. Cleland-Hura
+Rarity:         C
+Card #:         251/350
+
+Card Name:      Hurricane
+Card Color:     Green
+Mana Cost:      XG
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Hurricane deals X damage to each creature with Flying and each 
+		player.
+Flavor Text:
+Artist:         John Howe
+Rarity:         R
+Card #:         252/350
+
+Card Name:      Llanowar Elves
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Creature - Elf
+Pow/Tou:        1/1
+Card Text:      Tap: Add G to your mana pool.
+Flavor Text:    "Llanowar covers a million square miles, yet nobody enters the 
+		forest without the elves knowing it."
+Artist:         Jerry Tiritilli
+Rarity:         C
+Card #:         253/350
+
+Card Name:      Lone Wolf
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Creature - Wolf
+Pow/Tou:        2/2
+Card Text:      You may have Lone Wolf deal its combat damage to defending player 
+		as though it weren't blocked.
+Flavor Text:    A wolf without a pack is either a survivor or a brute.
+Artist:         Doug Shuler
+Rarity:         C
+Card #:         254/350
+
+Card Name:      Lure
+Card Color:     Green
+Mana Cost:      1GG
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      All creatures able to block enchanted creature do so.
+Flavor Text:    "When the forest wants something, no mortal mind can resist her." 
+		-Maro"
+Artist:         Larry Elmore
+Rarity:         U
+Card #:         255/350
+
+Card Name:      Maro
+Card Color:     Green
+Mana Cost:      2GG
+Type & Class:   Creature - Elemental
+Pow/Tou:        */*
+Card Text:      Maro's power and toughness are each equal to the number of cards 
+		in your hand.
+Flavor Text:    No two see the same Maro.
+Artist:         Pete Venters
+Rarity:         R
+Card #:         256/350
+
+Card Name:      Might of Oaks
+Card Color:     Green
+Mana Cost:      3G
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Target creature gets +7/+7 until end of turn.
+Flavor Text:    "Guess where I'm gonna plant this!"
+Artist:         Greg Staples
+Rarity:         R
+Card #:         257/350
+
+Card Name:      Monstrous Growth
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target creature gets +4/+4 until end of turn.
+Flavor Text:    Get in touch with your inner monster.
+Artist:         Ron Spencer
+Rarity:         C
+Card #:         258/350
+
+Card Name:      Nature's Resurgence
+Card Color:     Green
+Mana Cost:      2GG
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Each player draws a card for each creature card in his or her 
+		graveyard.
+Flavor Text:    "The dead whisper to the living. If you listen, you will learn."
+		-Maro"
+Artist:         Gary Ruddell
+Rarity:         R
+Card #:         259/350
+
+Card Name:      Nature's Revolt
+Card Color:     Green
+Mana Cost:      3GG
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      All lands are 2/2 creatures that are still lands.
+Flavor Text:    The land rises up to defend against those who would spoil its 
+		beauty.
+Artist:         Dave Dorman
+Rarity:         R
+Card #:         260/350
+
+Card Name:      Pride of Lions
+Card Color:     Green
+Mana Cost:      3GG
+Type & Class:   Creature - Cat
+Pow/Tou:        4/4
+Card Text:      You may have Pride of Lions deal its combat damage to defending 
+		player as though it weren't blocked.
+Flavor Text:    There's only one thing worse than a hungry lion-many hungry lions.
+Artist:         Gary Ruddell
+Rarity:         U
+Card #:         261/350
+
+Card Name:      Rampant Growth
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Search your library for a basic land card and put that card into 
+		play tapped. Then shuffle your library.
+Flavor Text:    Nature grows solutions to her prBlems.
+Artist:         Scott Fischer
+Rarity:         C
+Card #:         262/350
+
+Card Name:      Reclaim
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Instant
+Pow/Tou:
+Card Text:      Put target card from your graveyard on top of your library.
+Flavor Text:    The wise pay as much attention to what they throw away as to what 
+		they keep.
+Artist:         Greg & Tim Hildebrandt
+Rarity:         C
+Card #:         263/350
+
+Card Name:      Redwood Treefolk
+Card Color:     Green
+Mana Cost:      4G
+Type & Class:   Creature - Treefolk
+Pow/Tou:        3/6
+Card Text:
+Flavor Text:    And would you strip the bark from a treefolk? -Elvish expression 
+		meaning "Are you crazy?"
+Artist:         D.J. Cleland-Hura
+Rarity:         C
+Card #:         264/350
+
+Card Name:      Regeneration
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Enchant Creature
+Pow/Tou:
+Card Text:      G: Regenerate enchanted creature.
+Flavor Text:    "Why should death always have the last word?" -Llanowar druid
+Artist:         Adam Rex
+Rarity:         C
+Card #:         265/350
+
+Card Name:      Rowen
+Card Color:     Green
+Mana Cost:      2GG
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Reveal the first card you draw each turn. Whenever you reveal a 
+		basic land card this way, draw a card.
+Flavor Text:    Those who understand the forest are free to harvest its bounty.
+Artist:         Franz Vohwinkel
+Rarity:         R
+Card #:         266/350
+
+Card Name:      Scavenger Folk
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Creature - Scavenger
+Pow/Tou:        1/1
+Card Text:      G, Tap, Sacrifice Scavenger Folk: Destroy target artifact.
+Flavor Text:    "One piece? Now there's a hundred!"
+Artist:         Matt Cavotta
+Rarity:         U
+Card #:         267/350
+
+Card Name:      Seeker of Skybreak
+Card Color:     Green
+Mana Cost:      1G
+Type & Class:   Creature - Elf
+Pow/Tou:        2/1
+Card Text:      Tap: Untap target creature.
+Flavor Text:    Seekers spend their lives protecting a home they rarely visit.
+Artist:         Eric Peterson
+Rarity:         C
+Card #:         268/350
+
+Card Name:      Shanodin Dryads
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Creature - Dryad
+Pow/Tou:        1/1
+Card Text:      Forestwalk (This creature is unblockable as long as defending 
+		player controls a forest.)
+Flavor Text:    "Where dryads dance, seeds sprout and flowers bloom."
+Artist:         Alex Horley
+Rarity:         C
+Card #:         269/350
+
+Card Name:      Spined Wurm
+Card Color:     Green
+Mana Cost:      4G
+Type & Class:   Creature - Wurm
+Pow/Tou:        5/4
+Card Text:
+Flavor Text:    "I wouldn't stand in front of that wurm, son. 'Course, I wouldn't 
+		stand behind it neither. In fact, standing anywhere near that 
+		wurm's not much of a plan. Running, now that's a plan!"
+		-Wandering mage"
+Artist:         Carl Critchlow
+Rarity:         C
+Card #:         270/350
+
+Card Name:      Squall
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Squall deals 2 damage to each creature with flying.
+Flavor Text:    "May the winds blow till they have wakened death...." 
+		-William Shakespeare, Othello
+Artist:         Greg Staples
+Rarity:         C
+Card #:         271/350
+
+Card Name:      Stream of Life
+Card Color:     Green
+Mana Cost:      XG
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Target player gains X life.
+Flavor Text:
+Artist:         Andrew Goldhawk
+Rarity:         C
+Card #:         272/350
+
+Card Name:      Thorn Elemental
+Card Color:     Green
+Mana Cost:      5GG
+Type & Class:   Creature - Elemental
+Pow/Tou:        7/7
+Card Text:      You may have Thorn Elemental deal its combat damage to defending 
+		player as though it weren't blocked.
+Flavor Text:    Rain from this storm leaves you pinned to the ground like an 
+		insect.
+Artist:         Randy Post
+Rarity:         R
+Card #:         273/350
+
+Card Name:      Thoughtleech
+Card Color:     Green
+Mana Cost:      GG
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever an island an opponent controls becomes tapped, you may 
+		gain 1 life.
+Flavor Text:    "Their thoughts flow through my mind, and I am healed."
+		-Fyndhorn elder"
+Artist:         Rebecca Guay
+Rarity:         U
+Card #:         274/350
+
+Card Name:      Trained Armodon
+Card Color:     Green
+Mana Cost:      1GG
+Type & Class:   Creature - Elephant
+Pow/Tou:        3/3
+Card Text:
+Flavor Text:    Armodons are trained to step on things. Enemy things.
+Artist:         John Matson
+Rarity:         C
+Card #:         275/350
+
+Card Name:      Tranquility
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy all enchantments.
+Flavor Text:
+Artist:         John Matson
+Rarity:         C
+Card #:         276/350
+
+Card Name:      Treefolk Seedlings
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Creature - Treefolk
+Pow/Tou:        2/*
+Card Text:      Treefolk Seedlings's toughness is equal to the number of forests 
+		you control.
+Flavor Text:    Even the grandest forest begins with a single seedling. 
+		-Llanowar saying
+Artist:         Don Hazeltine
+Rarity:         U
+Card #:         277/350
+
+Card Name:      Uktabi Wildcats
+Card Color:     Green
+Mana Cost:      4G
+Type & Class:   Creature - Cat
+Pow/Tou:        */*
+Card Text:      Uktabi Wildcats's power and toughness are each equal to the 
+		number of forests you control. G, Sacrifice a forest: 
+		Regenerate Uktabi Wildcats.
+Flavor Text:
+Artist:         Tom Gianni
+Rarity:         R
+Card #:         278/350
+
+Card Name:      Untamed Wilds
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Search your library for a basic land card and put that card into 
+		play. Then shuffle your library.
+Flavor Text:    No forest is so remote that the elves don't know its secrets.
+Artist:         Tom Gianni
+Rarity:         U
+Card #:         279/350
+
+Card Name:      Verduran Enchantress
+Card Color:     Green
+Mana Cost:      1GG
+Type & Class:   Creature - Druid
+Pow/Tou:        0/2
+Card Text:      Whenever you play an enchantment spell, you may draw a card.
+Flavor Text:    "Each spell has its own song, and the enchantress knows the 
+		dance for each."
+Artist:         Rob Alexander
+Rarity:         R
+Card #:         280/350
+
+Card Name:      Vernal Bloom
+Card Color:     Green
+Mana Cost:      3G
+Type & Class:   Enchantment
+Pow/Tou:
+Card Text:      Whenever a forest is tapped for mana, its controller adds G to 
+		his or her mana pool.
+Flavor Text:    Spring breathes the magic of new life.
+Artist:         Scott Bailey
+Rarity:         R
+Card #:         281/350
+
+Card Name:      Wild Growth
+Card Color:     Green
+Mana Cost:      G
+Type & Class:   Enchant Land
+Pow/Tou:
+Card Text:      Whenever enchanted land is tapped for mana, its controller adds 
+		G to his or her mana pool.
+Flavor Text:    "If you stop to listen, you can hear it grow."
+Artist:         Anthony Szczudlo
+Rarity:         C
+Card #:         282/350
+
+Card Name:      Wing Snare
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Sorcery
+Pow/Tou:
+Card Text:      Destroy target creature with flying.
+Flavor Text:    The elves long ago mastered the art of hunting with nets. They 
+		call it "fishing the sky."
+Artist:         Daren Bader
+Rarity:         U
+Card #:         283/350
+
+Card Name:      Wood Elves
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Creature - Elf
+Pow/Tou:        1/1
+Card Text:      When Wood Elves comes into play, search your library for a 
+		forest card and put that card into play. Then shuffle your 
+		library.
+Flavor Text:    "Every branch a crossroads, every vine a swift steed."
+Artist:         Christopher Moeller
+Rarity:         C
+Card #:         284/350
+
+Card Name:      Yavimaya Enchantress
+Card Color:     Green
+Mana Cost:      2G
+Type & Class:   Creature - Druid
+Pow/Tou:        2/2
+Card Text:      Yavimaya Enchantress gets +1/+1 for each enchantment in play.
+Flavor Text:    Her roots connect her to the forest's wishes.
+Artist:         Terese Nielsen
+Rarity:         U
+Card #:         285/350
+
+Card Name:      Aladdin's Ring
+Card Color:     Artifact
+Mana Cost:      8
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      8, Tap: Aladdin's Ring deals 4 damage to target creature or 
+		player.
+Flavor Text:    Some say Aladdin's third wish was for this ring.
+Artist:         Dave Dorman
+Rarity:         R
+Card #:         286/350
+
+Card Name:      Beast of Burden
+Card Color:     Artifact
+Mana Cost:      6
+Type & Class:   Artifact Creature
+Pow/Tou:        */*
+Card Text:      Beast of Burden's power and toughness are each equal to the 
+		number of creatures in play.
+Flavor Text:    "The heavier the load, the harder it works."
+Artist:         Brian "Chippy" Dugan
+Rarity:         R
+Card #:         287/350
+
+Card Name:      Caltrops
+Card Color:     Artifact
+Mana Cost:      3
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a creature attacks, Caltrops deals 1 damage to it.
+Flavor Text:    "The Eastern Paladin knew how highly his southern rival valued 
+		horses, so he gleefully prepared a suitable welcome."
+Artist:         Eric Peterson
+Rarity:         U
+Card #:         288/350
+
+Card Name:      Charcoal Diamond
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Charcoal Diamond comes into play tapped. Tap: Add B to your mana 
+		pool.
+Flavor Text:
+Artist:         David Martin
+Rarity:         U
+Card #:         289/350
+
+Card Name:      Coat of Arms
+Card Color:     Artifact
+Mana Cost:      5
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Each creature gets +1/+1 for each other creature in play that 
+		shares a creature type with it. (For example, if there are three 
+		Goblins in play, each gets +2/+2.)
+Flavor Text:
+Artist:         Doug Alexander
+Rarity:         R
+Card #:         290/350
+
+Card Name:      Crystal Rod
+Card Color:     Artifact
+Mana Cost:      1
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a player plays a blue spell, you may pay 1. If you do, 
+		you gain 1 life.
+Flavor Text:    Polished by a thousand waves.
+Artist:         Ciruelo Cabral
+Rarity:         U
+Card #:         291/350
+
+Card Name:      Dingus Egg
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a land is put into a graveyard from play, Dingus Egg 
+		deals 2 damage to that land's controller.
+Flavor Text:    Legend has it that the world was hatched from a dingus egg.
+Artist:         Anthony Szczudlo
+Rarity:         R
+Card #:         292/350
+
+Card Name:      Disrupting Scepter
+Card Color:     Artifact
+Mana Cost:      3
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      3, Tap: Target player discards a card from his or her hand. Play 
+		this ability only during your turn.
+Flavor Text:
+Artist:         Darrell Riche
+Rarity:         R
+Card #:         293/350
+
+Card Name:      Ensnaring Bridge
+Card Color:     Artifact
+Mana Cost:      3
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Creatures with power greater than the number of cards in your 
+		hand can't attack.
+Flavor Text:    Bridges usually get you from one place to another. This one just 
+		gets you.
+Artist:         Ron Spencer
+Rarity:         R
+Card #:         294/350
+
+Card Name:      Feroz's Ban
+Card Color:     Artifact
+Mana Cost:      6
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Creature spells cost 2 more to play.
+Flavor Text:    "Feroz is gone, but what remains is his final gift to his people: 
+		the right to be left alone."
+Artist:         Donato Giancola
+Rarity:         R
+Card #:         295/350
+
+Card Name:      Fire Diamond
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Fire Diamond comes into play tapped. Tap: Add R to your mana pool.
+Flavor Text:
+Artist:         David Martin
+Rarity:         U
+Card #:         296/350
+
+Card Name:      Flying. Carpet
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      2, Tap: Target creature gains Flying. until end of turn.
+Flavor Text:    "Wheeeeeeeeeeeeeee!"
+Artist:         Scott Fischer
+Rarity:         R
+Card #:         297/350
+
+Card Name:      Grafted Skullcap
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      At the beginning of your draw step, draw a card. At the end of 
+		your turn, discard your hand.
+Flavor Text:    "Every day, I fight for my life and win. Every night, I fight to 
+		remember my name and lose."
+Artist:         Brad Williams
+Rarity:         R
+Card #:         298/350
+
+Card Name:      Grapeshot Catapult
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact Creature
+Pow/Tou:        2/3
+Card Text:      Tap: Grapeshot Catapult deals 1 damage to target creature with 
+		flying.
+Flavor Text:    The Southern Paladin taught the airborne vermin to fear the 
+		storm that rains upward.
+Artist:         Dave Dorman
+Rarity:         U
+Card #:         299/350
+
+Card Name:      Howling Mine
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      At the beginning of each player's draw step, if Howling Mine is 
+		untapped, that player draws a card.
+Flavor Text:    Legend has it that the mine howls out the last words of those 
+		who died inside.
+Artist:         Dana Knutson
+Rarity:         R
+Card #:         300/350
+
+Card Name:      Iron Star
+Card Color:     Artifact
+Mana Cost:      1
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a player plays a red spell, you may pay 1. If you do, 
+		you gain 1 life.
+Flavor Text:    Forged by a thousand flames.
+Artist:         Pete Venters
+Rarity:         U
+Card #:         301/350
+
+Card Name:      Ivory Cup
+Card Color:     Artifact
+Mana Cost:      1
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a player plays a white spell, you may pay 1. If you do, 
+		you gain 1 life.
+Flavor Text:    Blessed by a thousand prayers.
+Artist:         Alan Pollack
+Rarity:         U
+Card #:         302/350
+
+Card Name:      Jalum Tome
+Card Color:     Artifact
+Mana Cost:      3
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      2, Tap: Draw a card, then discard a card from your hand.
+Flavor Text:    Most books simply deliver knowledge. This one expects some in 
+		return.
+Artist:         Jerry Tiritilli
+Rarity:         R
+Card #:         303/350
+
+Card Name:      Jandor's Saddlebags
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      3, Tap: Untap target creature.
+Flavor Text:    Your heart's desire is found within. -Saddlebag inscription
+Artist:         Brian Despain
+Rarity:         R
+Card #:         304/350
+
+Card Name:      Jayemdae Tome
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      4, Tap: Draw a card.
+Flavor Text:    "Knowledge is power." -Sir Francis Bacon, Meditationes Sacrae
+Artist:         Donato Giancola
+Rarity:         R
+Card #:         305/350
+
+Card Name:      Marble Diamond
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Marble Diamond comes into play tapped. Tap: Add W to your mana pool.
+Flavor Text:
+Artist:         David Martin
+Rarity:         U
+Card #:         306/350
+
+Card Name:      Meekstone
+Card Color:     Artifact
+Mana Cost:      1
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Creatures with power 3 or greater don't untap during their 
+		controllers' untap steps.
+Flavor Text:    "The bigger they are, the stronger its pull."
+Artist:         David Martin
+Rarity:         R
+Card #:         307/350
+
+Card Name:      Millstone
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      2, Tap: Target player puts the top two cards of his or her 
+		library into his or her graveyard.
+Flavor Text:    More than one mage has been driven insane by the sound of the 
+		millstone relentlessly grinding away.
+Artist:         John Avon
+Rarity:         R
+Card #:         308/350
+
+Card Name:      Moss Diamond
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Moss Diamond comes into play tapped. Tap: Add G to your mana pool.
+Flavor Text:
+Artist:         David Martin
+Rarity:         U
+Card #:         309/350
+
+Card Name:      Patagia Golem
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact Creature - Golem
+Pow/Tou:        2/3
+Card Text:      3: Patagia Golem gains Flying. until end of turn.
+Flavor Text:    "Its wings were only designed to be ornamental, but it learned to 
+		use them on its own."
+Artist:         Kevin Walker
+Rarity:         U
+Card #:         310/350
+
+Card Name:      Phyrexian Colossus
+Card Color:     Artifact
+Mana Cost:      7
+Type & Class:   Artifact Creature
+Pow/Tou:        8/8
+Card Text:      Phyrexian Colossus doesn't untap during your untap step. 
+		Pay 8 life: Untap Phyrexian Colossus. Phyrexian Colossus can't be 
+		blocked except by three or more creatures.
+Flavor Text:
+Artist:         Mark Tedin
+Rarity:         R
+Card #:         311/350
+
+Card Name:      Phyrexian Hulk
+Card Color:     Artifact
+Mana Cost:      6
+Type & Class:   Artifact Creature
+Pow/Tou:        5/4
+Card Text:
+Flavor Text:    It doesn't think. It doesn't feel.  It doesn't laugh or cry.  
+		All it does from dusk till dawn Is make the soldiers die. 
+		-Onean children's rhyme
+Artist:         Brian Snoddy
+Rarity:         U
+Card #:         312/350
+
+Card Name:      Pit Trap
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      2, Tap, Sacrifice Pit Trap: Destroy target attacking creature 
+		without flying. It can't be regenerated.
+Flavor Text:    Never forget your feet -Elvish expression meaning "watch your step"
+Artist:         Nelson DeCastro
+Rarity:         U
+Card #:         313/350
+
+Card Name:      Rod of Ruin
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      3, Tap: Rod of Ruin deals 1 damage to target creature or player.
+Flavor Text:    "The rod is a relic from ancient times . . . cruel, vicious, 
+		mean-spirited times."
+Artist:         Ciruelo Cabral
+Rarity:         U
+Card #:         314/350
+
+Card Name:      Sisay's Ring
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Tap: Add two colorless mana to your mana pool.
+Flavor Text:    "I'm not one for pretty things," said Sisay. "Unless they're 
+		pretty useful as well."
+Artist:         David Martin
+Rarity:         U
+Card #:         315/350
+
+Card Name:      Sky Diamond
+Card Color:     Artifact
+Mana Cost:      2
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Sky Diamond comes into play tapped. Tap: Add U to your mana pool.
+Flavor Text:
+Artist:         Anthony Szczudlo
+Rarity:         U
+Card #:         316/350
+
+Card Name:      Soul Net
+Card Color:     Artifact
+Mana Cost:      1
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a creature is put into a graveyard from play, you may 
+		pay 1. If you do, you gain 1 life.
+Flavor Text:
+Artist:         Ron Spencer
+Rarity:         U
+Card #:         317/350
+
+Card Name:      Spellbook
+Card Color:     Artifact
+Mana Cost:      0
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      You have no maximum hand size.
+Flavor Text:    Knowledge knows no bounds.
+Artist:         Andrew Goldhawk
+Rarity:         U
+Card #:         318/350
+
+Card Name:      Static Orb
+Card Color:     Artifact
+Mana Cost:      3
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      If Static Orb is untapped, players can't untap more than two 
+		permanents during their untap steps.
+Flavor Text:    The warriors fought against the paralyzing waves until even 
+		their thoughts froze in place.
+Artist:         Terese Nielsen
+Rarity:         R
+Card #:         319/350
+
+Card Name:      Storm Cauldron
+Card Color:     Artifact
+Mana Cost:      5
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Each player may play an additional land during each of his or her 
+		turns. Whenever a land is tapped for mana, return it to its 
+		owner's hand.
+Flavor Text:
+Artist:         Doug Chaffee
+Rarity:         R
+Card #:         320/350
+
+Card Name:      Teferi's Puzzle Box
+Card Color:     Artifact
+Mana Cost:      4
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      At the beginning of each player's draw step, that player puts the 
+		cards in his or her hand on the bottom of his or her library in 
+		any order, then draws that many cards.
+Flavor Text:
+Artist:         Donato Giancola
+Rarity:         R
+Card #:         321/350
+
+Card Name:      Throne of Bone
+Card Color:     Artifact
+Mana Cost:      1
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a player plays a black spell, you may pay 1. If you do, 
+		you gain 1 life.
+Flavor Text:    Tainted by a thousand fears.
+Artist:         Ron Spencer
+Rarity:         U
+Card #:         322/350
+
+Card Name:      Wall of Spears
+Card Color:     Artifact
+Mana Cost:      3
+Type & Class:   Artifact Creature - Wall
+Pow/Tou:        2/3
+Card Text:      (Walls can't attack.) First strike
+Flavor Text:    "A stick is your friend. A pointed stick is your good friend. 
+		An army of pointed sticks is your best friend." -Onean sergeant
+Artist:         Christopher Moeller
+Rarity:         U
+Card #:         323/350
+
+Card Name:      Wooden Sphere
+Card Color:     Artifact
+Mana Cost:      1
+Type & Class:   Artifact
+Pow/Tou:
+Card Text:      Whenever a player plays a green spell, you may pay 1. If you do, 
+		you gain 1 life.
+Flavor Text:    Strengthened by a thousand limbs.
+Artist:         Terese Nielsen
+Rarity:         U
+Card #:         324/350
+
+Card Name:      Adarkar Wastes
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      Tap: Add one colorless mana to your mana pool. Tap: Add W or U to 
+		your mana pool. Adarkar Wastes deals 1 damage to you.
+Flavor Text:
+Artist:         John Avon
+Rarity:         R
+Card #:         325/350
+
+Card Name:      Brushland
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      Tap: Add one colorless mana to your mana pool. Tap: Add G or W to 
+		your mana pool. Brushland deals 1 damage to you.
+Flavor Text:
+Artist:         Scott Bailey
+Rarity:         R
+Card #:         326/350
+
+Card Name:      City of Brass
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      Whenever City of Brass becomes tapped, it deals 1 damage to you. 
+		Tap: Add one mana of any color to your mana pool.
+Flavor Text:
+Artist:         Ron Walotsky
+Rarity:         R
+Card #:         327/350
+
+Card Name:      Forest
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [G]
+Flavor Text:
+Artist:         D.J. Cleland-Hura
+Rarity:         L
+Card #:         328/350
+
+Card Name:      Forest
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [G]
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         L
+Card #:         329/350
+
+Card Name:      Forest
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [G]
+Flavor Text:
+Artist:         John Avon
+Rarity:         L
+Card #:         330/350
+
+Card Name:      Forest
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [G]
+Flavor Text:
+Artist:         John Avon
+Rarity:         L
+Card #:         331/350
+
+Card Name:      Island
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [U]
+Flavor Text:
+Artist:         Scott Bailey
+Rarity:         L
+Card #:         332/350
+
+Card Name:      Island
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [U]
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         L
+Card #:         333/350
+
+Card Name:      Island
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [U]
+Flavor Text:
+Artist:         John Avon
+Rarity:         L
+Card #:         334/350
+
+Card Name:      Island
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [U]
+Flavor Text:
+Artist:         Anthony Szczudlo
+Rarity:         L
+Card #:         335/350
+
+Card Name:      Karplusan Forest
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      Tap: Add one colorless mana to your mana pool. Tap: Add R or G to 
+		your mana pool. Karplusan Forest deals 1 damage to you.
+Flavor Text:
+Artist:         Scott Bailey
+Rarity:         R
+Card #:         336/350
+
+Card Name:      Mountain
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [R]
+Flavor Text:
+Artist:         D.J. Cleland-Hura
+Rarity:         L
+Card #:         337/350
+
+Card Name:      Mountain
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [R]
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         L
+Card #:         338/350
+
+Card Name:      Mountain
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [R]
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         L
+Card #:         339/350
+
+Card Name:      Mountain
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [R]
+Flavor Text:
+Artist:         John Avon
+Rarity:         L
+Card #:         340/350
+
+Card Name:      Plains
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [W]
+Flavor Text:
+Artist:         Scott Bailey
+Rarity:         L
+Card #:         341/350
+
+Card Name:      Plains
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [W]
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         L
+Card #:         342/350
+
+Card Name:      Plains
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [W]
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         L
+Card #:         343/350
+
+Card Name:      Plains
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [W]
+Flavor Text:
+Artist:         John Avon
+Rarity:         L
+Card #:         344/350
+
+Card Name:      Sulfurous Springs
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      Tap: Add one colorless mana to your mana pool. Tap: Add B or R to 
+		your mana pool. Sulfurous Springs deals 1 damage to you.
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         R
+Card #:         345/350
+
+Card Name:      Swamp
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [B]
+Flavor Text:
+Artist:         D.J. Cleland-Hura
+Rarity:         L
+Card #:         346/350
+
+Card Name:      Swamp
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [B]
+Flavor Text:
+Artist:         Rob Alexander
+Rarity:         L
+Card #:         347/350
+
+Card Name:      Swamp
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [B]
+Flavor Text:
+Artist:         Larry Elmore
+Rarity:         L
+Card #:         348/350
+
+Card Name:      Swamp
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      [B]
+Flavor Text:
+Artist:         Anthony Szczudlo
+Rarity:         L
+Card #:         349/350
+
+Card Name:      Underground River
+Card Color:     Land
+Mana Cost:
+Type & Class:   Land
+Pow/Tou:
+Card Text:      Tap: Add one colorless mana to your mana pool. Tap: Add U or B to 
+		your mana pool. Underground River deals 1 damage to you.
+Flavor Text:
+Artist:         Andrew Goldhawk
+Rarity:         R
+Card #:         350/350
+
+Copyright 2001 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: The Gathering,
+and Seventh Edition are trademarks of Wizards of the Coast, Inc.

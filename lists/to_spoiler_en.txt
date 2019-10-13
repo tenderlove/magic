@@ -1,0 +1,1920 @@
+Torment Spoiler
+Wizards of the Coast, Inc.
+(Released February 20, 2002)
+
+143 Cards Total
+Color: 40 Black, 28 Blue, 21 Green, 28 Red, 21 White, 5 Land
+Rarity: 55 Common, 44 Uncommon, 44 Rare
+
+Card Name:	Angel of Retribution
+Card Color:	W
+Mana Cost:	6W
+Type & Class:	Creature - Angel
+Pow/Tou:	5/5
+Card Text:	Flying, first strike
+Flavor Text:	Bitter vengeance never glowed so bright nor sang so sweet.
+Artist:		rk post
+Rarity:		R
+Card #:		1/143
+
+Card Name:	Aven Trooper
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Bird Soldier
+Pow/Tou:	1/1
+Card Text:	Flying. 2W, Discard a card from your hand: Aven Trooper gets
+		+1/+2 until end of turn.
+Flavor Text:	The very skies seethe with the aven's hatred for the Cabal.
+Artist:		Greg Staples
+Rarity:		C
+Card #:		2/143
+
+Card Name:	Cleansing Meditation
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Destroy all enchantments. Threshold - Instead destroy all 
+		enchantments, then return to play all cards in your graveyard 
+		destroyed this way. (You have threshold if seven or more cards 
+		are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Ron Spears
+Rarity:		U
+Card #:		3/143
+
+Card Name:	Equal Treatment
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	If any source would deal 1 or more damage to a creature or 
+		player this turn, it deals 2 damage to that creature or player 
+		instead. Draw a card.
+Flavor Text:	n/a
+Artist:		Greg & Tim Hildebrandt
+Rarity:		U
+Card #:		4/143
+
+Card Name:	Floating Shield
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	As Floating Shield comes into play, choose a color. Enchanted 
+		creature has protection from the chosen color. This effect doesn't 
+		remove Floating Shield. Sacrifice Floating Shield: Target 
+		creature gains protection from the chosen color until end of turn.
+Flavor Text:	n/a
+Artist:		Keith Garletts
+Rarity:		C
+Card #:		5/143
+
+Card Name:	Frantic Purification
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Destroy target enchantment. Madness W (You may play this card 
+		for its madness cost at the time you discard it from your hand.)
+Flavor Text:	"By definition, madness ends in one of two ways: clarity... or 
+		death."
+Artist:		Mark Brill
+Rarity:		C
+Card #:		6/143
+
+Card Name:	Hypochondria
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	W, Discard a card from your hand: Prevent the next 3 damage that 
+		would be dealt to target creature or player this turn. W, 
+		Sacrifice Hypochondria: Prevent the next 3 damage that would be 
+		dealt to target creature or player this turn.
+Flavor Text:	n/a
+Artist:		Christopher Moeller
+Rarity:		U
+Card #:		7/143
+
+Card Name:	Major Teroh
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Bird Soldier Legend
+Pow/Tou:	2/3
+Card Text:	Flying. 3WW, Sacrifice Major Teroh: Remove all black creatures 
+		from the game.
+Flavor Text:	"I am the holy wind that shall avenge the Cabal's victims."
+Artist:		Daren Bader
+Rarity:		R
+Card #:		8/143
+
+Card Name:	Militant Monk
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Creature - Cleric
+Pow/Tou:	2/1
+Card Text:	Attacking doesn't cause Militant Monk to tap. TAP: Prevent the 
+		next 1 damage that would be dealt to target creature or player 
+		this turn.
+Flavor Text:	n/a
+Artist:		Mark Brill
+Rarity:		C
+Card #:		9/143
+
+Card Name:	Morningtide
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Remove all cards in all graveyards from the game.
+Flavor Text:	"The spirits of the righteous shall rise into the sky. Even 
+		dirtwalkers will fly like aven." -Major Teroh
+Artist:		Tony Szczudlo
+Rarity:		R
+Card #:		10/143
+
+Card Name:	Mystic Familiar
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - Bird
+Pow/Tou:	1/2
+Card Text:	Flying. Threshold - Mystic Familiar gets +1/+1 and has protection 
+		from black. (You have threshold as long as seven or more cards 
+		are in your graveyard.)
+Flavor Text:	"They soar, and the mystics follow."
+Artist:		Edward P. Beard, Jr.
+Rarity:		C
+Card #:		11/143
+
+Card Name:	Pay No Heed
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Prevent all damage a source of your choice would deal this turn.
+Flavor Text:	"Inhale life. Exhale pain." -Mystic elder
+Artist:		Adam Rex
+Rarity:		C
+Card #:		12/143
+
+Card Name:	Possessed Nomad
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Creature - Nomad Horror
+Pow/Tou:	3/3
+Card Text:	Attacking doesn't cause Possessed Nomad to tap. Threshold - 
+		Possessed Nomad gets +1/+1, is black, and has "2B, TAP: Destroy 
+		target white creature." (You have threshold as long as seven or 
+		more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Eric Peterson
+Rarity:		R
+Card #:		13/143
+
+Card Name:	Reborn Hero
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Soldier
+Pow/Tou:	2/2
+Card Text:	Attacking doesn't cause Reborn Hero to tap. Threshold - When 
+		Reborn Hero is put into a graveyard from play, you may pay WW. 
+		If you do, return Reborn Hero to play under your control. (You 
+		have threshold if seven or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Gary Ruddell
+Rarity:		R
+Card #:		14/143
+
+Card Name:	Spirit Flare
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Tap target untapped creature you control. If you do, it deals 
+		damage equal to its power to target attacking or blocking 
+		creature an opponent controls. Flashback-1W, Pay 3 life. (You 
+		may play this card from your graveyard for its flashback cost. 
+		Then remove it from the game.)
+Flavor Text:	n/a
+Artist:		rk post
+Rarity:		C
+Card #:		15/143
+
+Card Name:	Stern Judge
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Cleric
+Pow/Tou:	2/2
+Card Text:	TAP: Each player loses 1 life for each swamp he or she controls.
+Flavor Text:	"How to punish the guilty is up to the Ancestor. Deciding who 
+		merits such punishment is up to me."
+Artist:		Matt Cavotta
+Rarity:		U
+Card #:		16/143
+
+Card Name:	Strength of Isolation
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +1/+2 and has protection from black. 
+		Madness W (You may play this card for its madness cost at the 
+		time you discard it from your hand.)
+Flavor Text:	Don't mistake isolation for safety.
+Artist:		Jerry Tiritilli
+Rarity:		U
+Card #:		17/143
+
+Card Name:	Teroh's Faithful
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Cleric
+Pow/Tou:	1/4
+Card Text:	When Teroh's Faithful comes into play, you gain 4 life.
+Flavor Text:	The light of reason follows them even into battle.
+Artist:		Greg & Tim Hildebrandt
+Rarity:		C
+Card #:		18/143
+
+Card Name:	Teroh's Vanguard
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Nomad
+Pow/Tou:	2/3
+Card Text:	You may play Teroh's Vanguard any time you could play an instant. 
+		Threshold - When Teroh's Vanguard comes into play, creatures you 
+		control gain protection from black until end of turn. (You have 
+		threshold if seven or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Greg & Tim Hildebrandt
+Rarity:		U
+Card #:		19/143
+
+Card Name:	Transcendence
+Card Color:	W
+Mana Cost:	3WWW
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	You don't lose the game for having 0 or less life. When you 
+		have 20 or more life, you lose the game. Whenever you lose life, 
+		you gain 2 life for each 1 life you lost. (Damage dealt to you 
+		causes you to lose life.)
+Flavor Text:	n/a
+Artist:		Rebecca Guay
+Rarity:		R
+Card #:		20/143
+
+Card Name:	Vengeful Dreams
+Card Color:	W
+Mana Cost:	WW
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Vengeful Dreams, discard X cards 
+		from your hand. Remove X target attacking creatures from the game.
+Flavor Text:	Teroh dreams of his enemies' doom.
+Artist:		Mark Tedin
+Rarity:		R
+Card #:		21/143
+
+Card Name:	Alter Reality
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Change the text of target permanent or spell by replacing all 
+		instances of one color word with another. (This effect doesn't 
+		end at end of turn.) Flashback 1U (You may play this card from 
+		your graveyard for its flashback cost. Then remove it from the 
+		game.)
+Flavor Text:	n/a
+Artist:		Justin Sweet
+Rarity:		R
+Card #:		22/143
+
+Card Name:	Ambassador Laquatus
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Creature - Merfolk Legend
+Pow/Tou:	1/3
+Card Text:	3: Target player puts the top three cards of his or her library 
+		into his or her graveyard.
+Flavor Text:	"He smiles with poisoned lips." -Empress Llawan
+Artist:		Eric Peterson
+Rarity:		R
+Card #:		23/143
+
+Card Name:	Aquamoeba
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Beast
+Pow/Tou:	1/3
+Card Text:	Discard a card from your hand: Switch Aquamoeba's power and 
+		toughness until end of turn.
+Flavor Text:	Some tides need no moon.
+Artist:		Arnie Swekel
+Rarity:		C
+Card #:		24/143
+
+Card Name:	Balshan Collaborator
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Bird Soldier
+Pow/Tou:	2/2
+Card Text:	Flying. B: Balshan Collaborator gets +1/+1 until end of turn.
+Flavor Text:	"Power, gold, crackers-every bird has its price." -Chainer, 
+		dementia master
+Artist:		DiTerlizzi
+Rarity:		U
+Card #:		25/143
+
+Card Name:	Breakthrough
+Card Color:	U
+Mana Cost:	XU
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Draw four cards, then choose X cards in your hand and discard 
+		the rest from it.
+Flavor Text:	The ideas came flooding in so fast that they couldn't all 
+		be contained.
+Artist:		Gary Ruddell
+Rarity:		U
+Card #:		26/143
+
+Card Name:	Cephalid Aristocrat
+Card Color:	U
+Mana Cost:	4U
+Type & Class:	Creature - Cephalid
+Pow/Tou:	3/3
+Card Text:	Whenever Cephalid Aristocrat becomes the target of a spell or 
+		ability, put the top two cards of your library into your graveyard.
+Flavor Text:	It's easy to tell the difference between the devious cephalids 
+		and the trustworthy ones. The trustworthy ones are dead.
+Artist:		Rob Alexander
+Rarity:		C
+Card #:		27/143
+
+Card Name:	Cephalid Illusionist
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Cephalid Wizard
+Pow/Tou:	1/1
+Card Text:	Whenever Cephalid Illusionist becomes the target of a spell or 
+		ability, put the top three cards of your library into your 
+		graveyard. 2U, TAP: This turn prevent all combat damage that would 
+		be dealt to and dealt by target creature you control.
+Flavor Text:	n/a
+Artist:		Pete Venters
+Rarity:		U
+Card #:		28/143
+
+Card Name:	Cephalid Sage
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Cephalid
+Pow/Tou:	2/3
+Card Text:	Threshold - When Cephalid Sage comes into play, draw three cards, 
+		then discard two cards from your hand. (You have threshold if 
+		seven or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Keith Garletts
+Rarity:		U
+Card #:		29/143
+
+Card Name:	Cephalid Snitch
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Cephalid Wizard
+Pow/Tou:	1/1
+Card Text:	Sacrifice Cephalid Snitch: Target creature loses protection from 
+		black until end of turn.
+Flavor Text:	The cautious are wary of their enemies. The wise are also wary of 
+		their friends.
+Artist:		Jerry Tiritilli
+Rarity:		C
+Card #:		30/143
+
+Card Name:	Cephalid Vandal
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Cephalid
+Pow/Tou:	1/1
+Card Text:	At the beginning of your upkeep, put a shred counter on Cephalid 
+		Vandal. Then put the top card of your library into your graveyard 
+		for each shred counter on Cephalid Vandal.
+Flavor Text:	n/a
+Artist:		Alex Horley
+Rarity:		R
+Card #:		31/143
+
+Card Name:	Churning Eddy
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Return target creature and target land to their owners' hands.
+Flavor Text:	"Magic is like the tide-both ebb, both flow, and both serve my 
+		whims." -Empress Llawan
+Artist:		Thomas M. Baxa
+Rarity:		C
+Card #:		32/143
+
+Card Name:	Circular Logic
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Counter target spell unless its controller pays 1 for each card 
+		in your graveyard. Madness U (You may play this card for its 
+		madness cost at the time you discard it from your hand.)
+Flavor Text:	n/a
+Artist:		Anthony S. Waters
+Rarity:		U
+Card #:		33/143
+
+Card Name:	Compulsion
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	1U, Discard a card from your hand: Draw a card.  1U, Sacrifice 
+		Compulsion: Draw a card.
+Flavor Text:	n/a
+Artist:		Christopher Moeller
+Rarity:		U
+Card #:		34/143
+
+Card Name:	Coral Net
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Coral Net can enchant only a green or white creature. Enchanted 
+		creature has "At the beginning of your upkeep, sacrifice this 
+		creature unless you discard a card from your hand."
+Flavor Text:	n/a
+Artist:		Roger Raupp
+Rarity:		C
+Card #:		35/143
+
+Card Name:	Deep Analysis
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Target player draws two cards. Flashback-1U, Pay 3 life. (You 
+		may play this card from your graveyard for its flashback cost. 
+		Then remove it from the game.)
+Flavor Text:	"The specimen seems to be broken."
+Artist:		Daren Bader
+Rarity:		C
+Card #:		36/143
+
+Card Name:	False Memories
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Put the top seven cards of your library into your graveyard. 
+		At end of turn, remove seven cards in your graveyard from the 
+		game.
+Flavor Text:	"My enemies will forget everything but their anguish." 
+		-Ambassador Laquatus
+Artist:		Ron Spencer
+Rarity:		R
+Card #:		37/143
+
+Card Name:	Ghostly Wings
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +1/+1 and has flying. Discard a card 
+		from your hand: Return enchanted creature to its owner's hand.
+Flavor Text:	n/a
+Artist:		David Martin
+Rarity:		C
+Card #:		38/143
+
+Card Name:	Hydromorph Guardian
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Guardian
+Pow/Tou:	2/2
+Card Text:	U, Sacrifice Hydromorph Guardian: Counter target spell that 
+		targets one or more creatures you control.
+Flavor Text:	In front of every strong leader is a pool of loyal bodyguards.
+Artist:		Glen Angus
+Rarity:		C
+Card #:		39/143
+
+Card Name:	Hydromorph Gull
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Creature - Bird Guardian
+Pow/Tou:	3/3
+Card Text:	Flying. U, Sacrifice Hydromorph Gull: Counter target spell 
+		that targets one or more creatures you control.
+Flavor Text:	"The only kind of water that should fly through the air is 
+		rain." -Kamahl, pit fighter
+Artist:		Arnie Swekel
+Rarity:		U
+Card #:		40/143
+
+Card Name:	Liquify
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Counter target spell with converted mana cost 3 or less. If 
+		it's countered this way, remove it from the game instead of 
+		putting it into its owner's graveyard.
+Flavor Text:	n/a
+Artist:		Ron Spencer
+Rarity:		C
+Card #:		41/143
+
+Card Name:	Llawan, Cephalid Empress
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Cephalid Legend
+Pow/Tou:	2/3
+Card Text:	When Llawan, Cephalid Empress comes into play, return all 
+		blue creatures your opponents control to their owners' hands. 
+		Your opponents can't play blue creature spells.
+Flavor Text:	n/a
+Artist:		Mark Zug
+Rarity:		R
+Card #:		42/143
+
+Card Name:	Obsessive Search
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Draw a card. Madness U (You may play this card for its 
+		madness cost at the time you discard it from your hand.)
+Flavor Text:	The question strained his sanity. The answer snapped it 
+		in half.
+Artist:		Jim Nelson
+Rarity:		C
+Card #:		43/143
+
+Card Name:	Plagiarize
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Until end of turn, if target player would draw a card, 
+		instead that player skips that draw and you draw a card.
+Flavor Text:	"Are you thinking what I'm thinking?"
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		44/143
+
+Card Name:	Possessed Aven
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Creature - Bird Soldier Horror
+Pow/Tou:	3/3
+Card Text:	Flying. Threshold - Possessed Aven gets +1/+1, is black, 
+		and has "2B, TAP: Destroy target blue creature."" (You 
+		have threshold as long as seven or more cards are in your 
+		graveyard.)
+Flavor Text:	n/a
+Artist:		Scott M. Fischer
+Rarity:		R
+Card #:		45/143
+
+Card Name:	Retraced Image
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Reveal a card in your hand, then put that card into play 
+		if it has the same name as a permanent in play.
+Flavor Text:	"An army from a soldier, a flock from a bird, a school 
+		from a fish . . . a profit from an atrocity."
+Artist:		Greg Staples
+Rarity:		R
+Card #:		46/143
+
+Card Name:	Skywing Aven
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Bird Soldier
+Pow/Tou:	2/1
+Card Text:	Flying. Discard a card from your hand: Return Skywing 
+		Aven to its owner's hand.
+Flavor Text:	"I am as the wind that bears me: harsh yet gentle, fleeting 
+		yet ever-present. Together we fly beyond imagination."
+Artist:		Matt Cavotta
+Rarity:		C
+Card #:		47/143
+
+Card Name:	Stupefying Touch
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	When Stupefying Touch comes into play, draw a card. 
+		Enchanted creature's activated abilities can't be played.
+Flavor Text:	Just because your eyes are open doesn't mean you're awake.
+Artist:		Bradley Williams
+Rarity:		U
+Card #:		48/143
+
+Card Name:	Turbulent Dreams
+Card Color:	U
+Mana Cost:	UU
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Turbulent Dreams, discard X 
+		cards from your hand. Return X target nonland permanents 
+		to their owners' hands.
+Flavor Text:	Laquatus dreams of seizing control.
+Artist:		Wayne England
+Rarity:		R
+Card #:		49/143
+
+Card Name:	Boneshard Slasher
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Horror
+Pow/Tou:	1/1
+Card Text:	Flying. Threshold - Boneshard Slasher gets +2/+2 and has 
+		"When Boneshard Slasher becomes the target of a spell or 
+		ability, sacrifice it." (You have threshold as long as 
+		seven or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Ron Spencer
+Rarity:		U
+Card #:		50/143
+
+Card Name:	Cabal Ritual
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Add BBB to your mana pool. Threshold - Instead add BBBBB 
+		to your mana pool. (You have threshold if seven or more 
+		cards are in your graveyard.)
+Flavor Text:	"Each syllable chills your veins. Each word rattles your
+		mind." -Cabal Patriarch
+Artist:		Greg & Tim Hildebrandt
+Rarity:		C
+Card #:		51/143
+
+Card Name:	Cabal Surgeon
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Creature - Minion
+Pow/Tou:	2/1
+Card Text:	2BB, TAP, Remove two cards in your graveyard from the game: 
+		Return target creature card from your graveyard to your hand.
+Flavor Text:	"Clerics give up when their patients die. Can I help it if 
+		I'm more compassionate?"
+Artist:		Donato Giancola
+Rarity:		C
+Card #:		52/143
+
+Card Name:	Cabal Torturer
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Creature - Minion
+Pow/Tou:	1/1
+Card Text:	B, TAP: Target creature gets -1/-1 until end of turn. 
+		Threshold - 3BB, TAP: Target creature gets -2/-2 until end 
+		of turn. (Play this ability only if seven or more cards are 
+		in your graveyard.)
+Flavor Text:	n/a
+Artist:		Pete Venters
+Rarity:		C
+Card #:		53/143
+
+Card Name:	Carrion Rats
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Creature - Rat
+Pow/Tou:	2/1
+Card Text:	Whenever Carrion Rats attacks or blocks, any player may 
+		remove a card in his or her graveyard from the game. If a 
+		player does, Carrion Rats deals no combat damage this turn.
+Flavor Text:	"Just what I need-more competition." -Cabal grave robber
+Artist:		Edward P. Beard, Jr.
+Rarity:		C
+Card #:		54/143
+
+Card Name:	Carrion Wurm
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Creature - Zombie Wurm
+Pow/Tou:	6/5
+Card Text:	Whenever Carrion Wurm attacks or blocks, any player may 
+		remove three cards in his or her graveyard from the game. 
+		If a player does, Carrion Wurm deals no combat damage this 
+		turn.
+Flavor Text:	"Since it eats only carrion, sometimes it needs to make 
+		some from scratch."
+Artist:		Glen Angus
+Rarity:		U
+Card #:		55/143
+
+Card Name:	Chainer, Dementia Master
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Creature - Minion Legend
+Pow/Tou:	3/3
+Card Text:	All Nightmares get +1/+1. BBB, Pay 3 life: Put target 
+		creature card from a graveyard into play under your control. 
+		That creature is black and is a Nightmare in addition to its 
+		creature types. When Chainer, Dementia Master leaves play, 
+		remove all Nightmares from the game.
+Flavor Text:	n/a
+Artist:		Mark Zug
+Rarity:		R
+Card #:		56/143
+
+Card Name:	Chainer's Edict
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Target player sacrifices a creature. Flashback 5BB (You 
+		may play this card from your graveyard for its flashback cost. 
+		Then remove it from the game.)
+Flavor Text:	The pits have their own form of mercy.
+Artist:		Ben Thompson
+Rarity:		U
+Card #:		57/143
+
+Card Name:	Crippling Fatigue
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Target creature gets -2/-2 until end of turn. Flashback-1B, 
+		Pay 3 life. (You may play this card from your graveyard for 
+		its flashback cost. Then remove it from the game.)
+Flavor Text:	n/a
+Artist:		Heather Hudson
+Rarity:		C
+Card #:		58/143
+
+Card Name:	Dawn of the Dead
+Card Color:	B
+Mana Cost:	2BBB
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	At the beginning of your upkeep, you lose 1 life. At the 
+		beginning of your upkeep, you may return target creature 
+		card from your graveyard to play. That creature gains haste 
+		until end of turn. Remove it from the game at end of turn.
+Flavor Text:	n/a
+Artist:		Pete Venters
+Rarity:		R
+Card #:		59/143
+
+Card Name:	Faceless Butcher
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Creature - Nightmare Horror
+Pow/Tou:	2/3
+Card Text:	When Faceless Butcher comes into play, remove target 
+		creature other than Faceless Butcher from the game. When 
+		Faceless Butcher leaves play, return the removed card to 
+		play under its owner's control.
+Flavor Text:	n/a
+Artist:		Daren Bader
+Rarity:		C
+Card #:		60/143
+
+Card Name:	Gloomdrifter
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Minion
+Pow/Tou:	2/2
+Card Text:	Flying. Threshold - When Gloomdrifter comes into play, 
+		nonblack creatures get -2/-2 until end of turn. (You have 
+		threshold if seven or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Adam Rex
+Rarity:		U
+Card #:		61/143
+
+Card Name:	Gravegouger
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Nightmare Horror
+Pow/Tou:	2/2
+Card Text:	When Gravegouger comes into play, remove up to two target 
+		cards in a single graveyard from the game. When Gravegouger 
+		leaves play, return the removed cards to their owner's 
+		graveyard.
+Flavor Text:	n/a
+Artist:		Daren Bader
+Rarity:		C
+Card #:		62/143
+
+Card Name:	Grotesque Hybrid
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Creature - Zombie
+Pow/Tou:	3/3
+Card Text:	Whenever Grotesque Hybrid deals combat damage to a creature, 
+		destroy that creature. It can't be regenerated. Discard a 
+		card from your hand: Grotesque Hybrid gains flying and 
+		protection from green and from white until end of turn.
+Flavor Text:	n/a
+Artist:		Terese Nielsen
+Rarity:		U
+Card #:		63/143
+
+Card Name:	Hypnox
+Card Color:	B
+Mana Cost:	8BBB
+Type & Class:	Creature - Nightmare Horror
+Pow/Tou:	8/8
+Card Text:	Flying. When Hypnox comes into play, if you played it from 
+		your hand, remove all cards in target opponent's hand from 
+		the game. When Hypnox leaves play, return the removed cards 
+		to their owner's hand.
+Flavor Text:	n/a
+Artist:		Greg Staples
+Rarity:		R
+Card #:		64/143
+
+Card Name:	Ichorid
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Horror
+Pow/Tou:	3/1
+Card Text:	Haste. At end of turn, sacrifice Ichorid. At the beginning 
+		of your upkeep, if Ichorid is in your graveyard, you may 
+		remove a black creature card in your graveyard other than 
+		Ichorid from the game. If you do, return Ichorid to play.
+Flavor Text:	n/a
+Artist:		rk post
+Rarity:		R
+Card #:		65/143
+
+Card Name:	Insidious Dreams
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Insidious Dreams, discard X 
+		cards from your hand. Search your library for X cards. 
+		Then shuffle your library and put those cards on top of 
+		it in any order.
+Flavor Text:	Chainer dreams of ultimate knowledge.
+Artist:		John Avon
+Rarity:		R
+Card #:		66/143
+
+Card Name:	Laquatus's Champion
+Card Color:	B
+Mana Cost:	4BB
+Type & Class:	Creature - Nightmare Horror
+Pow/Tou:	6/3
+Card Text:	When Laquatus's Champion comes into play, target player 
+		loses 6 life.  When Laquatus's Champion leaves play, that 
+		player gains 6 life. B: Regenerate Laquatus's Champion.
+Flavor Text:	Chainer's dark gift to a darker soul.
+Artist:		Greg Staples
+Rarity:		R
+Card #:		67/143
+
+Card Name:	Last Laugh
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a permanent other than Last Laugh is put into a 
+		graveyard from play, Last Laugh deals 1 damage to each 
+		creature and each player. When no creatures are in play, 
+		sacrifice Last Laugh.
+Flavor Text:	n/a
+Artist:		John Matson
+Rarity:		R
+Card #:		68/143
+
+Card Name:	Mesmeric Fiend
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Nightmare Horror
+Pow/Tou:	1/1
+Card Text:	When Mesmeric Fiend comes into play, target opponent 
+		reveals his or her hand and you choose a nonland card 
+		from it. Remove that card from the game. When Mesmeric 
+		Fiend leaves play, return the removed card to its owner's 
+		hand.
+Flavor Text:	n/a
+Artist:		Dana Knutson
+Rarity:		C
+Card #:		69/143
+
+Card Name:	Mind Sludge
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Target player discards a card from his or her hand for 
+		each swamp you control.
+Flavor Text:	"When you get into the swamp, the swamp gets into you."
+Artist:		Eric Peterson
+Rarity:		U
+Card #:		70/143
+
+Card Name:	Mortal Combat
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	At the beginning of your upkeep, if twenty or more 
+		creature cards are in your graveyard, you win the game.
+Flavor Text:	"The crowd roared, the fighters bled, and the dead 
+		piled high in the pits. Only the Cabal could win."
+Artist:		Mike Ploog
+Rarity:		R
+Card #:		71/143
+
+Card Name:	Mortiphobia
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	1B, Discard a card from your hand: Remove target card 
+		in a graveyard from the game. 1B, Sacrifice Mortiphobia: 
+		Remove target card in a graveyard from the game.
+Flavor Text:	n/a
+Artist:		Christopher Moeller
+Rarity:		U
+Card #:		72/143
+
+Card Name:	Mutilate
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	All creatures get -1/-1 until end of turn for each 
+		swamp you control.
+Flavor Text:	"They appreciate my handiwork. I hear their joy in 
+		every scream." -Chainer, dementia master
+Artist:		Eric Peterson
+Rarity:		R
+Card #:		73/143
+
+Card Name:	Nantuko Shade
+Card Color:	B
+Mana Cost:	BB
+Type & Class:	Creature - Insect Shade
+Pow/Tou:	2/1
+Card Text:	B: Nantuko Shade gets +1/+1 until end of turn.
+Flavor Text:	"If the Nantuko only knew what awaits them beyond death, 
+		they would abandon all they hold dear." -Cabal Patriarch
+Artist:		Brian Snoddy
+Rarity:		R
+Card #:		74/143
+
+Card Name:	Organ Grinder
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Zombie
+Pow/Tou:	3/1
+Card Text:	TAP, Remove three cards in your graveyard from the game: 
+		Target player loses 3 life.
+Flavor Text:	It knows what makes you tick. It knows how to make the 
+		ticking stop.
+Artist:		Adam Rex
+Rarity:		C
+Card #:		75/143
+
+Card Name:	Psychotic Haze
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Psychotic Haze deals 1 damage to each creature and each 
+		player. Madness 1B (You may play this card for its madness 
+		cost at the time you discard it from your hand.)
+Flavor Text:	n/a
+Artist:		Alex Horley
+Rarity:		C
+Card #:		76/143
+
+Card Name:	Putrid Imp
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Creature - Zombie Imp
+Pow/Tou:	1/1
+Card Text:	Discard a card from your hand: Putrid Imp gains flying 
+		until end of turn. Threshold - Putrid Imp gets +1/+1 
+		and can't block. (You have threshold as long as seven 
+		or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Wayne England
+Rarity:		C
+Card #:		77/143
+
+Card Name:	Rancid Earth
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Destroy target land. Threshold - Instead destroy that 
+		land and Rancid Earth deals 1 damage to each creature 
+		and each player. (You have threshold if seven or more 
+		cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Ciruelo
+Rarity:		C
+Card #:		78/143
+
+Card Name:	Restless Dreams
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Restless Dreams, discard 
+		X cards from your hand. Return X target creature cards 
+		from your graveyard to your hand.
+Flavor Text:	Braids dreams of dark rebirth.
+Artist:		John Matson
+Rarity:		C
+Card #:		79/143
+
+Card Name:	Sengir Vampire
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Creature - Vampire
+Pow/Tou:	4/4
+Card Text:	Flying. Whenever a creature dealt damage by Sengir 
+		Vampire this turn is put into a graveyard, put a +1/+1 
+		counter on Sengir Vampire.
+Flavor Text:	"Empires rise and fall, but evil is eternal."
+Artist:		Kev Walker
+Rarity:		R
+Card #:		80/143
+
+Card Name:	Shade's Form
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has "B: This creature gets +1/+1 
+		until end of turn." When enchanted creature is put into 
+		a graveyard, return that creature to play under your 
+		control.
+Flavor Text:	n/a
+Artist:		Clyde Caldwell
+Rarity:		C
+Card #:		81/143
+
+Card Name:	Shambling Swarm
+Card Color:	B
+Mana Cost:	1BBB
+Type & Class:	Creature - Horror
+Pow/Tou:	3/3
+Card Text:	When Shambling Swarm is put into a graveyard from 
+		play, distribute three -1/-1 counters among one, two, 
+		or three target creatures. Remove those counters at 
+		end of turn.
+Flavor Text:	"Chainer's madness personified, it exists only to 
+		slaughter the innocent."
+Artist:		Arnie Swekel
+Rarity:		R
+Card #:		82/143
+
+Card Name:	Sickening Dreams
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Sickening Dreams, 
+		discard X cards from your hand. Sickening Dreams 
+		deals X damage to each creature and each player.
+Flavor Text:	The Patriarch dreams of vile plague.
+Artist:		Scott M. Fischer
+Rarity:		U
+Card #:		83/143
+
+Card Name:	Slithery Stalker
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Creature - Nightmare Horror
+Pow/Tou:	1/1
+Card Text:	Swampwalk. When Slithery Stalker comes into play, 
+		remove target green or white creature an opponent 
+		controls from the game. When Slithery Stalker leaves play, 
+		return the removed card to play under its owner's control.
+Flavor Text:	n/a
+Artist:		John Avon
+Rarity:		U
+Card #:		84/143
+
+Card Name:	Soul Scourge
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Creature - Nightmare Horror
+Pow/Tou:	3/2
+Card Text:	Flying. When Soul Scourge comes into play, target player 
+		loses 3 life. When Soul Scourge leaves play, that player 
+		gains 3 life.
+Flavor Text:	n/a
+Artist:		Carl Critchlow
+Rarity:		C
+Card #:		85/143
+
+Card Name:	Strength of Lunacy
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +2/+1 and has protection from 
+		white. Madness B (You may play this card for its madness 
+		cost at the time you discard it from your hand.)
+Flavor Text:	Don't confuse lunacy with courage.
+Artist:		Greg & Tim Hildebrandt
+Rarity:		U
+Card #:		86/143
+
+Card Name:	Unhinge
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Target player discards a card from his or her hand. 
+		Draw a card.
+Flavor Text:	"Don't let your mind wander-it might not come back."
+		-Braids, dementia summoner
+Artist:		Keith Garletts
+Rarity:		C
+Card #:		87/143
+
+Card Name:	Waste Away
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Waste Away, discard a 
+		card from your hand. Target creature gets -5/-5 until 
+		end of turn.
+Flavor Text:	Chainer's insanity touched nearly every living 
+		thing-including viruses.
+Artist:		Alan Pollack
+Rarity:		C
+Card #:		88/143
+
+Card Name:	Zombie Trailblazer
+Card Color:	B
+Mana Cost:	BBB
+Type & Class:	Creature - Zombie
+Pow/Tou:	2/2
+Card Text:	Tap an untapped Zombie you control: Target land becomes 
+		a swamp until end of turn. Tap an untapped Zombie you 
+		control: Target creature gains swampwalk until end of 
+		turn.
+Flavor Text:	Some zombies are natural-reborn leaders.
+Artist:		Brian Snoddy
+Rarity:		U
+Card #:		89/143
+
+Card Name:	Accelerate
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Target creature gains haste until end of turn. Draw a 
+		card.
+Flavor Text:	"I've seen lightning move slower." -Nomad sentry
+Artist:		Gary Ruddell
+Rarity:		C
+Card #:		90/143
+
+Card Name:	Balthor the Stout
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Creature - Dwarf Legend
+Pow/Tou:	2/2
+Card Text:	All Barbarians get +1/+1. R: Target Barbarian gets 
+		+1/+0 until end of turn.
+Flavor Text:	"I like to think of him as concentrated barbarian."
+		-Kamahl, pit fighter
+Artist:		Ron Spears
+Rarity:		R
+Card #:		91/143
+
+Card Name:	Barbarian Outcast
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Barbarian Beast
+Pow/Tou:	2/2
+Card Text:	When you control no swamps, sacrifice Barbarian Outcast.
+Flavor Text:	"We offer power to anyone willing to take it. Sadly, few 
+		are unburdened enough by their prejudices to accept."
+		-Cabal surgeon
+Artist:		Mark Tedin
+Rarity:		C
+Card #:		92/143
+
+Card Name:	Crackling Club
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +1/+0. Sacrifice Crackling Club: 
+		Crackling Club deals 1 damage to target creature.
+Flavor Text:	It adds injury to injury.
+Artist:		Mike Ploog
+Rarity:		C
+Card #:		93/143
+
+Card Name:	Crazed Firecat
+Card Color:	R
+Mana Cost:	5RR
+Type & Class:	Creature - Cat
+Pow/Tou:	4/4
+Card Text:	When Crazed Firecat comes into play, flip a coin 
+		until you lose a flip. Put a +1/+1 counter on Crazed 
+		Firecat for each flip you win.
+Flavor Text:	"The longer it's caged, the madder it gets." -Firecat 
+		handler
+Artist:		Ron Spears
+Rarity:		U
+Card #:		94/143
+
+Card Name:	Devastating Dreams
+Card Color:	R
+Mana Cost:	RR
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Devastating Dreams, 
+		discard X cards at random from your hand. Each player 
+		sacrifices X lands. Devastating Dreams deals X damage 
+		to each creature.
+Flavor Text:	Kamahl dreams of storms of fire.
+Artist:		Tony Szczudlo
+Rarity:		R
+Card #:		95/143
+
+Card Name:	Enslaved Dwarf
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Creature - Dwarf
+Pow/Tou:	1/1
+Card Text:	R, Sacrifice Enslaved Dwarf: Target black creature gets 
+		+1/+0 and gains first strike until end of turn.
+Flavor Text:	"Captive dwarves always regain their freedom, either 
+		through escape or through a desperate, fiery death."
+Artist:		Terese Nielsen
+Rarity:		C
+Card #:		96/143
+
+Card Name:	Fiery Temper
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Fiery Temper deals 3 damage to target creature or player. 
+		Madness R (You may play this card for its madness cost at 
+		the time you discard it from your hand.)
+Flavor Text:	n/a
+Artist:		Greg & Tim Hildebrandt
+Rarity:		C
+Card #:		97/143
+
+Card Name:	Flaming Gambit
+Card Color:	R
+Mana Cost:	XR
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Flaming Gambit deals X damage to target player. That 
+		player may choose a creature he or she controls and have 
+		Flaming Gambit deal that damage to it instead. Flashback 
+		XRR (You may play this card from your graveyard for its 
+		flashback cost. Then remove it from the game.)
+Flavor Text:	n/a
+Artist:		Donato Giancola
+Rarity:		U
+Card #:		98/143
+
+Card Name:	Flash of Defiance
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Players can't block with green and/or white creatures 
+		this turn. Flashback-1R, Pay 3 life. (You may play this 
+		card from your graveyard for its flashback cost. Then 
+		remove it from the game.)
+Flavor Text:	n/a
+Artist:		Carl Critchlow
+Rarity:		C
+Card #:		99/143
+
+Card Name:	Grim Lavamancer
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Creature - Wizard
+Pow/Tou:	1/1
+Card Text:	R, TAP, Remove two cards in your graveyard from the game: 
+		Grim Lavamancer deals 2 damage to target creature or player.
+Flavor Text:	"Fools dig for water, corpses, or gold. The earth's real 
+		treasure is far deeper."
+Artist:		Jim Nelson
+Rarity:		R
+Card #:		100/143
+
+Card Name:	Hell-Bent Raider
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Creature - Barbarian
+Pow/Tou:	2/2
+Card Text:	First strike, haste. Discard a card at random from your 
+		hand: Hell-Bent Raider gains protection from white until 
+		end of turn.
+Flavor Text:	He doesn't slow until his spear is weighted with corpses.
+Artist:		Mike Ploog
+Rarity:		R
+Card #:		101/143
+
+Card Name:	Kamahl's Sledge
+Card Color:	R
+Mana Cost:	5RR
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Kamahl's Sledge deals 4 damage to target creature. 
+		Threshold - Instead Kamahl's Sledge deals 4 damage to 
+		that creature and 4 damage to that creature's controller. 
+		(You have threshold if seven or more cards are in your 
+		graveyard.)
+Flavor Text:	n/a
+Artist:		Don Hazeltine
+Rarity:		C
+Card #:		102/143
+Card Name:	Longhorn Firebeast
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Beast
+Pow/Tou:	3/2
+Card Text:	When Longhorn Firebeast comes into play, any opponent 
+		may have it deal 5 damage to him or her. If a player 
+		does, sacrifice Longhorn Firebeast.
+Flavor Text:	"Its blast can fuse armor to bone, leaving skeletons 
+		that glint brightly in the sun."
+Artist:		Glen Angus
+Rarity:		C
+Card #:		103/143
+
+Card Name:	Overmaster
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	The next instant or sorcery spell you play this turn 
+		can't be countered by spells or abilities. Draw a card.
+Flavor Text:	"Trickery can't defeat raw power." -Matoc, lavamancer
+Artist:		Anthony S. Waters
+Rarity:		R
+Card #:		104/143
+
+Card Name:	Pardic Arsonist
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Barbarian
+Pow/Tou:	3/3
+Card Text:	Threshold - When Pardic Arsonist comes into play, it 
+		deals 3 damage to target creature or player. (You 
+		have threshold if seven or more cards are in your 
+		graveyard.)
+Flavor Text:	Otaria's epidemic of insanity didn't affect certain 
+		barbarians-but no one noticed.
+Artist:		rk post
+Rarity:		U
+Card #:		105/143
+
+Card Name:	Pardic Collaborator
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Barbarian
+Pow/Tou:	2/2
+Card Text:	First strike. B: Pardic Collaborator gets +1/+1 until 
+		end of turn.
+Flavor Text:	"We've been taught that strength is everything. So 
+		how can an alliance with the strongest be a betrayal?"
+Artist:		Pete Venters
+Rarity:		U
+Card #:		106/143
+
+Card Name:	Pardic Lancer
+Card Color:	R
+Mana Cost:	4R
+Type & Class:	Creature - Barbarian
+Pow/Tou:	3/2
+Card Text:	Discard a card at random from your hand: Pardic Lancer 
+		gets +1/+0 and gains first strike until end of turn.
+Flavor Text:	He gets to the point right away.
+Artist:		Justin Sweet
+Rarity:		C
+Card #:		107/143
+
+Card Name:	Petradon
+Card Color:	R
+Mana Cost:	6RR
+Type & Class:	Creature - Nightmare Beast
+Pow/Tou:	5/6
+Card Text:	When Petradon comes into play, remove two target lands 
+		from the game. When Petradon leaves play, return the 
+		removed cards to play under their owners' control. R: 
+		Petradon gets +1/+0 until end of turn.
+Flavor Text:	n/a
+Artist:		Jim Nelson
+Rarity:		R
+Card #:		108/143
+
+Card Name:	Petravark
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Nightmare Beast
+Pow/Tou:	2/2
+Card Text:	When Petravark comes into play, remove target land from 
+		the game. When Petravark leaves play, return the removed 
+		card to play under its owner's control.
+Flavor Text:	n/a
+Artist:		Wayne England
+Rarity:		C
+Card #:		109/143
+
+Card Name:	Pitchstone Wall
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Wall
+Pow/Tou:	2/5
+Card Text:	(Walls can't attack.) Whenever you discard a card from 
+		your hand, you may sacrifice Pitchstone Wall. If you do, 
+		return the discarded card from your graveyard to your 
+		hand.
+Flavor Text:	"Its material may not be precious, but the minds it 
+		protects are."
+Artist:		David Martin
+Rarity:		U
+Card #:		110/143
+
+Card Name:	Possessed Barbarian
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Barbarian Horror
+Pow/Tou:	3/3
+Card Text:	First strike. Threshold - Possessed Barbarian gets +1/+1, 
+		is black, and has "2B, TAP: Destroy target red creature."
+		(You have threshold as long as seven or more cards are in 
+		your graveyard.)
+Flavor Text:	n/a
+Artist:		Scott M. Fischer
+Rarity:		R
+Card #:		111/143
+
+Card Name:	Pyromania
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	1R, Discard a card at random from your hand: Pyromania 
+		deals 1 damage to target creature or player. 1R, 
+		Sacrifice Pyromania: Pyromania deals 1 damage to target 
+		creature or player.
+Flavor Text:	n/a
+Artist:		Christopher Moeller
+Rarity:		U
+Card #:		112/143
+
+Card Name:	Radiate
+Card Color:	R
+Mana Cost:	3RR
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Choose target instant or sorcery spell that targets 
+		only a single permanent or player. For each other 
+		permanent or player that spell could target, put a copy 
+		of the spell onto the stack. Each copy targets a 
+		different one of those permanents and players.
+Flavor Text:	n/a
+Artist:		Carl Critchlow
+Rarity:		R
+Card #:		113/143
+
+Card Name:	Skullscorch
+Card Color:	R
+Mana Cost:	RR
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Target player discards two cards at random from his 
+		or her hand unless that player has Skullscorch deal 
+		4 damage to him or her.
+Flavor Text:	"A good whack on the head usually has the same effect."
+		 -Kamahl, pit fighter
+Artist:		Bradley Williams
+Rarity:		R
+Card #:		114/143
+
+Card Name:	Sonic Seizure
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Sonic Seizure, discard 
+		a card at random from your hand. Sonic Seizure deals 
+		3 damage to target creature or player.
+Flavor Text:	n/a
+Artist:		Terese Nielsen
+Rarity:		C
+Card #:		115/143
+
+Card Name:	Temporary Insanity
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Untap target creature with power less than the number 
+		of cards in your graveyard and gain control of it 
+		until end of turn. That creature gains haste until end 
+		of turn.
+Flavor Text:	n/a
+Artist:		Mark Romanoski
+Rarity:		U
+Card #:		116/143
+
+Card Name:	Violent Eruption
+Card Color:	R
+Mana Cost:	1RRR
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Violent Eruption deals 4 damage divided as you choose 
+		among any number of target creatures and/or players. 
+		Madness 1RR (You may play this card for its madness 
+		cost at the time you discard it from your hand.)
+Flavor Text:	n/a
+Artist:		Bob Petillo
+Rarity:		U
+Card #:		117/143
+
+Card Name:	Acorn Harvest
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Put two 1/1 green Squirrel creature tokens into play. 
+		Flashback-1G, Pay 3 life. (You may play this card from 
+		your graveyard for its flashback cost. Then remove it 
+		from the game.)
+Flavor Text:	n/a
+Artist:		Edward P. Beard, Jr.
+Rarity:		C
+Card #:		118/143
+
+Card Name:	Anurid Scavenger
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Beast
+Pow/Tou:	3/3
+Card Text:	Protection from black. At the beginning of your upkeep, 
+		sacrifice Anurid Scavenger unless you put a card from 
+		your graveyard on the bottom of your library.
+Flavor Text:	Krosa's topmost bottom feeder.
+Artist:		Bob Petillo
+Rarity:		U
+Card #:		119/143
+
+Card Name:	Arrogant Wurm
+Card Color:	G
+Mana Cost:	3GG
+Type & Class:	Creature - Wurm
+Pow/Tou:	4/4
+Card Text:	Trample. Madness 2G (You may play this card for its 
+		madness cost at the time you discard it from your hand.)
+Flavor Text:	It's hard to be humble when the whole world is bite size.
+Artist:		John Avon
+Rarity:		U
+Card #:		120/143
+
+Card Name:	Basking Rootwalla
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Creature - Lizard
+Pow/Tou:	1/1
+Card Text:	1G: Basking Rootwalla gets +2/+2 until end of turn. 
+		Play this ability only once each turn. Madness 0 (You 
+		may play this card for its madness cost at the time 
+		you discard it from your hand.)
+Flavor Text:	n/a
+Artist:		Heather Hudson
+Rarity:		C
+Card #:		121/143
+
+Card Name:	Centaur Chieftain
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Centaur
+Pow/Tou:	3/3
+Card Text:	Haste. Threshold - When Centaur Chieftain comes into 
+		play, creatures you control get +1/+1 and gain trample 
+		until end of turn. (You have threshold if seven or more 
+		cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Justin Sweet
+Rarity:		U
+Card #:		122/143
+
+Card Name:	Centaur Veteran
+Card Color:	G
+Mana Cost:	5G
+Type & Class:	Creature - Centaur
+Pow/Tou:	3/3
+Card Text:	Trample. G, Discard a card from your hand: Regenerate 
+		Centaur Veteran.
+Flavor Text:	"He wears his scars like badges of honor, warning 
+		his foes that he's not easily defeated.
+Artist:		Mark Zug
+Rarity:		C
+Card #:		123/143
+
+Card Name:	Dwell on the Past
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Target player shuffles up to four target cards from 
+		his or her graveyard into his or her library.
+Flavor Text:	None can find what hasn't been lost. -Nantuko teaching
+Artist:		Rebecca Guay
+Rarity:		U
+Card #:		124/143
+
+Card Name:	Far Wanderings
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	Search your library for a basic land card and put 
+		that card into play tapped. Then shuffle your library. 
+		Threshold - Instead search your library for three basic 
+		land cards and put them into play tapped. Then shuffle 
+		your library. (You have threshold if seven or more 
+		cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Darrell Riche
+Rarity:		C
+Card #:		125/143
+
+Card Name:	Gurzigost
+Card Color:	G
+Mana Cost:	3GG
+Type & Class:	Creature - Beast
+Pow/Tou:	6/8
+Card Text:	At the beginning of your upkeep, sacrifice Gurzigost 
+		unless you put two cards from your graveyard on the 
+		bottom of your library. GG, Discard a card from your 
+		hand: You may have Gurzigost deal its combat damage 
+		to defending player this turn as though it weren't 
+		blocked.
+Flavor Text:	n/a
+Artist:		Scott M. Fischer
+Rarity:		R
+Card #:		126/143
+
+Card Name:	Insist
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	The next creature spell you play this turn can't be 
+		countered by spells or abilities. Draw a card.
+Flavor Text:	"Finesse is no match for brute force." -Seton, 
+		centaur druid
+Artist:		Franz Vohwinkel
+Rarity:		R
+Card #:		127/143
+
+Card Name:	Invigorating Falls
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	You gain life equal to the number of creature cards 
+		in all graveyards.
+Flavor Text:	"Krosan druids do not fear death, for they know that 
+		nature will only prosper from their passing."
+Artist:		Rebecca Guay
+Rarity:		C
+Card #:		128/143
+
+Card Name:	Krosan Constrictor
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Snake
+Pow/Tou:	2/2
+Card Text:	Swampwalk. TAP: Target black creature gets -2/-0 
+		until end of turn.
+Flavor Text:	"It's a slithering, coldblooded menace. I've gotta 
+		respect that." -Braids, dementia summoner
+Artist:		Jim Nelson
+Rarity:		C
+Card #:		129/143
+
+Card Name:	Krosan Restorer
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Druid
+Pow/Tou:	1/2
+Card Text:	TAP: Untap target land. Threshold - TAP: Untap up to 
+		three target lands. (Play this ability only if seven 
+		or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Clyde Caldwell
+Rarity:		C
+Card #:		130/143
+
+Card Name:	Nantuko Blightcutter
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Insect Druid
+Pow/Tou:	2/2
+Card Text:	Protection from black. Threshold - Nantuko 
+		Blightcutter gets +1/+1 for each black permanent your 
+		opponents control. (You have threshold as long as 
+		seven or more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Matt Cavotta
+Rarity:		R
+Card #:		131/143
+
+Card Name:	Nantuko Calmer
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Creature - Insect Druid
+Pow/Tou:	2/3
+Card Text:	G, TAP, Sacrifice Nantuko Calmer: Destroy target 
+		enchantment. Threshold - Nantuko Calmer gets +1/+1. 
+		(You have threshold as long as seven or more cards 
+		are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Mark Romanoski
+Rarity:		C
+Card #:		132/143
+
+Card Name:	Nantuko Cultivator
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Insect Druid
+Pow/Tou:	2/2
+Card Text:	When Nantuko Cultivator comes into play, you may 
+		discard any number of land cards from your hand. 
+		Put that many +1/+1 counters on Nantuko Cultivator 
+		and draw that many cards."
+Flavor Text:	n/a
+Artist:		Darrell Riche
+Rarity:		R
+Card #:		133/143
+
+Card Name:	Narcissism
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	G, Discard a card from your hand: Target creature 
+		gets +2/+2 until end of turn. G, Sacrifice 
+		Narcissism: Target creature gets +2/+2 until end 
+		of turn.
+Flavor Text:	n/a
+Artist:		Christopher Moeller
+Rarity:		U
+Card #:		134/143
+
+Card Name:	Nostalgic Dreams
+Card Color:	G
+Mana Cost:	GG
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	As an additional cost to play Nostalgic Dreams, 
+		discard X cards from your hand. Return X target 
+		cards from your graveyard to your hand. Remove 
+		Nostalgic Dreams from the game.
+Flavor Text:	Seton dreams of life renewed.
+Artist:		Darrell Riche
+Rarity:		R
+Card #:		135/143
+
+Card Name:	Parallel Evolution
+Card Color:	G
+Mana Cost:	3GG
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:	For each creature token in play, its controller 
+		puts a creature token into play that's a copy of 
+		that creature. Flashback 4GGG (You may play this 
+		card from your graveyard for its flashback cost. 
+		Then remove it from the game.)
+Flavor Text:	n/a
+Artist:		Matt Cavotta
+Rarity:		R
+Card #:		136/143
+
+Card Name:	Possessed Centaur
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Creature - Centaur Horror
+Pow/Tou:	3/3
+Card Text:	Trample. Threshold - Possessed Centaur gets +1/+1, 
+		is black, and has ""2B, TAP: Destroy target green 
+		creature." (You have threshold as long as seven or 
+		more cards are in your graveyard.)
+Flavor Text:	n/a
+Artist:		Alex Horley
+Rarity:		R
+Card #:		137/143
+
+Card Name:	Seton's Scout
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Centaur Druid
+Pow/Tou:	2/1
+Card Text:	Seton's Scout may block as though it had flying. 
+		Threshold - Seton's Scout gets +2/+2. (You have 
+		threshold as long as seven or more cards are in 
+		your graveyard.)
+Flavor Text:	n/a
+Artist:		Mark Romanoski
+Rarity:		U
+Card #:		138/143
+
+Card Name:	Cabal Coffers
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Land
+Pow/Tou:	n/a
+Card Text:	2, TAP: Add B to your mana pool for each swamp 
+		you control.
+Flavor Text:	"Deep within the Cabal's vault, the Mirari 
+		pulsed like a dead sun-and its darkness radiated 
+		across Otaria."
+Artist:		Don Hazeltine
+Rarity:		U
+Card #:		139/143
+
+Card Name:	Tainted Field
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Land
+Pow/Tou:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool. 
+		TAP: Add W or B to your mana pool. Play this 
+		ability only if you control a swamp.
+Flavor Text:	n/a
+Artist:		Don Hazeltine
+Rarity:		U
+Card #:		140/143
+
+Card Name:	Tainted Isle
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Land
+Pow/Tou:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool. 
+		TAP: Add U or B to your mana pool. Play this 
+		ability only if you control a swamp.
+Flavor Text:	n/a
+Artist:		Alan Pollack
+Rarity:		U
+Card #:		141/143
+
+Card Name:	Tainted Peak
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Land
+Pow/Tou:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool. 
+		TAP: Add B or R to your mana pool. Play this 
+		ability only if you control a swamp.
+Flavor Text:	n/a
+Artist:		Tony Szczudlo
+Rarity:		U
+Card #:		142/143
+
+Card Name:	Tainted Wood
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Land
+Pow/Tou:	n/a
+Card Text:	TAP: Add one colorless mana to your mana pool. 
+		TAP: Add B or G to your mana pool. Play this 
+		ability only if you control a swamp.
+Flavor Text:	n/a
+Artist:		Rob Alexander
+Rarity:		U
+Card #:		143/143
+
+Copyright 2002 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: The Gathering,
+and Torment are trademarks of Wizards of the Coast, Inc.
+

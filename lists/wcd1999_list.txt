@@ -1,0 +1,125 @@
+1999 World Championship Decks Decklist
+Wizards of the Coast, Inc.
+(Released September 27, 1999)
+
+4 Decks - 90 cards each.
+
+Kai Budde
+           # Card                   Expansion
+Creatures  4 Covetous Dragons       Urza's Destiny
+           1 Karn, Silver Golem     Urza's Saga
+           3 Masticore              Urza's Destiny
+
+Other      4 Cursed Scroll          Tempest
+           4 Fire Diamond           Classic
+           4 Grim Monolith          Urza's Legacy
+           2 Mishra's Helix         Urza's Saga
+           4 Temporal Aperature     Urza's Saga
+           4 Thran Dynamo           Urza's Destiny
+           4 Voltaic Key            Urza's Saga
+           4 Wildfire               Urza's Saga
+           2 Worn Powerstone        Urza's Saga
+
+Lands      3 Ancient Tomb           Tempest
+           4 City of Traitors       Exodus
+          13 Mountains              Classic, Tempest, Urza's Saga
+
+Sideboard  2 Boil                   Tempest
+           3 Earthquake             Classic
+           1 Mishra's Helix         Urza's Saga
+           1 Phyrexian Processor    Urza's Saga
+           2 Rack and Ruin          Urza's Legacy
+           2 Shattering Pulse       Exodus
+           4 Spellshock             Exodus
+
+Mark Le Pine
+           # Card                   Expansion
+Creatures  4 Avalanche Riders       Urza's Legacy
+           3 Fireslinger            Tempest
+           4 Jackal Pup             Tempest
+           4 Mogg Fanatic           Tempest
+
+Other      2 Arc Lightning          Urza's Saga
+           4 Cursed Scroll          Tempest
+           3 Hammer of Bogardan     Classic
+           4 Pillage                Classic
+           4 Shock                  Stronghold
+           4 Stone Rain             Classic
+
+Lands      2 Ancient Tomb           Tempest
+           2 Ghitu Encampment       Urza's Legacy
+          16 Mountain               Classic, Tempest, Urza's Saga
+           4 Wasteland              Tempest
+
+Sideboard  1 Arc Lightning          Urza's Saga
+           1 Fireslinger            Tempest
+           1 Flowstone Flood        Exodus
+           2 Masticore              Urza's Destiny
+           4 Scald                  Urza's Saga
+           2 Shattering Pulse       Exodus
+           4 Thran Foundry          Urza's Destiny
+
+Matt Linde
+           # Card                   Expansion
+Creatures  4 Albino Troll           Urza's Saga
+           4 Elvish Lyrist          Urza's Saga
+           4 Llanowar Elves         Classic
+           4 Pouncing Jaguar        Urza's Saga
+           4 River Boa              Classic
+           2 Uktabi Orangutan       Classic
+           4 Wild Dogs              Urza's Saga
+
+Other      4 Cursed Scroll          Tempest
+           4 Giant Growth           Classic
+           4 Rancor                 Urza's Legacy
+
+Lands     14 Forest                 Classic, Tempest
+           4 Gaea's Cradle          Urza's Saga
+           4 Treetop Village        Urza's Legacy
+
+Sideboard  3 Choke                  Tempest
+           2 Constant Mists         Stronghold
+           1 Hurricane              Classic
+           2 Overrun                Tempest
+           3 Thran Foundry          Urza's Destiny
+           2 Uktabi Orangutan       Classic
+           2 Weatherseed Treefolk   Urza's Legacy
+
+Jakub Slemr
+           # Card                   Expansion
+Creatures  1 Bottle Gnomes          Tempest
+           1 Phyrexian Negator      Urza's Destiny
+           3 Phyrexian Plaguelord   Urza's Legacy
+           3 Ravenous Rats          Urza's Destiny
+           2 Ticking Gnomes         Urza's Legacy
+
+Other      2 Corpse Dance           Tempest
+           3 Cursed Scroll          Tempest
+           4 Dark Ritual            Urza's Saga
+           4 Diabolic Edict         Tempest
+           4 Duress                 Urza's Saga
+           4 Powder Keg             Urza's Destiny
+           1 Rapid Decay            Urza's Destiny
+           2 Stupor                 Classic
+           1 Vampiric Tutor         Classic
+           3 Yawgmoth's Will        Urza's Saga
+
+Lands      2 Spawning Pool          Urza's Legacy
+          15 Swamp                  Classic, Tempest, Urza's Saga
+           1 Volrath's Stronghold   Stronghold
+           4 Wasteland              Tempest
+
+Sideboard  1 Bottle Gnomes          Tempest
+           2 Carrion Beetles        Urza's Saga
+           1 Evincar's Justice      Tempest
+           1 Hatred                 Exodus
+           2 Perish                 Tempest
+           1 Persecute              Urza's Saga
+           2 Phyrexian Negator      Urza's Destiny
+           3 Rapid Decay            Urza's Destiny
+           1 Sphere of Resistance   Exodus
+           1 Stromgald Cabal        Classic
+
+Copyright 1999 Wizards of the Coast, Inc.
+Wizards of the Coast, Magic, Magic: the Gathering,
+are trademarks of Wizards of the Coast, Inc.
